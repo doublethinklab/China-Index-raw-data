@@ -1,0 +1,1048 @@
+{
+    "name": "Turkey",
+    "partner": "BIRN Ltd",
+    "year": "2021",
+    "GDP": "$9,539.0",
+    "population": "84.4M",
+    "original": "135/372",
+    "ranking": "25",
+    "overall": "36%",
+    "effect": "30%",
+    "exposure": "42%",
+    "pressure": "25%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.sabah.com.tr/dunya/turk-gazeteci-heyeti-cine-ziyaret-gerceklestirdi-4699610",
+                    "https://www.habererk.com/gundem/cin-gazetecileri-dogu-turkistana-goturdu-atv-muhabirinden-skandal-ifadeler-ne-kadar-hata-yaptigimizi-gorduk-h85830.html",
+                    "https://www.fmprc.gov.cn/ce/cetur/tur/xwdt/t214580.htm",
+                    "https://www.ytb.gov.tr/haberler/cin-halk-cumhuriyeti-gazeteciler-heyetinden-ytbye-ziyaret"
+                ],
+                "note": "China organised a few trips for Turkish journalists, especially related to its policies towards its Uyghur minority, but also regarding China\u2019s economy and development model. Journalists are mainly from Turkish pro-government media and based on their visits the journalists published reports on how well China treats its Uyghur minority. In addition to this, Chinese media representatives often visit Turkish authorities and Turkish media houses. ",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.criturk.com/radyo-canli-yayin/",
+                    "https://ajanslotus.com/",
+                    "https://newsaf.cgtn.com/news/2021-10-12/Turkish-lira-touches-record-low-level-against-dollar-14hFFQWRu7u/index.html",
+                    "https://dergipark.org.tr/tr/download/article-file/458306"
+                ],
+                "note": "Xinhua News Agency publishes news and reports in the Turkish language as a website branded as Lotus News. In addition to this, CRJ Turkish radio station broadcasts in every Turkish city in the Turkish language. Finally, CGTN, international English language Chinese state-run TV channel, covers Turkey with a bureau in the country. ",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Despite earlier Chinese interest in buying or partnering with Turkish media outlets (see for example: https://www.aa.com.tr/en/asia-pacific/chinese-media-giant-eyes-investment-in-turkey/830128), there are no media owned by PRC citizens or corporations.",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aydinlik.com.tr/haber/turk-cin-medyasi-arasinda-stratejik-ortaklik-anlasmasi-198656",
+                    "http://www.gercekhayat.com.tr/medya/turk-medyasinda-cin-orgutlenmesi/",
+                    "https://odatv4.com/kultur-sanat/kirmizi-kediden-cin-atilimi--20081940-167104"
+                ],
+                "note": "In 2019, Aydinlik media house which is knows for its pro-Chinese coverage signed a protocol with the Beijing Media Network for creating joint reports on Turkey and China. In addition to this, Kirmizi Kedi Publishing House publishes a quarterly magazine called Modern Silk Road which is funded by Chinese state funds.",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://farukbildirici.com/hurriyet-parayla-cin-in-propagandasini-yapti/",
+                    "https://www.tamgaturk.com/cin-buyukelciligi-havuz-medyasini-fonlamaya-devam-ediyor/35589/",
+                    "https://www.trhaber.com/gundem/cin-dogu-turkistan-daki-iskenceleri-reklamla-ortme-cabasinda-h12124.html"
+                ],
+                "note": "The Chinese Government has often paid for advertisements at Turkish media which are affiliated with the Turkish government. The advertisements usually focus on Chinese economic successes and how PRC treats its Uyghur community. Those advertisements were criticized by the public as well as media experts.",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-china-turkey-idUSKBN1AJ1BV",
+                    "https://news.cgtn.com/news/2022-01-14/Turkey-promises-not-to-allow-anti-China-activities-in-Turkey-MOFA-16OukcP0AIo/index.html"
+                ],
+                "note": "Even though there are no public incidents regarding censorship of media reports on China, Chinese authorities complained about anti-China media activities in Turkey to Turkish officials. The Turkish Foreign Minister promised his Chinese counterpart to eliminate anti-China media reports. Therefore, the censorship usually happens in the auto-censorship model especially at state media and pro-government media.",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cumhuriyet.com.tr/video/dogu-perinceki-kizdiran-ajanlik-sorusu-bunlari-yayinlamazsaniz-siz-namuslu-degilsiniz-1766831",
+                    "https://qha.com.tr/haberler/uygur-akademisyenden-cin-sozculugu-tgb-ve-aydinlik-a-tokat-gibi-yanit-videosu/245289/",
+                    "https://t24.com.tr/haber/aydinlik-gazetesinin-sincan-eki-uygurlar-ramazan-i-tum-guzellikleriyle-yasiyorlar,950565",
+                    "https://www.aydinlik.com.tr/koseyazisi/emperyalist-10-yalan-ve-uygur-gercegi-232705"
+                ],
+                "note": "Dogu Perincek, the leader of the Homeland Party and a journalist and TV commentator often denies the existence of human rights abuses in the PRC, especially regarding the Uyghurs in Xinjiang. Several reports and columns at Aydinlik media also denied human rights abuses in China\u2019s Uyghur region.  These reports suggest that Uyghurs live a prosperous and happy life in China and define human rights abuses and genocide claims as Western propaganda.",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.tbmm.gov.tr/DostlukGruplari/GenelBilgi?ulkeId=185",
+                    "https://www.aa.com.tr/tr/dunya/tbmm-baskani-yildirim-turkiye-cin-iliskileri-yildan-yila-gelisiyor/1330523"
+                ],
+                "note": "Supporting Evidence: Turkey and China have had parliamentary friendship groups for some time. The last parliamentary friendship group was established following the general elections in 2018. The group is chaired by Ahmet Arslan, a lawmaker from the ruling Justice and Development Party and consists of MPs from other political parties. The Speaker of the Turkish Parliament also received the parliamentary group several times and commented positively on Turkey-China relations.",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.sozcu.com.tr/2021/gundem/daire-baskani-rapor-alip-akpli-vekille-cini-gezmis-6497330/",
+                    "http://www.sanliurfa.gov.tr/sanliurfa-cinde-tanitildi",
+                    "https://vatanpartisi.org.tr/genel-merkez/yerel-orgutler/vatan-partisi-yurtdisi-temsilcilikleri-19687",
+                    "https://vatanpartisi.org.tr/genel-merkez/haberler/cin-komunist-partisi-nden-vatan-partisi-ne-ziyaret-25719",
+                    "http://oncugenclik.org.tr/vatan-partisi-cin-ziyaretini-tamamladi/",
+                    "https://www.mfa.gov.tr/ocak2022.tr.mfa",
+                    "https://twitter.com/avhamzadag/status/1198524418512838656?s=20&t=he6Z5h7gKCVFJVgnVG1zkg",
+                    "https://www.mfa.gov.cn/ce/cetur//tur/xwdt/t985298.htm"
+                ],
+                "note": "Meetings with the representatives of the PRC are being held very often both in Turkey and China and bureaucrats and civil society representatives often attend these meetings. In addition to these, one far-right political party entitled Homeland Party has its office in China for improving their relations with the PRC. China\u2019s Embassy in Ankara also said in a statement that the cooperation between Turkish political parties and Chinese Communist Party were improved significantly.",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://diab.mfa.gov.tr/akademimizin-cin-halk-cumhuriyeti-ziyareti.tr.mfa",
+                    "https://www.aa.com.tr/tr/turkiye/hakim-ve-savcilara-cin-ve-rusyada-dil-egitimi/1227246",
+                    "https://www.pa.edu.tr/turkiye-polis-akademisi-ve-cin-ulusal-polis-universitesi-arasinda-isbirligi-anlasmasi-imza-toreni-haberler.html"
+                ],
+                "note": "A few trainings on Chinese governance and language were organised for judges, prosecutors, academics, students and administrators at Turkish police academy and for Turkish diplomats in China. These trainings were organised under the cooperation agreements signed by Turkish and Chinese governments.",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bbc.com/turkce/haberler-turkiye-56422635",
+                    "https://www.amerikaninsesi.com/a/yetmisiki-milyon-doz-cin-asisi-aksener-nedeniyle-mi-gelmedi/5880317.html",
+                    "https://jamestown.org/program/the-22-vs-50-diplomatic-split-between-the-west-and-china-over-xinjiang-and-human-rights/",
+                    "https://tr.euronews.com/2019/03/01/cin-den-turkiye-ye-uygur-turkleri-tehdidi-ekonomik-iliskileri-tehlikeye-atarsiniz"
+                ],
+                "note": "Turkey did not sign the letter to UNHCR regarding Uyghurs and human rights violations until 2021 but instead it issued its own letter. China uses growing economic relations as a pressure tool stating that Turkey\u2019s possible Uyghur decision may jeopardise economic relations. During the pandemic, China was also accused of using its vaccine strategy for pressuring Turkey regarding its policies towards Uyghurs who have close cultural and linguistic ties with Anatolian Turks. China also hosted several Turkish official delegations for visiting Uyghur regions for changing their stances.",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://serbestiyet.com/haberler/ozel-haber-12-turkiye-cumhuriyeti-vatandasi-cinde-tutsak-70747/",
+                    "https://balkaninsight.com/2021/01/27/chinas-uyghur-crimes-a-test-of-turkish-leaders-foreign-policy-claims/",
+                    "https://tr.euronews.com/2021/03/02/istanbul-da-eylem-yapan-uygurlar-k-z-kardesim-turkiye-de-egitim-ald-g-icin-boluculukle-suc",
+                    "https://www.amnesty.org.tr/icerik/birbirlerinden-koparilan-uygur-ailelerinin-kabusu"
+                ],
+                "note": "Turkey has one of the largest Uyghur diaspora groups in the world and many of them obtained Turkish citizenship during their stay in Turkey. According to media reports, dozens of Turkish nationals of Uyghur ethnicity have been arrested, tortured and transferred to concentration camps. In addition to that, the Chinese government also uses relatives of Turkish nationals as hostages to stop Turkish Uyghur citizens and activists from campaigning in Turkey and abroad.",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.roc-taiwan.org/tr_tr/post/3085.html"
+                ],
+                "note": "Turkey did not have any negative stance against Taiwan\u2019s membership of the WHO. Representative of the Taiwan mission to Turkey, asked for Turkey\u2019s help regarding the issue and published several opinion pieces in Turkish media.",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/ce/cetur/tur/xwdt/t1375123.htm"
+                ],
+                "note": "Turkey has been silent regarding China\u2019s territorial claims such as on the South China Sea. However, China uses Turkey\u2019s own stance on international maritime law due to long lasting issues with Greece. Chinese Ambassador several times stated that China like Turkey does not recognise the authority of the UNCLOS Arbitral Tribunal.",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.gov.uk/government/speeches/joint-statement-on-the-human-rights-situation-in-the-xinjiang",
+                    "https://www.globsec.org/wp-content/uploads/2021/03/China-in-the-Broader-black-sea-region-ver7-nonprint.pdf",
+                    "https://tr.euronews.com/2020/07/27/turkiye-deki-baz-uygur-turklerinin-ucuncu-ulkelere-oradan-da-cin-e-gonderildigi-iddias",
+                    "https://tr.euronews.com/2019/08/13/turkiye-deki-uygurlarda-cin-e-sinir-disi-edilme-korkusu-artiyor",
+                    "https://www.bbc.com/turkce/haberler-turkiye-55474893",
+                    "https://www.dw.com/tr/t%C3%BCrkiye-%C3%A7inin-uygurlara-bask%C4%B1s%C4%B1na-neden-sessiz-kal%C4%B1yor/a-51549785",
+                    "https://jamestown.org/program/the-22-vs-50-diplomatic-split-between-the-west-and-china-over-xinjiang-and-human-rights/",
+                    "https://thediplomat.com/2020/08/china-buys-turkeys-silence-on-uyghur-oppression/",
+                    "https://www.voanews.com/a/europe_turkish-opposition-challenge-erdogan-over-uighur-silence/6201354.html",
+                    "https://dogruhaber.com.tr/haber/718388-dunya-uygur-kongresinden-turkiyeye-cagri/",
+                    "https://www.karar.com/dunya-haberleri/uygur-turklerinden-turkiyeye-cagri-2022-cin-olimpiyatlarini-boykot-edin-1622093"
+                ],
+                "note": "Turkey\u2019s stance on China\u2019s treatment of its Uyghur population is actually a very mixed one. Turkey has joined the recent joint statement of 43 countries at the UN which condemns human rights violations in the Uyghur region. Turkey had earlier remained silent and tried to maintain a separate stance in order to not anger its public opinion, its own Uyghur diaspora and Chinese government. Turkey also signed an agreement with China for extradition of Chinese nationals which targets Uyghur community members. Even though Turkish government denies any extradition of Uyghurs, media and civil society reports show that Turkey extradites Uyghurs to China via third countries. Turkey also remains not very vocal about Uyghur issue despite demands from its own public, opposition groups, international organisations and Turkey\u2019s Uyghur diaspora.",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.uludag.edu.tr/haber/view/10871/bursa-uludag-universitesi-dunya-devi-ile-akademik-ortaklik-yapacak",
+                    "http://www.karsmanset.com/haber/ataturk-universitesi-ve-huawei-arasinda-ict-akademik-ortaklik-anlasmasi-yapildi-503868.htm",
+                    "https://www.yalova.edu.tr/tr/Page/Icerik/yalova-universitesi-ile-huawei-ucretsiz-egitim-ve-sertifika-icin-anlasti",
+                    "https://www.cnnturk.com/kesfet/clabs/dijital-donusumde-ilham-veren-ornek-biruni-universitesinin-basari-hikayesi",
+                    "https://www.timeturk.com/ekonomi/cinli-sirketlerden-turkiye-ye-yogun-ilgi/haber-1701243",
+                    "https://tto.ozyegin.edu.tr/tr/blog/tubitak-cin-bilimler-akademisi-cas-ikili-isbirligi-programi",
+                    "https://www.igdir.edu.tr/duyuru/2566-cin-ulusal-dogal-bilimler-vakfi-nsfc-ile-ikili-isbirligi-programi"
+                ],
+                "note": "Chinese companies, Huawei in particular and state owned scientific institutes, signed several agreements with Turkish universities as well as the Turkish higher educational council for research partnerships, trainings and academic exchange schemes.",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.facebook.com/metuconfucius/posts/459806724188911/",
+                    "http://www.confucius.boun.edu.tr/",
+                    "https://www.okan.edu.tr/ci/",
+                    "https://yeditepe.edu.tr/tr/yeditepe-universitesi-konfucyus-enstitusu-acildi",
+                    "https://ci.metu.edu.tr/",
+                    "https://m.facebook.com/okankoleji/photos/a.391404237553451.115082.354610647899477/2007522102608315/?type=3"
+                ],
+                "note": "There are four Confucius Institutes and two Confucius Classrooms in Turkey\u2019s most prestigious universities and schools. Middle East Technical University, Bosporus University, Yeditepe University and Okan University have institutes while Okan College and Jale Tezer College have classrooms.",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://turkish.cri.cn/882/2009/06/24/1s116243.htm",
+                    "https://www.trthaber.com/haber/turkiye/lisede-cince-dersi-basliyor-86382.html",
+                    "https://www.egitimhane.com/ilk-defa-bir-okulda-cince-dersi-k1023-0.html"
+                ],
+                "note": "There are a few examples of cooperation with Chinese authorities i.e. China\u2019s Embassy to introduce Chinese classes in primary and high school education. However, this did not translate into a mass project since the Turkish educational ministry offers its own programme for foreign languages including the Chinese language.",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "While we have not been able to find any evidence for this, we believe that such financial support probably does exist, hence we have decided to skip this question. ",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "While we have not been able to find any evidence for this, we are fairly certain that such financial support does exist, hence we have decided to skip this question. ",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iha.com.tr/haber-turk-akademisyenler-cinden-sinir-disi-edildi-561036/"
+                ],
+                "note": "There are a few instances of Turkish academics who were denied entry to the PRC due to their opinions. In 2016, an academic group affiliated with a Turkish nationalist association was denied entry to China while they were planning to visit China\u2019s Uyghur region.",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.globsec.org/wp-content/uploads/2021/03/China-in-the-Broader-black-sea-region-ver7-nonprint.pdf",
+                    "http://www.kayseri.gov.tr/cin-ile-turkiye-arasinda-e-ticaret-anlasmasi-kayseride-imzalandi",
+                    "https://ticaret.gov.tr/haberler/bakan-pekcandan-cinli-firmalara-turkiyede-yatirim-cagrisi",
+                    "https://www.mfa.gov.cn/ce/cgtur/tur/xwdt/t1652364.htm",
+                    "https://www.emlakhaberi.com/emlak-ekonomi/6-cinli-sirket-kopru-ve-otoyolun-yuzde-51ini-satin-aliyor-h55346.html",
+                    "https://www.izmir.bel.tr/tr/Haberler/turkiye-cin-iliskilerinde-izmir-donemi/40850/156",
+                    "https://www.aa.com.tr/tr/ekonomi/ziraat-bankasi-cin-exim-banktan-400-milyon-dolarlik-kredi-temin-etti/2193820",
+                    "https://diabgm.adalet.gov.tr/Home/SayfaDetay/bakanligimiz-ile-cin-halk-cumhuriyeti-adalet-bakanligi-arasinda-isbirligine-dair-mutabakat-zapti-imzalandi"
+                ],
+                "note": "Many Chinese and Turkish delegations often visit each other. These include governor offices, municipalities, chambers, ministerial departments, public banks and other similar state and government institutions for signing cooperation agreements. Turkish top states people also called on PRC government and state-owned enterprises to  invest in Turkey.",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_%C5%9Fehirlerin_karde%C5%9F_%C5%9Fehirleri_listesi",
+                    "https://www.ibb.istanbul/icerik/kardes-sehirler",
+                    "https://marmara.gov.tr/kardes-sehirler-cinde-bulustu/"
+                ],
+                "note": "Turkish cities and towns have many sister cities in China - Ankara and Beijing; Istanbul and Shanghai. Furthermore, Turkish cities and unions of municipalities visited China in state sponsored events. However, having sister cities did not produce a significant deeper cooperation between Turkish and Chinese cities.",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "While no evidence could be found to confirm that such trips have taken place, it seems likely that they have, but that the information regarding who financed them has not been made public. ",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iletisim.gov.tr/turkce/stratejik_iletisim_calismalari/detaylar/cumhurbaskanligi-iletisim-baskanligi-cinde-turkiye-paneli-duzenledi",
+                    "https://www.mfa.gov.tr/no_-12_-sayin-bakanimizin-cin-halk-cumhuriyeti-ni-ziyareti-hk.tr.mfa",
+                    "https://twitter.com/adalet_bakanlik/status/1062628642923130880",
+                    "https://www.hsk.gov.tr/cin-halk-cumhuriyeti-2018-yili-turk-h-kimler-semineri"
+                ],
+                "note": "Many Turkish state and government officials visited the PRC for meetings with PRC officials and institutes. Several joint panels, trainings and conferences were also organised. ",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.hsk.gov.tr/cin-halk-cumhuriyeti-2018-yili-turk-h-kimler-semineri",
+                    "https://diabgm.adalet.gov.tr/Home/SayfaDetay/bakanligimiz-ile-cin-halk-cumhuriyeti-adalet-bakanligi-arasinda-isbirligine-dair-mutabakat-zapti-imzalandi",
+                    "https://www.gazeteduvar.com.tr/gundem/2018/09/21/hakimler-ve-savcilar-cine-gidip-cince-ogrenecek",
+                    "https://www.pa.edu.tr/turkiye-polis-akademisi-ve-cin-ulusal-polis-universitesi-arasinda-isbirligi-anlasmasi-imza-toreni-haberler.html"
+                ],
+                "note": "In recent years, China offered several trainings and language courses for Turkish judiciary and law enforcement officials. During the trainings, police cadets, academics and administrators from police academy and police departments as well as Turkish judges and prosecutors received trainings on Chinese judicial and governance systems as well as Chinese language and culture.",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "In Turkey, campaign donations and donations to political parties are regulated by strict laws and there are no reports of PRC-origin donations that go to politicians or political parties.",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tccb.gov.tr/haberler/410/34000/cumhurbaskani-erdogan-turkiye-cin-is-forumuna-katildi.html",
+                    "https://www.cumhuriyet.com.tr/dunya/disisleri-bakani-mevlut-cavusoglu-cine-gidiyor-1899350",
+                    "https://www.aa.com.tr/tr/dunya/cavusoglu-nun-ziyareti-cin-basininda/1178631",
+                    "https://www.hurriyet.com.tr/gundem/erdogan-ekonomide-yol-haritasini-anlatti-cin-de-boyle-buyudu-41952854"
+                ],
+                "note": "Turkish politicians and government employees have publicly expressed their positive views about China on many occasions. These include Turkish President Recep Tayyip Erdogan and his ministers. Positive statements from Turkish leaders made headlines in Turkish and Chinese media. Most recently, Turkish President Erdogan and his government stressed that Turkey will use the Chinese economic model for its own development and ending the economic crisis.",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/CountrySnapshot/en/TUR",
+                    "https://www.worldstopexports.com/turkeys-top-import-partners/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/istatistikler/odemeler+dengesi+ve+ilgili+istatistikler/kisa+vadeli+dis+borc+istatistiklerii/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.imib.org.tr/tr/raporlar/ihracat-istatistikleri",
+                    "https://www.aa.com.tr/tr/ekonomi/maden-ihracatinda-5-9-milyar-dolarla-cumhuriyet-tarihinin-rekoru-kirildi/2464761"
+                ],
+                "note": "China is the number one customer of Turkey\u2019s extractive industries including natural stones and minerals. Turkey exports 5.9 billion US dollars extractive materials and China alone buys 28 per cent of it.",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bloomberght.com/haberler/haber/1825679-cinden-turkiyeye-dev-yatirim",
+                    "https://www.sozcu.com.tr/2021/ekonomi/ucuncu-koprude-satis-bilmecesi-suruyor-cinli-grup-cekildi-6607486/",
+                    "https://www.aa.com.tr/tr/dunya/dunyadaki-komur-projelerinin-tek-alicisi-cin/2199351",
+                    "https://www.iklimhaber.org/yeni-calisma-tum-dunyada-yeni-komur-projelerinin-tek-alicisi-cin/",
+                    "https://www.hurriyet.com.tr/ekonomi/cinliler-1-2-milyar-dolarlik-termik-santral-ihalesi-aldi-20679533"
+                ],
+                "note": "PRC-related entities own several ports including a 1 billion US dollar investment in the Kumport project, coal mines and coal-fired power plants in Turkey including a 1.2 billion US dollar investment in Adana Turfanbeyli Coal Plant. China Merchants Group also got the tender for the management of Istanbul\u2019s third bridge and northern motorway project for nearly 700 million US dollars but later in 2021 the company declared its plans to leave the project.",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tr.euronews.com/2016/01/17/turkiye-nin-ortagi-oldugu-asya-altyapi-yatirim-bankasi-resmen-faaliyete-basladi",
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "Turkey is one of the members of the Asian Infrastructure Investment Bank. Turkey invested 2,6 billion US dollars and it is the 11th biggest stakeholder of the bank.",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bricaistanbul.com/overview/brica-members/",
+                    "http://www.tobb.org.tr/Sayfalar/Detay.php?rid=25240&lst=MansetListesi"
+                ],
+                "note": "Turkey\u2019s largest business association, the Turkish Industry and Business Association (T\u00dcS\u0130AD) is a member of the Belt and Road Industrial and Commercial Alliance (BRICA). The Union of Chambers and Commodity Exchanges of Turkey is a member of the Silk Road Chamber of International Commerce and its president Rifar Hisarciklioglu is the honorary president of the Silk Road Chamber of International Commerce.",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ticaret.gov.tr/dis-iliskiler/serbest-ticaret-anlasmalari/genel"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://beyazgazete.com/haber/2020/12/2/cin-den-turkiye-hamlesi-dev-yatirimla-geliyorlar-5862494.html",
+                    "https://www.sabah.com.tr/ekonomi/2020/12/02/cinliler-160-fabrikalik-arsa-istiyor",
+                    "http://yenierdekgazetesi.com/haber/balikesire_cinden_dev_yat-6540.html",
+                    "https://www.webtekno.com/vivo-turkiye-uretimlerine-basliyor-h109311.html"
+                ],
+                "note": "China has invested in several organised industrial sites in Turkey. Most recently, China\u2019s tech giant Vivo has invested 25 million US dollars in Gebze Organized Industrial Site. Several local and national authorities including government ministers attended the opening ceremonies. Chinese companies and government plan to use Turkish industrial sites for reaching European markets more easily. In 2010, the Chinese government announced that it may invest 5 billion US dollars in Turkish industrial sites. China has also demanded several specific special organized industrial site for its own use only from Turkish government and local authorities for 160 Chinese factories in Kocaeli, Turkey\u2019s industrial centre.",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://netas.com.tr/hakkimizda/",
+                    "https://www.scmp.com/tech/china-tech/article/2052271/chinas-zte-takes-over-netas-101m-eyes-expansion-turkey"
+                ],
+                "note": "In 2017, ZTE Corp, China\u2019s largest-listed telecommunications equipment manufacturer, acquired 48 per cent of Turkish company Netas Telekom\u00fcnikasyon for up to US$101.28 million in a deal that would expand its operations across key markets covered by Beijing\u2019s \u201cOne Belt, One Road\u201d initiative.",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.btgunlugu.com/huawei-5g-konusunda-turkiyede-neler-yapiyor/",
+                    "https://www.hurriyetdailynews.com/turk-telekom-signs-mou-for-5g-deal-with-huawei-171961",
+                    "https://www.huawei.com/en/news/2019/11/turk-telekom-huawei-broke-world-single-user-5g-speed-record",
+                    "https://www.lightreading.com/turkcell-and-huawei-complete-the-worlds-leading-800g-trial-on-the-live-carrier-network/d/d-id/757917",
+                    "https://www.huawei.com/en/news/2019/2/turkcell-5g-oriented-all-cloud-core-network",
+                    "https://tr.euronews.com/2020/01/29/huawei-turkiye-bizim-icin-merkez-ulke-ve-bolge-lideri-5g"
+                ],
+                "note": "Turkey\u2019s state-owned telecom company, Turk Telekom and Huawei are cooperating to build the nation\u2019s 5G network as well as the country\u2019s largest private telecommunication company Turkcell. Huawei defines Turkey as a central and regional leader country for its 5G and other operations.",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://kisadalga.net/haber/detay/teknoloji-sirketi-xiaomi-30-milyon-dolarlik-yatirimla-turkiyede-uretime-basliyor_2117",
+                    "https://www.aa.com.tr/tr/sirkethaberleri/teknoloji/huawei-ve-orbit-enerji-yerli-lityum-pil-uretimi-icin-birlikte-calisacak/671304",
+                    "https://www.facebook.com/watch/?v=119118856875353",
+                    "https://www.huawei.com/tr/news/tr/2021/huawei-turkiye-ar-ge-merkezine-10-yilda-520-milyon-tl-yatirim-yapildi",
+                    "https://www.huawei.com/tr/news/tr/2021/huawei-den-turkiye-ye-yeni-yatirim-bulut-servislerini-baslatti"
+                ],
+                "note": "In addition to 5G, Huawei also cooperates with local companies regarding wifi and cloud services. Huawei also has the biggest R&D centre in the world in Turkey outside of China. Huawei also signed a contract with Turkey\u2019s Orbit Energy Company for producing batteries. In addition to Huawei, Xiaomi opened a mobile phone factory in Istanbul valued at 30 million US dollars.",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.voanews.com/a/security-scanners-across-europe-tied-to-china-government-military/6404710.html",
+                    "https://www.airporthaber.com/havacilik-haberleri/iga-xray-cihazlari-icin-anlasma-imzaladi.html"
+                ],
+                "note": "Recently, Chinese private security service and technology companies entered the Turkish market eyeing large tenders. Especially, Nuchtech\u2019s scanners, x-ray devices and camera systems are reportedly being used in Turkish airports and ports.",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "We have checked the available public information on smart cities, which turns up no evidence of PRC-entity involvement, but it seems likely that such involvement exists nevertheless. ",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://journo.com.tr/turkiye-mobil-uygulama-2021-veriler"
+                ],
+                "note": "TikTok is Turkey\u2019s second most popular social media platform based on usage \u2013 14 hours monthly.",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.beltandroadforum.org/english/n100/2019/0427/c36-1312.html",
+                    "https://www.tgk.org.tr/tgkdan-uluslararasi-atak/",
+                    "https://www.youtube.com/watch?v=fO2nxwuhnxw"
+                ],
+                "note": "The National Art Museum of China and 21 art museums or major fine arts institutions from 18 countries including Turkey jointly founded the Silk Road International Alliance of Art Museums and Galleries. In addition to this, the Turkish Journalists\u2019 Confederation and All-China Journalists Association signed a protocol for deepening cooperation in media relations between the two countries. Furthermore, Turkish and Chinese female artists organised several meetings funded by Turkish and Chinese municipalities.",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tr.euronews.com/2019/07/24/cumhurbaskani-erdoganin-uygurlar-mutlu-ifadesinin-ceviri-hatasi-oldugu-iddiasi",
+                    "https://tr.euronews.com/2019/07/02/cin-devlet-televizyonu-erdogan-sincanlilar-refah-icinde-mutlu-dedi"
+                ],
+                "note": "The Turkish government has tried to establish good relations with China but it has always avoided echoing Chinese propaganda narratives. During Turkish President Erdogan\u2019s last visit to China in 2019, Chinese media claimed that President Erdogan said that Uyghurs live happily in China but president\u2019s office later denied this and added that President Erdogan did not say such a thing but Chinese media used a wrong translation.",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.gmfus.org/news/relations-china-0"
+                ],
+                "note": "China has become an important economic partner for Tukey over the last decades. However, China\u2019s revisionist policies, historical issues between Turkey and China and most importantly China\u2019s policies towards Turkic Uyghur population created a negative China image amongst Turkish people.",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.sipri.org/databases/national-reports/Turkey",
+                    "https://www.sipri.org/sites/default/files/2022-03/fs_2203_at_2021.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.sipri.org/sites/default/files/2022-03/fs_2203_at_2021.pdf",
+                    "https://www.sipri.org/databases/national-reports/Turkey"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.diken.com.tr/erdogandan-cine-savunma-sanayiinde-isbirligi-cagrisi/"
+                ],
+                "note": "Despite earlier statements from the Turkish government, no joint projects were organized between Turkey and China in military and law enforcement equipment production.",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cumhuriyet.com.tr/haber/turk-askeri-artik-cinde-egitim-alacak-50897",
+                    "https://www.trmilitary.org/viewtopic.php?t=4336"
+                ],
+                "note": "Traditionally, Turkey has sent its officers to the US and other Western allies for education at military academies. However, since 2014, the Turkish Armed Forces have been sending their officers to China for military education. For this purpose, Chinese language instructors were hired by Turkish military high schools and academies.",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://t24.com.tr/haber/turkiye-cin-ortak-tatbikati,110237"
+                ],
+                "note": "Only one military exercise was organised by China and Turkey. In 2010, PLA and Turkish Armed Forces held a joint commando exercise in China.",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/womens-day-uighur-turkey-int-idUSKBN2B01E2",
+                    "https://www.france24.com/en/asia-pacific/20201228-china-announces-ratification-of-extradition-treaty-with-turkey",
+                    "https://thediplomat.com/2021/01/uyghurs-wary-of-turkeys-pending-extradition-deal-with-china/",
+                    "https://www.scmp.com/news/china/diplomacy/article/3115592/china-ratifies-turkey-extradition-deal-push-combat-terrorism"
+                ],
+                "note": "On 26 December 2020, the Turkish and Chinese governments ratified a treaty creating a route to extradite individuals from Turkey to the People\u2019s Republic of China. The treaty was initially signed in 2017, and, after three years, it comes into force as another measure purportedly to prevent terrorism.",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.diken.com.tr/turkiye-ile-cin-arasinda-terorizmin-finansmani-anlasmasi/"
+                ],
+                "note": "Turkey and China signed an agreement in December, 2021 on terrorism financing and money laundering. According to the agreement, Turkish and Chinese authorities will share intelligence.",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.chip.com.tr/haber/cin-den-turkiye-ye-hacker-saldirisi_13971.html",
+                    "https://siberbulten.com/sektorel/trky/cinli-hacker-grubunun-turk-devlet-kurumlarina-saldirdigi-ortaya-cikti/",
+                    "https://www.hurriyet.com.tr/teknoloji/turkiyeye-cirkin-saldiri-12073764",
+                    "https://www.dw.com/tr/yemeksepeti-hackerlar%C4%B1-konu%C5%9Ftu-20-milyondan-fazla-ki%C5%9Finin-verileri-elimizde/a-59893203"
+                ],
+                "note": "Chinese hackers several times targeted websites of the Turkish Embassy in China, Turkish Foreign Ministry, other ministries, private enterprises and Turkish Uyghur groups and individuals. The reason for most of the attacks are related to China\u2019s treatment of its Uyghur population which has close cultural, linguistic and religious links with Turkey.",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.airporthaber.com/havacilik-haberleri/iga-xray-cihazlari-icin-anlasma-imzaladi.html",
+                    "https://www.voanews.com/a/security-scanners-across-europe-tied-to-china-government-military/6404710.html"
+                ],
+                "note": "Recently, Chinese private security service companies entered Turkish market eyeing large tenders. Especially, Nuchtech\u2019s scanners, x-ray devices and camera systems are reportedly being used in Turkish airports and ports.",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tr.euronews.com/2021/01/22/dogu-turkistanl-lardan-turkiye-deki-ev-bask-nlar-na-kars-ac-klama-endiseliyiz",
+                    "https://www.gazeteduvar.com.tr/turkiyede-uygurlarin-evleri-neden-basiliyor-haber-1510914",
+                    "https://tr.euronews.com/2021/02/10/istanbul-da-cin-buyukelciliginin-onundeki-uygur-eylemcilere-gozalt",
+                    "https://www.npr.org/2020/03/13/800118582/i-thought-it-would-be-safe-uighurs-in-turkey-now-fear-china-s-long-arm",
+                    "https://www.duvarenglish.com/turkish-polices-detention-questioning-of-uyghurs-signal-extradition-deal-expert-says-news-55948"
+                ],
+                "note": "Media reports and international rights groups say that houses of many Uyghurs have been raided, Chinese citizens of Uyghur ethnicity are detained and sent to extradition centres. Furthermore, Uyghur protestors and others who organised public protests in front of Chinese diplomatic missions in Turkey were detained several times based on Chinese Embassy\u2019s requests.",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.middleeasteye.net/news/uighurs-china-turkey-accused-deporting-third-countries",
+                    "https://www.voanews.com/a/east-asia-pacific_analysts-extradition-treaty-between-turkey-china-endangers-uighur-refugees/6200467.html",
+                    "https://ahvalnews.com/turkey-uighurs/turkey-repatriating-uighurs-china-third-countries-telegraph",
+                    "https://www.orfonline.org/expert-speak/china-turkey-extradition-treaty-implications-uyghurs/",
+                    "https://www.axios.com/documents-chinas-secret-extradition-request-uighur-turkey-6d5ba886-c22c-47e8-b970-804fae274e2d.html",
+                    "https://www.france24.com/en/europe/20201231-turkey-dismisses-fears-that-new-deal-will-result-in-mass-deportation-of-uighurs-to-china",
+                    "https://www.theguardian.com/world/2020/dec/29/pressure-on-turkey-to-protect-uighurs-as-china-ratifies-extradition-treaty",
+                    "https://tr.euronews.com/2020/07/27/turkiye-deki-baz-uygur-turklerinin-ucuncu-ulkelere-oradan-da-cin-e-gonderildigi-iddias",
+                    "https://www.milligazete.com.tr/haber/5055968/flas-iddia-turkiye-uygur-turklerini-sinir-disi-ediyor",
+                    "https://www.bbc.com/turkce/haberler-turkiye-56661759",
+                    "https://tr.euronews.com/2021/03/03/iyi-parti-dogu-turkistan-da-yasananlar-n-soyk-r-m-olarak-tan-nmas-icin-tbmm-ye-dilekce-ver",
+                    "https://www.indyturk.com/node/55671/haber/g%C3%B6%C3%A7-idaresi-m%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC-uygurlar%C4%B1n-iadesi-s%C3%B6z-konusu-de%C4%9Fil"
+                ],
+                "note": "Despite of the fact that the Turkish government denies that it extradited Uyghurs to China based on a recent extradition treaty signed by Ankara and Beijing media reports and civil society groups suggested that Uyghurs were extradited to China via third countries such as Tajikistan. ",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Turkey had a GDP per capita of USD 9,539 and a total population of 84.4 million people. There is no reliable information on the Chinese population in Turkey, but some estimates \u2013 which are not entirely reliable \u2013 place the number at around 18,740 (0.02% of the population), but these figures likely only take into account ethnic Chinese (i.e. they do not include ethnic Uyghurs from China). ",
+    "description-2": "Turkey established diplomatic relations with the People Republic of China in 1971. Turkey was ranked 154th in Reporters Without Borders' 2021 World Press Freedom Index, and listed as \u201cnot free\u201d in Freedom House's 2021 Global Freedom Status, with a score of 32/100. "
+}

@@ -1,0 +1,997 @@
+{
+    "name": "Latvia",
+    "partner": "Civic IDEA",
+    "year": "2021",
+    "GDP": "$20,581.12",
+    "population": "1.8M",
+    "original": "46/384",
+    "ranking": "44",
+    "overall": "12%",
+    "effect": "6%",
+    "exposure": "17%",
+    "pressure": "0%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "evidence": "China's Influence in the Nordic-Baltic Information Environment: Latvia and Sweden https://stratcomcoe.org/publications/chinas-influence-in-the-nordic-baltic-information-environment-latvia-and-sweden/218 \n \n\u201cWith the expansion of China's behemoth Belt and Road initiative, Beijing's soft power has reached the Baltic states. Working through the Confucius Institutes found in all the three Baltic capitals, and exerting economic and diplomatic pressure, China's soft power interferes with the inner workings of the Baltics' foreign affairs institutions.\u201d\nhttps://www.lrt.lt/en/news-in-english/19/1094318/the-rough-face-of-china-s-soft-power-in-the-baltics-investigation \n ",
+                "evidence_urls": [
+                    "https://www.worldchinesemedia.com/category/guanyuxiehui/",
+                    "https://stratcomcoe.org/publications/chinas-influence-in-the-nordic-baltic-information-environment-latvia-and-sweden/218",
+                    "https://www.balticexchange.com/content/dam/balticexchange/consumer/documents/2021_Xinhua_Baltic_ISCDI_EN.pdf ",
+                    "https://www.lrt.lt/en/news-in-english/19/1094318/the-rough-face-of-china-s-soft-power-in-the-baltics-investigation "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "2016-2017 with Xinghua CRI\nhttps://brnalink.com/members.html \n\n\u201cLatvia has a stable, active and pragmatic political dialogue with China and an intensive exchange of visits at all levels. Cooperation between Latvia and China takes place both bilaterally and within the framework of EU-China relations and in various multilateral formats, such as the Central and Eastern European (CEE) countries and China (17 + 1) cooperation format and the Belt and Road Initiative.\u201d https://china-cee.eu/2021/12/01/latvia-economy-briefing-latvian-chinese-relations-in-view-of-the-2021-china-international-import-expo/#:~:text=During%20the%20bilateral%20official%20visit,Century%20Maritime%20Silk%20Road%20Initiative.  ",
+                "evidence_urls": [
+                    "https://brnalink.com/members.html",
+                    "https://search.news.cn/?lang=en#search/0/Latvia/2/ ",
+                    "https://china-cee.eu/2021/12/01/latvia-economy-briefing-latvian-chinese-relations-in-view-of-the-2021-china-international-import-expo/#:~:text=During%20the%20bilateral%20official%20visit,Century%20Maritime%20Silk%20Road%20Initiative. "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "\u201cLocal journalists are asked to publish articles that favor China or maintain blogs and social media pages that propagate cooperation with Beijing. In some cases, the propaganda articles are prepared with the help of the embassy or the news agency Xinhua, and all the recruited journalist is required to do is to \u201clend\u201d the Chinese his name and status. The keenest of readers will have already noticed that pro-China articles have appeared in Neatkar\u012bg\u0101 R\u012bta Av\u012bze and Diena, and occasionally in some pro-Kremlin media outlets as well.\u201d https://www.eureporter.co/world/latvia/2021/03/25/its-about-time-we-started-discussing-chinas-influence-in-latvia/\n\n\"It should be noted that trips to China is the most common way Latvians get recruited to work for Chinese intelligence services. This is usually done according to the same pattern Soviet chekists used to recruit na\u00efve Western travelers \u2013 the local Beijing embassy carefully selects the potential \u201ctourists\u201d and offers them to go on a trip to the \u201cmisunderstood\u201d and exotic Celestial Empire. These \u201ctourists\u201d are most often asked to participate in an international event, a forum or conference, where Chinese intelligence services then select the most suitable agents of influence from around the world.\"- the same link. ",
+                "evidence_urls": [
+                    "https://www.eureporter.co/world/latvia/2021/03/25/its-about-time-we-started-discussing-chinas-influence-in-latvia/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "evidence": "\u201cLocal journalists are asked to publish articles that favor China or maintain blogs and social media pages that propagate cooperation with Beijing. In some cases, the propaganda articles are prepared with the help of the embassy or the news agency Xinhua, and all the recruited journalist is required to do is to \u201clend\u201d the Chinese his name and status. The keenest of readers will have already noticed that pro-China articles have appeared in Neatkar\u012bg\u0101 R\u012bta Av\u012bze and Diena, and occasionally in some pro-Kremlin media outlets as well.\u201d https://www.eureporter.co/world/latvia/2021/03/25/its-about-time-we-started-discussing-chinas-influence-in-latvia/  ",
+                "evidence_urls": [
+                    "https://www.eureporter.co/world/latvia/2021/03/25/its-about-time-we-started-discussing-chinas-influence-in-latvia/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "Except for the Chinese embassy Facebook page http://lv.china-embassy.org/eng/ ",
+                "evidence_urls": [
+                    "http://lv.china-embassy.org/eng/ "
+                ],
+                "note": "No other evidence found",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "investment screening mechanism\nhttps://chinaobservers.eu/fragmented-screening-of-chinese-investments-in-cee/ \n",
+                "evidence_urls": [
+                    "https://chinaobservers.eu/fragmented-screening-of-chinese-investments-in-cee/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://stratcomcoe.org/publications/chinas-influence-in-the-nordic-baltic-information-environment-latvia-and-sweden/218"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "YES, according to expert\u2019s knowledge, it happened in 2020, but no public data was found. Therefore, we skipped this question.",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "\u201cVice Foreign Minister Song Tao Meets with Chairman of the Latvian-Chinese Friendship Group of the Latvian Parliament\u201d: https://www.mfa.gov.cn/ce/cetl//eng/xwdt/t1035809.htm  ",
+                "evidence_urls": [
+                    " https://ssd.eff.org/en/module/your-security-plan"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "2",
+                "evidence": "Premier Li meets with Latvian parliament speaker:\nhttp://www.china-ceec.org/eng/ldrhw_1/2016lj/201611/t20161105_6828386.htm \n\nVice Foreign Minister Song Tao Meets with Chairman of the Latvian-Chinese Friendship Group of the Latvian Parliament:https://www.mfa.gov.cn/ce/cetl//eng/xwdt/t1035809.htm\n \nZhang Dejiang, chairman of the Standing Committee of China's National People's Congress, meets with Latvian President Raimonds Vejonis in Riga, Latvia, April 12, 2017(Zhang paid a three-day official visit to Latvia, which ended on Friday): http://www.npc.gov.cn/englishnpc/c2766/201704/db2f7de1a94d4742988db4c59125481f.shtml \n\nChinese premier arrives in Latvia for an official visit, at China-CEE summit: http://www.china-ceec.org/eng/zyxw_4/201611/t20161107_6512666.htm \n\nPremier Li arrives in Latvia for an official visit, China-CEE summit: http://english.www.gov.cn/premier/news/2016/11/04/content_281475482842187.htm \n\nKeqiang Arrives in Riga to Attend 5th Summit of China and Central and Eastern European Countries and Pay Official Visit to Latvia: https://www.fmprc.gov.cn/mfa_eng/topics_665678/2016zt/lkqfwjejssthskstltwyelsbcxxlgjhy/201611/t20161108_704302.html \n\nPremier Li Keqiang met with Edgars Rinkevics, Foreign Minister and Representative of Latvian Prime Minister, who was attending the Meeting of Heads of Government of Central and Eastern European Countries and China in Bucharest, Romania: https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xos_664404/gjlb_664408/3190_664610/ \n",
+                "evidence_urls": [
+                    "http://www.china-ceec.org/eng/ldrhw_1/2016lj/201611/t20161105_6828386.htm ",
+                    "https://www.mfa.gov.cn/ce/cetl//eng/xwdt/t1035809.htm ",
+                    "http://www.npc.gov.cn/englishnpc/c2766/201704/db2f7de1a94d4742988db4c59125481f.shtml ",
+                    "http://www.china-ceec.org/eng/zyxw_4/201611/t20161107_6512666.htm ",
+                    "http://english.www.gov.cn/premier/news/2016/11/04/content_281475482842187.htm ",
+                    "https://www.fmprc.gov.cn/mfa_eng/topics_665678/2016zt/lkqfwjejssthskstltwyelsbcxxlgjhy/201611/t20161108_704302.html ",
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xos_664404/gjlb_664408/3190_664610/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "A delegation of Chinese Tibetologists, currently visiting Latvian capital Riga, had a meeting Monday with Latvian lawmakers, officials, academics, and representatives of the public: \nhttp://english.scio.gov.cn/internationalexchanges/2018-05/29/content_51528953.htm \n(seems this meeting was informal for civil servants but it's not fully clear what areas were covered during the training)",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "Latvia's position is mostly in accordance with the EU and the supporting of PRC is not identified. \n\u201cBulgaria, Romania, Slovenia, Estonia, and Latvia did not send their heads of state to a February 17+1 virtual gathering chaired by Xi Jinping himself. However, even among the 17+1 participants, not all EU member states agree on how to approach China\u201d https://securingdemocracy.gmfus.org/waiting-for-eu-smaller-member-states-face-off-against-china/ ",
+                "evidence_urls": [
+                    "https://securingdemocracy.gmfus.org/waiting-for-eu-smaller-member-states-face-off-against-china/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "\"Latvia briefly hosted a consulate of the Republic of China (Taiwan's official designation) in the early 1990s, but closed it down in 1994 after Beijing froze relations with Riga. Since then, Taiwan is represented in Latvia by a Taipei mission.\": https://www.lrt.lt/en/news-in-english/19/1612407/latvian-mp-on-lithuania-s-taiwan-mission-do-you-want-to-foster-ties-or-just-piss-off-china ",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1612407/latvian-mp-on-lithuania-s-taiwan-mission-do-you-want-to-foster-ties-or-just-piss-off-china"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "Latvia signed the UN joint statement against mass detention of ethnic Uighurs in the Xinjiang region,\n\u201cThe previous joint statement on China at the HRC was led by the United States in March 2016 with 12 signatories. That nearly double the number of countries have joined the current effort reflects growing international concern over the situation in Xinjiang, Human Rights Watch said. The signatories so far are: Australia, Austria, Belgium, Canada, Denmark, Estonia, Finland, France, Germany, Iceland, Ireland, Japan, Latvia, Lithuania, Luxembourg, the Netherlands, New Zealand, Norway, Spain, Sweden, Switzerland, and the United Kingdom. Additional states are considering signing on.\u201d https://www.hrw.org/news/2019/07/10/un-unprecedented-joint-call-china-end-xinjiang-abuses  \n\nPlease, find the Joint Statement on Xinjiang  on the link provided: https://www.state.gov/joint-statement-on-xinjiang/ \n",
+                "evidence_urls": [
+                    "https://www.hrw.org/news/2019/07/10/un-unprecedented-joint-call-china-end-xinjiang-abuses  ",
+                    "https://www.state.gov/joint-statement-on-xinjiang/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "The Riga Declaration 7th World Parliamentary Convention on Tibet, 7-10 May 2019, Riga, Latvia:\n\"Reaffirm that Tibet has historically never been part of China, that it was invaded in violation of international law and has since been under illegal occupation by the PRC, and that consequently Tibet has not lost its Statehood under international law;\": https://tibetanparliament.org/seventh-wpct-riga-2019/\n\n\"RIGA- Latvian parliament lawmakers havebanded together to show support for the recent Tibetan demonstrations towards Chineseauthorities. The group of lawmakers, chaired by Silva Bendrate from the New Eraparty, wrote a letter of support to be sent to the highest Chinese and Latvianauthorities condemning the violence inflicted upon unarmed demonstrators in Tibet.\nThe press release stated that the lawmakers invited Chinese authorities to cease the violence and toobserve the fundamental human rights of freedom as well as religious andexpression freedoms in Tibet.\": https://www.baltictimes.com/news/articles/20107/ ",
+                "evidence_urls": [
+                    "https://tibetanparliament.org/seventh-wpct-riga-2019/",
+                    "https://www.baltictimes.com/news/articles/20107/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "\"The 44th session of the United Nations Human Rights Council became the site of competing international responses to China\u2019s new national security law in Hong Kong. Two dueling statements were read back to back during the session last week, with Cuba representing a group of 53 states backing the new Chinese law and the United Kingdom speaking on behalf of 27 critical.\ngovernments. \nThe countries opposing: Australia, Austria, Belgium, Belize*, Canada, Denmark, Estonia, Finland, France, Iceland, Ireland, Germany, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Marshall Islands*, Netherlands, New Zealand, Norway, Palau*, Slovakia, Slovenia, Sweden, Switzerland, and the United Kingdom\":https://thediplomat.com/2020/07/which-countries-support-the-new-hong-kong-national-security-law/ ",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/07/which-countries-support-the-new-hong-kong-national-security-law/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "evidence": "The University of Latvia established ties with BGI.\n\u201cAn attractive and dynamic business climate for high value-added products \u2013 indeed, that is what we see in Latvia.\u201d BGI, one of the world\u2019s largest genomics organizations, is a striking example of how LIAA attracts foreign investment and successful companies to Latvia.\u201d https://labsoflatvia.com/en/news/bgi-china-meets-europe-in-the-baltics\n",
+                "evidence_urls": [
+                    "https://labsoflatvia.com/en/news/bgi-china-meets-europe-in-the-baltics "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "1",
+                "evidence": "In Latvia, there is one institute and several classrooms established, and that institute manages the classrooms as well,  \nIntroduction to Confucius Institute at the University of Latvia \u2013  http://www.ci.lu.lv/?page_id=2&lang=en \n",
+                "evidence_urls": [
+                    "http://www.ci.lu.lv/?page_id=2&lang=en "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "Hereby, The National K-12 Foreign Language Enrollment Survey Report states that Latvia does not include Chinese as a foreign language in K12, report is available at: https://www.americancouncils.org/sites/default/files/FLE-report-June17.pdf ",
+                "evidence_urls": [
+                    "https://www.americancouncils.org/sites/default/files/FLE-report-June17.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "Within in the 16+1 network cooperation, The Fifth High-Level Think Tanks Symposium of China and Central & Eastern European Countries was held on 30 \u2013 31 October 2018, and  Una Aleksandra B\u0113rzi\u0146a-\u010cerenkova, as a Head of the New Silk Road Program, was one of the panelists, representing Latvian Institute of International Affairs, Title: The implications of China\u2019s civilization:\ndiscourse during the 16 + 1 Riga Summit:https://www.17plus1-thinktank.com/article/605.html?source=article_link ",
+                "evidence_urls": [
+                    "https://www.17plus1-thinktank.com/article/605.html?source=article_link "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "1",
+                "evidence": "\"The Latvian National Institute of Science has introduced automated nucleic acid extraction equipment made by MGI\" http://world.people.com.cn/n1/2022/0401/c1002-32389621.html ",
+                "evidence_urls": [
+                    "http://world.people.com.cn/n1/2022/0401/c1002-32389621.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "1",
+                "evidence": "Namely, Thousand Talents Program or Changjiang Scholars program scholarships were not indicated, but there were additional scholarship programs:\nThe Confucius Institute at the University of Latvia was Successfully Held the First Confucius Institute Four-week Scholarship Project in South China Normal University http://www.ci.lu.lv/?p=3019&lang=en \n\nThe 2013 global online Chinese culture contest came to a successful conclusion, on May 15, and we want to thank each and every of you for your interest and active participation. http://en.chinaculture.org/focus/2013-06/21/content_464404.htm \n",
+                "evidence_urls": [
+                    "http://www.ci.lu.lv/?p=3019&lang=en ",
+                    "http://en.chinaculture.org/focus/2013-06/21/content_464404.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "2",
+                "evidence": "It was conducted within the 16+1 cooperation, in the years of 2012-2017.\n\n\u201cThese \u201ctourists\u201d are most likely to be members of a specific profession \u2013 journalists, politicians and scientists. In order to maintain secrecy, Beijing may offer the trip to China not to the person it is interested in, but instead to one of their relatives, be it their spouse, children or parents. Upon returning to their home country, the Chinese embassy asks the \u201ctourists\u201d to repay the generous trip with loyalty. Initially, it may be a simple social media entry that portrays China in a positive light. Then, perhaps an interview with a local media outlet to talk about the prosperity witnessed in China. In special cases, you may have to repay the favor by betraying your country. The latter fate was experienced by the na\u00efve Estonian scientist K\u00f5uts. https://www.eureporter.co/world/latvia/2021/03/25/its-about-time-we-started-discussing-chinas-influence-in-latvia/ ",
+                "evidence_urls": [
+                    "https://www.eureporter.co/world/latvia/2021/03/25/its-about-time-we-started-discussing-chinas-influence-in-latvia/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No evidence found in that regard.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "According to expert's knowledge, this kind of incident has taken place, but the public record of the fact is not available.",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://gyanberry.com/list-of-top-universities-in-latvia-offering-master-of-east-asian-studies-course/ ",
+                    "https://www.rsu.lv/en/china-studies-centre "
+                ],
+                "note": " List Of Top 3 Universities in Latvia Offering Master Of East Asian Studies Course https://gyanberry.com/list-of-top-universities-in-latvia-offering-master-of-east-asian-studies-course/ \n\n\u201cThe RSU China Studies Centre was established in 2005 with the aim of providing research on China and the wider East Asian region, offering certified Chinese language training, and promoting RSU academic and teaching excellence internationally.\u201d  https://www.rsu.lv/en/china-studies-centre \n",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "According to expert's knowledge and public record, such kind of incidents are not indicated. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "No public record exists to state that politicians or government employees in Latvia are signing agreements with the PRC government or state-owned enterprises.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "0",
+                "evidence": "According to the twin towns/sister cities of Latvia, municipalities of China are not indicated: https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Latvia",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Latvia "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "According to expert's knowledge, within the network of 16+1 cooperation, some small municipal trips have been organized but the public record is not available of such kind of events.",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "evidence": "The visits mostly have taken place in the years between 2012-2017, among them is the visit of the Chinese President Xi Jinping with his Latvian counterpart Raimonds Vejonis in Beijing https://www.mfa.gov.cn/ce/ceee/eng/zgyw/t1597111.htm \n",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/ceee/eng/zgyw/t1597111.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No public evidence is found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No public evidence is found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No public record is found of such kind of links.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No record found in that regard.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "1",
+                "evidence": "The positive attitude has mostly been expressed in the years between 2012-2013, in terms of economy or opportunities for Latvia but not in the political domain. Such kind of position has not been expressed from the Latvian side since 2018. \n\u201cOur bilateral relations are good. How China acted in 1991 set the right course. China was one of the first countries to recognize Latvia\u2019s independence when we restored it after fifty years of occupation. And China was clear in its support for Latvia\u2019s demand that Russian troops be removed from Latvian soil. The Latvian people remember who supported our freedom. (2000) https://www.vestnesis.lv/ta/id/8109 \n",
+                "evidence_urls": [
+                    "https://www.vestnesis.lv/ta/id/8109 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No direct evidence found.\n\n\"In relations with China, Latvia is interested in seeing progress with the EU-China negotiations on investment agreements during the Presidency, as well as promotion of cooperation with China in the area of transport and logistics within the framework of the 16+1 format\"- https://www.mfa.gov.lv/en/media/2226/download. Additionally, no direct links have been identified. ",
+                "evidence_urls": [
+                    "https://www.mfa.gov.lv/en/media/2226/download"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence of such circumstance.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "\u201cUnlike Asian countries, Lithuania, Latvia and Estonia are not reliant on China for trade, meaning they can prioritise universal rights and freedom\u201d\nhttps://www.scmp.com/week-asia/politics/article/3141373/why-europes-baltic-states-can-brush-china \n\nIn 2019, Latvia exported $186M to China. The main products that Latvia exported to China were Rough Wood ($54.8M), Sawn Wood ($35.7M), and Peat ($23.5M). During the last 24 years the exports of Latvia to China have increased at an annualized rate of 11.7%, from $13.2M in 1995 to $186M in 2019. https://oec.world/en/profile/bilateral-country/chn/partner/lva;\n\nIn general, China is Latvia\u2019s 22th most important export and 6th most important import trade partner. In 2019, the trade balance of goods was negative: approx. 350 mln. EUR, but in 2021, it reached a staggering 508 mln. EUR.- https://china-cee.eu/2021/12/01/latvia-economy-briefing-latvian-chinese-relations-in-view-of-the-2021-china-international-import-expo/\n\n\"According to Boston Consulting Group (2009), China will be the biggest trade\nmarket in the coming five years. Latest data of post-economical financial crises of\n2014-2016 shows that China\u2019s share in imported products consumption rose to\n31.4%, and become the leading market since the beginning of the 2011 (Li and\nKambele, 2012). Together, China is becoming the destination for 36.8%, (Zhou and\nWang, 2014) of world high end brands. On the background of this scenario, it is\nextremely vital for Latvian goods producers to know and understand the consumers\nbehaviors of Chinese specially the affluent Chinese, and new consumers of Latvian\nbrands. For decades, branding and marketing research have been based on a concept\nof consumer behavior that is deeply embedded in a linear notion of marketing\nactivities.\" - https://www.ersj.eu/dmdocuments/2017-xx-3-a-64.pdf\n\n \n",
+                "evidence_urls": [
+                    "https://www.scmp.com/week-asia/politics/article/3141373/why-europes-baltic-states-can-brush-china",
+                    "https://oec.world/en/profile/bilateral-country/chn/partner/lva ",
+                    "https://china-cee.eu/2021/12/01/latvia-economy-briefing-latvian-chinese-relations-in-view-of-the-2021-china-international-import-expo/",
+                    "https://www.ersj.eu/dmdocuments/2017-xx-3-a-64.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "External Dept https://tradingeconomics.com/country-list/external-debt \nLatvia Government Debt https://www.ceicdata.com/en/indicator/latvia/government-debt--of-nominal-gdp \nLinks prove that Latvia does not own more than 50% of sovereign debts from PRC.\n",
+                "evidence_urls": [
+                    "https://tradingeconomics.com/country-list/external-debt ",
+                    "https://www.ceicdata.com/en/indicator/latvia/government-debt--of-nominal-gdp "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "On June 28, 2021 H.E. Ambassador Ms Maija Manika visited Wuxi and met with potential Chinese investors in Latvia. https://www2.mfa.gov.lv/en/china/current-events/68211-on-june-28-2021-h-e-ambassador-ms-maija-manika-visited-wuxi-and-met-with-potential-chinese-investors-in-latvia but no public data states that the PRC is the top customer for Latvia's  extractive industries.\n",
+                "evidence_urls": [
+                    "https://www2.mfa.gov.lv/en/china/current-events/68211-on-june-28-2021-h-e-ambassador-ms-maija-manika-visited-wuxi-and-met-with-potential-chinese-investors-in-latvia "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "No such evidence is indicated, additionally, a representative of the Development Agency from China stated that Chinese will invest in Latvia when they begin to trust them - https://rus.lsm.lv/statja/novosti/ekonomika/kitayci-budut-investirovat-v-latviyu-kogda-nachnut-nam-doverjat--predstavitel-agentstva-razvitija.a295475/  ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "Latvia is not among the listed countries- https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "Latvian Chinese Chamber of Commerce: https://company.lursoft.lv/en/latvian-chinese-chamber-of-commerce/40008268253 ",
+                "evidence_urls": [
+                    "https://company.lursoft.lv/en/latvian-chinese-chamber-of-commerce/40008268253"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No direct evidence found: https://china-cee.eu/2021/12/01/latvia-economy-briefing-latvian-chinese-relations-in-view-of-the-2021-china-international-import-expo/ ",
+                "evidence_urls": [
+                    "https://china-cee.eu/2021/12/01/latvia-economy-briefing-latvian-chinese-relations-in-view-of-the-2021-china-international-import-expo/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No evidence found in that regard.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "People's Republic of China-EU Free Trade Agreement (Latvia is one of the members): https://aric.adb.org/fta/peoples_republic_of_china-eu_free_trade_agreement \n",
+                "evidence_urls": [
+                    "https://aric.adb.org/fta/peoples_republic_of_china-eu_free_trade_agreement "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "Lativia has signed a MOU with the PRC to establish the Silk Road Economic Zone: http://english.www.gov.cn/premier/news/2016/11/05/content_281475483362451.htm \n\nhttp://certusdomnica.lv/wp-content/uploads/2017/04/Certus_ZidaCels_2017_EN.pdf\n\nhttps://www.worldscientific.com/doi/pdf/10.1142/9789813221819_0001\n\n\n",
+                "evidence_urls": [
+                    "https://www.worldscientific.com/doi/pdf/10.1142/9789813221819_0001",
+                    "http://certusdomnica.lv/wp-content/uploads/2017/04/Certus_ZidaCels_2017_EN.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No public evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "\u201cThe remaining two network operators aside from LMT (namely Tele2 and Bite) followed the ambiguous approach longer, but it is also coming to an end. Bite Latvija, owned by the US private equity investment fund Providence Equity Partners LLC27 through Bite Lietuva, had signed an MoU on cooperation in 5G networks with Huawei in 2018 and had been consistently voicing a pro-Huawei position: \u201cLatvian mobile phone operator Bite Latvija will not suspend its partnership with the company and will go forward with its plans to introduce a 5G network with the help of Huawei.\u201d  https://chinaobservers.eu/wp-content/uploads/2021/01/briefing-paper_huawei_A4_03_web-1.pdf  ",
+                "evidence_urls": [
+                    "https://chinaobservers.eu/wp-content/uploads/2021/01/briefing-paper_huawei_A4_03_web-1.pdf  "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "1",
+                "evidence": "BITE has initially signed the agreement with HUAWEI but it was not functional.\n\nRiga and Washington on Thursday signed a joint declaration on 5G security aimed at limiting the Latvian market to Chinese companies https://www.lrt.lt/en/news-in-english/19/1146924/latvia-signs-5g-declaration-with-us-to-sideline-china \n\nLatvia has signed the  joint declaration with the United States of America on 5G security \nhttps://2017-2021.state.gov/joint-statement-on-united-states-latvia-joint-declaration-on-5g-security/index.html \n",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1146924/latvia-signs-5g-declaration-with-us-to-sideline-china ",
+                    "https://2017-2021.state.gov/joint-statement-on-united-states-latvia-joint-declaration-on-5g-security/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "evidence": "Latvia has signed with U.S. a declaration on future of 5G communications https://eng.lsm.lv/article/politics/diplomacy/latvia-and-us-sign-declaration-on-future-of-5g-communications.a349593/#:~:text=Latvia%20and%20the%20United%20States,vital%20parts%20of%205G%20networks. ",
+                "evidence_urls": [
+                    "https://eng.lsm.lv/article/politics/diplomacy/latvia-and-us-sign-declaration-on-future-of-5g-communications.a349593/#:~:text=Latvia%20and%20the%20United%20States,vital%20parts%20of%205G%20networks. "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "Designing the Latvian Speech Recognition Corpus: https://www.researchgate.net/publication/263165104_Designing_the_Latvian_Speech_Recognition_Corpus",
+                "evidence_urls": [
+                    "https://www.researchgate.net/publication/263165104_Designing_the_Latvian_Speech_Recognition_Corpus"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "\u201cLatvia has begun to develop its Smart City strategy since 2018, building an ecosystem between the industry, the government, municipalities and academia.he Smart City ecosystem is a framework that is predominantly composed of ICT and Smart energy to develop, deploy and promote sustainable development practices to address growing urbanization challenges. Smart City looks across every aspect of a city\u2019s operations to use technology to improve outcomes and boost citizen well-being.\u201d https://investinlatvia.org/en/key-sectors/sectors/smart-city#:~:text=Valmiera%20was%20the%20first%20municipality,and%20a%20digital%20information%20stand.  Connections to PRC is not indicated. ",
+                "evidence_urls": [
+                    "https://investinlatvia.org/en/key-sectors/sectors/smart-city#:~:text=Valmiera%20was%20the%20first%20municipality,and%20a%20digital%20information%20stand"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "Chinese Cross-Border Interbank Payment System (CIPS)is not used in Latvia: https://www.bank.lv/en/tasks/payment-systems/instant-payments ",
+                "evidence_urls": [
+                    "https://www.bank.lv/en/tasks/payment-systems/instant-payments "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "Agreement between the Government of the Republic of Latvia and the Government of the People's Republic of China on Cooperation in the Field of Science and Technology https://likumi.lv/ta/lv/starptautiskie-ligumi/id/1784 \n\nA Baltic view on transatlantic tech relations towards China - \u201cCooperation in high-tech has been on the Sino-Baltic agenda since the beginning of China's engagement with the region in the early 2010s. The Baltic states had no need for China's loans, they believed high value-added cooperation could instead be established in cutting edge sectors with complementarity between China's technological development and the Baltics highly educated workforce, low production costs, and digital orientation. This framework was supported, at least at a symbolic level, within all three states, Estonia, Latvia, and Lithuania.\u201d- https://merics.org/en/short-analysis/baltic-view-transatlantic-tech-relations-towards-china \n",
+                "evidence_urls": [
+                    "https://likumi.lv/ta/lv/starptautiskie-ligumi/id/1784 ",
+                    "https://merics.org/en/short-analysis/baltic-view-transatlantic-tech-relations-towards-china "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "\"An attractive and dynamic business climate for high value-added products - indeed, that is what we see in Latvia.\" BGI, one of the world's largest genomics organizations, is a striking example of how LIAA attracts foreign investment and successful companies to Latvia. https://labsoflatvia.com/en/news/bgi-china-meets-europe-in-the-baltics \n\nRIGA, Latvia, November 26, 2019 - MGI officially opened a new R&D and manufacturing facility in Riga, Latvia today, aiming to build a bridge between China and Europe for life sciences and health research. - https://en.mgi-tech.com/news/109/ \n",
+                "evidence_urls": [
+                    "https://labsoflatvia.com/en/news/bgi-china-meets-europe-in-the-baltics ",
+                    "https://en.mgi-tech.com/news/109/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "Top Communication Free Apps Rankings in Latvia- https://www.similarweb.com/apps/top/google/store-rank/lv/communication/top-free/",
+                "evidence_urls": [
+                    "https://www.similarweb.com/apps/top/google/store-rank/lv/communication/top-free/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "\u201cThe LatPos GNSS base station system consists of base stations in the Republic of Latvia, the Republic of Estonia and the Republic of Lithuania, which operate in a continuous mode, store the received signal data and distribute real-time correction to users via the mobile Internet network. The LatPos system receives signals from the GNSS systems of GPS NAVSTAR (funded by the United States), GLONASS (funded by the Russian Federation), Galileo (funded by the European Union) and BeiDOU (funded by the People's Republic of China).\u201d\nhttps://latvija.lv/en/PPK/Maja-un-vide/Geodezija-kartografija/p555/ProcesaApraksts\n",
+                "evidence_urls": [
+                    "https://latvija.lv/en/PPK/Maja-un-vide/Geodezija-kartografija/p555/ProcesaApraksts"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "The existents of such kinds of organizations are not indicated but there have been indicated some incidents: \nUnder alleged pressure from China, Latvian museum cancels Hong Kong exhibition https://www.lrt.lt/en/news-in-english/19/1473784/under-alleged-pressure-from-china-latvian-museum-cancels-hong-kong-exhibition;\n\nThe Symposium on Tibet Today was Held in Riga-  https://www.mfa.gov.cn/ce/celv/eng/xwdt/t1401719.htm \n",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1473784/under-alleged-pressure-from-china-latvian-museum-cancels-hong-kong-exhibition ",
+                    "https://www.mfa.gov.cn/ce/celv/eng/xwdt/t1401719.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "The Latvian Federation of Oversea Chinese Compatriots, Biedr\u012bba:\nhttps://company.lursoft.lv/en/the-latvian-federation-of-oversea-chinese-compatriots/40008185835\n\nhttp://www.uwca.net/member.html \u2013 Latvia not identified \n",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No public evidence was found on the existed cooperation between the ACFTU and Latvian representatives.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "2",
+                "evidence": "Chinese New Year events in Latvia to take place online: https://en.imsilkroad.com/p/319541.html\n\nCelebration held to greet upcoming Chinese Lunar New Year in Latvia:https://global.chinadaily.com.cn/a/201802/11/WS5a7fe43ca3106e7dcc13c0bb.html \n\n\"This is not to suggest that the UFWD would not be interested in establishing and deepening relationships between the CCP and Lithuanian political parties, especially considering that it is precisely its original function, and that neighbouring Latvia has already provided a role model since its significant Social Democratic Party \u201cHarmony\u201d (Saska\u0146a) signed a controversial memorandum of cooperation with the CCP in 2011.\":https://www.echo-wall.eu/china-through-european-lens/unfulfilled-promises-realized-fears",
+                "evidence_urls": [
+                    "https://en.imsilkroad.com/p/319541.html",
+                    "https://global.chinadaily.com.cn/a/201802/11/WS5a7fe43ca3106e7dcc13c0bb.html",
+                    "https://www.echo-wall.eu/china-through-european-lens/unfulfilled-promises-realized-fears"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "2",
+                "evidence": "Latvia - China Association of Culture: https://www.facebook.com/LATVIACHINAASSOCIATIONOFCULTURE/posts/chinese-calligraphy-class-in-modes-muzejs/1911352349148897/\n\nA Delegation of Chinese Writers Association Paid a Visit to Latvia:https://www.mfa.gov.cn/ce/celv/eng/whjl/whxw/t827507.htm\n\nChina Writers Association Signed Cooperation Memorandum with LUCI:http://www.ci.lu.lv/?p=3048&lang=en ",
+                "evidence_urls": [
+                    "https://www.facebook.com/LATVIACHINAASSOCIATIONOFCULTURE/posts/chinese-calligraphy-class-in-modes-muzejs/1911352349148897/",
+                    "https://www.mfa.gov.cn/ce/celv/eng/whjl/whxw/t827507.htm",
+                    "http://www.ci.lu.lv/?p=3048&lang=en"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "2020 Report on International Religious Freedom: Latvia- https://www.state.gov/reports/2020-report-on-international-religious-freedom/latvia/, any kind of donation from PRC is not indicated.",
+                "evidence_urls": [
+                    "https://www.state.gov/reports/2020-report-on-international-religious-freedom/latvia/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "The evidence is not found. \nIn Latvia there are several Chinese Movies and TV Shows available on Netflix (https://www.flixwatch.co/lists/20-best-imdb-rated-chinese-movies-and-tv-shows-on-netflix-latvia/), but their direct link to PRC is not indicated.",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Here is the link of available TV shows in Latvia and mostly, they portray PRC in a positive manner: https://www.flixwatch.co/lists/20-best-imdb-rated-chinese-movies-and-tv-shows-on-netflix-latvia/, but their direct link to PRC is not identified\n\n",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "1",
+                "evidence": "Smirnova Anzelika, an internet celebrity from Latvia, experienced Bouyei ethnic culture during the \"A Date with China\" international media tour to Qingyan Ancient Town in Guiyang, Guizhou province. In the traditional costume, she felt like she was part of the beautiful place: https://twitter.com/chinadaily/status/1386623593711243265?lang=bn;\n\n\"Anzelika, in the Bouyei traditional costume, said she felt like she was part of the beautiful place. She also learned to sing Red Flower, a folk song of Guizhou, ahead of the trip\"- https://www.chinadaily.com.cn/a/202104/26/WS6086773da31024ad0baba797.html \n\n",
+                "evidence_urls": [
+                    "https://www.chinadaily.com.cn/a/202104/26/WS6086773da31024ad0baba797.html",
+                    "https://twitter.com/chinadaily/status/1386623593711243265?lang=bn"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "\"The Baltic countries received international attention for their snub of China\u2019s February \u201c17+1\u201d online summit, chaired by President Xi Jinping. By sending lower-level ministers instead of heads of state, they signaled a joint Lithuanian, Estonian and Latvian turn away from China\u2019s multilateral formats. This turn, however, has not yet completely found its way into Latvian public opinion.\": https://www.fpri.org/article/2021/04/go-with-the-devil-you-dont-know-latvians-still-believe-in-economic-cooperation-with-china/ \n\n\"While Beijing endeavored to expand its foreign relations and economic might with infrastructure projects and investments, the Latvian political elite has expressed an increasing interest in cooperation and building a long-term partnership. However, due to the lack of practical activities for mutual economic benefit, a shadow of suspicion regarding the introduction of 5G, deterioration of EU-China relations and some other negative developments, the political optimism of the Latvian elite has been decreasing. According to opinion polls, the inhabitants of Latvia also look at China with some suspicion regarding its true intentions, thus placing it in a row with other external threats.\"-https://chinaobservers.eu/the-unknown-other-perceptions-of-china-in-latvia/ ",
+                "evidence_urls": [
+                    "https://www.fpri.org/article/2021/04/go-with-the-devil-you-dont-know-latvians-still-believe-in-economic-cooperation-with-china/",
+                    "https://chinaobservers.eu/the-unknown-other-perceptions-of-china-in-latvia/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "\u201cLatvian respondents overall demonstrate neutral and even positive attitudes towards China, with almost 42.3% viewing China in a very positive or positive light, and 30% having a neutral attitude (Figure 1). Interestingly, China is overall viewed more positively than the USA (Figure 3). Only 28% of the respondents have a negative or a very negative view of China, which is significantly lower than the survey-wide average across 13 countries \u2013 45.3%.\u201d  https://ceias.eu/wp-content/uploads/2021/03/LV-poll-report.pdf\n\n\"In September and October 2020, the Sinophone Borderlands project at Palack\u00fd University Olomouc conducted a wide-scale survey of public opinion on China in 13 European countries.\": https://ceias.eu/survey-europeans-views-of-china-in-the-age-of-covid-19/\n\n\u201cThere is still a belief among Latvian society that Chinese wealth could spill over into the Latvian economy via transit, export and investment. When indicating preferred Latvian foreign policy priorities towards China, 81.1% respondents believe policy should be focused on \u201cpromotion of trade and investment\u201d, and 62.1% of respondents share some degree of agreement over China\u2019s capability to help the national transit sector.\u201d \nhttps://www.fpri.org/article/2021/04/go-with-the-devil-you-dont-know-latvians-still-believe-in-economic-cooperation-with-china/ \n\n\"According to Security Radar, last year Latvians saw China as one of the top three countries that pose a threat to their country. The first two are Russia and the US. Unlike these two countries, Latvians do not associate China with militarization, but rather with other threats such as economic oppression, potential migration flows, as well as challenges in cyberspace, especially as regards the implementation of 5G. At the same time, many of the respondents who have demonstrated these fears have also manifested a lack of knowledge about China and its intentions. During focus group interviews, part of the respondents who were concerned about China\u2019s influence reflected conspiracy theories translated in Russian state media or other media channels, such as YouTube, for example. And it is not surprising. According to statistics provided by Latvian Research Centre SKDS, a bit more than half of Latvians believe that their life is influenced by various conspiracies.\"- https://chinaobservers.eu/the-unknown-other-perceptions-of-china-in-latvia/ \n\n\n\n",
+                "evidence_urls": [
+                    "https://ceias.eu/survey-europeans-views-of-china-in-the-age-of-covid-19/",
+                    "https://ceias.eu/wp-content/uploads/2021/03/LV-poll-report.pdf",
+                    "https://www.fpri.org/article/2021/04/go-with-the-devil-you-dont-know-latvians-still-believe-in-economic-cooperation-with-china/ "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "\"The People\u2019s Republic of China has emerged as a player in the Baltic in recent years. This is partly through its close military links and strategic partnership with Russia, partly through the China and Central and Eastern Europe Countries (CCEEF) mechanism, and partly through its flagship initiative of the Silk Road Economic Belt (SREB). In turn this economic sway through the CCEEC and SREB frameworks gives China more political leverage over Baltic policies. The Baltic States refers primarily to the three ex-Soviet republics of Lithuania, Latvia, and Estonia; with Latvia having particularly embraced China\u2019s Silk Road, but also having accommodated the most to Chinese political pressures.\u201d - https://sciendo.com/pdf/10.2478/jobs-2018-0001 \n\n\u201cChinese Defense Minister Liang Guanglie here on Monday met his Latvian counterpart Artis Pabriks, with both sides pledging to enhance bilateral military cooperation. During the meeting, Liang said that China attaches great importance to developing defense and military ties with Latvia and is willing to enhance mutual understanding, strengthen mutual trust, deepen friendship, and promote cooperation so as to push the bilateral military ties to a new level. He noted that over the 21 years since the establishment of diplomatic ties, relations between the two countries have maintained a sound momentum of development.\u201d: http://www.chinatoday.com.cn/ctenglish/se/txt/2012-06/26/content_463143.htm \n",
+                "evidence_urls": [
+                    "https://sciendo.com/pdf/10.2478/jobs-2018-0001 ",
+                    "http://www.chinatoday.com.cn/ctenglish/se/txt/2012-06/26/content_463143.htm "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "Military expenditure (% of GDP) - Latvia: https://data.worldbank.org/indicator/MS.MIL.XPND.GD.ZS (",
+                "evidence_urls": [
+                    "https://data.worldbank.org/indicator/MS.MIL.XPND.GD.ZS",
+                    "https://trendeconomy.com/data/h2/Latvia/93"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [
+                    "https://trendeconomy.com/data/h2/Latvia/93"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "The evidence of the participation is not found, but there has been a dialogue in this issue- The Chinese Embassy in Latvia Holds A Reception to Mark the 85th Anniversary of PLA Founding: \"Zhang also talked about the progress achieved by the PLA in modernization campaign in the new historical era and its active participation in international peace-keeping, joint escort operation and HADR operations in recent years. China will unswervingly stick to the path of peaceful development and pursue a national defense policy that is defensive in nature, Zhang stressed - https://www.mfa.gov.cn/ce/celv/eng/xwdt/t957455.htm ",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/celv/eng/xwdt/t957455.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "\"Among the Baltic States, security cooperation has advanced especially in the area of peace\u2013keeping where we have a joint battalion called BALTBAT and in air space control. In these areas, the Baltic States military structures are integrated.\": https://www.vestnesis.lv/ta/id/8109 \nThe evidence regarding the PLA's deployment is not found.",
+                "evidence_urls": [
+                    "https://www.vestnesis.lv/ta/id/8109"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No evidence found of conducted military training by PRC.",
+                "evidence_urls": [
+                    "http://www.emilyo.eu/sites/default/files/Gell%20Fiches/LATVIA%20Army_0.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No Public evidence available. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No direct evidence of the coordination is found but the Chinese embassy annually conducts events regarding the PLA founding:\n\nThe Chinese Embassy in Latvia Holds A Reception to Mark the 88th Anniversary of PLA Founding- https://www.mfa.gov.cn/ce/celv/eng/xwdt/t1284835.htm \n\nPLA Foreign Affairs Delegation Visited Latvia- https://www.mfa.gov.cn/ce/celv/eng/xwdt/t869386.htm\n\nThe Chinese Embassy in Latvia Holds A Reception to Mark the 85th Anniversary of PLA Founding- https://www.mfa.gov.cn/ce/celv/eng/xwdt/t957455.htm\n\nLatvian intelligence names China, Russia a threat: https://www.lrt.lt/en/news-in-english/19/1177615/latvian-intelligence-names-china-russia-a-threat",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/celv/eng/xwdt/t1284835.htm",
+                    "https://www.mfa.gov.cn/ce/celv/eng/xwdt/t869386.htm",
+                    "https://www.lrt.lt/en/news-in-english/19/1177615/latvian-intelligence-names-china-russia-a-threat"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "\"Chinese Defense Minister Liang Guanglie said that China looks forward to enhancing military exchanges and cooperation with Latvia\"-http://www.chinatoday.com.cn/ctenglish/se/txt/2012-06/26/content_463136.htm \nDialogue has been conducted in that regard but direct evidence of the military exchange exercises is not available.",
+                "evidence_urls": [
+                    "http://www.chinatoday.com.cn/ctenglish/se/txt/2012-06/26/content_463136.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "\"China maintains extradition treaties with 59 nations/jurisdictions while 39 of them are ratified.[3] According to the official website of the People's Procuratorate of Guangdong Province, by October 2018, the countries below have signed extradition treaties with People's Republic of China\"\" https://en.wikipedia.org/wiki/Extradition_law_in_China#:~:text=Extradition%20law%20in%20China%20is,extradition%20of%20its%20own%20nationals.- Latvia is not among the countries.\n\n\"Treaty between the Republic of Latvia and the People's Republic of China on Mutual Judicial Assistance in Criminal Matters\"- https://m.likumi.lv/ta/id/217449-treaty-between-the-republic-of-latvia-and-the-peoples-republic-of-china-on-mutual-judicial-assistance-in-criminal-matters\n",
+                "evidence_urls": [
+                    "https://m.likumi.lv/ta/id/217449-treaty-between-the-republic-of-latvia-and-the-peoples-republic-of-china-on-mutual-judicial-assistance-in-criminal-matters"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.legislationline.org/download/id/5406/file/Latvia_CODEXTER_Profile_2013.pdf "
+                ],
+                "note": "\u201cAs a framework for further legislation the Latvian Parliament has adopted a political strategy document - the National Security Concept, and on executive-level, the Government has adopted the National Counterterrorism Plan. Those policy planning documents set out the particular tasks that shall be carried out by national authorities involved in the prevention and suppression of terrorism to decrease the potential endangerment of terrorism or terrorist offenses.\u201d  https://www.legislationline.org/download/id/5406/file/Latvia_CODEXTER_Profile_2013.pdf \n\nCooperation with PRC is not identified \n",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No direct evidence is available. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "\"China, on a par with Russia, was mentioned as the main cyber threat to NATO and the European Union (EU). According to the authors of the report, the number of Beijing\u2019s cyber attacks is gradually increasing and poses a serious problem for the security and interests not only of Latvia but also of other Western countries. SAB analysts estimate that this trend will continue.\" - https://warsawinstitute.org/latvias-intelligence-china/\n\nRemarks by Spokesperson of the Chinese Embassy in Latvia on statement of Latvian Ministry of Foreign Affairs regarding China-related cyberspace activities: https://www.mfa.gov.cn/ce/celv/eng/xwdt/t1893405.htm\n\nMoreover, any direct, targeted espionage acts have not been identified.\n\n",
+                "evidence_urls": [
+                    "https://warsawinstitute.org/latvias-intelligence-china/",
+                    "https://www.mfa.gov.cn/ce/celv/eng/xwdt/t1893405.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "\"Latvia's Ministry of Foreign Affairs (MFA) said July 19 it was concerned by \"malicious cyber activities targeting and affecting democracy, security and economies of the EU Member States and our allies and partners, both at the state level and the level of private entities and institutions\".\"- https://eng.lsm.lv/article/society/crime/latvia-calls-on-china-to-stick-to-international-cyberspace-rules.a413570/\nAdditionally, attack on Latvian cyber space has not been identified.",
+                "evidence_urls": [
+                    "https://eng.lsm.lv/article/society/crime/latvia-calls-on-china-to-stick-to-international-cyberspace-rules.a413570/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "Public information is not available regarding the issue.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "No evidence is identified.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No public data is available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence can be found.\n",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "The 110 Taiwanese citizens who were detained in Riga and the Riga region in August for telephone fraud have been deported to their country of origin, Latvijas Avize daily reported on September 27- https://eng.lsm.lv/article/society/crime/110-taiwanese-citizens-deported-from-latvia.a251597/ \n\nChina earlier had asked for extradition of six of the detained Taiwanese citizens, but Latvia rejected the request- https://eng.lsm.lv/article/society/crime/110-taiwanese-citizens-deported-from-latvia.a251597/",
+                "evidence_urls": [
+                    "https://eng.lsm.lv/article/society/crime/110-taiwanese-citizens-deported-from-latvia.a251597/ ",
+                    "https://eng.lsm.lv/article/society/crime/110-taiwanese-citizens-deported-from-latvia.a251597/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "\"China earlier had asked for extradition of six of the detained Taiwanese citizens, but Latvia rejected the request.\nThe representative of the Tapei mission said that Taiwan is conducting its own investigation and if China has any proof, it is invited to provide it to Taiwanese authorities in line with the mutual agreement on legal assistance. China considers Taiwan its own territory and the majority of the world\u2019s countries have not recognized Taiwan as an independent country.\"- https://eng.lsm.lv/article/society/crime/110-taiwanese-citizens-deported-from-latvia.a251597/\nOther cases are not identified.",
+                "evidence_urls": [
+                    "https://eng.lsm.lv/article/society/crime/110-taiwanese-citizens-deported-from-latvia.a251597/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Latvia has a GDP per capita of US$20581.12 and a total population of 1,847,319 people, with the Chinese population comprising 128 people or 0.007% of the total population.\n",
+    "description-2": "Latvia established diplomatic relations with the People's Republic of China in 1991. Latvia was ranked 22nd in Reporters Without Borders' 2021 World Press Freedom Index, and Free in Freedom House's 2021 Global Freedom Status, with a score of 88/100."
+}

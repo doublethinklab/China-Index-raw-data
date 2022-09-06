@@ -1,0 +1,943 @@
+{
+    "name": "Lebanon",
+    "partner": "Civic IDEA",
+    "year": "2021",
+    "GDP": "$6,100.0",
+    "population": "6.7M",
+    "original": "112/388",
+    "ranking": "33",
+    "overall": "29%",
+    "effect": "31%",
+    "exposure": "33%",
+    "pressure": "6%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "No Evidence Found on the following link: https://www.worldchinesemedia.com/?s=%E9%BB%8E%E5%B7%B4%E5%AB%A9  ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "skip",
+                "evidence": "There are tours for Media representatives, but it is unclear who is financing them. \n\n\"The media plays a fundamental role in developing and strengthening relations between the two countries, especially at the commercial level, through Intensifying training courses for Lebanese journalists and editors in order to benefit from Chinese capabilities and expertise in this field.\" \nhttps://www.chinainarabic.org/?p=39190  \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "3",
+                "evidence": "\"The media plays a fundamental role in developing and strengthening relations between the two countries, especially at the commercial level, through Intensifying training courses for Lebanese journalists and editors in order to benefit from Chinese capabilities and expertise in this field.\" \nhttps://www.chinainarabic.org/?p=39190 ",
+                "evidence_urls": [
+                    "https://www.chinainarabic.org/?p=39190"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "4",
+                "evidence": "\u201cChinese channels were introduced on the Arab satellites Nilesat and Arabsat, such as CGTN Arabic and China Arab Tv, so that these stations broadcast Chinese programs translated into Arabic.\nCGTN has created a special section for social communication run by Chinese employees specialized in the Arabic language and Arab employees, and the task of this section is to present events and news related to China in particular, and the world in general, on social media such as Facebook, Twitter, Instagram, and Wechat, which is also done by China Radio.\u201d https://www.chinainarabic.org/?p=39190 \n",
+                "evidence_urls": [
+                    "https://www.chinainarabic.org/?p=39190 ",
+                    "http://www.chinatoday.com.cn/Arabic/203a1n12/2003n3/bn4.htm ",
+                    "https://www.facebook.com/cgtnarabic/ "
+                ],
+                "note": "The both sides started working on airing Chinese media in Arabic already back in 2003. http://www.chinatoday.com.cn/Arabic/203a1n12/2003n3/bn4.htm \nhttps://www.facebook.com/cgtnarabic/ \n",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "chinainarabic (http://www.chinainarabic.org/) is based in Lebanon and Mayadeen (www.almayadeen.net) is also a regional media based in Lebanon, but there financial subsidies and ownership are unknown.",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "On the website of the media outlet http://www.chinainarabic.org/, which is based in Lebanon (is a local media) in the \"Who we are\" section, we see the list of Chinese media outlets from where their content is derived:\n\nChina Radio International - Arabic section\nChina today\nChina Arabic TV\nChina network\nChina People's Newspaper",
+                "evidence_urls": [
+                    "http://www.chinainarabic.org/?page_id=2"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "2",
+                "evidence": "Chinese Ambassador to Lebanon in local radio https://www.facebook.com/watch/?v=6986804924677823 \n\nAmbassador Chian Menjian's interview with the journalist Reiman Dou on Lebanon TV https://www.youtube.com/watch?v=GiR2ct1Cpho \n\nThe facebook post of Lebanese Communist Party that participated in International Summit organized by China and attended by Xi jinping. https://m.facebook.com/story.php?story_fbid=2050153871803157&id=117413761743854\n\n\"Interview: A Lebanese Party Member: The achievements of the Chinese Communist Party over its 100-year history are a miracle worth studying\" http://arabic.news.cn/2021-04/28/c_139912098.htm \n\nwww.almayadeen.net which is based in Lebanon published: \"\"Lebanon's trend towards China: opportunities and Challenges\" https://www.almayadeen.net/articles/blog/2375963/%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%86%D8%AD%D9%88-%D8%A7%D9%84%D8%B5%D9%8A%D9%86:-%D8%A7%D9%84%D9%81%D8%B1%D8%B5-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA \n\n",
+                "evidence_urls": [
+                    "https://www.facebook.com/watch/?v=6986804924677823 ",
+                    "https://www.youtube.com/watch?v=GiR2ct1Cpho ",
+                    "https://m.facebook.com/story.php?story_fbid=2050153871803157&id=117413761743854",
+                    "http://arabic.news.cn/2021-04/28/c_139912098.htm",
+                    "https://www.almayadeen.net/articles/blog/2375963/%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%86%D8%AD%D9%88-%D8%A7%D9%84%D8%B5%D9%8A%D9%86:-%D8%A7%D9%84%D9%81%D8%B1%D8%B5-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "1",
+                "evidence": "Denouncing the views critical of the PRC government, e.g. The Beirut-based Islam Times published: \u201cThe US investigation into the origins of Covid-19 is a \"futile and unscientific ploy\" to blame China\u201d http://arabic.people.com.cn/n3/2021/0902/c31662-9891482.html  ",
+                "evidence_urls": [
+                    "http://arabic.people.com.cn/n3/2021/0902/c31662-9891482.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "In a recent interview with Xinhua, Adham El-Sayed, a member of the Central Committee of the Lebanese Communist Party, stressed \"The great importance that the Chinese Communist Party attaches to protecting the rights of ethnic minorities, he stated that from his experience in China he found a far-reaching respect for religious matters, pointing out that he and his colleagues, some of whom came from Arab and Islamic countries, felt the depth of respect for religious beliefs in China and that protecting freedom of belief Religion in China is guaranteed by law.\" http://arabic.news.cn/2021-04/28/c_139912098.htm ",
+                "evidence_urls": [
+                    "http://arabic.news.cn/2021-04/28/c_139912098.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "The Lebanese-Chinese Friendship Committee https://www.lp.gov.lb/MemberDetails?Id=14 ",
+                "evidence_urls": [
+                    "https://www.lp.gov.lb/MemberDetails?Id=14 ",
+                    "https://cpaffc.org.cn/index/xiehui/diquguobieyouxie/lang/2.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "2",
+                "evidence": "Al-Mustaqbal delegation meets with Chinese Vice Foreign Minister 2015 https://www.lebanonfiles.com/news/929750/javascript(0/ \n\nThe Lebanese Foreign Minister meets the Chinese Ambassador to Lebanon to discuss the Syrian crisis http://arabic.people.com.cn/31660/8012956.html \n\nPresident of the Lebanese Republic, Michel Aoun, met the Chinese Ambassador to Lebanon Wang Kejian at the Presidential Palace in Baabda https://www.spa.gov.sa/viewfullstory.php?lang=ar&newsid=1888997 \n",
+                "evidence_urls": [
+                    "https://www.lebanonfiles.com/news/929750/javascript(0/ ",
+                    "http://arabic.people.com.cn/31660/8012956.html ",
+                    " https://www.spa.gov.sa/viewfullstory.php?lang=ar&newsid=1888997 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "3",
+                "evidence": "\"China Women's University (CWU) launched an opening ceremony for the Seminar on Social Management Capability Building for Female Officials from Developing Countries, on April 11, 2018.\nThe 15-day seminar, which had received great support from the All-China Women's Federation (ACWF) and the Academy for International Business Officials (AIBO) from the Ministry of Commerce, drew the attendance of 28 female officials from Uganda, Ghana, Palestine, South Sudan, Lebanon, Iraq, Grenada and Uzbekistan.SCO Forum on Women's Education and Poverty Reduction Held in Beijing - All-China Women's Federation (ACWF), in collaboration with the Commission of Good-Neighborliness, Friendship and Cooperation of the Shanghai Cooperation Organization (GNFCC SCO) and the Secretariat of the SCO, held the SCO Forum on Women's Education and Poverty Reduction in Beijing on July 20, 2021. Approximately 200 participants attended the forum. International guests included diplomats from SCO countries, Zambia, Lebanon, Guyana and various international organizations.\" https://www.womenofchina.cn/womenofchina/html1/special/cwu/1805/1917-1.htm \n",
+                "evidence_urls": [
+                    "https://www.womenofchina.cn/womenofchina/html1/special/cwu/1805/1917-1.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No Evidence",
+                "evidence_urls": [],
+                "note": "Back in 1957 https://www.fmprc.gov.cn/ce/cejo/ara/zygx/t1164568.htm ",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "Lebanon has not shown support.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "\u201cChina is stepping up its diplomatic outreach over controversial camps in its heavily Muslim region of Xinjiang, inviting more foreign diplomats to visit as it seeks to head off criticism from Muslim-majority countries and at the United Nations...\nA source at the Lebanese foreign ministry said Lebanon would not participate.\u201d\nhttps://www.reuters.com/article/us-china-xinjiang-idUSKCN1QA0XX \n",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-china-xinjiang-idUSKCN1QA0XX "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "Lebanon remained silent on PRC\u2019s treatment of its Tibet population.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "Lebanon expressed support to Hong Kong National Security Law https://en.wikipedia.org/wiki/Responses_to_the_2020_Chinese_involvement_with_Hong_Kong_national_security_law\n\nhttps://thediplomat.com/2020/07/which-countries-support-the-new-hong-kong-national-security-law/",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/Responses_to_the_2020_Chinese_involvement_with_Hong_Kong_national_security_law",
+                    "https://thediplomat.com/2020/07/which-countries-support-the-new-hong-kong-national-security-law/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "Huawei signs a memorandum of understanding with the Arab Open University in Lebanon http://arabic.people.com.cn/n3/2021/0409/c31660-9837333.html \n\n\"The Lebanese University signed a cooperation agreement with the Chinese telecom giant \"Huawei Technologies\" to implement the \"Huawei Academy\" program for information and networks at the university, develop curricula, provide professors and students with training and knowledge, and involve specialists and experts in this field.\" http://arabic.people.com.cn/n3/2020/0124/c31660-9651618.html \n",
+                "evidence_urls": [
+                    "http://arabic.people.com.cn/n3/2021/0409/c31660-9837333.html ",
+                    "http://arabic.people.com.cn/n3/2020/0124/c31660-9651618.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "\u201cIt is perhaps unsurprising that Lebanon was the first Arab country to host a Confucius Institute.\u201d https://www.isdp.eu/beijing-and-beirut-at-cross-roads-china-lebanon-relations/ \nhttp://en.people.cn/200611/11/eng20061111_320459.html \n\n\u201cThe Confucius Institute in Lebanon operated smoothly and became an important platform for teaching Chinese language and disseminating Chinese culture in Lebanon.\u201d https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2843_663676/ \n\nConfucius Institute at Saint Joseph University in Beirut http://arabic.people.com.cn/n3/2021/0716/c31660-9872931.html \nhttps://www.womenofchina.cn/womenofchina/html1/culture/lifestyle/19091/5115-1.htm \n\nConfucius Institute at a Beirut university https://www.ft.com/content/386b3fd2-01db-11e9-99df-6183d3002ee1 \n",
+                "evidence_urls": [
+                    "https://www.isdp.eu/beijing-and-beirut-at-cross-roads-china-lebanon-relations/ ",
+                    "http://en.people.cn/200611/11/eng20061111_320459.html ",
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2843_663676/ ",
+                    "http://arabic.people.com.cn/n3/2021/0716/c31660-9872931.html ",
+                    "https://www.womenofchina.cn/womenofchina/html1/culture/lifestyle/19091/5115-1.htm ",
+                    "https://www.ft.com/content/386b3fd2-01db-11e9-99df-6183d3002ee1 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "Lebanon does not include Chinese language in K12 or primary education, but the schools in Lebanon receive free educational books from the Chinese Embassy.\nhttps://www.unicef.org/lebanon/ar/%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%B3%D8%A7%D9%87%D9%85-%D9%81%D9%8A-%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9-%D9%84%D8%A3%D9%83%D8%AB%D8%B1-86-%D8%A3%D9%84%D9%81-%D8%B7%D9%81%D9%84-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86/%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%AD%D9%81%D9%8A%D8%A9 ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "Arab-Chinese Cooperation & Development Association (ACCDA) with the basing in Beirut, Lebanon to \u201cpromote the Silk Road Spirit, Strengthen China-Arab Cooperation\u201d https://www.facebook.com/ArabChinese/?ref=page_internal ",
+                "evidence_urls": [
+                    "https://www.facebook.com/ArabChinese/?ref=page_internal "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "No direct evidence found.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "Dr. Tamara Berro, Lebanese researcher - \"My relationship with China began in 2014 when I participated in the first academic forum between the Arab countries and China, which was organized by the Beijing University of Foreign Studies, and I participated in it on behalf of the Lebanese University and under the supervision of the Lebanese-Chinese Association for Friendship and Cooperation.\" http://arabic.people.com.cn/n3/2018/1008/c31660-9506522.html\n \nIn 2009, China welcomed more than 150 Lebanese professionals to attend seminars and symposiums in diverse disciplines including as business, finance, agriculture, press, and education. https://atalayar.com/en/content/chinese-geo-strategic-expansion-levant-case-study-lebanon \n",
+                "evidence_urls": [
+                    "http://arabic.people.com.cn/n3/2018/1008/c31660-9506522.html ",
+                    "https://atalayar.com/en/content/chinese-geo-strategic-expansion-levant-case-study-lebanon "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "evidence": "\"The Lebanese University signed a cooperation agreement with the Chinese telecom giant \"Huawei Technologies\" to implement the \"Huawei Academy\" program for information and networks at the university, develop curricula, provide professors and students with training and knowledge, and involve specialists and experts in this field.\" http://arabic.people.com.cn/n3/2020/0124/c31660-9651618.html ",
+                "evidence_urls": [
+                    "http://arabic.people.com.cn/n3/2020/0124/c31660-9651618.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "\u201cChina\u2019s Xinhua news agency reports a Chinese engineering company has been working to rehabilitate one of Lebanon\u2019s other ports, Tripoli, creating a berth to accommodate Chinese cranes capable of moving about 700 containers per day.\u201d\nhttps://www.voanews.com/a/middle-east_rebuilding-beirut-port-could-prove-controversial-analysts-say/6194386.html \n\nChina Harbor Engineering Company Ltd is a subsidiary of China Communications Construction Company (CCCC) controlled by the Chinese government. https://www.portseurope.com/port-of-tripoli-must-replace-destroyed-beirut-as-entry-gate-to-lebanon/ \n\nThe port of Tripoli in Lebanon - Chinese cranes and equipment are expected to boost the port's capacity (Photo) https://www.ft.com/content/386b3fd2-01db-11e9-99df-6183d3002ee1 \n\n\u201cThe cost of this phase of the project stood at $51.7 million. The construction works were carried out by Chinese contracting firm, China Harbor Engineering Company (CHEC). Dar Al Handasah (Shair and Partners sal) were the project's consultants. CHEC signed a contract with the Authority of the Port of Tripoli in 2009. The firm had initially won the bid to undertake the project back in 2004, but works were delayed. So far the project has cost around $80 million\u2026 Officials expect the new infrastructural enhancements to drive the port\u2019s activity up to unprecedented levels.\u201d\n(Bids are announced by Ministry of Public Works and Transportation) http://www.businessnews.com.lb/cms/Story/StoryDetails/1411/Tripoli-harbor-improved\n",
+                "evidence_urls": [
+                    "https://www.voanews.com/a/middle-east_rebuilding-beirut-port-could-prove-controversial-analysts-say/6194386.html ",
+                    "https://www.portseurope.com/port-of-tripoli-must-replace-destroyed-beirut-as-entry-gate-to-lebanon/ ",
+                    "https://www.ft.com/content/386b3fd2-01db-11e9-99df-6183d3002ee1 ",
+                    "http://www.businessnews.com.lb/cms/Story/StoryDetails/1411/Tripoli-harbor-improved"
+                ],
+                "note": "\u201cIn the past two years, Chinese delegations have visited Lebanon more than nine times to deliver messages from 10 Chinese companies that were willing to invest $12.5 billion in massive infrastructure projects in the country. These projects include railway infrastructure, solar power, cleaning the Litani River, and were proposed to a heavyweight Lebanese official, the expert revealed. Dr. Massoud Daher, head of the Chinese-Lebanese Friendship and Cooperation Committee, echoed this assertion when he told Arab News that China \u201cis forbidden from entering Lebanon in such ways.\u201d This explains why the numerous Chinese offers to Lebanon over the past years, particularly those in the electricity sector, have not yielded any results.\u201d https://www.the961.com/china-invest-lebanon-electricity/ ",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "Both Governments are working on this issue.",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "2",
+                "evidence": "\"China Women's University (CWU) launched an opening ceremony for the Seminar on Social Management Capability Building for Female Officials from Developing Countries, on April 11, 2018.\nThe 15-day seminar, which had received great support from the All-China Women's Federation (ACWF) and the Academy for International Business Officials (AIBO) from the Ministry of Commerce, drew the attendance of 28 female officials from Uganda, Ghana, Palestine, South Sudan, Lebanon, Iraq, Grenada and Uzbekistan.SCO Forum on Women's Education and Poverty Reduction Held in Beijing - All-China Women's Federation (ACWF), in collaboration with the Commission of Good-Neighborliness, Friendship and Cooperation of the Shanghai Cooperation Organization (GNFCC SCO) and the Secretariat of the SCO, held the SCO Forum on Women's Education and Poverty Reduction in Beijing on July 20, 2021. Approximately 200 participants attended the forum. International guests included diplomats from SCO countries, Zambia, Lebanon, Guyana and various international organizations.\" https://www.womenofchina.cn/womenofchina/html1/special/cwu/1805/1917-1.htm \n",
+                "evidence_urls": [
+                    "https://www.womenofchina.cn/womenofchina/html1/special/cwu/1805/1917-1.htm "
+                ],
+                "note": "Trips are taking both on party level and on government level especially from 2015. ",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "evidence": "\u201cMajor political parties of Lebanon sent delegations to China. Some Lebanese political parties sent their key members to China for training programs or workshops.\u201d https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2843_663676/ \n\n\u201cOn July 10, 2018, State Councilor and Foreign Minister Wang Yi met in Beijing with Minister of Economy and Trade Raed Khoury of Lebanon who was in China for the 8th Ministerial Meeting of the China-Arab States Cooperation Forum.\u201d https://www.mfa.gov.cn/ce/cgchiangmai/eng/zgyw/t1576559.htm \n",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2843_663676/ ",
+                    "https://www.mfa.gov.cn/ce/cgchiangmai/eng/zgyw/t1576559.htm "
+                ],
+                "note": "Lebanese Communist Party members attended summit organized by China \"For the happiness of the people: Responsibility of political parties\" and posted on their social media https://m.facebook.com/story.php?story_fbid=2050153871803157&id=117413761743854&m_entstream_source=permalink ",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "\u201cLebanese Minister of Foreign Affairs Abdallah Bou Habib congratulated the Chinese leaders and people on the 72nd anniversary of the founding of the PRC, and wished China more prosperity in the future.\nBou Habib said that Lebanon appreciates China for its participation in the United Nations Interim Forces in Lebanon, which contributes to preserving the country's sovereignty.\n\"We appreciate China's support for Lebanon in facing the burden of hosting the refugees and the displaced in light of the current difficult economic and financial conditions, and working in favor for their return to their homeland,\" he said.\nThe minister added that China continues to coordinate and cooperate with Lebanon to confront the COVID-19 pandemic by providing vaccines and other medical aids to contain the virus and reduce its negative repercussions.\u201d http://www.news.cn/english/2021-10/03/c_1310223707.htm \n\n\"His Excellency Minister Faras Al-Bayd pointed out that the coronavirus crisis is passing globally, especially with the emergence of new mutants, and multiple crises in Lebanon that greatly impacted the Lebanese health system. \"The valuable assistance provided by China will help the Lebanese side's preparations to face a new wave of the coronavirus pandemic, especially with the emergence of new mutants, and it will also help Lebanon to boost the vaccination campaign.\" https://www.facebook.com/ChinainLebanon/posts/458518132383106 \n\n\"Prime Minister Hariri cited China as an example of modernization to be emulated. This might make Beirut a logistics, economic, and business centre for China's BRI in the region. He brought up the subject of Syrian and Palestinian refugees in Lebanon and said that China, with its policy of opening up, might provide support in this area. Suleima n made an interesting observation about how the two countries can work together in the future.\"https://atalayar.com/en/content/chinese-geo-strategic-expansion-levant-case-study-lebanon\n\n\"A Lebanese Party Member: The achievements of the Chinese Communist Party over its 100-year history are a miracle worth studying\" http://arabic.news.cn/2021-04/28/c_139912098.htm\n",
+                "evidence_urls": [
+                    "http://www.news.cn/english/2021-10/03/c_1310223707.htm ",
+                    "https://www.facebook.com/ChinainLebanon/posts/458518132383106 ",
+                    "https://atalayar.com/en/content/chinese-geo-strategic-expansion-levant-case-study-lebanon ",
+                    "http://arabic.news.cn/2021-04/28/c_139912098.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No Direct Evidence Found. ",
+                "evidence_urls": [],
+                "note": "Nevertheless, Adham Al-Sayed, a member of a Lebanese party, \"is studying for a doctorate at Huazhong University of Science and Technology and has been residing in the Chinese city of Wuhan since 2015 and decided to stay in the city after the outbreak of the Covid-19 pandemic.\"",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "The PRC was Lebanon's number one trading partner in 2013, but not anymore due to internal disorders in Lebanon. Domestic factors, still impede trade cooperation. https://atalayar.com/en/content/chinese-geo-strategic-expansion-levant-case-study-lebanon ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "Not yet as china is being more involved in public infrastructure. Nevertheless \"China has shown its willingness, as the Chinese Ambassador to Lebanon Qian Minjian stated to contribute to the reconstruction of Beirut Port after the destruction it suffered in the August 4, 2020 bombing, and that Chinese companies are ready to study expansion and development projects for Lebanese ports. They are also ready to implement other projects In the fields of energy and transportation.\u201d https://strategicfile.com/%d8%a7%d9%84%d8%a7%d8%ad%d8%af%d8%ab/%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a%d8%a9-%d9%88%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa-%d8%a7/ \n\nAlso, in 2017, China has participated to widen and deepen the port of Tripoli, the closest to Syria, supplying various types of equipment, fund may be also deployed in the near future either via facilitated loans or other means. https://www.iflr.com/article/b1lp1vm14sf28n/chinese-outbound-investment-guide-2018-lebanon \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/news-events/news/2018/AIIB-Approves-Lebanon-Membership.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "The Federation of Chambers of Commerce, Industry and Agriculture in Lebanon (FCCIAL) is a member of the Silk Road Chamber of International Commerce. Also, Union of Arab Chambers (UAC) is a member of the Silk Road Chamber of International Commerce http://www.srcic.com/silk-road-members/?page=3 \n\n\u201cTripoli Municipalities Union is a member of China's Silk Road Chamber of International Commerce (SRCIC). SRCIC Chairman Adnan al Kassar said that the SRCIC is willing to lend Lebanon $2 billion at reasonable interest rates, according to Lebanese-Chinese relations.\u201d https://atalayar.com/en/content/chinese-geo-strategic-expansion-levant-case-study-lebanon \n\nIn 2017, prominent Lebanese and Chinese business groups signed in Lebanon two memorandums of understanding to boost the BRI, establishing a Business Council for the Silk Road. https://www.iflr.com/article/b1lp1vm14sf28n/chinese-outbound-investment-guide-2018-lebanon \nhttps://elaph.com/Web/Economics/2021/11/1457597.html\n\nThe opening of the Lebanese-Chinese Business Council in Beirut http://arabic.people.com.cn/31659/7793610.html\n",
+                "evidence_urls": [
+                    "http://www.srcic.com/silk-road-members/?page=3 ",
+                    "https://atalayar.com/en/content/chinese-geo-strategic-expansion-levant-case-study-lebanon ",
+                    "https://www.iflr.com/article/b1lp1vm14sf28n/chinese-outbound-investment-guide-2018-lebanon ",
+                    "https://elaph.com/Web/Economics/2021/11/1457597.html",
+                    "http://arabic.people.com.cn/31659/7793610.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No Evidence Found.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "Lebanon has signed bilateral investment agreement with China. https://www.privacyshield.gov/article?id=Lebanon-Trade-Agreements ",
+                "evidence_urls": [
+                    "https://www.privacyshield.gov/article?id=Lebanon-Trade-Agreements "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "\"In September 2018, a memorandum of understanding was signed between the Government of the People\u2019s Republic of China and the Government of the Republic of Lebanon on \u201cjoint promotion of cooperation within the framework of the Silk Road Economic Belt and the Maritime Silk Road Initiative for the Twenty-first Century.\u201d The memorandum stipulates the cooperation of the two sides in areas of common interest, including Transport, logistics and infrastructure, investment and trade, energy, renewable energy and cultural exchange between peoples, health and sports. Two agreements were signed for the Special Economic Zone in Tripoli with the Chinese Chamber of Commerce and the Ningchuan Technological Zone. It is worth noting the constant communication between the Chamber of Tripoli and North Lebanon and the Chinese Embassy in Lebanon in terms of enhancing joint capabilities to help launch major investment projects. The memorandum stipulates the cooperation of the two sides in areas of mutual interest, including transport, logistics, infrastructure, investment and trade, energy, renewable energy, cultural exchange between peoples, health and sports.\" https://uabonline.org/%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88/ ",
+                "evidence_urls": [
+                    "https://uabonline.org/%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%88/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "\"TOUCH ANNOUNCES 4.5G LTE ADVANCED NETWORK DEPLOYMENT ALL OVER LEBANON IN PARTNERSHIP WITH HUAWEI AND NOKIA. HARB: BY THE END OF SEPTEMBER 2016 LEBANON WILL ENJOY THE LATEST IN THE WORLD OF MOBILE TELECOMMUNICATIONS\" https://www.touch.com.lb/autoforms/portal/touch/about-touch/media-center/press-releases/45g \n\n\u201cHuawei\u2019s latest 5G equipment has enabled touch, the leading mobile telecommunications and data operator in Lebanon, to perform the first commercial 5G trial in the nation. At an event held under the auspices of the Prime Minister Designate Saad Hariri, represented by the Caretaker Minister of Telecommunication Jamal Jarrah, touch and Huawei gave a sneak peek of the 5G experience that customers will enjoy once the technology is fully deployed in Lebanon.\u201d 2018 https://www.huawei.com/en/news/2018/11/huawei-state-of-the-art-5g-lebanon \n\n\"Beirut \u2013 October 2, 2018: touch, the leading mobile telecommunications and data operator in Lebanon, managed by Zain Group, has performed the first commercial 5G trial in Lebanon using Huawei equipment, at an event held under the auspices of the Prime Minister Designate Saad Hariri represented by the Caretaker Minister of Telecommunications Jamal Jarrah. This trial showcased the real 5G experience that customers shall have once it is deployed in the country and 5G enabled devices become available.\" https://www.touch.com.lb/autoforms/portal/touch/about-touch/media-center/press-releases/5g \n",
+                "evidence_urls": [
+                    "https://www.touch.com.lb/autoforms/portal/touch/about-touch/media-center/press-releases/45g ",
+                    "https://www.huawei.com/en/news/2018/11/huawei-state-of-the-art-5g-lebanon ",
+                    "https://www.touch.com.lb/autoforms/portal/touch/about-touch/media-center/press-releases/5g "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "1",
+                "evidence": "\"Beirut - February 15, 2019: touch, the leading mobile telecommunications and data operator in Lebanon, managed by Zain Group, has collaborated with Huawei Consumer Business Group (CBG) to issue a special bundle package dedicated to the newest device release from Huawei, the Huawei Y7 Prime 2019.\"\nhttps://www.touch.com.lb/autoforms/portal/touch/about-touch/media-center/press-releases/y7 \n\nHUAWEI expresses its readiness to equip Beirut's Rafic Hariri International Airport with the world's latest \"Wi-Fi 6\" Network, but it has not been implemented yet. http://arabic.people.com.cn/n3/2019/0628/c31659-9592340.html \n",
+                "evidence_urls": [
+                    "https://www.touch.com.lb/autoforms/portal/touch/about-touch/media-center/press-releases/y7 ",
+                    "http://arabic.people.com.cn/n3/2019/0628/c31659-9592340.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "\"The following companies are part of Uniview's Partner Program, listed as \"partners\" in the Middle East. These are likely resellers, distributors, and/or system integrators of Uniview products.\nPartners: Al-Harib Security Systems, Al Khamar General Trading, Alerta Electronics, Arab Security (ASG), Boyut Security Technologies, Carnival Trading, Digital Link Group, Egemen Elektronik, Ezee Vision Technologies, Gulfstream Infotech Security & Surveillance systems LLC, Innovated Technology Services ITS, Integral Kurumsal Teknoloji \u00c7\u00f6z\u00fcmleri San.Tic.Ltd.\u015eti., Kuwait Secure Security & Devices Co., Netgate for Telecom and Information Security, Neutron Security Technology Co. Ltd, Original for Computer, Polar Electronic Systems LTD., Quqa Trading Co., Safety Control Island Trading, Saudi Company for Site Technology (ST), Smart Security & Safety, Taji Zewi, Tehama Technology, WAN Company for Networking Technology, Zentcom Teknoloji A.\u015e., Zoom Tech Electronics S.A.R.L\" https://chinatechmap.aspi.org.au/#/map/marker-3383 \n\n\u201cIn 2020, two sets of thermal body temperature monitoring equipment were donated to the Lebanese Government for installation in the Beirut Rafic Hariri International Airport.\u201d https://chinatechmap.aspi.org.au/#/map/marker-2896 \n",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-3383 ",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-2896 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "1",
+                "evidence": "\u201cDahua Technologies has decided to donate two sets of body temperature imaging devices valued at $27,000 to the Lebanese side to solve problems such as equipment and manpower shortages. After the devices arrived in Beirut on March 10, the company's employees installed, tested and operated the devices for two consecutive days and put them into service on March 12.\nThe devices were developed by the company during Chinese New Year. These devices have the ability to measure several people at once, quickly pass passengers and maintain a safe distance of 2-3 meters, and measure temperatures with high accuracy by over or minus 0.3 Celsius, effectively reducing the risk of infection to employees. The donation is the embodiment of the company's fulfillment of its community responsibility, the company stated.\u201d https://www.facebook.com/108776244023965/posts/128485458719710/ \n\n\u201cIn 2020, two sets of thermal body temperature monitoring equipment were donated to the Lebanese Government for installation in the Beirut Rafic Hariri International Airport.\u201d https://chinatechmap.aspi.org.au/#/map/marker-2896 \n",
+                "evidence_urls": [
+                    "https://www.facebook.com/108776244023965/posts/128485458719710/ ",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-2896 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "The CIPS website does not indicate the names of the financial institutions but the regional scope of their participants, according to which there are some financial institutions from Lebanon using CIPS. https://www.cips.com.cn/en/participants/participants_announcement/55500/index.html",
+                "evidence_urls": [
+                    "https://www.cips.com.cn/en/participants/participants_announcement/55500/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "\"Beirut, April 19, 2016: The MIT Enterprise Forum Arab Startup Competition final ceremony and Arab Youth Innovation Conference was held at the King Abdullah Economic City, in partnership with founding partner Community Jameel and Zain Group, who manages Touch on behalf of the Lebanon Telecom Ministry. There were 9 winning teams from 7 Arab countries: Kuwait, Saudi Arabia, Jordan, Lebanon, Egypt, Morocco and Tunis. The winning teams were across three tracks - Ideas, Startups, and Social Entrepreneurship... The competition\u2019s final award ceremony was held in Saudi Arabia with the support of the government partner the Economic Cities Authority and hosting partner the King Abdullah Economic City along with global technology provider Huawei.\" \nhttps://www.touch.com.lb/autoforms/portal/touch/about-touch/media-center/press-releases/mittttt ",
+                "evidence_urls": [
+                    "https://www.touch.com.lb/autoforms/portal/touch/about-touch/media-center/press-releases/mittttt "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "TikTok is in top 5 of social media apps in Lebanon. https://www.mobileaction.co/top-apps/social-19/android/lb\nhttps://www.similarweb.com/zh-tw/apps/top/google/store-rank/lb/social/top-grossing/ ",
+                "evidence_urls": [
+                    "https://www.similarweb.com/zh-tw/apps/top/google/store-rank/lb/social/top-grossing/",
+                    "https://www.mobileaction.co/top-apps/social-19/android/lb"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "China and Arab states sign an action plan for cooperation in satellite navigation\nhttp://www.beidou.gov.cn/yw/xwzx/202201/t20220121_23559.html \n\nThe 3rd China-Arab States Beidou Cooperation Forum was successfully held in Beijing \nhttp://www.beidou.gov.cn/yw/xwzx/202112/t20211214_23440.html \nhttp://en.beidou.gov.cn/WHATSNEWS/201905/t20190514_17980.html \n",
+                "evidence_urls": [
+                    "http://www.beidou.gov.cn/yw/xwzx/202201/t20220121_23559.html ",
+                    "http://www.beidou.gov.cn/yw/xwzx/202112/t20211214_23440.html ",
+                    "http://en.beidou.gov.cn/WHATSNEWS/201905/t20190514_17980.html "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "\u201cThe cultural event \"Happy Spring Festival\" was successfully held in Lebanon.\u201d https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2843_663676/ \n\n\u201cChinese Ambassador to Lebanon Qian Minjian said since the beginning of this year, the embassy has held several events, including a New Year concert, a drawing competition for the youth, an online forum, and a special issue released in cooperation with Annahar Newspaper, to celebrate the golden jubilee of the diplomatic relations between China and Lebanon.\u201d http://www.news.cn/english/2021-11/18/c_1310317229.h",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "4",
+                "evidence": "\u201cAl-Abdullah founded and headed the Lebanese-Chinese Businessmen and Women\u2019s Association (LCBA), which works to strengthen relations and joint economic projects between Lebanese businessmen scattered around the world and China. The consortium is the first Lebanese private entity to sign a cooperation agreement with the Chinese Council for the Promotion of International Trade (CCPIT).\u201d https://strategicfile.com/%d8%a7%d9%84%d8%a7%d8%ad%d8%af%d8%ab/%d9%84%d8%a8%d9%86%d8%a7%d9%86-%d9%88%d8%a7%d9%84%d8%b5%d9%8a%d9%86-50-%d8%b9%d8%a7%d9%85%d9%8b%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%ab%d9%82%d8%a9/ \n\n\u201cSCO Forum on Women's Education and Poverty Reduction Held in Beijing - All-China Women's Federation (ACWF), in collaboration with the Commission of Good-Neighborliness, Friendship and Cooperation of the Shanghai Cooperation Organization (GNFCC SCO) and the Secretariat of the SCO, held the SCO Forum on Women's Education and Poverty Reduction in Beijing on July 20, 2021. Approximately 200 participants attended the forum. International guests included diplomats from SCO countries, Zambia, Lebanon, Guyana and various international organizations.\u201d https://www.womenofchina.cn/womenofchina/html1/2112/609-1.htm \n\n\"China Women's University (CWU) launched an opening ceremony for the Seminar on Social Management Capability Building for Female Officials from Developing Countries, on April 11, 2018.\nThe 15-day seminar, which had received great support from the All-China Women's Federation (ACWF) and the Academy for International Business Officials (AIBO) from the Ministry of Commerce, drew the attendance of 28 female officials from Uganda, Ghana, Palestine, South Sudan, Lebanon, Iraq, Grenada and Uzbekistan.SCO Forum on Women's Education and Poverty Reduction Held in Beijing - All-China Women's Federation (ACWF), in collaboration with the Commission of Good-Neighborliness, Friendship and Cooperation of the Shanghai Cooperation Organization (GNFCC SCO) and the Secretariat of the SCO, held the SCO Forum on Women's Education and Poverty Reduction in Beijing on July 20, 2021. Approximately 200 participants attended the forum. International guests included diplomats from SCO countries, Zambia, Lebanon, Guyana and various international organizations.\" https://www.womenofchina.cn/womenofchina/html1/special/cwu/1805/1917-1.htm \n\n\u201cIn 2013 the Chinese Association for Radio, Film and Television Exchanges received delegations from Ethiopia and the DPRK, and film crews from Lebanon, Gabon, the Democratic Republic of Congo, and India.\u201d http://www.chinaja.org.cn/2015-04/07/c_137851976_8.htm \n\n\u201cThe Chinese ambassador Qian Minjian reviewed the cultural exchanges between China and Lebanon, stressing that the Chinese side will continue to cooperate closely with the Lebanese side to establish a Chinese culture center in Lebanon as soon as possible and implement the project of the Lebanese National Higher Institute of Music funded by the Chinese government.\u201d http://arabic.people.com.cn/n3/2021/0708/c31660-9869546.html \n",
+                "evidence_urls": [
+                    "https://strategicfile.com/%d8%a7%d9%84%d8%a7%d8%ad%d8%af%d8%ab/%d9%84%d8%a8%d9%86%d8%a7%d9%86-%d9%88%d8%a7%d9%84%d8%b5%d9%8a%d9%86-50-%d8%b9%d8%a7%d9%85%d9%8b%d8%a7-%d9%85%d9%86-%d8%a7%d9%84%d8%ab%d9%82%d8%a9/ ",
+                    "https://www.womenofchina.cn/womenofchina/html1/2112/609-1.htm ",
+                    "https://www.womenofchina.cn/womenofchina/html1/special/cwu/1805/1917-1.htm ",
+                    "http://www.chinaja.org.cn/2015-04/07/c_137851976_8.htm ",
+                    "http://arabic.people.com.cn/n3/2021/0708/c31660-9869546.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No Evidence Found. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "No Evidence was Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Our expert mentioned that Lebanese society stays neutral towards the PRC. So it is difficult to identify the exact answer.",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "\u201cChina delivers 100 military vehicles to Lebanon\u201d https://www.defensenews.com/land/2021/06/14/china-delivers-100-military-vehicles-to-lebanon/ \n\nThe People\u2019s Liberation Army made a direct donation to the Lebanese Army to boost the fight against the COVID-19 pandemic. The items included surgical face masks, goggles, protective clothing and other medical supplies. https://www.arabnews.com/node/1683276/middle-east \n\n\"Since the beginning of this year, the Chinese People's Liberation Army (PLA) has provided COVID-19 vaccine assistance to armed forces of over 30 countries, including Pakistan, Cambodia, Philippines, Republic of Congo, Equatorial Guinea, Tunisia, Sierra Leone, Sudan, Laos, Lebanon, Hungary, Gabon, Ethiopia, Northern Macedonia, Zimbabwe, Serbia, Mauritania, Guinea, Mozambique, Bolivia, Myanmar, Vietnam, Sri Lanka, Bangladesh, Egypt and Nepal.\" http://eng.mod.gov.cn/news/2021-12/23/content_4901630.htm \n",
+                "evidence_urls": [
+                    "https://www.defensenews.com/land/2021/06/14/china-delivers-100-military-vehicles-to-lebanon/ ",
+                    "https://www.arabnews.com/node/1683276/middle-east ",
+                    "http://eng.mod.gov.cn/news/2021-12/23/content_4901630.htm "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "\"China is participating in the temporary United Nations peacekeeping force (UNIFIL) in Lebanon, where Prime Minister Wen Jiabao announced the deployment of 1,000 Chinese peacekeepers... China did not directly participate in the Lebanese mediation but played an indirect role by contributing through the United Nations and the UN Security Council. China also provided financial support to Lebanon.\" https://english.almayadeen.net/articles/blog/reflections-on-the-sinolebanese-relations \n\n\u201cChina's PLA donates medical supplies to Lebanese army to help fight COVID-19\u201d http://www.xinhuanet.com/english/2020-05/28/c_139096587.htm \n",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2020-05/28/c_139096587.htm ",
+                    "https://english.almayadeen.net/articles/blog/reflections-on-the-sinolebanese-relations",
+                    "http://en.brnn.com/n3/2021/0823/c415018-9886732.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "BEIRUT, Dec. 28, 2021 \u2013 \u201cThe 20th Chinese peacekeeping engineering contingent to Lebanon organized a night defense exercise against the severe local security situation on December 25, which aimed to temper the emergency response capability of peacekeepers.\u201c \nhttp://eng.mod.gov.cn/news/2021-12/28/content_4901884.htm ",
+                "evidence_urls": [
+                    "http://eng.mod.gov.cn/news/2021-12/28/content_4901884.htm "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Lebanon has a GDP per capita of US$6100.00 and a total population of 6,767,628  people, the number of the Chinese population in the country- is not available.",
+    "description-2": "Lebanon established diplomatic relations with the People's Republic of China in 1971. Lebanon was ranked 130th in Reporters Without Borders' 2021 World Press Freedom Index, and Partly Free in Freedom House's 2021 Global Freedom Status, with a score of 42/100. "
+}

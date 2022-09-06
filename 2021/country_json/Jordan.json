@@ -1,0 +1,938 @@
+{
+    "name": "Jordan",
+    "partner": "Civic IDEA",
+    "year": "2021",
+    "GDP": "$4,416.63",
+    "population": "10.4M",
+    "original": "90/396",
+    "ranking": "36",
+    "overall": "23%",
+    "effect": "19%",
+    "exposure": "29%",
+    "pressure": "0%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "According to their website, no Jordanian media organization is a member of the World Chinese Media Network https://www.worldchinesemedia.com/category/guanyuxiehui/ ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "Jordan Radio and Television Corporation is a member of the Belt and Road News Alliance. https://brnalink.com/members.html",
+                "evidence_urls": [
+                    "https://brnalink.com/members.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "\"Amman, May 28 (Petra) -- A two-week training programme for Arab Journalists concluded in Beijing with the aim of boosting China's relations with the Arab world in the media field.\nSome 39 journalists from ten Arab countries, including 3 from Jordan, participated in the program, which started on May 10, and included seminars, discussions and field tours to acquaint the participants with China's development experiment.\"",
+                "evidence_urls": [
+                    "https://www.thefreelibrary.com/China-organised+training+programme+for+Arab+Journalists+concludes-a0494820110"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "4",
+                "evidence": "\"Amman, May 28, 2017 (Petra) -- A two-week training programme for Arab Journalists concluded in Beijing with the aim of boosting China's relations with the Arab world in the media field.\n\nSome 39 journalists from ten Arab countries, including 3 from Jordan, participated in the program, which started on May 10, and included seminars, discussions and field tours to acquaint the participants with China's development experiment.\" https://www.thefreelibrary.com/China-organised+training+programme+for+Arab+Journalists+concludes-a0494820110 \n\n\"Representatives from Egypt, Jordan, Lebanon, Libya, Morocco, Saudi Arabia, and the United Arab Emirates also attended a three-week \"Seminar for Senior Media Staff in Arab Countries\" at an unspecified date.\nDetails about what actually happens during those seminars are scant. But pictures published by the Chinese ministry of commerce of a seminar on the \"promotion of international cooperation,\" held last August for 43 officials from BRI countries, showed delegates attending a lecture by Chinese officials and receiving a \"graduation certificate\" at the end.\" https://www.businessinsider.com/china-taught-foreign-countries-journalists-how-to-restrict-speech-2018-11",
+                "evidence_urls": [
+                    "https://www.thefreelibrary.com/China-organised+training+programme+for+Arab+Journalists+concludes-a0494820110 ",
+                    "https://www.businessinsider.com/china-taught-foreign-countries-journalists-how-to-restrict-speech-2018-11"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "Jordan Times, airing information derived from China Daily and Xinhua \nhttp://www.jordantimes.com/search/site/china%20daily \nhttp://www.jordantimes.com/search/site/Xinhua \n",
+                "evidence_urls": [
+                    "http://www.jordantimes.com/search/site/china%20daily ",
+                    "http://www.jordantimes.com/search/site/Xinhua "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "Reports of China\u2019s Repression in Xinjiang \u2018100 Percent True\u2019: Jordanian Journalist https://www.rfa.org/english/news/uyghur/reports-09122019172439.html \nThe article shows a totally different stance, as the Jordanian Journalist provides the evidence of the existence of human rights abuses in the PRC.",
+                "evidence_urls": [
+                    "https://www.rfa.org/english/news/uyghur/reports-09122019172439.html "
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "Jordan-China Friendship Committee of the Senate,\nJordan-China Cultural Cooperation Committee https://tagconfucius.com/article/view/Directors-of-TAG-Confucius-Institute-Attend-National-Day-Reception-Held-by-Chinese-Embassy-in-Jordan \n",
+                "evidence_urls": [
+                    "https://tagconfucius.com/article/view/Directors-of-TAG-Confucius-Institute-Attend-National-Day-Reception-Held-by-Chinese-Embassy-in-Jordan "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "2",
+                "evidence": "2021 - \"Members of the Lower House's Foreign Affairs Committee and Chinese Ambassador Chen Chuandong on Tuesday discussed political and economic relations between the two countries and regional issues.\nHead of the committee MP Mirza Bolad said that Jordan and China maintained friendly relations, and called for closer cooperation and the exchange of expertise between the Jordanian parliament and China's National People's Congress, the Jordan News Agency, Petra, reported.\" \nhttps://www.jordantimes.com/news/local/members-house-foreign-affairs-committee-meet-china-ambassador \n2021 - \"Senate Second Vice President Rajai Muasher Monday discussed with the vice-chairperson of the National Committee of the Chinese People's Political Consultative Conference, Chen Xiaoguang, ways and means of cementing relations between the two countries, particularly in parliamentary fields.\" https://petra.gov.jo/Include/InnerPage.jsp?ID=39453&lang=ar&name=en_news \n",
+                "evidence_urls": [
+                    "https://www.jordantimes.com/news/local/members-house-foreign-affairs-committee-meet-china-ambassador ",
+                    "https://petra.gov.jo/Include/InnerPage.jsp?ID=39453&lang=ar&name=en_news "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "There is no direct evidence of Jordan denying Taiwan's right to participate in WHO.\n",
+                "evidence_urls": [],
+                "note": "However, there is one interesting article about Jordan asking Taiwan to change the name of its representative office in Amman due to pressure from China. https://www.taiwannews.com.tw/en/news/3417113",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No such evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "\u201cJordan and China also agreed to mutually support their vital interests, with the Kingdom stressing its commitment to the \u201cone China principle\u201d, renewing its position on Taiwan as an integral part of the Chinese mainland and supporting \u201cthe Chinese government\u2019s efforts to achieve peaceful development across the Taiwan Strait and its efforts to reunite the country\u201d.\nhttps://www.jordantimes.com/news/local/jordan-china-sign-strategic-partnership-agreement \n\n\"The Chinese side appreciates Jordan's firm support for issues concerning China's core interests, such as Taiwan-related issues and the South China Sea issue.\" https://www.mfa.gov.cn/ce/ceom//eng/zgyw/t1367551.htm ",
+                "evidence_urls": [
+                    "https://www.jordantimes.com/news/local/jordan-china-sign-strategic-partnership-agreement ",
+                    "https://www.mfa.gov.cn/ce/ceom//eng/zgyw/t1367551.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://en.royanews.tv/news/19582/MP-calls-on-government-to-summon-Chinese-ambassador-in-support-of-Uighur-Muslims",
+                    "https://www.middleeastmonitor.com/20200102-jordan-holds-solidarity-rally-with-chinas-uyghurs/"
+                ],
+                "note": "\"Jordanian MP Khaled Al-Hyari called on the government to summon the Chinese ambassador to confirm that Jordanians are against the aggression against Uighur Muslims in China.\" https://en.royanews.tv/news/19582/MP-calls-on-government-to-summon-Chinese-ambassador-in-support-of-Uighur-Muslims\n\n\"Jordan holds solidarity rally with China's Uyghurs\" https://www.middleeastmonitor.com/20200102-jordan-holds-solidarity-rally-with-chinas-uyghurs/ \n\nEven though population and MP have shown support to the Uighur population of China, official Jordan has remained silent.",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "There have been no public statements made, except that Jordan supports \"One China Policy\".",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "No public statements are made by the Jordanian authorities on national security law on Hong Kong.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "\u201c[Salt, Jordan, October 24, 2019] Together with Huawei, Al Balqa\u2019 Applied University(BAU) has officially launched the country\u2019s first Huawei ICT Academy in the university campus in Salt city, with the presence of H.E Mr. Pan Weifang, the Ambassador of Chinese Embassy. Targeting to training more than 500 students per year in the latest technology such as Cloud Computing and AI, the both parties are also planning to make the Academy into the regional training center in the future.\u201d https://e.huawei.com/ph/news/service/2019/first-huawei-ict-academy-in-Jordan \n\"The President of the German Jordanian University (GJU), Prof. Manar Fayyad, and the Head of the educational sector at Huawei in Jordan, Naser Abdel Nour, discussed cooperation between the two sides in areas of common interest.\" http://www.gju.edu.jo/news/gju-discusses-ways-cooperation-huawei-11639 \n\"Huawei signs a deal with Jordan University of Science and Technology to build on-campus cybersecurity, #AI & #5G academy to enhance students' digital skills & knowledge, driving the country\u2019s vision of becoming a regional hub for ICT.\" https://www.facebook.com/huawei/posts/10158840382725874 \n\"PSUT SIGNS AGREEMENT WITH HUAWEI TO CREATE ACADEMY SPECIALIZING IN CYBERSECURITY AND ARTIFICIAL INTELLIGENCE\" https://psut.edu.jo/content/psut-signs-agreement-huawei-create-academy-specializing-cybersecurity-and-artificial \n2019 - \"Jordan and China's telecommunication giant Huawei on Sunday signed an agreement to establish three academies in Jordan to enhance skills of young Jordanians in the field of technology.\" https://www.chinadaily.com.cn/a/201904/07/WS5ca9fe67a3104842260b4bc4.html\n",
+                "evidence_urls": [
+                    "https://e.huawei.com/ph/news/service/2019/first-huawei-ict-academy-in-Jordan ",
+                    "http://www.gju.edu.jo/news/gju-discusses-ways-cooperation-huawei-11639 ",
+                    "https://www.facebook.com/huawei/posts/10158840382725874 ",
+                    "https://psut.edu.jo/content/psut-signs-agreement-huawei-create-academy-specializing-cybersecurity-and-artificial ",
+                    "https://www.chinadaily.com.cn/a/201904/07/WS5ca9fe67a3104842260b4bc4.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "\"Talal Abu-Ghazaleh Confucius Institute was established in September 2008 to promote the Chinese language and culture in order to reach a better mutual understanding between Arab and Chinese cultures...TAG-CI is the first official Chinese language teaching center in Jordan where Chinese lessons are conducted by professional teachers from the Shenyang Normal University in Shenyang.\" https://tagconfucius.com/article/view/About%20Us \n\"Confucius Institute at Philadelphia University, Jordan, is located in Amman, the capital of the Hashimite Kingdom of Jordan, of which the host university and the Chinese partner university are respectively Philadelphia University, Jordan and Liaocheng University.\" https://www.philadelphia.edu.jo/centers/confucius/about.html \n",
+                "evidence_urls": [
+                    "https://tagconfucius.com/article/view/About%20Us ",
+                    "https://www.philadelphia.edu.jo/centers/confucius/about.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "2",
+                "evidence": "Al-albayt University, Jeraih University, Mutah University, Tafila Technical University and Amman University are the members of University Alliance of the Silk Road http://uasr.xjtu.edu.cn/Members/Members.htm ",
+                "evidence_urls": [
+                    "http://uasr.xjtu.edu.cn/Members/Members.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "2",
+                "evidence": "\"China University of Geosciences was authorized by Chinese government to cooperate with Ministry of higher Education and Scientific Research of Jordan on the construction of joint higher education institute: \u201cSino-Jordan University\u201d.\"\nhttps://eniec.cug.edu.cn/info/1058/1146.htm\nhttps://www.jordantimes.com/news/local/jordan-china-discuss-establishment-sino-jordanian-university\n\n\"The Chinese government had already expressed its willingness to establish the university and finance its construction once a plot of land had been allocated for the project.\" http://vista.sahafi.jo/art.php?id=e45f600f891e90cf9a520cdaa102160218889414\n\n\"Under the agreement, which was signed by Culture Minister Nabih Shuqum and Chinese Ambassador to Jordan Pan Weifang, a Chinese-funded cultural centre will be established in the capital in the near future.\" http://www.jordantimes.com/news/local/chinese-cultural-centre-open-amman-soon",
+                "evidence_urls": [
+                    "https://eniec.cug.edu.cn/info/1058/1146.htm",
+                    "https://www.jordantimes.com/news/local/jordan-china-discuss-establishment-sino-jordanian-university",
+                    "http://vista.sahafi.jo/art.php?id=e45f600f891e90cf9a520cdaa102160218889414",
+                    "http://www.jordantimes.com/news/local/chinese-cultural-centre-open-amman-soon"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "\"Even in the absence of full agreement, the Chinese government established the \"Special Scholarship for Chinese Jordanian University\" in 2016 to support Jordanian students to study in China in a bid to train a pool of talents for the project. The scholarship has enrolled students for 6 consecutive years, and enrollment for 2021 has just completed with 132 students enrolled. Therefore, the project has not been suspended, but rather advanced steadily.\" http://jo.china-embassy.org/eng/dtxw/202108/t20210809_8917211.htm \n\n\u201cJordanian ICT talent recognised in finale of Huawei Middle East ICT Competition 2021\u201d https://www.jordantimes.com/news/local/jordanian-ict-talent-recognised-finale-huawei-middle-east-ict-competition-2021 ",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "3",
+                "evidence": "On December 22, 2021, Beijing time, the first China-Jordan friendly dialogue was held in Beijing. Themed by \"Once in a Blue Moon: Joint Development of the 'Belt and Road' and Jordan's '2025 Vision'\", the Dialogue was organized among the Chinese and Jordanian governments, experts and scholars in the fields of economy, trade, culture and education and industry representatives in cloud.\nThe event was sponsored by the China International Communication Group (CICG) and Beijing Foreign Studies University, organized by Beijing Xufang International Digital Culture Media Co., Ltd., Peking Foreign Studies University--Department of Arabic Studies, and supported by SDIC Mining Investment Co., Ltd. A total of 100 people participated in the event online and offline. https://www.prnewswire.com/news-releases/the-first-china-jordan-friendship-dialogue-held-in-beijing-301449972.html \n",
+                "evidence_urls": [
+                    "https://www.prnewswire.com/news-releases/the-first-china-jordan-friendship-dialogue-held-in-beijing-301449972.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "\"The Asian languages department was first established in the middle of the scholastic year 2007/2008 after being separated from the then Modern Language Department. This newly created department continues with the University of Jordan\u2019s time-honored tradition of providing its students with quality education mainly in the field of Asian language and literature. The department also hosts Chinese-English Program.\" http://languages.ju.edu.jo/Departments/School_DeptHome.aspx?deptname=%20Asian%20Languages ",
+                "evidence_urls": [
+                    "http://languages.ju.edu.jo/Departments/School_DeptHome.aspx?deptname=%20Asian%20Languages"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "The link provides information about a number of agreements (including on the sub-national level) signed between the Jordanian government and the PRC state-owned entities. https://www.ammonnews.net/article/242520\n\n\"A study conducted by the Chinese Railway Engineering Corporation for the Greater Amman Municipality (GAM) has confirmed that the topography of the city allows the implementation of the Amman Metro, according to a GAM official\" http://www.jordantimes.com/news/local/amman-suitable-metro-project-%E2%80%94-field-study",
+                "evidence_urls": [
+                    "https://www.ammonnews.net/article/242520",
+                    "http://www.jordantimes.com/news/local/amman-suitable-metro-project-%E2%80%94-field-study"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "Aqaba, Jordan \u2013 \u00dcr\u00fcmqi, China; Irbid, Jordan - Zhengzhou, China; https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Jordan \nAmman, Jordan \u2013 Beijing, China http://en.sistercity.info/sister-cities/Amman.html \nIrbid, Jordan - Cheung Chau, China http://en.sistercity.info/sister-cities/Irbid.html \n",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Jordan ",
+                    "http://en.sistercity.info/sister-cities/Amman.html ",
+                    "http://en.sistercity.info/sister-cities/Irbid.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "In 2013 \u2013 \u201cIn early September, Manar M. Dabbas, Director of the Political Affairs Directorate at the Royal Court, and Samer I. Asfour, Director of Economic and Social Department at the Royal Court, visited China to make preparations for King Abdullah II's visit. To implement the agreement reached by leaders of the two countries on developing bilateral relations, Vice Commerce Minister Li Jinzao led a government trade delegation to Jordan in November. In December, Minister of Foreign Affairs and Expatriate Affairs Joudeh led a delegation to China\u2026\nJordanian Tourism Minister Ibrahim Saif and the president of a Jordanian journalist association Tarek Muhammad, among others, visited or attended conferences in China.\u201d https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2833_663656/ \n2013 \u2013 \u201cKing Abdullah II touring the Huawei research center, Shanghai\u2019s Jinqiao economic zone, and the first China-Arab States Expo in Ningxia.\u201d https://www.theatlantic.com/china/archive/2013/09/jordan-chinas-gateway-to-the-middle-east/279988/  \n",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2833_663656/ ",
+                    "https://www.theatlantic.com/china/archive/2013/09/jordan-chinas-gateway-to-the-middle-east/279988/  "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No direct evidence found.",
+                "evidence_urls": [],
+                "note": "China expressed support for the PLO rebels on September 19, 1970. https://uca.edu/politicalscience/dadm-project/middle-eastnorth-africapersian-gulf-region/jordan-1946-present/\n\nDuring Jordan\u2019s Black September in 1970, the Communist Party of China (CCP) supported the Palestinian fedayeen in their attempts at overthrowing the monarchy.\nhttps://encyclopediageopolitica.com/2020/09/23/chinas-ambitions-in-the-kingdom-of-jordan/",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "3",
+                "evidence": "\u201cJordanian Minister of Health Firas Hawari expressed his appreciation to the Chinese government for the generous donation and support provided to Jordan in various fields, especially in fighting the pandemic, adding that this donation will contribute to Jordan's national campaign of vaccination against the coronavirus.\u201d http://www.news.cn/english/2021-11/05/c_1310291021.htm \n\n\"Amman Chamber of Commerce (ACC) President Issa Murad on Wednesday called on Chinese firms to take advantage of investment opportunities available in Jordan and to take part in mega-projects the Kingdom plans to carry out, a chamber statement said. At a meeting with Chinese Ambassador to Jordan Gao Yusheng, Murad described China as one of Jordan\u2019s major trade partners, indicating that nearly 30 per cent of goods imported to the Kingdom are from China. Trade volumes between the two countries reached $3.6 billion in 2013, he noted. The ACC president called for constant coordination between the chamber and the embassy, particularly with regards to problems facing Jordanian businesspeople who import from China, according to the statement.\" http://www.jordantimes.com/news/business/murad-urges-more-chinese-investments-activities-jordanian-projects",
+                "evidence_urls": [
+                    "http://www.news.cn/english/2021-11/05/c_1310291021.htm ",
+                    "http://www.jordantimes.com/news/business/murad-urges-more-chinese-investments-activities-jordanian-projects",
+                    "http://www.xinhuanet.com/english/2021-05/06/c_139928447.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "The EU is Jordan\u2019s biggest trade partner https://ec.europa.eu/trade/policy/countries-and-regions/countries/jordan/ \nChina is Jordan's third largest trading partner http://english.www.gov.cn/news/internationalexchanges/202101/29/content_WS601372a4c6d0f72576944bcc.html \n",
+                "evidence_urls": [
+                    "https://ec.europa.eu/trade/policy/countries-and-regions/countries/jordan/ ",
+                    "http://english.www.gov.cn/news/internationalexchanges/202101/29/content_WS601372a4c6d0f72576944bcc.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tradingeconomics.com/jordan/external-debt ",
+                    "https://docs.aiddata.org/ad4/pdfs/Banking_on_the_Belt_and_Road__Insights_from_a_new_global_dataset_of_13427_Chinese_development_projects.pdf "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "https://www.reuters.com/article/china-jordan-nuclear-idUKPEK30371120080820",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "\"At the 2015 China-Arab Expo, Jordan and China announced the signing of US$7 billion in investment agreements in what has been referred to as King Abdullah\u2019s \u201cPivot to Asia\u201d. Energy and transportation projects ruled the day, with the total package of agreements including a US$2.7 billion contract for the construction of a 900 MW shale-fired power plant and 1,000-megawatt renewable energy power plant, as well as a US$2.8 billion contract for a national railway network.\" https://www.policyforum.net/jordans-pivot-to-china/ \n\"Attarat Power Company (\u201cAPCO\u201d) announced that it has reached financial close for the USD 2.1 billion project to construct the first oil shale fired power station and open cast mine in Jordan...APCO is now owned 45% by YTL Power International of Malaysia, 45% by Guangdong Yudean Group Co. Limited of China and 10% by Eesti Energia. The shareholders have committed to provide base shareholder funding of up to USD 528 million to fund the project.\" https://www.energia.ee/en/uudised/avaleht/-/newsv2/2017/03/20/attarat-power-company-viis-lopule-jordaania-polevkivielektrijaama-rahastamise \n\n\"A Chinese company invested in the Arab Potash Corporation and became the largest shareholder. The company achieved record growth in potash fertilizer production and sales in 2020 despite the impact of the pandemic.\" http://jo.chineseembassy.org/eng/dtxw/202110/t20211025_10438737.htm\n",
+                "evidence_urls": [
+                    "https://www.policyforum.net/jordans-pivot-to-china/ ",
+                    "https://www.energia.ee/en/uudised/avaleht/-/newsv2/2017/03/20/attarat-power-company-viis-lopule-jordaania-polevkivielektrijaama-rahastamise ",
+                    "http://jo.chineseembassy.org/eng/dtxw/202110/t20211025_10438737.htm"
+                ],
+                "note": "\u201cSDIC Mining Investment of China is the biggest shareholder in Jordan\u2019s Arab Potash Company, which had been a major state-owned entity until 2003.\u201d https://www.mei.edu/publications/jordans-strategy-2022-bend-dont-break ",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "Jordan Chamber of Commerce is a member of the Silk Road Chamber of International Commerce http://www.srcic.com/silk-road-members/?page=2 ",
+                "evidence_urls": [
+                    "http://www.srcic.com/silk-road-members/?page=2 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No such evidence found.",
+                "evidence_urls": [],
+                "note": "However, there was the case of former Jordanian employee at Al Hussein Thermal Power Plant assaulted the Chinese deputy manager of the project for expanding the plant in Zarqa. \nhttps://www.akeed.jo/en/post/1680/Assaults_on_Investors_One_Sided_Story_in_Media\nhttps://www.gerasanews.com/article/293050\nhttps://alrai.com/article/10427175/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A\nhttp://www.jordantimes.com/news/local/china-commends-authorities%E2%80%99-tough-condemnation-investor-attack ",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "China and Jordan have neither bilateral, nor regional FTAs signed. https://www.trade.gov/country-commercial-guides/china-trade-agreements",
+                "evidence_urls": [
+                    "https://www.trade.gov/country-commercial-guides/china-trade-agreements"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "Aqaba economic zone https://www.oboreurope.com/en/neom-and-the-bri/ ",
+                "evidence_urls": [
+                    "https://www.oboreurope.com/en/neom-and-the-bri/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "There is no such occurence. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "1",
+                "evidence": "\"Orange inks deal with Huawei for June 4G launch\" https://www.commsupdate.com/articles/2015/03/26/orange-inks-deal-with-huawei-for-june-4g-launch/ ",
+                "evidence_urls": [
+                    "https://www.commsupdate.com/articles/2015/03/26/orange-inks-deal-with-huawei-for-june-4g-launch/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "1",
+                "evidence": "2021 - \"Huawei on Wednesday announced the signing of a Memorandum of Understanding (MoU) with Jordan Advanced Fiber Company (FiberTech), the provider of fiber communication services.\" https://en.ammonnews.net/article/54262 \n\n\"AMMAN-Talal Abu-Ghazaleh Organization (TAG-Org) and ZTE signed a Memorandum of Understanding (MoU) to develop digital solutions in various fields.\nAccording to the Memorandum, the two parties agreed to form a joint strategic taskforce who will cooperate to implement in the provisions of the agreement in the Information Technology and communication, education, transportation and smart devices fields in Jordan.\"  https://www.tagorg.com/news.aspx?id=18585&lang=en \n",
+                "evidence_urls": [
+                    "https://en.ammonnews.net/article/54262 ",
+                    "https://www.tagorg.com/news.aspx?id=18585&lang=en "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "1",
+                "evidence": "Jordan's House of Parliament has had its surveillance cameras replaced with a Hikvision CCTV surveillance system. The new Hikvision system includes more than 100 cameras monitor all parts of the house and its grounds. https://chinatechmap.aspi.org.au/#/map/marker-2988 ",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-2988 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "Such occasion has not occurred yet.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "The CIPS website does not indicate the names of the financial institutions but the regional scope of their participants, according to which there are some financial institutions from Jordan using CIPS. https://www.cips.com.cn/en/participants/participants_announcement/55500/index.html",
+                "evidence_urls": [
+                    "https://www.cips.com.cn/en/participants/participants_announcement/55500/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "\u201cOver 100 developers and startups attend HUAWEI developer day in Jordan.\u201d https://mystartupworld.com/over-100-developers-and-startups-attend-huawei-developer-day-in-jordan/ ",
+                "evidence_urls": [
+                    "https://mystartupworld.com/over-100-developers-and-startups-attend-huawei-developer-day-in-jordan/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "According to the website https://www.similarweb.com/apps/top/google/store-rank/jo/communication/top-free/, no PRC-connected entities are shareholders or developers of the top five popular social media/messaging apps, based on usage.",
+                "evidence_urls": [
+                    "https://www.similarweb.com/apps/top/google/store-rank/jo/communication/top-free/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [
+                    "http://en.beidou.gov.cn/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No such evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No such evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No such evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No Evidence Found. \n",
+                "evidence_urls": [],
+                "note": "\u201cCultural events, such as the Chinese Culture Week, the first Chinese Film Week and the performances by Jilin Art Troupe for Jordanian audience from all walks of life and the local Chinese community were successfully staged in Amman, capital of Jordan.\u201d https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2833_663656/ \n\n\"Jordanian and Chinese musicians and singers on Saturday performed traditional songs of both countries at Jerash Festival 2017.\nThe Jerash Festival is held in the ancient Greco-Roman town of Jerash, 48km north of Amman.\nAt the northern theatre, known for hosting cultural and artistic concerts, the Jinan Traditional Chinese Orchestra performed a joint concert with Jordanian singers and musicians using both Chinese and Arabic traditional instruments.\"  http://www.jordantimes.com/news/local/jordanian-chinese-artists-mix-musical-traditions-jerash-festival",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "3",
+                "evidence": "2018 - \"A media delegation led by All-China Journalists Association (ACJA) Secretary-General Pan Gang, Thursday, visited the Jordan News Agency (Petra), to explore prospects of cooperation and get first-hand look at news services that Petra provides.\" https://www.thefreelibrary.com/All-China+Journalists+Association+delegation+visits+Petra-a0557778880 \n\n\"AMMAN \u2013 HE Dr. Talal Abu-Ghazaleh, Chairman of Talal Abu-Ghazaleh Organization (TAG-Org), received the All-China Journalists Association (ACJA) and members of the Jordanian Press Association to discuss the role of media in developing Chinese relations on an economic, cultural and educational level.\" https://tagiti.com/en/article/page/abu-ghazaleh-meets-with-all-china-journalists-association-to-discuss-promoting-relations-with-china \n\n2017 \u2013 \u201cAmman, capital of Jordan, ushered in the \"Second Sino-Jordan Silk Road Literature Seminar\" on Oct 14. Pan Weifang, Chinese ambassador to Jordan, together with the chairman of Jordan Writers Association, a delegation of Chinese writers and nearly 50 literary celebrities attended the seminar.\u201d https://www.chinadaily.com.cn/culture/2017-10/18/content_33412998.htm \n\n\"The Jordanian National Commission for Women (JNCW) on Thursday received a contribution of computer and electronic equipment from the All-China Women's Federation.\" http://jo.chineseembassy.org/eng/dtxw/200503/t20050313_1967908.htm \n",
+                "evidence_urls": [
+                    "https://www.thefreelibrary.com/All-China+Journalists+Association+delegation+visits+Petra-a0557778880 ",
+                    "https://tagiti.com/en/article/page/abu-ghazaleh-meets-with-all-china-journalists-association-to-discuss-promoting-relations-with-china ",
+                    "https://www.chinadaily.com.cn/culture/2017-10/18/content_33412998.htm ",
+                    "http://jo.chineseembassy.org/eng/dtxw/200503/t20050313_1967908.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "Title - \"Chinese culture to be celebrated in series of events over next two months\"\n\"A section for Chinese books will open on Wednesday at the headquarters of the Amman International Book Fair, marking the beginning of a series of Chinese cultural events in Jordan over the next two months, according to the cultural department of the Chinese embassy.\nThe events, which include film screenings, exhibitions and music performances, will take place in various cultural centres and facilities in the Kingdom, starting off with an exhibition of traditional Chinese paintings in Shmeisani\u2019s Culture Street on Thursday.\nThe film \u201cThe Master\u201d will be screend at the Amman International Book Fair on Friday, where the film\u2019s adirector will be present for a discussion after the screening, , the cultural department at the embassy of China said in a statement sent to The Jordan Times on Tuesday.\nTwo other Chinese films will be screened at the Royal Film Commission, \u201cSilent Witness\u201d on Sunday, and \u201cThe Postmodern Life of My Aunt\u201d on Monday.\" http://www.jordantimes.com/news/local/chinese-culture-be-celebrated-series-events-over-next-two-months  ",
+                "evidence_urls": [
+                    "http://www.jordantimes.com/news/local/chinese-culture-be-celebrated-series-events-over-next-two-months"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No such evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No Evidence was Found.",
+                "evidence_urls": [],
+                "note": "Local state media outlets in Jordan aired the Chinese Embassy's comments on the assaults of the Chinese national in Zarqa and the reactions of the Jordanian government. http://www.jordantimes.com/news/local/china-commends-authorities%E2%80%99-tough-condemnation-investor-attack\nhttps://alrai.com/article/10427175/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "Usually Jordanian people have no clear perception of the PRC, therefore, they pay minor attention to PRC's influence.",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "The link indicates that China has sold military drones to Jordan. https://ecfr.eu/publication/china_great_game_middle_east/ \nA military cooperation agreement was signed between the JAF and the Chinese army, stipulating a 30 million Chinese Yuan (an equivalent of around $4.7 million) grant to provide the JAF with military equipment. http://www.jordantimes.com/news/local/jordan-china-sign-military-cooperation-deal\n",
+                "evidence_urls": [
+                    "https://ecfr.eu/publication/china_great_game_middle_east/ ",
+                    "http://www.jordantimes.com/news/local/jordan-china-sign-military-cooperation-deal "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No Direct Evidence Found.",
+                "evidence_urls": [],
+                "note": "\"In addition to expanding the Saudi fleet, the new facility can operate as a hub for manufacturing and servicing for other CH-4 operators in the Middle East, including Egypt, Iraq and Jordan.\" https://www.defensenews.com/air/2017/03/28/china-to-open-a-drone-factory-in-saudi-arabia/ \nhttps://thediplomat.com/2021/06/the-middle-east-an-emerging-market-for-chinese-arms-exports/ ",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "In 2013, China provided humanitarian assistance to Jordan to help with the Syrian refugees in Jordan. https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2833_663656/ \n\n\u201cThe People\u2019s Republic of China has contributed USD 200,000 to IOM\u2019s operation to provide medical aid and transport from the border to Za\u2019atari refugee camp.\nIOM has worked closely with the Jordanian Armed Forces at the border to provide medical screening and buses to transport over 100,000 new arrivals to the camp, since the site opened on July 29th 2012. Za\u2019atari now houses over 60,000 people.\u201d\nhttps://www.iom.int/news/china-backs-iom-jordan-aid-syrian-refugees \n\nAs of September 2021, the People\u2019s Liberation Army (PLA) had delivered medical supplies and aid to at least 52 countries. The following month, stage III trials of both Sinopharm and Sinovac vaccines kicked off in five countries (Bahrain, Brazil, Egypt, Jordan, and the UAE). https://chinapower.csis.org/china-covid-medical-vaccine-diplomacy/ \n",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2833_663656/ ",
+                    "https://www.iom.int/news/china-backs-iom-jordan-aid-syrian-refugees ",
+                    "https://chinapower.csis.org/china-covid-medical-vaccine-diplomacy/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No military education but \"The mission of the Chinese Language Pavilion is to qualify the officers of the Jordanian armed forces and security services in the field of the Chinese language to speak fluently, using the latest methods used in teaching languages \u200b\u200bglobally.\nThe Language Institute has good relations with the Chinese Cultural Center and the Chinese Cultural and Military Attach\u00e9 in Jordan. Students participate in all cultural activities, seminars and visits related to Chinese language and culture.\nAll participants in the course are officers of the Jordanian armed forces and security services.\"\nhttps://jafli.jaf.mil.jo/ContentsLanguageInistitute/chinesear.aspx ",
+                "evidence_urls": [
+                    "https://jafli.jaf.mil.jo/ContentsLanguageInistitute/chinesear.aspx"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "General He of the Chinese People\u2019s Liberation Army (PLA) participates with his soldiers in Warrior Competition funded and hosted by the King Abdullah II Special Operations Training Center (KASOTC), a facility run by the Jordanian Armed Forces.\nhttps://www.theatlantic.com/international/archive/2014/05/a-dispatch-from-the-counterterrorism-olympics/370781/ ",
+                "evidence_urls": [
+                    "https://www.theatlantic.com/international/archive/2014/05/a-dispatch-from-the-counterterrorism-olympics/370781/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "No such evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "The two sides have not signed official agreements on combatting terrorism yet, but they are working on that.\n\n2021 - \"Jordan police chief, Chinese ambassador discuss security cooperation\" \nhttps://www.zawya.com/en/economy/jordan-police-chief-chinese-ambassador-discuss-security-cooperation-r5qsza0h\n\n\u201cThe communiqu\u00e9 indicated that the two sides would be exchanging information regarding security, judiciary and law enforcement, in addition to exerting joint efforts to fight terrorism, organized crime and cross-border crimes.\u201d https://www.jordantimes.com/news/local/jordan-china-sign-strategic-partnership-agreement \n\n2016 - \"Public Security Department (PSD) Director Maj. Gen. Atef Saudi on Monday discussed bilateral cooperation with Wang Jian, assistant minister at the Chinese ministry of public security, the Jordan News Agency, Petra, reported.\nSaudi highlighted Jordan\u2019s cooperation with China in fields related to police and security, noting that the PSD seeks to benefit from China\u2019s expertise, especially in combating terrorism. The Chinese official commended the expertise of the PSD.\"\nhttp://www.jordantimes.com/news/local/psd-seeks-benefit-chinese-police-expertise-%E2%80%94-saudi\n",
+                "evidence_urls": [
+                    "https://www.zawya.com/en/economy/jordan-police-chief-chinese-ambassador-discuss-security-cooperation-r5qsza0h",
+                    "https://www.jordantimes.com/news/local/jordan-china-sign-strategic-partnership-agreement "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No such evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Jordan has a GDP per capita of US$4416.63 and a total population of 10,401,022 people, the number of the Chinese population in the country- is not available.",
+    "description-2": "Jordan established diplomatic relations with the People's Republic of China in 1977. Jordan was ranked 120th in Reporters Without Borders' 2021 World Press Freedom Index, and Not Free in Freedom House's 2021 Global Freedom Status, with a score of 33/100."
+}

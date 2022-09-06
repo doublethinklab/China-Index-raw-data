@@ -1,0 +1,901 @@
+{
+    "name": "Montenegro",
+    "partner": "BIRN Ltd",
+    "year": "2021",
+    "GDP": "$9,358.0",
+    "population": "0.62M",
+    "original": "52/388",
+    "ranking": "42",
+    "overall": "13%",
+    "effect": "13%",
+    "exposure": "17%",
+    "pressure": "0%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://rtcg.me/vijesti/drustvo/256615/kroz-price-i-priloge-crnogorcima-priblizili-kinu.html",
+                    "https://www.antenam.net/index.php/drustvo/102568-antena-m-u-posjeti-kini-ekonomska-sila-vrijednog-i-ljubaznog-naroda",
+                    "https://www.youtube.com/watch?v=h_Pzpf24Eug",
+                    "https://www.pobjeda.me/clanak/pobjeda-u-posjeti-kini-zemlja-cuda-koju-su-gradili-upornost-i-tradicija"
+                ],
+                "note": "During 2021 there were no media tours, but media tours were organized in 2018 and 2019, i.e. prior to the COVID-19 pandemic. In total, 25 Montenegrin journalist attended those tours, including journalists from the public service, all four daily newspapers (Dan, Pobjeda, Vijesti, Dnevne Novine) and news portals CDM, RTCG, Vijesti and Analitika. ",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://rtcg.me/vijesti/drustvo/328474/potrebna-jaca-parlamentarna-saradnja-cg-i-kine.html",
+                    "https://www.vijesti.me/vijesti/politika/473411/becic-uvjeren-sam-da-ce-se-uzajamni-odnosi-crne-gore-i-nr-kine-produbljivati-u-najboljem-interesu-gradjana",
+                    "https://www.vijesti.me/vijesti/politika/520991/lekic-rezultati-kine-primjer-na-koji-se-treba-ugledati"
+                ],
+                "note": "The ruling Democratic Front's MP Branka Bosnjak is the head of the parliamentary friendship group. Five of a total six members are from the Democratic Front, while one is from the ruling Democratic Montenegro. ",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.skupstina.me/me/clanci/odrzan-sastanak-predsjednika-odbora-za-medunarodne-odnose-i-iseljenike-i-ambasadora-nr-kine",
+                    "https://www.skupstina.me/me/clanci/odrzan-sastanak-potpredsjednice-bosnjak-sa-ambasadorom-kine"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://rtcg.me/vijesti/politika/135174/mvpei-kina-i-filipini-da-pokazu-dobru-volju.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://rtcg.me/vijesti/politika/347735/cg-podrzala-slanje-posmatraca-u-kineski-region-sindjang.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.udg.edu.me/en/confucius-classroom",
+                    "https://www.ucg.ac.me/rektorat/konfucije",
+                    "https://www.pobjeda.me/clanak/pet-godina-konfucije-instituta-u-crnoj-gori-ucenje-kineskog-jezika-kao-put-do-sigurne-buducnosti"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://pfbar.me/SaradnjaPFB.htm"
+                ],
+                "note": "While no evidence was found that universities in Montenegro belong to any of the PRC-affiliated networks or associations, the Maritime and Tourism Faculty in Bar has a long-term cooperation agreement with the Chinese Zhejiang Wanli University from Ningbo. ",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ucg.ac.me/objava/blog/1041/objava/33303-dogovoreno-14-bilateralnih-projekata-sa-narodnom-republikom-kinom",
+                    "https://www.udg.edu.me/saradnja-sa-kinom",
+                    "https://www.cdm.me/drustvo/delegacija-kineske-akademije-nauka-posjetila-udg/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://me.china-embassy.org/mon/sghd_1/202107/t20210728_9032506.htm",
+                    "https://www.ucg.ac.me/objava/blog/18291/objava/99851-stipendije-vlade-nr-kine-2021-2022",
+                    "https://www.ucg.ac.me/objava/blog/18291/objava/57277-konkurs-za-stipendije-vlade-nr-kine-za-akademsku-2020-2021-godinu",
+                    "http://me.china-embassy.org/mon/sghd_1/201908/t20190826_2845079.htm",
+                    "https://www.antenam.net/drustvo/227301-od-crbc-a-do-biznis-alijanse-crna-gora-kina"
+                ],
+                "note": "While scholarship and exchange programs exist for students, there is no evidence of experts participating in talent recruitment programs. ",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://me.china-embassy.org/mon/sghd_1/201909/t20190903_2845051.htm",
+                    "https://www.mfa.gov.cn/ce/ceme/mon/sghd_1/t1820376.htm"
+                ],
+                "note": "While there is no direct evidence that scholars have taken trips to PRC paid for by PRC-connected entities, the large number of academics from the University of Donja Gorica who have been on visits to Chinese universities for various lengths of time does suggest that some of them at least may have been on funded programs and stays. ",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.epcg.com/media-centar/saopstenja-za-javnost/potpisan-ugovor-za-ekolosku-rekonstrukciju-te-pljevlja",
+                    "https://www.vijesti.me/vijesti/ekonomija/491089/rekonstruisace-most-na-djurdjevica-tari-nurkovic-i-paraca-potpisali-ugovor-sa-kineskim-savjetnikom-za-ekonomiju",
+                    "https://mina.news/crnagora/crnoj-gori-150-hiljada-doza-kineske-vakcine/",
+                    "https://kccg.me/wp-content/uploads/2022/02/Ugovor-o-donaciji-Ambasada-Narodne-Republike-Kine-u-crnoj-Gori.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.vijesti.me/vijesti/drustvo/52373/saradnja-opstine-herceg-novi-i-kineskog-grada-heidina",
+                    "https://investitor.me/2019/10/29/herceg-novi-zeli-vise-kineskih-turista/",
+                    "https://old.dan.co.me/?nivo=3&rubrika=Regioni&clanak=652445&datum=2018-06-29"
+                ],
+                "note": "The Montenegrin town of Herceg Novi has a twinning agreement with the Chinese city of Hejin. Montenegrin media have reported on several visits between officials of the two towns in Montenegro and China. ",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://fosmedia.me/arhiva/infos/drustvo/crnogorska-delegacija-u-kini-projekti-za-odrzivu-buducnost-podgorice"
+                ],
+                "note": "There is no evidence that trips to China have been paid for by PRC related entities or individuals, but we believe that this is likely to have been the case in some instances. ",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://fosmedia.me/arhiva/infos/drustvo/crnogorska-delegacija-u-kini-projekti-za-odrzivu-buducnost-podgorice"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.slobodnaevropa.org/a/crna-gora-kina-djukanovic-odnosi/31343937.html",
+                    "https://www.vijesti.me/vijesti/ekonomija/550669/uspjesna-saradnja-crne-gore-i-kine",
+                    "https://www.vijesti.me/vijesti/ekonomija/532923/spajic-kina-je-nas-medjunarodni-partner-sto-je-dokazano-uspjesnim-pregovorima-sa-exim-bankom-i-kompanijom-crbc",
+                    "https://www.vijesti.me/vijesti/drustvo/517575/krivokapic-zahvalio-kini-na-doniranim-vakcinama",
+                    "https://www.vijesti.me/vijesti/politika/514789/abazovic-se-zahvalio-kini-na-donaciji-vakcina-cijenimo-empatiju-nesebicnu-podrsku-i-razumijevanje",
+                    "https://www.vijesti.me/vijesti/politika/494795/radulovic-saradnju-sa-kinom-unaprijediti-kroz-dinamicniju-ekonomsku-i-kulturnu-diplomatiju",
+                    "https://www.vijesti.me/vijesti/politika/473411/becic-uvjeren-sam-da-ce-se-uzajamni-odnosi-crne-gore-i-nr-kine-produbljivati-u-najboljem-interesu-gradjana",
+                    "https://www.vijesti.me/vijesti/politika/449477/simovic-sa-kineskim-ambasadorom-paznju-usmjeriti-na-oporavak-ekonomije",
+                    "https://www.vijesti.me/vijesti/drustvo/590479/donacija-kine-hitna-u-tuzima-dobila-novo-ambulantno-vozilo"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://thepeoplesmap.net/project/bar-boljare-highway/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://srcic.org/silk-road-members/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%92%8C%E9%BB%91%E5%B1%B1%E5%85%B1%E5%92%8C%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%BB%8F%E6%B5%8E%E8%B4%B8%E6%98%93%E5%8D%8F%E5%AE%9A/22284315?fr=aladdin",
+                    "https://www.aa.com.tr/ba/politika/podgorica-potpisan-sporazum-o-privredno-tehni%C4%8Dkoj-saradnji-s-kinom/266461"
+                ],
+                "note": "China and Montenegro signed a trade agreement granting each other Most Favored Nation status in 2006. Subsequently, the two countries also signed a technical agreement on economic cooperation in 2013. ",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.vijesti.me/vijesti/drustvo/472681/oprezno-sa-5g"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://telekom.me/privatni-korisnici/korisnicka-zona/clanak/podesavanja-i-uputstva-internet",
+                    "https://www.1.me/webshop/cg/Privatni-korisnici/Modemi/Huawei/E5576_4G_MiFi_ruter/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.b92.net/biz/vesti/region/zte-otvara-predstavnistvo-u-cg-382673?version=amp"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cedem.me/wp-content/uploads/2022/02/Prezentacija-decembar-2021._FINAL_compressed.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There were some Chinese donations before Montenegro became a NATO member in 2017: https://www.gov.me/clanak/116240--kina-ce-ministarstvu-odbrane-donirati-preko-pola-miliona-eura-vrijednu-opremu",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Montenegro had a GDP per capita of USD 9,358 and an estimated total population of 628,000 people. There are no official or reliable data on the size of the Chinese population.",
+    "description-2": "Montenegro established diplomatic relations with the People\u2019s Republic of China in 2006. Montenegro was ranked 104th in Reporters Without Borders' 2021 World Press Freedom Index, and listed as \u201cpartly free\u201d in Freedom House's 2021 Global Freedom Status, with a score of 63/100."
+}
