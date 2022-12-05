@@ -1,0 +1,972 @@
+{
+    "name": "South Africa",
+    "partner": "Code for Africa",
+    "year": "2022",
+    "GDP": "$6,994.2",
+    "population": "60M",
+    "original": "219/396",
+    "ranking": "5",
+    "overall": "55%",
+    "effect": "35%",
+    "exposure": "67%",
+    "pressure": "46%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://core.ac.uk/download/pdf/288189416.pdf",
+                    "https://www.news24.com/citypress/News/chinese-expands-tentacles-of-sinister-media-influence-across-the-globe-20200115"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "3",
+                "evidence": "There are two media organisations linked to the B and R News Alliance. \n1. The China Media Group set up a new collaboration with 36 partners, including Independent Media Group in South Africa. \nHowever, Tencent is a member, which is 30% owned by Naspers, which in turn is the holding company for Media24 - South Africa's largest media company.",
+                "evidence_urls": [
+                    "https://www.iol.co.za/news/partnered/china-media-group-has-set-up-a-new-collaboration-platform-with-africa-6492e7ef-fcbf-4e8e-8857-21b064f01afd",
+                    "https://edition.cnn.com/2022/06/28/investing/tencent-stock-prosus-naspers-intl-hnk/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "The Independent is the third-largest media house in South Africa.",
+                "evidence_urls": [
+                    "https://www.iol.co.za/weekend-argus/news/china-welcomes-african-asian-reporters-for-media-co-operation-programme-19542948"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "Finding hard evidence of this has been tricky, but China as part of the BRICS has done training with South African journalists.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "4",
+                "evidence": "CGTN has a 24-hour channel on DStv. \nCCTV4 broadcasts in English. \nChina Radio International broadcasts in English on satellite radio.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "evidence": "Sekunjalo Independent Media Consortium -  Two Chinese State Owned Enterprises (China International Television Corporation and the China Africa Development Fund) own 20%.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "Independent Media publish regular PCR opinion articles on the front page of their newspapers and websites.",
+                "evidence_urls": [
+                    "https://www.iol.co.za/capetimes/opinion/genocide-tag-against-china-is-the-lie-of-the-century-60eee326-654e-49da-82ab-e1209f75cc7b"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "3",
+                "evidence": "Independent Media regularly publish sponsored content from PRC",
+                "evidence_urls": [
+                    "https://www.iol.co.za/news/sponsored/the-facts-about-the-uyghur-peoples-life-in-xinjiang-should-not-be-ignored-ebeed587-28c6-4edf-8e8f-4c1e49490d9b"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No evidence within the reporting period.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "3",
+                "evidence": "A weekly column in the South African newspaper, which forms part of the Independent Media Group, was canceled due to the discussion of the Uighur Muslims in Xinjiang.",
+                "evidence_urls": [
+                    "https://foreignpolicy.com/2018/09/14/china-is-buying-african-medias-silence/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No evidence in the reporting period.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "In October 20121, the National Assembly and the People\u2019s Republic of China\u2019s National People\u2019s Congress held the fifth Regular Exchange Mechanism (REM) meeting to assess progress with the bilateral cooperation and solutions to the challenges posed by the Covid-19 pandemic.",
+                "evidence_urls": [
+                    "https://www.parliament.gov.za/news/national-assembly-speaker-holds-regular-exchange-mechanism-meeting-china"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Above are only a few examples. As a member of BRICS, SA MPs participate in regular events.",
+                "evidence_urls": [
+                    "https://www.parliament.gov.za/press-releases/peoples-republic-china-commends-south-africa-its-successful-efforts-keeping-novel-coronavirus-out-country",
+                    "http://www.xinhuanet.com/english/2020-05/13/c_139054389.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "4",
+                "evidence": "Going back to at least 2014, the PRC has offered training to the South African government. The ANC vowed to build an institute to be modelled on the China Executive Leadership Academy Pudong in Shanghai, one of the Communist Party\u2019s leadership and governance schools.",
+                "evidence_urls": [
+                    "https://www.gov.za/speeches/school-government-training-public-servants-governance-and-management-emergencies-such-covid",
+                    "https://time.com/3601968/anc-south-africa-china-communist-party/",
+                    "https://www.thesouthafrican.com/news/anc-comrades-to-be-trained-by-the-communist-party-of-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "South Africa twice bans Dalai Lama from visiting the country - in 2009, 2011, and in 2014.",
+                "evidence_urls": [
+                    "https://www.aljazeera.com/news/2009/3/24/south-africa-bans-dalai-lama-visit",
+                    "https://www.theguardian.com/world/2014/sep/04/dalai-lama-denied-south-africa-visa-nobel-summit",
+                    "https://www.theguardian.com/world/2011/sep/27/dalai-lama-banned-south-africa"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "In July 2015, ten South Africans were arrested without charge in China, having been part of a 20-strong tour group detained by Chinese officials last week.\n\nThe tour group were on a planned 47-day trip to explore the country, and comprised of 10 South Africans, nine British nationals and one Indian national. This happened at the same time as then-deputy president Cyril Ramaphosa was visiting China.",
+                "evidence_urls": [
+                    "https://www.news24.com/News24/10-South-Africans-arrested-in-China-remain-in-custody-20150714"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "evidence": "On May 14 2007, the World Health Assembly (WHA) voted 148-17 to reject Taiwan\u2019s application and South Africa is one of the country that voted against Taiwan. \n\nIn 2017, \"South Africa\u2019s ruling ANC party rebuked the opposition mayor of Pretoria for visiting Taiwan last month in what it called a violation of its foreign policy that recognises only the People\u2019s Republic of China.\"\n",
+                "evidence_urls": [
+                    "https://cc.pacforum.org/2007/07/dueling-international-arena/",
+                    "https://www.reuters.com/article/us-safrica-politics-taiwan-idUSKBN14N12V"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "3",
+                "evidence": "The chairperson of the United Nation\u2019s Food and Agriculture Organisation (FAO), Qu Dongyu, won the election by 108 votes, mainly from the supports of African countries. ",
+                "evidence_urls": [
+                    "https://www.africanews.com/2019/07/10/view-for-africa-there-s-more-than-just-money-to-repaying-chinese-debt/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "'South Africa backed China on Wednesday against the US\u2019 so-called freedom of navigation operations in the South China Sea, a patrol China has denounced as an illegal threat to peace.'\n",
+                "evidence_urls": [
+                    "https://www.thebricspost.com/south-africa-backs-chinese-stance-on-south-china-sea-dispute/",
+                    "https://www.hoover.org/sites/default/files/research/docs/clm51ms.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "The link is fro 2019 and there is no further evidence of change during the research period.",
+                "evidence_urls": [
+                    "https://thediplomat.com/2019/07/which-countries-are-for-or-against-chinas-xinjiang-policies/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "In 2018 it was reported that 'there are exactly three Tibetans living in South Africa currently ... the Tibet Office in Pretoria remains open.'\n\nOriginally Nelson Mandela had invited the Dalai Lama to South Africa in 1996 and the Office of Tibet was established in 1998.\n\nWhile it's not clear whether the SA government openly voiced support of the PRC's treatment, the continued denial of the Dalai Lama's visa seems to indicate a silent agreement.",
+                "evidence_urls": [
+                    "https://www.dailymaverick.co.za/article/2018-02-12-tibetsouth-africa-relations-a-tale-of-two-countries-trade-and-the-voiceless/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "There is no evidence of SA government publicly criticising the national security law. ",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/07/which-countries-support-the-new-hong-kong-national-security-law/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "In 2020, The South African College Principals Organisation (Sacpo) and Huawei signed a memorandum of understanding to roll out information and communication technology (ICT) academies in all of South Africa\u2019s 50 technical and vocational education and training (TVET) colleges by 2021.\n\nAlibaba Business School and the United Nations Conference on Trade and Development (UNCTAD) brought 29 young entrepreneurs from 11 countries across Africa to the Alibaba campus in Hangzhou, China for the third eFounders Fellowship cohort, including three from South Africa. ",
+                "evidence_urls": [
+                    "https://unctad.org/news/alibaba-business-school-and-unctad-train-african-entrepreneurs",
+                    "https://www.engineeringnews.co.za/article/sacpohuawei-to-roll-out-ict-academies-across-south-african-tvet-colleges-by-2021-2020-12-09"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www0.sun.ac.za/international/about/our-international-networks-and-affiliations/asia-africa-relations/centre-for-chinese-studies.html",
+                    "https://www.cacs.org.za/",
+                    "http://chinaplus.cri.cn/south-africa/China-SA/432882"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "The Chinese government will send Chinese teachers to South Africa and donate 2,000 textbooks to assist in teaching Mandarin in schools until a South African textbook is developed, Basic Education Minister Angie Motshekga said.\n\nSouth African public schools will begin offering Mandarin as an optional second language in 2016, according to an announcement from the country\u2019s education ministry.",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com//english/2017-03/26/c_136159118.htm",
+                    "https://qz.com/africa/477748/south-africas-schools-will-start-teaching-mandarin-and-continue-neglecting-local-languages/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "3",
+                "evidence": "The Centre for Chinese Studies (CCS) at Stellenbosch University originated from a joint undertaking between the governments of South Africa and the People\u2019s Republic of China.",
+                "evidence_urls": [
+                    "http://www0.sun.ac.za/ccs/?cat=17"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "4",
+                "evidence": "South Africa think tank PriceMetrics\nInclusive Society Institute, South Africa\nChina-Africa Think Tanks Forum",
+                "evidence_urls": [
+                    "http://www.news.cn/english/2021-10/22/c_1310262037.htm",
+                    "https://kknews.cc/finance/8ko826n.html",
+                    "https://www.bg3.co/a/guo-jia-neng-yuan-ji-tuan-long-yuan-nan-fei-gong-si-lian-he-nan-fei-zhi-ku-fa-bu-yan-jiu-bao-gao.html"
+                ],
+                "note": "South Africa and China have signed agreements to build 'Science Parks' for cross-border innovation drives: https://www.researchprofessionalnews.com/rr-news-africa-partnerships-2020-12-south-africa-signs-science-parks-agreement-with-china/",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.uj.ac.za/faculties/humanities/confucius-institute/Documents/UJ_Confucius_Institute_Brochure_ONLINE.PDF",
+                    "http://www.confucius.uct.ac.za/ci/about/aims"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "No evidence within the research period",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No evidence of this during research period.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "The national airline, SAA, announced direct flights between SA and China in partnership with China Air: https://www.flysaa.com/specials/guangzhou",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "This is a list of places in South Africa which have standing links to local communities in other countries: 15 cities and towns have sister-city ties with municipalities in China.",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_South_Africa"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "4",
+                "evidence": "Beijing announced it would invite 1,000 young African politicians for trainings in China in 2016, including from the ANC that regularly attends workshops in China and has modelled some of its party trainings on the CCP.",
+                "evidence_urls": [
+                    "https://qz.com/africa/1119447/china-is-training-africas-next-generation-of-leaders/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "The research period was during the Covid-19 pandemic, so travel was not permitted, but as a member of BRICS, there are regular meetings.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.news24.com/news24/southafrica/news/china-to-train-sas-public-servants-on-its-unique-governance-models-20210422"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "3",
+                "evidence": "ANC funder-turned-MP and her \u2018links\u2019 to shadowy Chinese agency: Dr Xiaomei Havard says she has donated millions to the ANC, with some in the party believing she paid her way in.\n\nChinese-born politician Dr Xiaomei Havard, says she has donated between R2 and R4-million to the ANC in the past \u201cfive or six years\" from  a number of her businesses.",
+                "evidence_urls": [
+                    "https://www.timeslive.co.za/sunday-times-daily/news/2021-07-05-investigation--anc-funder-turned-mp-and-her-links-to-shadowy-chinese-agency/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://japan-forward.com/china-installs-influence-operators-in-diplomatic-posts-foreign-lawmaking-bodies/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iol.co.za/news/opinion/south-africa-and-china-what-next-for-relations-between-the-two-countries-49135925"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "4",
+                "evidence": "South Africa\u2019s State Security Agency \u2013 with its own shady past \u2013 has enjoyed a close relationship with China\u2019s security forces. Chinese surveillance giant Hikvision has sold thousands of security cameras in South Africa and soon Joburg\u2019s suburbs will see an unprecedented increase of Hikvision\u2019s presence. ",
+                "evidence_urls": [
+                    "https://www.dailymaverick.co.za/article/2019-06-26-video-surveillance-and-cybersecurity-part-two-chinese-cyber-espionage-is-a-real-threat/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.dailymaverick.co.za/article/2020-04-20-time-to-make-south-africas-relationship-with-china-mutually-beneficial/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "Iron and Gold",
+                "evidence_urls": [
+                    "https://www.miningweekly.com/article/south-africas-iron-ore-sector-to-benefit-from-rising-chinese-demand-2020-10-07/rep_id:3650"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "Between 2007 and 2020 Chinese development banks provided $23bn for African infrastructure.",
+                "evidence_urls": [
+                    "https://www.economist.com/middle-east-and-africa/how-chinese-firms-have-dominated-african-infrastructure/21807721"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "Not a member, but listed as a 'prospective founder'",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.dailymaverick.co.za/article/2021-01-08-belt-and-road-tightening-is-the-silk-road-unravelling/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "A full trade agreement has not been negotiated, BUT via the African Union, there is African Continental Free Trade Area (AfCFTA) which was created by the African Continental Free Trade Agreement which includes South Africa.",
+                "evidence_urls": [
+                    "https://www.dailymaverick.co.za/opinionista/2021-02-17-south-africa-needs-a-free-trade-deal-with-china-not-the-belt-and-road-initiative",
+                    "https://en.wikipedia.org/wiki/African_Continental_Free_Trade_Area"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "China Mobile partnered with MTN South Africa in 2018.\nChina Unicom also has an ongoing partnership since 2018",
+                "evidence_urls": [
+                    "https://www.prnewswire.co.uk/news-releases/china-mobile-international-limited-establishes-south-africa-office-692919441.html",
+                    "http://www.chinadaily.com.cn/a/201807/19/WS5b5044cfa310796df4df77b4.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.gsma.com/futurenetworks/wiki/powerstar-and-mtn-south-africa-energy-saving-case-study/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": " \"Although the Trump administration\u2019s policies successfully curbed Chinese expansion in Western countries, they did not address the growing presence of Chinese technology infrastructure on the African continent.\"\nChinese firms like Huawei, ZTE and China Telecom are behind the core systems of new ICT infrastructure across Africa. And they are providing the next generation of technology. \nHuawei has expanded across most African countries, including South Africa.\n",
+                "evidence_urls": [
+                    "https://www.voanews.com/a/economy-business_analysts-china-expanding-influence-africa-telecom-network-deals/6209516.html",
+                    "https://www.dw.com/en/investing-in-africas-tech-infrastructure-has-china-won-already/a-48540426",
+                    "https://www.dw.com/en/africa-embraces-huawei-technology-despite-security-concerns/a-60665700"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "Chinese law prohibits PMC contractors from carrying weapons at home. Abroad, PMCs must abide by the laws of the countries where they are working. But companies often find ways around restrictions. In South Africa, which tightly regulates foreign PMCs, Chinese companies operate through specially created local subsidiaries.",
+                "evidence_urls": [
+                    "https://carnegieendowment.org/2020/10/08/chinese-security-contractors-in-africa-pub-82916",
+                    "https://www.defenceweb.co.za/land/land-land/china-turns-to-pmcs-to-protect-its-workers-and-bri-investments-in-africa/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "4",
+                "evidence": "Emerging biometric technologies have become ubiquitous across many parts of Africa, including facial recognition technologies in Zimbabwe, Uganda and South Africa. They\u2019re used to help combat identity theft, fraud and other threats, including terrorism. Much of the technology is being developed by the private sector as well as Chinese state entities as part of the drive to develop \u2018smart cities\u2019 across Africa.",
+                "evidence_urls": [
+                    "https://issafrica.org/iss-today/future-of-facial-recognition-technology-in-africa"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "Yes, it was agreed upon in 2014, but there's been no further building of it.",
+                "evidence_urls": [
+                    "https://businesstech.co.za/news/property/297422/heres-what-happened-to-south-africas-r84-billion-smart-city/",
+                    "https://www.capetownetc.com/news/new-smart-cities-planned-for-south-africa-worth-the-billions/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "Two banks at the time of research: Rand Merchant Bank/FNB and Standard Bank.",
+                "evidence_urls": [
+                    "https://techcabal.com/2020/09/17/china-is-pushing-its-currency-into-africa-through-fintech-partnerships/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iol.co.za/technology/software-and-internet/africas-tech-startups-ecosystem-fastest-growing-with-rising-investments-d5ddc392-a4e8-524e-ba60-04fb8d07d905",
+                    "https://www.scmp.com/news/china/diplomacy/article/3146678/chinese-investors-are-again-pouring-millions-africas-fintech"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://africanews.space/sansa-signs-mou-with-china-satellite-network-office/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "Tiktok is the fifth-largest social media app in South Africa.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.sacsa.gov.za/navigation-by-satellite/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "2",
+                "evidence": "There are 15 in South Africa",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.tcagp.co.za/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://japan-forward.com/china-installs-influence-operators-in-diplomatic-posts-foreign-lawmaking-bodies/\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "4",
+                "evidence": "In 2014, the South Africa-China Culture and Art Exchange was established.\n\nAs a supporting activity of the China-South African High-Level People-to-People Exchange Mechanism, the All-China Women's Federation (ACWF) and the African National Congress Women's League (ANCWL) co-hosted a donation ceremony of 320 sewing machines from ACWF to ANCWL on April 26, 2017 in Durban, South Africa.\n\n",
+                "evidence_urls": [
+                    "https://www.womenofchina.cn/servlet/Node?node=19010911&pos=1",
+                    "https://baike.baidu.com/item/%E5%8D%97%E9%9D%9E%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%BA%A4%E6%B5%81%E5%8D%8F%E4%BC%9A/13388323"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "3",
+                "evidence": "Just after it unveiled a 2022 slate for Asia comprising programming in six languages, PCCW\u2019s pan-regional OTT video streaming service Viu has strengthened its position as one of the top OTT streaming platforms in Greater Southeast Asia (GSEA), the Middle East and South Africa.",
+                "evidence_urls": [
+                    "https://www.rapidtvnews.com/2022022862129/viu-tops-greater-southeast-asian-ott-streaming-market.html#axzz7Puoxxzs4"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "evidence": "Similar interest in engaging the South African film market is developing, albeit not yet to the extent of China\u2019s interest in Hollywood. The highest-ranking production (estimated earning $852 million) in China for 2017 was \u201cWolf Warrior 2\u201d \u2013 it was filmed in parts of South Africa, including in Durban, Soweto and Alexandra.\n\nThe action film centres on a war hero who defends medical aid workers in a fictitious African country. At a local movie reception, Ambassador Lin Songtian of the Chinese embassy in South Africa, described it as 'an excellent Chinese film that carries forward patriotic enthusiasm and friendship between China and Africa'.\n\nSouth Africa hosted the third BRICS Film Festival, which coincides with its hosting of the tenth BRICS Summit in July.",
+                "evidence_urls": [
+                    "https://qz.com/africa/1301505/china-will-fund-movies-and-tv-shows-to-build-africa-influence-rival-nollywood-others/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "No clear evidence of either of these answers",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "Yes and No: In 2011, the Globe and Mail, a Canadian newspaper, reported that Chinese state\u2013controlled arms manufacturers offered stockpiles of arms to the collapsing regime of Muammar Qaddafi in Libya. The documents obtained from the media expose Chinese companies\u2019 conversations with the Qaddafi government regarding vast weapons supplies to Libya via Algeria and South Africa.",
+                "evidence_urls": [
+                    "https://www.airuniversity.af.edu/JIPA/Display/Article/2743926/to-honor-its-commitment-to-un-arms-trade-treaty-china-must-sacrifice/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "4",
+                "evidence": "South Africa has been selling arms to China since 2000.",
+                "evidence_urls": [
+                    "https://www.hrw.org/reports/2000/safrica/Sarfio00-05.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://issafrica.org/iss-today/south-africas-military-drills-with-russia-and-china-raise-eyebrows"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.dailymaverick.co.za/article/2020-07-21-legal-extradition-could-still-take-place-even-if-south-africa-suspended-its-treaty-with-hong-kong/#:~:text=South%20Africa%20also%20has%20a,requests%20are%20to%20be%20made."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence during research period.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "While it does not fall within the research period, there is a long academic trail (more than 15 years) looking into PRC-connected gangs.",
+                "evidence_urls": [
+                    "https://media.africaportal.org/documents/paper48.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "3",
+                "evidence": "The US Justice Department says state-sponsored Chinese hackers targeted at least one South African company as part of a hacking campaign.\n",
+                "evidence_urls": [
+                    "https://www.businessinsider.co.za/chinas-hainan-xiandun-tried-to-hack-south-africa-in-stealing-trade-secrets-us-justice-says-2021-7",
+                    "https://www.researchgate.net/publication/240494238_INDUSTRIAL_ESPIONAGE_THREAT_IN_CORPORATE_SOUTH_AFRICA"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "3",
+                "evidence": "54 incidents were assessed and found that the most common impact type was data exposure, which was also one that had increased noticeably in recent years. The most prevalent perpetrator type was found to be hacktivists, which had also exhibited a recent increase in activity. A particularly concerning trend was the recent high number of incidents of data exposure caused by error, a trend running contrary to the drive to improve cybersecurity. It was also found that of the incidents considered, 54% targeted state-owned or political entities as victims. In general, the results appeared consistent with global reported trends.\n\n",
+                "evidence_urls": [
+                    "http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2077-72132017000100006"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://media.africaportal.org/documents/paper48.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "Huawei digital surveillance technology deployed in parts of the country - specifically near or in designated smart cities.",
+                "evidence_urls": [
+                    "https://africacenter.org/spotlight/surveillance-technology-in-africa-security-concerns/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No clear evidence during research period.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No clear evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence during research period.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No clear evidence during research period.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, South Africa had a GDP per capita of US$6,994 and a total population of 60.04 million people, with the Chinese population comprising roughly 500,000 people, or 1.18% of the total population.",
+    "description-2": "South Africa established diplomatic relations with the People's Republic of China in 1998. South Africa was ranked 35th in Reporters Without Borders' 2022 World Press Freedom Index, and free in Freedom House's 2022 Global Freedom Status, with a score of 79/100. "
+}

@@ -1,0 +1,970 @@
+{
+    "name": "Bulgaria",
+    "partner": "Central European Institute of Asian Studies",
+    "year": "2022",
+    "GDP": "$11,635.0",
+    "population": "6.89M",
+    "original": "138/396",
+    "ranking": "36",
+    "overall": "35%",
+    "effect": "24%",
+    "exposure": "44%",
+    "pressure": "13%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise exists. ",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "3",
+                "evidence": "The Bulgarian National Television (BNT) joined the Belt and Road News Alliance in 2017. In 2019, BNT won a BRNA award for best editing of the year. In 2018, the Union of Bulgarian Journalists signed a cooperation agreement with the One-Belt One-Road Journalist forum.",
+                "evidence_urls": [
+                    "https://bnt.bg/bg/a/bnt-dogovori-partnorstvo-s-kitayskata-mediyna-grupa-shanghai-united-media-group",
+                    "https://bntnews.bg/bg/a/bnt-specheli-zhurnalisticheska-nagrada-za-strudnichestvoto-si-s-kitayskata-cctv",
+                    "https://nova.bg/mynews/view/2018/06/28/77493/%D1%81%D0%B1%D0%B6-%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D1%8C%D0%BE%D1%80-%D0%BD%D0%B0-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%8F-%D1%84%D0%BE%D1%80%D1%83%D0%BC-%D0%B5%D0%B4%D0%B8%D0%BD-%D0%BF%D0%BE%D1%8F%D1%81-%D0%B5%D0%B4%D0%B8%D0%BD-%D0%BF%D1%8A%D1%82",
+                    "https://brnalink.com/members.html",
+                    "https://www.pressreader.com/china/beijing-english/20180628/281517931858115"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "Some Bulgarian journalists attended BRI World Journalism Forum",
+                "evidence_urls": [
+                    "https://sbj-bg.eu/index.php?t=39723"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "evidence": "Union of Bulgarian Journalists is regularly interacting and conducting exchanges with Chinese partners.",
+                "evidence_urls": [
+                    "https://sbj-bg.eu/index.php?t=48380",
+                    "https://sbj-bg.eu/index.php?t=39723",
+                    "https://sbj-bg.eu/index.php?t=35717",
+                    "https://sbj-bg.eu/index.php?t=31565"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "3",
+                "evidence": "China Radio International maintains a Bulgarian language version. ",
+                "evidence_urls": [
+                    "https://bulgarian.cri.cn/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "4",
+                "evidence": "Bulgarian media maintain numerous cooperation partnership with Chinese media. Most visible is the reprinting of content from Chinese media by the Bulgarian medium 24 Chasa.   Also, the Bulgarian newspaper China Today (\u041a\u0438\u0442\u0430\u0439 \u0434\u043d\u0435\u0441) republishes content from Chinese state media. ",
+                "evidence_urls": [
+                    "https://www.kitajdnes.com/",
+                    "https://www.24chasa.bg/novini/6864124/",
+                    "https://www.kas.de/documents/281902/281951/%E2%80%9CChina%E2%80%99s+Rising+Media+Presence+in+South+East+Europe%E2%80%9D.pdf/0beb5c40-b6dd-7292-5cc3-fd8a5c1be824?version=1.1&t=1607417514942"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://pogled.info/svetoven/kitai/prevazpitatelen-lager-v-sindzyan-neka-da-razberem-istinata.125728",
+                    "https://www.24chasa.bg/novini/article/8020123",
+                    "https://pogled.info/svetoven/kitai/kitai-hitroumno-goni-posledniya-bastion-na-zapada-ot-svoyata-teritoriya.138168"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "In the current parliament there are no members of this group. But in previous parliaments it included numerous MPs.",
+                "evidence_urls": [
+                    "https://www.parliament.bg/bg/friendshipgroups/2695"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "The Bulgarian Socialist Party (BSP) has routinely met with CCP representatives. The BSP even established an affiliate in Wuhan.",
+                "evidence_urls": [
+                    "https://news.bg/politics/bsp-se-sreshta-s-komunisticheskite-partii-na-kitay-i-vietnam.html",
+                    "https://bsp.bg/news/view/5112-sergej_stanishev_se_sreshtna_s_delegaciq_ot_kitajskata_narodna_republika.html",
+                    " https://www.mediapool.bg/bsp-s-partiyna-organizatsiya-v-kitai-v-chest-na-vizitata-na-oresharski-news210958.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "1",
+                "evidence": "The Diplomatic Institute in Bulgaria conducts Chinese language course for Bulgarian diplomats and civil servants together with the Confucius Institute.",
+                "evidence_urls": [
+                    "https://bdi.bg/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "Bulgarian MEP Ilhan Kyuchyuk was sanctioned by China together with other of his colleagues from the European Parliament in connection with the Uyghur issue.",
+                "evidence_urls": [
+                    "https://www.rferl.org/a/bulgarian-mep-kyuchyuk-china-sanctions-uyghur-tohti-sakharov-prize/31165846.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://amti.csis.org/sides-in-south-china-sea/",
+                    "https://trud.bg/article-4804598/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://new-york-un.diplo.de/un-en/news-corner/201006-heusgen-china/2402648"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "There are no examples of Bulgaria taking stance on the issue. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "There are no examples of Bulgaria taking a position on the issue. \n\nnote: It should be mentioned that this has only happened at the UN and no discussions/comments have been given on a national level - the government has not picked it up as a topic to raise to neither the domestic audience, nor the PRC itself. In general, there is a pattern in Bulgarian foreign policy whereby international coalitions/other EU member states are joined in order to make a statement on a certain matter - but very often this tends to be for the sake of participation. And as in this case, there was no discussion among policy-making circles or on the government level in a public manner regarding the PRC's imposition of National Security Law in HK. I think it would not be correct to say that the Bulgarian authorities have a clear position on the matter even if they joined the statement.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://academytracker.ceias.eu/map/eu/Bulgaria",
+                    "https://academytracker.ceias.eu/articles/2g28FMwxCHaHLZ59kBlPfb"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "Two Confucius Institutes - at Sofia University and Veliko Tarnovo University. There are Confucius classrooms at South-West University \u201cNeofit Rilski\u201d \u2013 Blagoevgrad and the University of Ruse. ",
+                "evidence_urls": [
+                    "https://academytracker.ceias.eu/map/eu/Bulgaria",
+                    "https://academytracker.ceias.eu/articles/2g28FMwxCHaHLZ59kBlPfb",
+                    "http://confuciusinstitute.bg/en/",
+                    "https://www.confuciusinstitute-velikoturnovo.bg/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "Schools across Bulgaria teach Chinese, particularly through a patnership with Confucius Institutes.",
+                "evidence_urls": [
+                    "http://www.confuciusinstitute-velikoturnovo.bg/bg/the-institute/annual-reports"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "3",
+                "evidence": "Various Bulgarian universities participate in Belt and Road networks.",
+                "evidence_urls": [
+                    "https://academytracker.ceias.eu/articles/2g28FMwxCHaHLZ59kBlPfb",
+                    "https://academytracker.ceias.eu/map/eu/Bulgaria"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "Several Bulgarian universities receive funding from their Chinese partners. In some case, the funding is routed via Confucius Institutes. However, there is a general lack of transparency on the issue.",
+                "evidence_urls": [
+                    "https://academytracker.ceias.eu/map/eu/Bulgaria",
+                    "https://academytracker.ceias.eu/articles/2g28FMwxCHaHLZ59kBlPfb"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "3",
+                "evidence": "Huawei is active in terms of organizing talent competitions and has funded scholarship programs for Bulgarian students.",
+                "evidence_urls": [
+                    "https://academytracker.ceias.eu/articles/2g28FMwxCHaHLZ59kBlPfb",
+                    "https://academytracker.ceias.eu/map/eu/Bulgaria"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://academytracker.ceias.eu/articles/2g28FMwxCHaHLZ59kBlPfb"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "Both larger and smaller cities in Bulgaria have signed agreements with official Chinese institutions, including Beijing's Embassy in Sofia, Confucius Institute, regional authorities in China for cooperation in the area of culture, economics, infrastructure.",
+                "evidence_urls": [
+                    "https://www.sofia.bg/news-culture-01/-/asset_publisher/Tf6r0MlO2bPu/content/v-sofia-otkriha-p-rvia-za-centralna-i-iztocna-evropa-kulturen-cent-r-na-kitaj?inheritRedirect=false",
+                    "https://www.plovdiv.bg/%D0%B7%D0%B0%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA-%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%8A%D1%80%D1%8A%D1%82-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0/",
+                    "https://www.mediapool.bg/kitai-shte-stroi-krai-sofiya-parviya-umen-grad-v-evropa-news267548.html",
+                    "https://money.bg/economics/kitayski-investitor-stroi-zavod-v-obshtina-maritsa.html",
+                    "https://www.troyan.bg/bg/posts/view/24882/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "Both larger and smaller cities in Bulgaria have established sister ties with Chinese counterparts. ",
+                "evidence_urls": [
+                    "https://www.namrb.org/pobratimiavane",
+                    "https://www.montana.bg/%D0%B7%D0%B0-%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D0%B0-%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%B0/%D0%BF%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B5",
+                    "https://www.plovdiv.bg/about-plovdiv/%D0%BF%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B5/",
+                    "https://mun.sliven.bg/gradove-partniori",
+                    "https://obshtinaruse.bg/pobratimeni-gradove",
+                    "https://www.varna.bg/bg/455 6. https://www.kardjali.bg/?pid=4,adm_11"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "In general, there is a pattern, whereby politicians of certain parties (particularly the Bulgarian Socialist Party) are more likely to make trips to China, which was especially the case in 2013/2014 when the BSP was in power. However, there isn't information available regarding the financial details of Bulgarian politicians' visits to China.",
+                "evidence_urls": [],
+                "note": "In general, there is a pattern, whereby politicians of certain parties (particularly the Bulgarian Socialist Party) are more likely to make trips to China, which was especially the case in 2013/2014 when the BSP was in power. However, there isn't information available regarding the financial details of Bulgarian politicians' visits to China.",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "evidence": "Yes, politicians, particularly from the Socialist Party and GERB (Citizens for European Development of Bulgaria) have tended to visit China.",
+                "evidence_urls": [
+                    "https://bntnews.bg/bg/a/160462-vizita-na-plamen-oresharski-v-kitaj",
+                    "https://www.dnevnik.bg/bulgaria/2016/06/07/2773415_delegaciia_na_gerb_e_na_vizita_v_kitai_po_pokana_na/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "3",
+                "evidence": "Such statements have come primarily from GERB, the BSP and the President.",
+                "evidence_urls": [
+                    "https://ceias.eu/chinese-corrosive-capital-bulgaria-romania/",
+                    "https://bntnews.bg/bg/a/borisov-blgariya-predlaga-izklyuchitelni-vzmozhnosti-za-investitsii",
+                    "https://btvnovinite.bg/oresharski-ubezhdava-kitaiski-bogatashi-da-investirat-u-nas.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://nsi.bg/en/content/7503/main-trade-partners"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sites.google.com/site/christophtrebesch/data"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "The PRC is not the top customer of Bulgaria's extractive industry but it should be noted that Imore than 70 percent of the products that Bulgaria exports to China consist of primary commodities\u2014refined copper and copper mine materials make up about 75 percent of exports followed by agricultural products such as corn and sunflower seeds.",
+                "evidence_urls": [
+                    "https://ceias.eu/chinese-corrosive-capital-bulgaria-romania/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "China does not operate/control critical infrastructure industries. It should be noted, however, that in 2019 the\nChina Machinery Engineering Corporation (CMEC) signed a \u20ac120 million contract with the joint-stock company Logistic CenterVarna for the joint development of port infrastructure in Varna.",
+                "evidence_urls": [
+                    "https://ceias.eu/chinese-corrosive-capital-bulgaria-romania/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "The Bulgarian Chamber of Commerce and Industry is a member of the Silk Road Chamber of International Commerce. The Bulgarian government and the Bulgarian Chamber of Commerce and Industry have cooperated with the Belt and Road General Chamber of Commerce.",
+                "evidence_urls": [
+                    "https://srcic.org/silk-road-members/",
+                    "https://www.mi.government.bg/bg/news/news-3602.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "No FTA with China was signed. Bulgaria is an EU member state, negotiations about FTA are an exclusive competence of the EU. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "In 2017, there was a pledge linked to the development of a large-scale smart city, Saint Sophia. The mega project foresees the construction of a tourist and entertainment near the town of Elin Pelin. The total amount of investment is planned to reach \u20ac750 million. According to the Bulgarian Investment Promotion Act, priority investments benefit from a number of state-granted incentives, including shorter administrative procedures, easier acquisitions of properties, state aid for investments in production and science, concessions for labor costs.",
+                "evidence_urls": [
+                    "https://balkaninsight.com/2017/08/09/bulgaria-extends-support-for-chinese-smart-city-near-sofia-08-08-2017/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "China Telecom has a point of presence in Bulgaria but it does not provide telecommunications services.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "One of Bulgaria\u2019s biggest telecommunications providers, Yettel (formerly known as Telenor), has built its 5G networks with Huawei technology.",
+                "evidence_urls": [
+                    "https://www.bloombergtv.bg/a/17-v-razvitie/95100-edinstveno-telenor-ot-balgarskite-kompanii-izgrazhdat-5g-mrezhata-si-iztsyalo-s-huawei"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "The use of Huawei equipment for the provision of Internet services is a generic phenomenon in Bulgaria. All the major telecom providers in the country use Huawei routers.",
+                "evidence_urls": [
+                    "https://help.a1.bg/internet/fixed-internet/fiber-internet/huawei-echolife-hg8245h/internet-settings",
+                    "https://www.vivacom.bg/bg/files/16440-rykovodstvo-za-4g-huawei-router-b310s-22.pdf",
+                    "https://www.yettel.bg/bg/private/device/list/device_3g_modem/field_device_brand/huawei-22?mode=list"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "Examples of such collaboration include research partnerships with Huawei; point of presence with China Telecom; a subsidiary of Dahua Technology.",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "2",
+                "evidence": "In 2017, for example, representatives of the Bulgarian government, including those responsible for e-government, supported the establishment of a strategic partnership between Huawei and Vivacom (one of the largest Bulgarian telecommunication providers) to provide cloud technologies for the Bulgarian government and business.",
+                "evidence_urls": [
+                    "https://www.vivacom.bg/bg/residential/za-nas/novini/finansi?read=vivacom-i-huawei-sys-strategichesko-partniorstvo-za-razvitieto-na-oblachnite-tehnologii-v-polza-na-bylgarskija-biznes-i-pravitelstvo"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "1",
+                "evidence": "The plans for Chinese-supported development of smart cities in Bulgaria tend to remain on the level of pledges. For instance, in 2017, there was a pledge linked to the development of a large-scale smart city, Saint Sophia, near Sofia, involving the construction of a tourist and entertainment center. The total amount of investment was planned to reach \u20ac750 million. \n\nAlso, more recently, in 2021, the municipality of Ruse started negotiations for the development of a smart city with Chinese technology.",
+                "evidence_urls": [
+                    "https://www.mediapool.bg/kitai-shte-stroi-krai-sofiya-parviya-umen-grad-v-evropa-news267548.html",
+                    "https://www.dunavmost.com/novini/kitai-shte-pomaga-na-ruse-da-izgradi-umen-grad"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "Chinese investments in the Bulgarian start-up environment are limited, however, few examples exist.",
+                "evidence_urls": [
+                    "https://www.capital.bg/biznes/kompanii/2018/02/01/3122455_purviiat_kitaiski_kupuvach_na_bulgarska_it_kompaniia/",
+                    "https://seenews.com/news/two-investment-funds-get-minority-stake-in-bulgarias-walltopia-488367",
+                    "https://www.capital.bg/biznes/kompanii/2016/02/08/2701063_blackpeak_capital_investira_oshte_14_mln_evro_v/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "2",
+                "evidence": "In general, before the increase in scrutiny of Huawei's activities, Bulgarian telecom providers publicly spoke about their cooperation with Huawei. In their first trials of 5G, Telenor (now renamed as Yettel) used Huawei equipment; BTC (now Vivacom) combined the services of Huawei, Nokia, Ericsson and Cisco. Moreover, in 2017, a strategic partnership was established between Huawei and Vivacom to provide cloud technologies for the Bulgarian government and business.",
+                "evidence_urls": [
+                    "https://www.vivacom.bg/bg/residential/za-nas/novini/finansi?read=vivacom-i-huawei-sys-strategichesko-partniorstvo-za-razvitieto-na-oblachnite-tehnologii-v-polza-na-bylgarskija-biznes-i-pravitelstvo"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "TikTok is the 2nd most used social network in Bulgaria.",
+                "evidence_urls": [
+                    "https://appfigures.com/top-apps/google-play/bulgaria/social"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "3",
+                "evidence": "For example, the Bulgarian publishing house Iztok-Zapad (East-West) is a member of the Association of publishers of China and the 16+1. Moreover, the Union of Bulgarian Journalists and the All-China Journalists Association agreed to collaborate and conduct exchange visits already in the 1980s,  while in 2018, the Union of Bulgarian Journalists also signed a cooperation agreement with the One-Belt One-Road Journalist Forum.  The most recent visit to Bulgaria took place in 2019. The delegation from China was composed of high-ranking media officials, including the Executive Director of the All-China Journalists Association, the deputy editor in chief of China Daily, the Director of the mobile version of People\u2019s Daily, who met with Bulgarian journalists oriented on promoting cooperation with Beijing.",
+                "evidence_urls": [
+                    "https://petkohinov.com/archives/2591",
+                    "https://nova.bg/mynews/view/2018/06/28/77493/%D1%81%D0%B1%D0%B6-%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D1%8C%D0%BE%D1%80-%D0%BD%D0%B0-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%8F-%D1%84%D0%BE%D1%80%D1%83%D0%BC-%D0%B5%D0%B4%D0%B8%D0%BD-%D0%BF%D0%BE%D1%8F%D1%81-%D0%B5%D0%B4%D0%B8%D0%BD-%D0%BF%D1%8A%D1%82",
+                    "https://blackandwhitemag.bg/2019/03/05/%D0%B8%D0%B7%D0%BF%D1%8A%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B8%D1%8F%D1%82-%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80-%D0%BD%D0%B0-%D0%BE%D0%B1%D1%89%D0%BE%D0%BA%D0%B8%D1%82%D0%B0/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "The deliveries were mostly organized by the Chinese community in Bulgaria, on the municipal level (i.e. carried out by Sofia\u2019s sister cities in China) and by Huawei but cannot be compared to the large-scale and publicly resonant donations to other countries, such as Serbia. Please advise how to modify the grading.",
+                "evidence_urls": [
+                    "https://ecfr.eu/publication/let-a-thousand-contacts-bloom-how-china-competes-for-influence-in-bulgaria/"
+                ],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "This is a very limited phenomenon. Yet, it should be noted that Chinese films can be streamed on YouTube on the initiative of local actors as it happened in 2020 regarding the Chinese film 'Alive'.",
+                "evidence_urls": [
+                    "https://www.ploshtadslaveikov.com/kultov-kitajski-film-bezplatno-onlajn-spetsialno-za-balgariya/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "Films and TV shows produced in Bulgaria do not focus on China. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "Bulgarian celebrities do not touch on the China-related topics.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No examplese of such behavior exist.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "Unlike their overly emotionally positive attitude towards Russia, Bulgarians are only cautiously positive\ntowards China, prefigured by the lack of deep political, economic and cultural ties between Bulgaria and China. Some 55% of the Bulgarians maintain a favorable view of Beijing, which is higher than in the rest of the CEE and Western European countries surveyed by Pew (including, Poland, Lithuania, Hungary, Slovakia, Czechia, Greece, Spain, UK, Italy, Netherlands, Germany, France, Sweden).",
+                "evidence_urls": [
+                    "https://www.pewresearch.org/global/2019/12/05/chinas-economic-growth-mostly-welcomed-in-emerging-markets-but-neighbors-wary-of-its-influence/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ecfr.eu/publication/let-a-thousand-contacts-bloom-how-china-competes-for-influence-in-bulgaria/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ecfr.eu/publication/let-a-thousand-contacts-bloom-how-china-competes-for-influence-in-bulgaria/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ecfr.eu/publication/let-a-thousand-contacts-bloom-how-china-competes-for-influence-in-bulgaria/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "There is no evidence to suggest Bulgaria has military exchange exercises with the PRC",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "China and Bulgaria signed an extradition treaty in 1998, which remains in force. ",
+                "evidence_urls": [
+                    "https://www.ciela.net/svobodna-zona-darjaven-vestnik/document/1060675072/issue/2472/dogovor-za-ekstraditsiya-mezhdu-republika-balgariya-i-kitayskata-narodna-republika"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "Bulgarian and Chinese authorities signed agreements that deal with combatting transnational crime, including terrorism, in 2008 and 2016. ",
+                "evidence_urls": [
+                    "https://www.mediapool.bg/bulgaria-i-kitai-zaedno-sreshtu-mafiyata-news138262.html",
+                    "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp;jsessionid=A38ACA07F1926BD3B39C7509FCC5006C?idMat=110048"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "3",
+                "evidence": "There have been reports that China hacked the Bulgarian Foreign Ministry along the foreign ministries of other European countries. In 2021, the hacking of the system that issues covid certificates was said to have been conducted also from Chinese locations, among others.",
+                "evidence_urls": [
+                    "https://bnr.bg/horizont/post/101545783/spored-informacionno-obslujvane-balgaria-e-obekt-na-golama-kiber-ataka",
+                    "https://bntnews.bg/bg/a/113406-kitajski_hakeri_atakuvat_evropejski_vynshni_ministerstva"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": " No evidence to suggest otherwise",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ecfr.eu/publication/let-a-thousand-contacts-bloom-how-china-competes-for-influence-in-bulgaria/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence to suggest otherwise.",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "In 2018, Bulgaria became the first EU member state to extradite to China a former Chinese local official wanted by the Chinese authorities on suspicions of corruption.",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-china-corruption-bulgaria-idUSKCN1NZ0A8"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Bulgaria had a GDP per capita of US$11,635 and a total population of 6.89 million people.",
+    "description-2": "Bulgaria established diplomatic relations with the People's Republic of China in 1949. Bulgaria was ranked 91st in Reporters Without Borders' 2022 World Press Freedom Index, and Free in Freedom House's 2022 Global Freedom Status, with a score of 79/100."
+}

@@ -1,0 +1,932 @@
+{
+    "name": "Azerbaijan",
+    "partner": "Civic IDEA",
+    "year": "2022",
+    "GDP": "$5,384.0",
+    "population": "10.1M",
+    "original": "78/384",
+    "ranking": "67",
+    "overall": "20%",
+    "effect": "17%",
+    "exposure": "27%",
+    "pressure": "0%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "According to their website, there are no Azerbaijani media organizations that belong to the World Chinese Media Network.  ",
+                "evidence_urls": [
+                    "https://www.worldchinesemedia.com/2015/05/12/56/  "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Reviewer experts claimed that there are few all-expenses-paid tours, however, we were not able to find public evidence. ",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "\"There is no China-sponsored media outlet broadcasting in local languages in the region that projects Chinese perspectives on domestic and regional affairs.\"",
+                "evidence_urls": [
+                    "https://www.cacianalyst.org/publications/analytical-articles/item/13604-chinas-soft-power-in-the-south-caucasus.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "skip",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "According to our reviewer expert, there are content-sharing agreements where Azerbaijani outlets reprint Xinhua and China Daily English articles. However, we could not find public evidence. ",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "2",
+                "evidence": "\"How fake news has become the norm for the US\" article of Seymur Mammadov - the director of the international expert club EurAsiaAz and editor-in-chief of Azerbaijan's news agency Vzglyad.az, published by China daily.",
+                "evidence_urls": [
+                    "https://www.chinadaily.com.cn/a/201912/29/WS5e08035ba310cf3e3558146c.html"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "Azerbaijan-China Intergovernmental Commission on Trade and Economic Cooperation meets. (see below URL 1)\n\nOn the composition of the Azerbaijan-China Intergovernmental Commission on Trade and Economic Cooperation by the Republic of Azerbaijan - ORDER OF THE PRESIDENT OF THE REPUBLIC OF AZERBAIJAN. (see below URL 2)\n\nAzerbaijan-China working group on inter-parliamentary relations (see below URL 3)",
+                "evidence_urls": [
+                    "https://apa.az/az/foreign-policy/azerbaycan-cin-hokumetlerarasi-ticaret-iqtisadi-emekdasliq-komissiyasinin-iclasi-kecirilib-foto-667874",
+                    "https://e-qanun.az/framework/12578",
+                    "https://meclis.gov.az/news-bey.php?id=26&lang=az&cat=109"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Ilham Aliyev met with Chairman of People's Republic of China Xi Jinping in Beijing. (see below URL 1)\n\nPresident Ilham Aliyev of Azerbaijan Meets with Wang Yi. (see below URL 2)\n\nWang Yi Meets with Foreign Minister Elmar Mammadyarov of Azerbaijan (see below URL 3)",
+                "evidence_urls": [
+                    "https://president.az/en/articles/view/32860",
+                    "https://www.mfa.gov.cn/ce/cejm/eng/zgxw/t1666775.htm",
+                    "https://www.mfa.gov.cn/ce/ceau/eng/zgxw_4/t1598494.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "\"Huawei plans to establish training and practice laboratories in educational institutions\" (see below URL 1)\n\n\"Baku Higher Oil School has started cooperation with Huawei\" (see below URL 2)\n\n\"Students from Nakhchivan have returned from a summer training camp of Huawei\" (see below URL 3)\n\n\"Huawei opens academy in Azerbaijan\" (see below URL 4)",
+                "evidence_urls": [
+                    "https://ted.az/az/view/news/4873/nazirlik-tehsili-muessiselerinde-huawei-shirketinin-tedris-ve-tecrube-laboratoriyalarinin-yaradilmasi-nezerde-tutulub",
+                    "https://bhos.edu.az/news/1778-baki-ali-neft-maktabi-quot-huawei-quot-sirkatila-amakdasliga-basladi",
+                    "https://ikisahil.az/post/129125-naxchivanli-telebeler-huawei-shirketinin-yay-telim-toplantisindan-qayidiblar",
+                    "https://az.trend.az/business/it/2519223.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "Confucius Institute has been opened at Baku State University. (see below URL 1)\n\nConfucius Institute at Azerbaijan University of Languages (see below URL 2)\n\nBranch of Confucius Institute opens at Khazar University (see below URL 3)\n\nADA University starts Chinese language teaching project (see below URL 4)\n\nAzerTAc, Confucius Institute under Baku State University sign cooperation agreement (see below URL 5)",
+                "evidence_urls": [
+                    "http://bsu.edu.az/az/news/confucius_institute_has_been_opened_at_baku_state_university_25042011032651",
+                    "https://adu.edu.az/en/adu-haqqinda/institutlar/300.html",
+                    "https://azertag.az/en/xeber/Branch_of_Confucius_Institute_opens_at_Khazar_University-232081",
+                    "https://www.azernews.az/nation/66241.html",
+                    "https://en.trend.az/azerbaijan/2237120.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "Chinese culture rooms and sports grounds have been opened in schools in the Khazar district (see below URL)",
+                "evidence_urls": [
+                    "https://azertag.az/xeber/Xezer_rayonunda_yerlesen_mekteblerde_CHin_medeniyyeti_otagi_ve_idman_meydanchasi_istifadeye_verilib-1878519"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "No Direct Evidence Found.",
+                "evidence_urls": [],
+                "note": "\"The Seeds for the Future program began in Azerbaijan in 2016. Ministers from multiple departments have praised the program. It is not clear which individual universities have participated.\" https://chinatechmap.aspi.org.au/#/map/marker-1296",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No Public Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "Azerbaijan\u2019s Baku International Sea Trade Port in Alat, which China has supported with equipment on the basis of an intergovernmental grant agreement signed between Beijing and Baku. (see below URL)",
+                "evidence_urls": [
+                    "https://www.cacianalyst.org/publications/analytical-articles/item/13604-chinas-soft-power-in-the-south-caucasus.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "1",
+                "evidence": "\"Shaki twinned with China's Zhangjiajie\" (see below URL 1)\n\n\"Sumgayit is twinned and cooperates with the Chinese cities of Xi'an and Chun.\" (see below URL 2)",
+                "evidence_urls": [
+                    "https://az.trend.az/azerbaijan/gundem/3164792.html",
+                    "https://report.az/maraqli-melumatlar/sumqayit-seherini-cinliler-bezeyecek/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "evidence": "Memorandum of Understanding signed between AIR Center and China Institute of Contemporary International Relations (CICIR) (see below URL 1)\n\nMemorandum of Understanding signed between International Relations Analysis Center and China Brain Center (see below URL 2)",
+                "evidence_urls": [
+                    "https://aircenter.az/en/single/bmtm-ve-cin-muasir-beynelxalq-munasibetler-institutu-cicir-emekdasliga-dair-anlasma-memorandumu-imzalayib-543",
+                    "https://az.trend.az/azerbaijan/politics/3174141.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "1",
+                "evidence": "\"The statement came from MP Konul Nurullayeva.\n\nShe noted that the transformation of Azerbaijan into an important transport and logistics center between China and the European Union, with a trade turnover of $ 500 billion, is of great importance for the development of relations between our country and the two global powers. Chinese President Xi Jinping said that Sino-Azerbaijani relations are on the verge of a new historical stage. It is an assessment of the weight, prestige and importance of our country in the region and in the world.\" \n(see below URL)",
+                "evidence_urls": [
+                    "https://azertag.az/xeber/Deputat_CHin_Azerbaycan_xalqinin_sechdiyi_inkisaf_yolunu_destekleyir-1798029"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "3",
+                "evidence": "\"On September 11, the State Customs Committee of the Republic of Azerbaijan and \u201cHuawei Tech. Azerbaijan \u201dLLC signed a memorandum of understanding on cooperation... The purpose of signing the memorandum of understanding is the agreement between the State Customs Committee and Huawei Tech. Azerbaijan \u201dLLC is a mutual support and implementation of joint projects in the field of information and communication technologies, telecommunications, network equipment and application of technological innovations.\" (see below URL 1)\n\n\n\"A memorandum of cooperation was signed between the Ministry of Education and Huawei Technologies Azerbaijan LLC on April 19 (2019).\nThe memorandum envisages the establishment of Huawei's training and practice laboratories in higher and vocational education institutions, as well as the provision of distance learning equipment and software to the Education System Informatization Department of the Ministry of Education.\" (see below URL 2)",
+                "evidence_urls": [
+                    "https://bbn.az/dovl%C9%99t-gomruk-komit%C9%99si-v%C9%99-huawei-tech-azerbaijan-mmc-arasinda-%C9%99m%C9%99kdasliga-dair-niyy%C9%99t-protokolu-imzalanib/",
+                    "https://edu.gov.az/az/news-and-updates/16437"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "Azerbaijan\u2019s primary trading partners are Russia, Turkey, China, and Italy. (see below URL)",
+                "evidence_urls": [
+                    "https://www.britannica.com/place/Azerbaijan/Trade"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "No direct evidence found.",
+                "evidence_urls": [],
+                "note": "\"China\u2019s contributions so far to Azerbaijan\u2019s infrastructure projects is substantial. Grants worth $70 million and equipment worth an additional $2 million for the $545 million new port project in Azerbaijan is a testament to Beijing\u2019s ambitions in the Caspian.\" (see below URL)\nhttps://caspiannews.com/news-detail/china-pushes-for-stronger-ties-with-azerbaijan-2019-9-25-0/",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Azerbaijan was one of the founding members back in 2016. (see below URL)",
+                "evidence_urls": [
+                    "https://banco.az/az/news/azerbaycan-asiya-infrastruktur-investisiya-bankinin-tesis-senedini-imzalayib"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "Azerbaijan is not among the members of BRICA. (see below URL 1)\n\nThe Azerbaijan Republic Chamber of Commerce and Industry (Azerbaijan Republic CCI) and The National Confederation of Entrepreneurs (Employers') Organizations of Azerbaijan Republic (ASK) are the members of the Silk Road Chamber of International Commerce. (see below URL 2)",
+                "evidence_urls": [
+                    "https://www.bricaistanbul.com/overview/brica-members/",
+                    "https://srcic.org/silk-road-members/?page=3"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "There is no FTAs between Azerbaijan and China according to the Ministry of Commence, People Republic of China. (see below URL)",
+                "evidence_urls": [
+                    "http://fta.mofcom.gov.cn/english/fta_qianshu.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "\"Azerbaijan\u2019s Baku International Sea Trade Port in Alat, a retroactively labeled \u201cBRI\u201d infrastructure project, is anything but centrally controlled by China...To date, China has gifted equipment worth about $2 million and, in total, has allocated grants worth around $70 million for the New Port in Alat... With the addition of a new free trade zone, which gained legislative approval in 2018, the size is projected to grow to 1200 hectares (approximately 1200 sports fields). this significant expansion demonstrates the substantial commitment and undertaking by the Azerbaijani government.\" (see below URL 1)\n\n\"Azerbaijan\u2019s Port on China\u2019s Road\" (see below URL 2)\n\n\"Azerbaijan invites Chinese companies to invest in its industrial parks\" (see below URL 3)\n\n\"Baku Port closely cooperates with China\" (see below URL 4)\n\n\"ALAT -THE MISSING LINK BETWEEN EUROPE AND ASIA\"  (see below URL 5)",
+                "evidence_urls": [
+                    "https://reconasia.csis.org/azerbaijans-port-on-chinas-road/",
+                    "https://1news.az/news/20190905010023490-Azerbaijan-s-Port-on-China-s-Road",
+                    "http://www.news.cn/english/2021-10/28/c_1310273620.htm",
+                    "https://www.hellenicshippingnews.com/baku-port-closely-cooperates-with-china/",
+                    "http://www.visions.az/en/news/826/333f1152/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "No direct evidence found.",
+                "evidence_urls": [],
+                "note": "\"AzerTelecom, China Telecom sign strategic MoU within Digital HUB program\" (see below URL)\nhttps://www.samenacouncil.org/samena_daily_news?news=73097",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "\"On 7 December 2019, Huawei reportedly introduced the '5G is ON' project in Azerbaijan. Huawei planned to collaborate with mobile operatores for the development of a 5G network. According to the article published in trend, Huawei 'is implementing various projects in Azerbaijan in six focused areas. The projects are already being launched in cooperation with state structures and mobile operators.'\" (see below URL 1)\n\n\"China's Huawei unveils 4G mobile services in Azerbaijan\" (see below URL 2)",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-4223",
+                    "https://www.chinadaily.com.cn/business/tech/2016-10/27/content_27190471.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "\"Azerbaijan's telecom provider signs cooperation deal with China's ZTE\" (see below URL 1)\n\n\"Azercell extends its support to Formula 1 by even stronger network\" (see below URL 2)\n\n\"Huawei introducing new projects in Azerbaijan\" (see below URL 3)\n\n\"Huawei provides different communication solutions for our carrier customers, like Bakcell, Aztelekom, and Baktelecom, Azercell and so on.\" (see below URL 4)",
+                "evidence_urls": [
+                    "http://www.chinadaily.com.cn/business/tech/2017-11/24/content_34929830.htm",
+                    "https://www.azercell.com/en/about-us/press-releases/news/azercell-daha-gecle-bk-il-formula-1-yarilarina-dstk-verir.html",
+                    "http://tc.people.com.cn/n/2014/0508/c183008-24992410.html",
+                    "https://en.trend.az/business/it/3160499.html",
+                    "https://bakutribune.com/en/news/593/what-are-huaweis-plans-for-azerbaijan-exclusive-"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "\"How Huawei contributes to digitalization in Karabakh\" (see below URL)",
+                "evidence_urls": [
+                    "https://www.dailysabah.com/opinion/op-ed/how-huawei-contributes-to-digitalization-in-karabakh"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-3163",
+                    "https://www.securityworldmarket.com/me/Newsarchive/first-dahua-led-screen-project-applied-in-ada-university-azerbaijan",
+                    "https://en.wikipedia.org/wiki/ADA_University ",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-3163"
+                ],
+                "note": "Our reviewer expert claimed that Azerbaijani immigration agency uses PRC tech FR cameras, however, we could not find the direct evidence.\n\n\"In 2019, ADA University in Azerbaijan installed Dahua's screens.\" (see URL 1)\n\n\"The ADA university in Azerbaijan started the construction of a new teaching building in 2017. Its multimedia classroom has been equipped with Dahua's technology to help provide 40 square metres of LED screens to provide students with advanced and modern teaching equipment.\" (see URL 2)\n\n\"ADA University (ADA) (Azerbaijani: ADA Universiteti) is a university established under the Ministry of Foreign Affairs of Azerbaijan in March 2006 by Hafiz Pashayev.\" (see URL 3)\n\n\"In March 2020, the Jack Ma Foundation and the Alibaba Foundation announced that they would donate a total of 1.7 million face masks, 165,000 test kits, protective clothing and medical equipment such as ventilators and forehead thermometers to Azerbaijan, Bhutan, India, Kazakhstan, Kyrgyzstan, Uzbekistan and Vietnam.\" (see URL 4)",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "4",
+                "evidence": "\"In 2017, Huawei announced plans to help the Azerbaijani Ministry of Transport, Communications and High Technologies implement a smart city project in Baku. Huawei launched the Public Wi-Fi project in Baku in March 2017 as part of the first phase of the smart city project.\" (see below URL 1)\n\n\"According to an article published in Azertac, Huawei is involved in a 'Smart Village' project in the Aghali village of Zangilan district. Huawei is also reportedly planning to implement its AirPON solution in Aghali. AirPON can shorten fiber cable deployments from 10 kilometers to 1 kilometer, which accelerates network construction.\" (see below URL 2)\n\n\"How Huawei contributes to digitalization in Karabakh\" (see below URL 3)\n\n\"Huawei will apply the latest advanced technologies in Karabakh\" (see below URL 4)\n\n\"China\u2019s Huawei to build \u2018Smart City\u2019 in Baku\" (see below URL 5)",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-4221",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-4220",
+                    "https://www.dailysabah.com/opinion/op-ed/how-huawei-contributes-to-digitalization-in-karabakh",
+                    "https://www.azerbaijan-news.az/posts/detail/huawei-en-son-qabaqcil-texnologiyalarini-qarabagda-tetbiq-edecek-1619533465",
+                    "https://en.trend.az/business/it/2733665.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "3",
+                "evidence": "\"Ministry of Digital Development and Transport, ADA University and Huawei sign memorandum of understanding...\nThe Research and Development Center will train specialists in ICT, including 5G, GPON, IP technology and other relevant areas for national and regional socio-economic development. Participants of the training programs will acquire the necessary knowledge and skills to implement digital transformation in our country.\" (see below URL 1)\n\n\"In terms of hi-tech trade, the first blockchain train arrived in Azerbaijan from Xi\u2019an, although bad weather over the Caspian Sea had delayed its arrival via Kazakhstan\u2019s Aqtau Port.\" (see below URL 2)",
+                "evidence_urls": [
+                    "https://mincom.gov.az/az/view/news/1368/reqemsal-inkisaf-ve-neqliyyat-nazirliyi-ada-universiteti-ve-huawei-anlasma-memorandumu-imzaladi",
+                    "https://www.silkroadbriefing.com/news/2022/04/19/azerbaijan-chinas-developing-trade-investment-ties/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ooni.org/post/2022-azerbaijan-and-armenia-blocks-tiktok/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "According to their official website, Azerbaijani organizations do not cooperate with UWCA. (see below URL)",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No Direct Evidence was Found.",
+                "evidence_urls": [],
+                "note": "\"A DELEGATION FROM THE GENERAL TRADE UNION FEDERATION WILL ARRIVE IN BAKU\" https://azertag.az/xeber/UMUMCHIN_HAMKARLAR_ITTIFAQLARI_FEDERASIYASININ_NUMAYANDA_HEYATI_BAKIYA_GALACAKDIR-295933\n\nAzerbaijan Trade Unions Confederation cooperates with trade union centers of 70 countries such as NIS countries, Turkey, France, Belgium, England, Germany, Egypt, Japan, Bulgaria, and China.  https://en.wikipedia.org/wiki/Azerbaijan_Trade_Unions_Confederation",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "\"September 14-25, 2014: Heads of ruling party women's institutions and representatives of national women's organizations from 9 countries: Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Russia, Tajikistan, Turkmenistan, and Uzbekistan From September 14 to 25, 2014, 19 people came to China to participate in the seminar for women cadres with the theme of \"Gathering Women's Power and Building the Silk Road Economic Belt\". (see below URL 1, 2)\n\n\"In recent years, we (All-China Women Federation) have received women delegations from Armenia, Sri Lanka, Kenya, Singapore, Mongolia, Afghanistan, Vietnam, Laos, Algeria and other countries, and also visited Cambodia, Iran, Azerbaijan, Armenia, Czech Republic, Lithuania, Turkmenistan, Cambodia, Laos and other countries.\" (see below URL 3)",
+                "evidence_urls": [
+                    "https://www.womenofchina.cn/womenofchina/html1/special/belt/1705/796-1.htm",
+                    "https://www.womenofchina.cn/womenofchina/html1/special/belt/1705/500-1.htm",
+                    "https://www.womenofchina.cn/womenofchina/html1/special/belt/1705/604-1.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "https://www.youtube.com/watch?v=5OM3aTV2M-k\n\nhttps://www.youtube.com/watch?v=r1cQerTu_mo",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "\"China has in recent years provided military assistance to both Armenia and Azerbaijan\" (see below URL 1)\n\n\"On approval of the Additional Protocol to the Agreement between the Ministry of Defense of the Republic of Azerbaijan and the Ministry of Defense of the People's Republic of China on the provision of free military assistance to the Republic of Azerbaijan by the People's Republic of China\" (see below URL 2)\n\n\"About approval of the \" Agreement between the Ministry of Defense of the Republic of Azerbaijan and the Ministry of Defense of the People 's Republic of China on provision of free military assistance by Azerbaijan to Azerbaijan \" signed on December 29, 2009 in Beijing\" (see below URL 3)\n\n\"Azerbaijan and China sign military agreement\" (see below URL 4)\n\n\"The issues of military-technical cooperation between Azerbaijan and China were discussed\" https://mod.gov.az/az/news/azerbaycan-ile-cin-arasinda-herbi-texniki-emekdasliq-meseleleri-muzakire-olunub-28217.html\n\n\"China sold Polonez Multiple Launch Rocket Systems and Qasirga T-300 systems to Azerbaijan\" (see below URL 5)",
+                "evidence_urls": [
+                    "https://www.cacianalyst.org/publications/analytical-articles/item/13604-chinas-soft-power-in-the-south-caucasus.html",
+                    "http://www.anl.az/down/meqale/azerbaycan/2010/mart/111839.htm",
+                    "https://www.realtv.az/news/az/2464/azrbaycan-v-in-hrbi-mqavil-imzaladlar",
+                    "https://mod.gov.az/az/news/azerbaycan-ile-cin-arasinda-herbi-texniki-emekdasliq-meseleleri-muzakire-olunub-28217.html",
+                    "https://www.fpri.org/article/2021/11/chinas-growing-influence-in-the-south-caucasus/"
+                ],
+                "note": "\"Azerbaijan can buy new weapons from China\" https://azvision.az/news/143990/azerbaycan-cinden-yeni-silahlar-ala-biler.html",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "https://tradingeconomics.com/azerbaijan/exports/china",
+                "evidence_urls": [
+                    "https://tradingeconomics.com/azerbaijan/exports/china"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "\"The life story of Mahabbat Mirzayev , an April martyr who was specially trained in China\" (see below URL 1)\n\n\"According to the agreement reached in the field of military education, representatives of the Azerbaijani Army are studying in the course \"High Strategic Command\" as part of a Russian-speaking group. Participation in the course and the high conditions created there allow you to get acquainted with the history, culture and achievements of China. Excursions to other cities, research centers, military-industrial complexes, military commands, units and military educational institutions, as well as museums and historical sites serve to create a broad picture of China.\" (see below URL 2)\n\n\"Anniversary of Chinese and Azerbaijani Armed Forces celebrated at Confucius Institute of AUL\" (see below URL 3)",
+                "evidence_urls": [
+                    "http://femida.az/az/news/48230/%C3%87ind%C9%99-x%C3%BCsusi-t%C9%99lim-ke%C3%A7mi%C5%9F-aprel-%C5%9F%C9%99hidi---M%C9%99h%C9%99bb%C9%99t-Mirz%C9%99yevin-h%C9%99yat-hekay%C9%99si",
+                    "https://mod.gov.az/az/pre/25450.html",
+                    "https://az.trend.az/azerbaijan/society/3462950.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "\"Zaver Gafarli: Although the extradition agreement between Azerbaijan and China has been approved, no one will be extradited\" (see below URL 1)\n\n\"Azerbaijan and China have agreed to hand over prisoners\" (see below URL 2)",
+                "evidence_urls": [
+                    "https://az.trend.az/azerbaijan/society/835022.html",
+                    "https://report.az/xarici-siyaset/azerbaycan-ve-cin-mehkumlarin-tehvil-verilmesi-barede-raziliga-gelib/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "\"The Azerbaijani side thanks the Chinese side for always respecting its sovereignty, independence and territorial integrity and will continue to firmly support the Chinese side on issues concerning the Chinese side's core interests. The Azerbaijani side stands ready to jointly combat the \"three forces\" of terrorism, separatism and extremism with the Chinese side, reinforce coordination and cooperation within multilateral frameworks such as the United Nations, Conference on Interaction and Confidence Building Measures in Asia, the Shanghai Cooperation Organization, and Non-Aligned Movement, to jointly safeguard multilateralism.\" - Wang Yi Holds Talks with Foreign Minister Elmar Mammadyarov of Azerbaijan \n(see below URL)",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/ceau//eng/zgxw_4/t1666776.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Azerbaijan had a GDP per capita of US$5,384 and a total population of 10.14 million people, with the Chinese population comprising 110 people or 0.001% of the total population.",
+    "description-2": "Azerbaijan established diplomatic relations with the People's Republic of China in 1992. Azerbaijan was ranked 154th in Reporters Without Borders' 2021 World Press Freedom Index, and Not Free in Freedom House's 2021 Global Freedom Status, with a score of 9/100."
+}

@@ -1,0 +1,997 @@
+{
+    "name": "France",
+    "partner": "Global Voices",
+    "year": "2022",
+    "GDP": "$43,518.5",
+    "population": "67.4M",
+    "original": "121/388",
+    "ranking": "42",
+    "overall": "31%",
+    "effect": "13%",
+    "exposure": "37%",
+    "pressure": "42%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "The \"no\" answer, formally, is correct, but addressing the question of China media presence in France may require to mention the Paris-based \u6b27\u6d32\u65f6\u62a5. Apparently not a member of \u4e16\u754c\u534e\u6587\u5a92, its activity seems quite developed in France and in Europe. This is probably because the Ouzhou Shibao was established years before in France, where the Chinese community is often said to be the biggest of Western Europe.\n\n",
+                "evidence_urls": [
+                    "http://www.oushinet.com/resource/other_page/about.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No evidence ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "Direct knowledge of such media tours, with very little apparent result. (see below URL)",
+                "evidence_urls": [
+                    "https://www.liberation.fr/planete/2019/07/09/propagande-comment-la-chine-s-infiltre-a-l-ouest_1739055/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "No ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://francais.cgtn.com/",
+                    "https://french.cri.cn/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "skip",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "\u4e1c\u65b9\u51fa\u7248\u793eNouvelle's D'Europe in the country seems to be somehow connected to the PRC-connected entities in terms of capital, but can't be confirmed. ",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "A few national newspapers have in the past decade printed payed pages of ready-made content of Chinese national media, marked as \"advertising\", but this practice seems becoming less popular with publishers. \nAt least one private radio, BFM, still has a broadcasting agreement with Radio Chine international. (see below URL)\n",
+                "evidence_urls": [
+                    "https://www.bfmtv.com/economie/operations/chine-eco/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "3",
+                "evidence": "Since 2019, when such advertising appeared in French newspapers, some media outlets seem to have had regular payed-content, and others stopped. (see below URLs)",
+                "evidence_urls": [
+                    "https://www.francetvinfo.fr/monde/usa/presidentielle/donald-trump/video-quand-la-chine-fait-sa-pub-dans-nos-journaux_3251431.html",
+                    "https://www.lalettrea.fr/medias_presse-ecrite/2021/09/13/bfm-l-opinion-et-le-figaro-jouent-les-discrets-relais-des-medias-d-etat-chinois,109690641-ge0"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.liberation.fr/planete/2016/01/05/ursula-gauthier-expulsee-la-chine-revelee_1424459/?redirected=1"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Supporting evidence of Indicator Media-11 seems to indicate that local media set positive tone on commenting China. It's difficult to imagine within these media there is no self-censorship in a way. ",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.arretsurimages.net/articles/ouighours-ces-francais-qui-epousent-le-recit-chinois",
+                    "http://www.slate.fr/story/207149/laurene-beaumond-journaliste-pseudo-chine-ouighours-propagande-genocide-union-europeenne"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www2.assemblee-nationale.fr/instances/fiche/OMC_PO733117",
+                    "https://www.senat.fr/groupe-interparlementaire-amitie/ami_584.html",
+                    "https://www.lemonde.fr/international/article/2022/02/27/le-depute-buon-tan-relais-d-influence-de-la-chine-a-l-assemblee-nationale_6115470_3210.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.valeursactuelles.com/politique/presidentielle-buon-tan-le-depute-lrem-tres-proche-du-parti-communiste-chinois",
+                    "https://www.lemonde.fr/international/article/2022/02/27/le-depute-buon-tan-relais-d-influence-de-la-chine-a-l-assemblee-nationale_6115470_3210.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.marianne.net/monde/asie/quand-la-chine-met-la-pression-sur-des-senateurs-francais"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://taiwaninfo.nat.gov.tw/news.php?unit=56&post=156639"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.challenges.fr/monde/100-ans-du-parti-communiste-chinois-lincroyable-montee-en-puissance-de-pekin-a-lonu_771578",
+                    "https://www.lemonde.fr/planete/article/2019/06/07/guerre-diplomatique-pour-la-presidence-de-la-fao_5473025_3244.html",
+                    "https://www.icao.int/Newsroom/Pages/FR/Mr-Salvatore-Sciacchitano-of-Italy-elected-President-of-the-ICAO-Council.aspx"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.courrierinternational.com/article/vu-de-hong-kong-paris-defie-pekin-avec-une-patrouille-militaire-en-mer-de-chine-meridionale"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.liberation.fr/planete/2020/09/08/macron-condamne-publiquement-la-repression-des-ouighours_1798864/?redirected=1"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "Government authorities have remained silent, while other authorities (parlementary representatives, city authorities) or para-governmental organisations (OFPRA) have been vocal about the human rights situation in Tibet. Most specified their critical views were not France's official stance. (see below URLs)",
+                "evidence_urls": [
+                    "https://www.savetibet.eu/election-presidentielle-quelle-est-la-position-des-candidats-sur-la-question-du-tibet/",
+                    "https://www.ofpra.gouv.fr/sites/default/files/atoms/files/2001_chn_tibet_repression.pdf",
+                    "https://dumas.ccsd.cnrs.fr/dumas-03417220/document"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://cn.ambafrance.org/Loi-sur-la-securite-nationale-a-Hong-Kong"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.usinenouvelle.com/article/comment-huawei-s-infiltre-dans-les-ecoles-d-ingenieurs-francaises.N1080024",
+                    "https://www.anienit.org/news/huawei-tisse-sa-toile-dans-les-ecoles-d-ingenieurs-francaises-712 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "17 of them. (see below URL)",
+                "evidence_urls": [
+                    "https://www.institutconfucius.fr/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ensino.fr/chinois-ecole-primaire-atout-pour-enfants/#:~:text=Les%20chiffres%20parlent%20d'eux,primaires%20sur%20le%20territoire%20national.",
+                    "https://www.education.gouv.fr/bo/21/Hebdo10/MENE2104725N.htm",
+                    "http://www.chinatoday.com.cn/french/spc/2017-02/27/content_751905.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://corporateeurope.org/en/2019/04/follow-new-silk-road-chinas-growing-trail-think-tanks-and-lobbyists-europe",
+                    "https://www.lepoint.fr/monde/think-tanks-desinformation-le-tentaculaire-reseau-d-influence-de-la-chine-20-09-2021-2443888_24.php",
+                    "https://sinopsis.cz/wp-content/uploads/2019/08/rollandbri.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://corporateeurope.org/en/2019/04/follow-new-silk-road-chinas-growing-trail-think-tanks-and-lobbyists-europe"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.lepoint.fr/monde/comment-pekin-profite-de-nos-chercheurs-19-03-2021-2418494_24.php ",
+                    "https://fr.wikipedia.org/wiki/Programme_%C2%AB_1_000_talents_%C2%BB ",
+                    "http://www.senat.fr/rap/r20-873/r20-87310.html",
+                    "https://portail-ie.fr/analysis/2986/programme-mille-talents-captation-de-savoirs-et-intelligence-technologique-quand-la-chine-part-a-la-conquete-des-cerveaux"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.sorbonne-universite.fr/en/sino-french-institute-renmin-university-china"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.liberation.fr/idees-et-debats/editorial/la-chine-dans-les-universites-francaises-un-pouvoir-pas-tres-soft-20210726_KIC5J36ZJVBNXHPMCHNMONGWWQ/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.lejdd.fr/International/Asie/le-chercheur-antoine-bondaz-insulte-par-lambassade-chinoise-a-paris-pekin-nous-fait-passer-un-test-4033182"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.radiofrance.fr/franceculture/ingerence-dans-l-universite-francaise-les-moyens-mis-en-oeuvre-par-la-chine-sont-sans-precedent-2270900",
+                    "https://www.liberation.fr/international/asie-pacifique/dans-les-facs-francaises-des-travaux-diriges-par-pekin-20210726_SXMOA4LHSBFZJAE2HNWSWRHEVE/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "Only for twin city agreements. (see below URL)",
+                "evidence_urls": [
+                    "https://www.orleans-metropole.fr/decouvrir-la-metropole-orleanaise/relations-internationales/les-villes-amies/yangzhou-chine"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chine.in/guide/jumelages-franco_416.html",
+                    "https://www.orleans-metropole.fr/decouvrir-la-metropole-orleanaise/relations-internationales/les-villes-amies/yangzhou-chine"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "But possible in this case. (see below URL)",
+                "evidence_urls": [
+                    "https://www.lindependant.fr/2022/03/03/un-depute-lrem-epingle-pour-ses-liens-avec-le-pouvoir-chinois-10146091.php"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sinopsis.cz/wp-content/uploads/2022/03/buontan0.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No evidence ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence but the information in the below URL is interesting.",
+                "evidence_urls": [
+                    "https://www.intelligenceonline.com/government-intelligence/2020/09/28/united-front-expands-presence-in-paris,109609859-art "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.sudouest.fr/international/chine/jean-luc-melenchon-juge-justifiee-la-colere-de-la-chine-sur-l-independance-de-taiwan-6631770.php",
+                    "https://www.radiofrance.fr/franceinter/manipulations-menaces-fakenews-un-rapport-decrypte-les-reseaux-d-influence-de-la-chine-8519212"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "1",
+                "evidence": "Former Prime minister, former minister. They are seen as lobbyists and agents of Chinese economic power but also identified as pro-Beijing so their influence is declining. (see below URLs)",
+                "evidence_urls": [
+                    "https://www.lemonde.fr/international/article/2019/12/06/les-tribulations-de-jean-pierre-raffarin-en-chine_6021867_3210.html",
+                    "https://www.lejdd.fr/Economie/info-jdd-jean-marie-le-guen-succede-a-jean-louis-borloo-chez-huawei-france-3991434"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "Only state police from China for tourism purposes. (see below URL)",
+                "evidence_urls": [
+                    "https://www.lemonde.fr/societe/article/2014/05/12/des-policiers-chinois-a-paris_4415066_3224.html "
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "But it is number 2!",
+                "evidence_urls": [
+                    "https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/diplomatie-economique-et-commerce-exterieur/la-france-et-ses-partenaires-economiques-pays-par-pays/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "Port and airports: Toulouse Airport was acquired and resold in 2019 by Casil with benefice (see URL 1), but there is a significant and growing participation in Le Havre port operations by China Merchants. (see URL 2) Cosco is present in Marseille. ",
+                "evidence_urls": [
+                    "https://www.francetvinfo.fr/economie/commerce/investissements-chinois-en-france/toulouse-les-chinois-revendent-laeroport-a-eiffage-benefices-a-la-clef_3765849.html",
+                    "https://lemarin.ouest-france.fr/articles/detail/items/china-merchants-reprend-49-de-terminal-link-la-filiale-terminaux-portuaires-de-cma-cgm.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html",
+                    "https://www.businessfrance.fr/la-banque-asiatique-d-investissement-pour-les-infrastructures-aiib"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www1.rfi.fr/actufr/articles/100/article_65116.asp"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "One special economic zone, Chateauroux, that is faring badly. (see below URLs)",
+                "evidence_urls": [
+                    "https://www.francebleu.fr/infos/economie-social/echec-du-projet-chinois-a-ozans-ce-n-est-pas-la-fin-de-nos-relations-avec-la-chine-assure-gil-1576320719",
+                    "https://www.lantenne.com/Les-Chinois-debarquent-sur-l-ex-base-de-l-Otan-de-Chateauroux_a18423.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "Targeting the Chinese community in France. (see below URLs)",
+                "evidence_urls": [
+                    "https://www.oboreurope.com/en/china-mobile-in-france/",
+                    "https://www.lesechos.fr/2018/03/le-geant-des-telecoms-china-mobile-simplante-en-france-985657",
+                    "https://selectra.info/telecom/fournisseurs/ctexcel"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "evidence": "The legislation is being changed and if you have been using them you need to remove them (see below URL 2) ",
+                "evidence_urls": [
+                    "https://www.channele2e.com/business/enterprise/huawei-banned-in-which-countries/2/",
+                    "https://www.francetvinfo.fr/internet/telephonie/5g/5g-huawei-apres-un-premier-echec-en-france-ne-renonce-pas_4345489.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://reseau.developpez.com/actu/307390/La-France-aurait-impose-des-limites-aux-equipements-Huawei-5G-qui-reviendraient-de-facto-a-bannir-la-societe-chinoise-de-ses-reseaux-d-ici-2028/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "1",
+                "evidence": "In experiment by a few local governments. (see below URLs)",
+                "evidence_urls": [
+                    "https://www.lesnumeriques.com/vie-du-net/la-quadrature-du-net-s-attaque-a-la-technopolice-outil-ultime-de-surveillance-de-la-population-n141909.html",
+                    "https://www.journaldunet.com/ebusiness/internet-mobile/1490309-pour-prevenir-du-coronavirus-dahua-technology-adapte-ses-cameras-thermiques/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "1",
+                "evidence": "Not yet but many cities are tempted and try to get around the French legislation's limitations. (see below URL 1)\nSee below URL 2 on data privacy and SmartCity in French legislation",
+                "evidence_urls": [
+                    "https://www.lesnumeriques.com/vie-du-net/smart-cities-la-strategie-de-huawei-pour-connecter-nos-villes-de-demain-a157061.html",
+                    "https://journals.openedition.org/revdh/14244"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No but China is making a lot of efforts to enhance financial cooperation. (see below URL)",
+                "evidence_urls": [
+                    "https://www.globaltimes.cn/page/202202/1252541.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bfmtv.com/economie/entreprises/services/la-france-et-la-chine-creent-un-fonds-d-aide-aux-start-up_AN-201507010161.html",
+                    "https://www.cathaycapital.com/fr/press-room/cathay-capital-poursuit-son-engagement-aupres-des-pme-avec-un-nouveau-fonds-franco-chinois/",
+                    "https://www.lefigaro.fr/flash-eco/un-nouveau-fonds-d-un-milliard-d-euros-pour-l-entrepreneur-franco-chinois-mingpo-cai-20220712"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.capital.fr/entreprises-marches/nucleaire-ia-contrats-et-cooperation-en-vue-entre-la-france-et-la-chine-1354340",
+                    "http://www.chinatoday.com.cn/ctfrench/2018/zfq/202111/t20211104_800262461.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "Tik Tok is the tenth in terms of usage, but the third in terms of time spent on a app. Even if only the sixth in terms of audience. It is highly popular with the youth. (see below URL)",
+                "evidence_urls": [
+                    "https://www.blogdumoderateur.com/chiffres-cles-internet-reseaux-sociaux-france-2022/#:~:text=C'est%20celle%20qui%20conna%C3%AEt,et%205%2C4h%20sur%20WhatsApp."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bfmtv.com/economie/entreprises/services/le-gps-chinois-beidou-est-finalise-et-couvre-desormais-toute-la-planete_AN-202006230282.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cefr//fra/zfzj/t326508.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.intelligenceonline.fr/renseignement-d-etat/2020/09/28/le-front-uni-etend-de-nouveau-sa-presence-a-paris,109609386-art ",
+                    "https://www.jstor.org/stable/26743207 ",
+                    "https://www.youlyon.com/%E9%87%8C%E6%98%82%E4%BE%A8%E5%9B%A2/%E9%87%8C%E6%98%82%E5%8D%8E%E4%BA%BA%E6%80%BB%E5%95%86%E4%BC%9A/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.chinanews.com.cn/hr/2022/03-09/9696684.shtml ",
+                    "http://www.chinaql.org/n1/2020/0212/c431600-31584017.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20210930-%E7%AC%AC11%E5%B1%86%E4%B8%AD%E5%9C%8B%E7%B4%80%E9%8C%84%E7%89%87%E9%9B%BB%E5%BD%B1%E7%AF%80%E5%B7%B4%E9%BB%8E%E9%96%8B%E5%B9%95",
+                    "http://www.ecransdesmondes.org/festival/ecransdechine/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ifri.org/fr/publications/publications-ifri/lopinion-publique-francaise-chine-lere-covid-19-mefiance-politique#:~:text=La%20Chine%20figure%20%C3%A0%20la,Hong%20Kong%20et%20du%20Vietnam.",
+                    "https://www.lemonde.fr/international/article/2020/11/24/l-image-de-la-chine-est-negative-en-france-a-droite-comme-a-gauche-de-l-eventail-politique_6060897_3210.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.sipri.org/sites/default/files/2022-03/fs_2203_at_2021.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.monde-diplomatique.fr/cartes/ventesdarmes16",
+                    "https://www.sipri.org/sites/default/files/2022-03/fs_2203_at_2021.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.lemonde.fr/international/article/2019/08/03/la-chine-rompt-toute-cooperation-de-police-avec-la-france_5496116_3210.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "An Extradition treaty was signed in 2007. (see below URLs)",
+                "evidence_urls": [
+                    "https://www.liberation.fr/planete/2007/03/20/extradition-la-france-signe-avec-la-chine_13952/",
+                    "https://www.senat.fr/leg/pjl11-529-conv.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.leparisien.fr/oise-60/comment-la-mafia-asiatique-prospere-en-france-11-11-2012-2309997.php "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.enderi.fr/L-espionnage-chinois-en-France_a982.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.challenges.fr/entreprise/defense/apt31-les-dessous-de-la-cyberattaque-chinoise-contre-la-france_774451"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.lepoint.fr/societe/l-ombre-des-triades-21-07-2011-1357310_23.php"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "Apparently no other instance since 2014. (see below URL)",
+                "evidence_urls": [
+                    "https://www.lemonde.fr/societe/article/2014/05/12/des-policiers-chinois-a-paris_4415066_3224.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.france24.com/fr/asie-pacifique/20220120-partout-dans-le-monde-la-chine-traque-et-force-des-fugitifs-%C3%A0-revenir-au-pays"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, France had a GDP per capita of US$43,519, and a total estimated population of 67.49 million, including an estimated 600,000-700,000 Chinese people, equivalent to about 0.96% of the total. ",
+    "description-2": "France established diplomatic relations with the People's Republic of China in 1964. France was ranked 26th in Reporters Without Borders\u2019 2022 World Press Freedom Index, and Free in  Freedom House\u2019s 2022 Global Freedom Status with a score of 89/100."
+}

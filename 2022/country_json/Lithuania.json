@@ -1,0 +1,928 @@
+{
+    "name": "Lithuania",
+    "partner": "Konstantinas Andrijauskas",
+    "year": "2022",
+    "GDP": "$23,433.4",
+    "population": "2.79M",
+    "original": "72/396",
+    "ranking": "71",
+    "overall": "18%",
+    "effect": "5%",
+    "exposure": "21%",
+    "pressure": "35%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "Although the experts are aware of such instances occurring before the pandemic, no publicly available data confirming this has been found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "Lithuania's minor radio station \"Kelyje\" has been fully owned by a German citizen of Chinese descent since 2014. Any links to PRC itself have not been proven, however.",
+                "evidence_urls": [
+                    "https://www.vsd.lt/gresmes/informacines-ir-kibernetines-gresmes/",
+                    "https://www.delfi.lt/verslas/verslas/informaciniame-kare-naujas-zaidejas-kinijos-radijo-stociu-tinklas-pasieke-ir-lietuva.d?id=79259245"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "Throughout these last several years one could observe a certain uptick of relatively high-quality Chinese documentaries about culture and nature as well as feature films broadcast on Lithuanian television. There has also been a certain rise of visual footage about world affairs from Chinese news agencies. This of course would probably suggest comparatively cheaper price of this content in the market.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "1",
+                "evidence": "Several of Lithuanian print and digital media outlets are known to have been publishing op-eds and articles originating at the local Chinese embassy. Sometimes their origin was not even mentioned, merely telling that it was \"corporate client's\" content. Such a model suggests involvement from intermediary public relations companies, but no hard evidence of this could be collected. A recent (June 2022) example of such content supplied by the Chinese embassy in Lithuanian language is attached.",
+                "evidence_urls": [
+                    "https://www.delfi.lt/en/politics/5-year-outcome-list-of-cooperation-between-china-and-central-and-eastern-european-countries.d?id=76482993",
+                    "https://www.delfi.lt/en/archive/speech-by-chinese-pm-li-keqiang-at-the-161-summit-in-budapest.d?id=76507837"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "Although it cannot be considered pressure as such, in the context of Sino-Lithuanian bilateral relationship crisis, the Chinese embassy has been pro-actively lecturing local journalists and criticizing their work on China.",
+                "evidence_urls": [
+                    "https://www.delfi.lt/news/daily/lithuania/kinijos-ambasadorius-lietuvoje-virusas-kilo-ne-pas-mus.d?id=84158423",
+                    "https://www.delfi.lt/video/aktualijos/kinijos-ambasada-paviesino-spaudos-konferencijos-vaizdo-irasa.d?id=88767731"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No censorship of views critical of China has been detected, but one of Lithuania's most prominent media outlets had to retract its statements on Huawei as a result of a lost court case back in 2019.",
+                "evidence_urls": [
+                    "https://www.huawei.com/au/facts/voices-of-huawei/court-orders-lithuanian-news-outlet-to-retract-false-statements-on-huawei"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "As of the end of September 2022, in the current (13th) Seimas (Lithuania's Parliament), elected in 2020, there are 28 members of the Group for Inter-Parliamentary Relations with the People's Republic of China (out of 141 members of the Seimas overall). On the other hand, there are also three \"inter-parliamentary provisionary\" groups marked by a clear anti-Beijing/CCP stance, namely for relations with Hong Kong (17 members), Taiwan (36 members), and Tibet (11 members). Notably, even participation in the first group does not necessarily imply a pro-Beijing stance, although some of its members have indeed become some of the most vocals critics of the current government's decision to review its relationship with China that contributed to the ongoing bilateral diplomatic crisis.\n",
+                "evidence_urls": [
+                    "https://www.lrs.lt/sip/portal.show?p_r=38800&p_k=2",
+                    "https://www.delfi.lt/en/politics/surplys-meets-with-chinese-acting-charge-daffaires-as-tensions-rise.d?id=89444517"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "Even in the context of the ongoing Sino-Lithuanian relationship crisis, members of the Lithuanian Seimas (parliament) from the opposition to the current government have met with Chinese diplomats.",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1555496/lithuanian-mps-meet-chinese-diplomat-express-regret-over-vilnius-beijing-tensions",
+                    "https://www.delfi.lt/en/politics/surplys-meets-with-chinese-acting-charge-daffaires-as-tensions-rise.d?id=89444517"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "4",
+                "evidence": "In the context of the Sino-Lithuanian bilateral relationship crisis, Chinese diplomats and propaganda operatives have been pressuring and even threatening Lithuania on an increasingly regular basis. According to a high-ranking Lithuanian official speaking off the record, \"he received numerous letters from China asking to apologize for statements directed against Beijing.\"",
+                "evidence_urls": [
+                    "https://www.globaltimes.cn/page/202108/1231251.shtml",
+                    "https://www.lrt.lt/en/news-in-english/19/1179573/lithuania-becomes-china-s-postal-hub-in-europe-strings-may-come-attached",
+                    "https://www.delfi.lt/video/aktualijos/kinijos-ambasada-paviesino-spaudos-konferencijos-vaizdo-irasa.d?id=88767731"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "In the context of the ongoing Sino-Lithuanian relationship crisis, the country's Ambassador Diana Mickevi\u010dien\u0117 had to endure a three weeks-long compulsory quarantine when the Chinese MFA announced mutual withdrawal of ambassadors on precisely the same day when she landed in Beijing after a short trip back to Lithuania in late August 2021. The perception in Vilnius was that the action was clearly premeditated in order to make the Ambassador a temporary de facto hostage before even being able to come back to her country. Less than three months later, China unilaterally downgraded its official relationship with Lithuania to the level of charg\u00e9 d\u2019affaires, and asked the staff of the Lithuanian embassy in Beijing to hand in their accreditation cards by mid-December. Concerned about the implications for their diplomatic immunity, all of the embassy\u2019s Lithuanian employees along with their family members left China on December 15 in what international media described as \u201cevacuation\u201d.",
+                "evidence_urls": [
+                    "https://www.euractiv.com/section/china/news/lithuania-envoy-in-beijing-to-leave-china-over-taiwan-dispute/",
+                    "https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "In reaction to a joint letter signed by some 200+ Lithuanian public figures calling for the country's President to support Taiwan's inclusion into the 2020 World Health Assembly and the World Health Organization (WHO) in general, his office responded that it could not advocate for its inclusion at WHO as the membership is only open to UN member states. However, this was not an explicit denial of Taiwan's right to participate there as observer or guest.\n",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1178102/lithuania-calls-on-who-to-invite-taiwan-to-international-assembly"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "Lithuania positively supported the ruling without calling for compliance with it.",
+                "evidence_urls": [
+                    "https://amti.csis.org/sides-in-south-china-sea/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "Lithuania has publicly denounced China regarding this matter both on domestic and international levels.",
+                "evidence_urls": [
+                    "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/a6d43eb1ba1111eb91e294a1358e77e9?jfwid=-3cj8of33y",
+                    "https://usun.usmission.gov/joint-statement-on-the-human-rights-situation-in-xinjiang-and-the-recent-developments-in-hong-kong-delivered-by-germany-on-behalf-of-39-countries/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "Lithuania has publicly denounced China regarding this matter both on domestic and international levels.",
+                "evidence_urls": [
+                    "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/a6d43eb1ba1111eb91e294a1358e77e9?jfwid=-3cj8of33y",
+                    "https://usun.usmission.gov/joint-statement-on-the-human-rights-situation-in-xinjiang-and-the-recent-developments-in-hong-kong-delivered-by-germany-on-behalf-of-39-countries/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "Lithuania has publicly denounced China regarding this matter both on domestic and international levels.",
+                "evidence_urls": [
+                    "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/a6d43eb1ba1111eb91e294a1358e77e9?jfwid=-3cj8of33y",
+                    "https://usun.usmission.gov/joint-statement-on-the-human-rights-situation-in-xinjiang-and-the-recent-developments-in-hong-kong-delivered-by-germany-on-behalf-of-39-countries/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "evidence": "Three Lithuanian universities - Vilnius University, Vilnius Gediminas Technical University, and Kaunas University of Technology - signed cooperation agreements with Huawei in the framework of \"Seeds for the Future\" program back in 2015. Although several related trips had indeed occurred soon after its launch, the program's common Baltic States-oriented website does not specify any of these relationships and there is no publicly available information on its activities throughout these last several years.",
+                "evidence_urls": [
+                    "https://ministraspirmininkas.lrv.lt/lt/naujienos/premjeras-dziaugiuosi-kad-ir-musu-studentai-tobulinsis-vienoje-pazangiausiu-kompaniju-kinijoje",
+                    "http://www.huawei.ff.vu.lt/lt/://",
+                    "https://s4fbaltics.com/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "1",
+                "evidence": "There is one Confucius Institute at Vilnius University (since 2010) and two Confucius Classrooms in Vilnius and Kaunas, the country's two largest cities. Vilnius University signed a new cooperation agreement with East China Normal University in 2021 (shedding its former relationship with Liaoning University), but none of the representatives of the new partner institution has even arrived to Lithuania due to the pandemic at the time of this writing. There is no evidence of any adverse impact of the Confucius Institute for Vilnius University or the country at large, and a telling test for Chinese influence over the former came when its authorities organized a widely-attended public lecture by the visiting Dalai Lama in mid-2018. \n",
+                "evidence_urls": [
+                    "https://www.konfucijus.vu.lt/en/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "Chinese language is taught at two engineering lyceums with Confucius classrooms.",
+                "evidence_urls": [
+                    "https://www.vgtulicejus.lt/en/",
+                    "https://www.konfucijus.vu.lt/en/about-us/news/1033-the-2nd-confucius-class-was-opened-in-lithuania"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "Four universities (Vilnius Gediminas Technical University, Kaunas University of Technology, Vytautas Magnus University, and Mykolas Romeris University) belong to the China-CEEC Higher Education Institutions Consortium.\n\n\n",
+                "evidence_urls": [
+                    "http://ccheic.xjtu.edu.cn/en/Members.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "1",
+                "evidence": "At least one Lithuanian tech scientist has joined the Chinese government's \"High End Foreign Expert Program\".",
+                "evidence_urls": [
+                    "https://ktu.edu/wp-content/uploads/2017/02/2016-m.-ataskaita.pdf (see pp. 9, 38)"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "Although the experts are aware of such instances occurring before the pandemic, no publicly available data confirming this has been found. It is almost certain that no trips have occurred recently due to the pandemic and crisis in the Sino-Lithuanian bilateral relationship. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "At least eight Lithuanian municipalities have some documented ties with Chinese counterparts. However, these have not led to any tangible manifestations of note.",
+                "evidence_urls": [
+                    "https://www.eesc.lt/wp-content/uploads/2020/07/RESC.-Lithuanias-decoupling-from-China_2021_EN.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "1",
+                "evidence": "This has definitely been occurring before the pandemic on the local government level, as during the most active period of subnational cooperation in 2012\u20132019 there were at least six visits by the members of the Association of Local Authorities in Lithuania to China, including mayors or their deputies from at least a dozen Lithuanian municipalities. The composition of such visits strongly suggests that at least part of the costs was paid by the Chinese counterparts. None of this, however, has led to any tangible results of note. There has been no publicly available data on visits since the start of the pandemic and the Sino-Lithuanian bilateral relationship crisis.",
+                "evidence_urls": [
+                    "https://www.eesc.lt/wp-content/uploads/2020/07/RESC.-Lithuanias-decoupling-from-China_2021_EN.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "0",
+                "evidence": "There has been no public data on such visits since the start of the pandemic and the Sino-Lithuanian bilateral relationship crisis.\n",
+                "evidence_urls": [
+                    "https://www.eesc.lt/wp-content/uploads/2020/07/RESC.-Lithuanias-decoupling-from-China_2021_EN.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "1",
+                "evidence": "China has long been presented as an economic opportunity for the country, and some of the local politicians remain committed to this line even despite the ongoing bilateral relationship crisis. This, however, does not necessarily mean expression of positive views of the PRC government itself. ",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1555496/lithuanian-mps-meet-chinese-diplomat-express-regret-over-vilnius-beijing-tensions",
+                    "https://www.lrt.lt/en/news-in-english/19/1617849/lithuanian-opposition-party-leader-offers-to-negotiate-with-china-to-mend-ties"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "Since 2013, one of Lithuania's biggest electric facility engineering companies, Energy Network Institute, has been majority-owned by the North China Power Engineering. Although not exactly a piece of the country's critical infrastructure itself, this company is indeed a significant actor in the country's sensitive energy sector.\n\n",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1125801/chinese-money-connects-lithuania-to-belarus-nuclear-plant-lrt-investigation"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "The official website of the Silk Road Chamber of International Commerce mentions two Lithuanian members, namely the Lithuanian Confederation of Industrialists and the Association of Lithuanian Chambers of Commerce, Industry and Crafts. Lithuanian data confirms this.",
+                "evidence_urls": [
+                    "https://srcic.org/silk-road-members/?page=2",
+                    "https://www.lpk.lt/lpk-silko-kelio-tarptautiniu-komercijos-rumu-nare/",
+                    "http://www.cci.lt/wp-content/uploads/2018/07/Rumu-ataskaita.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "China has been using economic statecraft and coercion against Lithuania on an increasingly regularized basis, with the currently ongoing full-scale economic pressure campaign being among the most notorious and peculiar examples worldwide. Not only does it target sectors with particular dependence on the Chinese market, such as laser industry, but its unannounced and unofficial so-called secondary sanctions have been targeting Lithuanian-made components in the global supply chains.",
+                "evidence_urls": [
+                    "https://www.cfr.org/blog/analysis-chinas-economic-coercion-against-lithuania"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "4",
+                "evidence": "In reaction to Lithuania's foreign policy decisions, especially the opening of the Taiwanese Representative Office, China initiated a full-scale economic pressure campaign against the country that included a near total blockade of the entire bilateral trade, resulting in losses for the vast majority of Lithuanian companies that were in business relationships with China.\n\n",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1612188/china-suspends-lithuanian-beef-milk-and-beer-imports-in-further-escalation-of-taiwan-row",
+                    "https://www.lrt.lt/en/news-in-english/19/1594338/lithuanian-goods-obliterated-from-chinese-market-media",
+                    "https://www.lrt.lt/en/news-in-english/19/1690448/lithuania-s-exports-to-china-are-at-zero-says-business-lobby"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "Huawei's equipment is omnipresent in the country's 4G network. Its participation within the rollout of 5G has been legally restricted, however.",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1417429/lithuania-bans-unreliable-technologies-from-its-5g-network",
+                    "https://icds.ee/wp-content/uploads/2020/08/ICDS-Brief_Between-the-Chinese-Dragon-and-American-Eagle-5G-development-in-the-Baltic-states_August-2020.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "This has apparently been occurring in the case of Lithuanian local governments. Hikvision equipment is particularly notable in this regard.",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1146064/chinese-cctvs-in-lithuania-s-kaunas-raise-security-concerns",
+                    "https://kaisiadorys.lt/data/public/uploads/2021/06/isakymas-del-vaizdo-stebejimo-kameru-ir-ju-fiksuotu-duomenu-naudojimo-.docx and other cases."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "According to the latest available poll (November 2021), the top five popular social media/messaging apps in Lithuania were of Western origin (Facebook/Messenger, Youtube, Instagram, Pinterest, and Linkedin). However, more recent digital tracking data (September 2022) revealed TikTok's climb to the top five social apps downloaded from Google Play and Apple App stores.",
+                "evidence_urls": [
+                    "https://www.delfi.lt/m360/naujausi-straipsniai/lietuvos-gyventoju-sirdis-vis-labiau-uzkariauja-tiktok.d?id=88839777",
+                    "https://www.similarweb.com/apps/top/google/store-rank/lt/social/top-free/",
+                    "https://www.similarweb.com/apps/top/apple/store-rank/lt/all/top-free/iphone/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "3",
+                "evidence": "Although there is no explicit mention of words like \"Promotion of Peaceful Reunification\" in its title, the Overseas Chinese Association of Lithuania has been functioning in the country since 2016. Its official website hints at regular contacts with \"Peaceful Reunification\" organizations in other European countries, and published a \"joint declaration\" on this same topic.",
+                "evidence_urls": [
+                    "http://ltchina.lt/",
+                    "http://ltchina.lt/?id=11"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "1",
+                "evidence": "Immediately before the pandemic, Chinese diaspora community events and activities had been increasingly organized by the Overseas Chinese Association of Lithuania, established back in 2016 as the country's most clear-cut institutional manifestation of the UFWD ever since.",
+                "evidence_urls": [
+                    "http://ltchina.lt/?id=212",
+                    "https://www.eesc.lt/uploads/news/id1137/v07_Dragon-and-Knight_leidinys_A4.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "In December 2019, the Chinese embassy organized a screening of a movie depicting its take on the Tibetan issue. Notably, this event was attended by several Lithuanian government figures and officials.",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1124696/china-s-soft-power-probeijing-screening-in-vilnius-attracts-government-figures-and-officials"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "According to the latest national poll available (data collected in late February-early March 2022), 20% of Lithuanian respondents viewed China very negatively, and 44% rather negatively.\n\n\n ",
+                "evidence_urls": [
+                    "https://madeinvilnius.lt/naujienos/lietuvos-naujienos/apklausos-lietuvos-gyventojai-isrinko-draugiskasir-nedraugiskas-salis/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "Equipment made by China's controversial Hikvision, Dahua and Nuctech companies has been used by Lithuania's Dignitary Protection Service, migration and police departments, State Border Guard Service, Public Security Service and at least one state-owned enterprise. There is no public evidence of such imports ongoing now, however.",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1139300/chinese-cameras-banned-in-us-monitor-lithuanian-leaders-lrt-investigation"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "The Sino-Lithuanian Extradition Treaty was signed in 2002 and ratified in 2003.",
+                "evidence_urls": [
+                    "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.196479"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "2",
+                "evidence": "Lithuanian intelligence agencies have been reporting on malicious use of Chinese cyber capabilities observed in Lithuania since at least 2020.",
+                "evidence_urls": [
+                    "https://www.vsd.lt/wp-content/uploads/2020/02/2020-Gresmes-En.pdf",
+                    "https://www.vsd.lt/wp-content/uploads/2022/04/ANGL-el-_.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "Equipment made by China's controversial Hikvision, Dahua and Nuctech companies has been used by Lithuania's Dignitary Protection Service, migration and police departments, State Border Guard Service, Public Security Service and at least one state-owned enterprise.",
+                "evidence_urls": [
+                    "https://www.lrt.lt/en/news-in-english/19/1139300/chinese-cameras-banned-in-us-monitor-lithuanian-leaders-lrt-investigation",
+                    "https://www.delfi.lt/en/politics/customs-sign-contract-with-chinas-nuctech-on-border-scanners.d?id=88230395"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Lithuania had a GDP per capita of US$23,433 and a total population of 2.79 million people, with the Chinese population comprising 438 people, or 0.016% of the total. ",
+    "description-2": "Lithuania established diplomatic relations with the People\u2019s Republic of China in 1991. Lithuania was ranked 9th in Reporters Without Borders' 2022 World Press Freedom Index, and Free in Freedom House's 2022 Global Freedom Index, with a score of 89/100."
+}

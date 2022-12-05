@@ -1,0 +1,979 @@
+{
+    "name": "Tanzania",
+    "partner": "Emeka Umejei",
+    "year": "2022",
+    "GDP": "$1,135.5",
+    "population": "59.73M",
+    "original": "172/396",
+    "ranking": "18",
+    "overall": "43%",
+    "effect": "49%",
+    "exposure": "49%",
+    "pressure": "6%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "3",
+                "evidence": "Xinhua news agency has its bureau in Dar es Salaam. Also, StarTimes, a Chinese media company jointly owned by Tanzania Broadcasting Corp operates in the country\t\t\t\t\t\t\t\t\t\t\t\t\t\n",
+                "evidence_urls": [
+                    "https://www.africanadvice.com/1078668/Companies_And_Businesses/Tanzania/Xinhua_News_Agency/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "Though Tanzanian journalists have been involved in media exchanges in China, there is lack of clear data showing existence of journalists membership to Belt and Road News Alliances or any Chinese network.",
+                "evidence_urls": [
+                    "http://english.cctv.com/2018/09/03/ARTIF9WUC0jun32lf23hARNr180903.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://allafrica.com/stories/201710190153.html",
+                    "https://www.ippmedia.com/en/features/media-stand-better-chance-promoting-tanzania-china-economic-ties "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://allafrica.com/stories/201710190153.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "Interview with journalists established that Chinese -based Xinhua news agency use English, though StarTimes jointly owned by Chinese Star Media and Tanzania TBC use local language (Kiswahili) to some of its channels. ",
+                "evidence_urls": [
+                    "https://techeconomy.ng/2020/02/how-startimes-empowers-african-talents/"
+                ],
+                "note": "Many African countries have English or French as their official language, but still quite a number of people speak local languages, and cannot understand English or French due to poor education. In order to make African audiences understand TV programs, StarTimes launched a Swahili dubbing contest in Tanzania in 2016. Happiness Stanslaus Lulikela stood out among several thousand competitors and got a chance to work in the StarTimes headquarters in Beijing",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "evidence": "Tanzania-based Startimes media company is jointly owned by Chinese Star Media company and Tanzania Broadcasting Corporation",
+                "evidence_urls": [
+                    "https://www.tcra.go.tz/uploads/documents/sw-1619021592-Network%20Facilities%20as%20of%20May%202020.pdf ",
+                    "https://www.dailynews.co.tz/news/big-test-for-tbc-star-media.aspx "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "Interview with officials at the Tanzanian Ministry for Information established that there are Chinese cultural programs aired by number of channels in Startimes TV decoders. However, there is no free Chinese contents aired by other local channels.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "Interview with officials of the Tanzanian Ministry of information and media stakeholders found no evidence of PRC state adverts inserted in Tanzanian media",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "Interview with journalists in Tanzania affirm that there is no pressure exerted to journalists by PRC. However, there is likelihood of influence to state-owned media such as TBC on giving positive coverage of China",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "1",
+                "evidence": "Interview with local journalists established no evidence of media outlets exercising censorship on critical views against China. However, state-owned media would avoid airing and/or publishing such negative information against PRC government due to the historical ties between the ruling party, Chama Cha Mapinduzi (CCM) and the Chinese Communist party.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "Interviews with journalists and media stakeholders suggest that local journalists and media are rarely interested in covering issues concerning China unless they have connection with Tanzania. So, no local journalists or celebrities deny the existence of human right abuses in China because \"it's not of their concern\"",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.chinadaily.com.cn/opinion/2017-03/24/content_28664166.htm",
+                    "https://www.bbc.com/swahili/habari-57675769"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ccmchama.blogspot.com/2021/07/katibu-mkuu-wa-ccm-chongolo.html",
+                    "https://www.chinadaily.com.cn/opinion/2017-03/24/content_28664166.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eurasiareview.com/05072022-china-opens-its-first-political-party-school-in-africa/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "Interview with Tanzanian academic specializing on China on 11 May 2022 suggests this has not happened in Tanzania. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "There has not be been a reported case on denial of visa or unfair legal treatment but there have been reports on Tanzanians been arrested for drug trafficking crimes in China\t\t\t\t\t\t\t\t\t\t\t\t\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.china-embassy.org/eng/zgyw/202203/t20220321_10653739.htm "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "Interview with government officials establish no evidence of government support on the appointment of PRC official to the headship of a UN agency. However, Tanzania supported China's bid for a seat on UN Security council.",
+                "evidence_urls": [
+                    "https://www.thecitizen.co.tz/tanzania/supplement/living-the-vision-assessing-the-unique-china-tanzania-relations-at-60-3595060"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://pt.china-embassy.org/pot/xbwz/zgyw/202101/t20210112_3063844.htm ",
+                    "http://www.china-embassy.org/eng/zgyw/202203/t20220321_10653739.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://pt.china-embassy.org/pot/xbwz/zgyw/202101/t20210112_3063844.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "4",
+                "evidence": "\"Tanzania's all-weather partner and best friend. In the face of the complex and volatile international situation, the Tanzanian side regards China as its most trustworthy and staunch friend and partner. The Tanzanian government will always support China's position on issues related to Taiwan, Xinjiang, Tibet, Hong Kong and the South China Sea\"-Tanzanian foreign minister in the link attached.",
+                "evidence_urls": [
+                    "http://pt.china-embassy.org/pot/xbwz/zgyw/202101/t20210112_3063844.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://pt.china-embassy.org/pot/xbwz/zgyw/202101/t20210112_3063844.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "Research partnership between Tanzanian research centers and China is weak and it involves small institutions\t\t\t\t\t\t\t\t\t\n",
+                "evidence_urls": [
+                    "https://www.sua.ac.tz/news/sokoine-university-agriculture-signs-mou-china-agricultural-university%C2%A0",
+                    "https://www.udsm.ac.tz/web/index.php/centres/chinese/objectives"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.udsm.ac.tz/web/index.php/institutes/ci",
+                    "https://www.udom.ac.tz/directorate/7/directorate%20of%20udom%20confucius%20institute",
+                    "https://www.mfa.gov.cn/ce/cetz/eng/ddbd/t1343164.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://allafrica.com/stories/202103310132.html#:~:text=Tanzania%3A%20Chinese%20Language%20Introduced%20in%20Tanzania%20Secondary%20Schools,-30%20March%202021&text=STUDENTS%20in%20selected%20Advanced%20Secondary,government%20introduces%20five%20new%20combinations.",
+                    "https://www.tie.go.tz/uploads/files/SYLLABUS%20FOR%20CHINESSE%20LANGUAGE%20(O'LEVEL).pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "Interview with academics establish no evidence of academic research centers belong to PRC-affiliated networks/associations",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://theexchange.africa/uncategorized/china-to-fund-138-3-bn-transport-university/",
+                    "https://www.timeshighereducation.com/news/china-funds-construction-africas-largest-university-library",
+                    "https://economictimes.indiatimes.com/news/international/world-news/spreading-ideology-chinese-communist-party-opens-school-in-tanzania-to-train-party-officials-from-region/articleshow/92740922.cms?from=mdr"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "1",
+                "evidence": "Interview with government officials/academicians provide no evidence on participation of local experts in PRC talent recruitment programs, except for Tanzanians who studied in China.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "3",
+                "evidence": "Interview with academicians suggest that scholars and academicians especially those who studied in China have benefited from trips to PRC",
+                "evidence_urls": [
+                    "https://www.universityworldnews.com/post.php?story=20200127090133643"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "interview with academics and scholars establish no evidence of organized PRC-connected student groups to censor staff or students in Tanzania.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "Interview with academics shows no evidence that academicians and teachers have been denied visas into China for being critical of Chinese government\t\t\t\t\t\t\t\t\t\t\t\t\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://economictimes.indiatimes.com/news/international/world-news/spreading-ideology-chinese-communist-party-opens-school-in-tanzania-to-train-party-officials-from-region/articleshow/92740922.cms?from=mdr"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "Interview with academics shows no evidence of teachers or professors avoiding discussion of sensitive political issues concerning China. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://allafrica.com/stories/202103180736.html",
+                    "https://news.cgtn.com/news/2021-01-08/Wang-Yi-hails-the-four-important-consensuses-reached-with-Tanzania-WTlqxkNmhO/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.thecitizen.co.tz/tanzania/news/national/tanga-yangzhou-agree-on-sister-cities-arrangements-2620446"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "4",
+                "evidence": "Interview with government officials suggests that a section of government employees and/or politicians (particularly from the ruling party - CCM) have benefited from paid study tours to China\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "Interview with government (Ministry) officials affirmed that government employees and politicians (from CCM) visited and had official meetings with their Chinese counterparts \t\t\t\t\t\t\t\t\t\t\t\t\t\n",
+                "evidence_urls": [
+                    "http://hk.ocmfa.gov.cn/eng/jbwzlm/xwdt/wsyw/201402/t20140220_7785094.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://wfxy.cumtb.edu.cn/info/1020/1350.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "1",
+                "evidence": "While there is no clear evidence showing that the CCP has donated money to any politician in Tanzania, the CCP donated to the ruling Chama Cha Mapinduzi (CCM) towards the building of the building of China's first political school in Tanzania that started in July. ",
+                "evidence_urls": [
+                    "https://www.eurasiareview.com/05072022-china-opens-its-first-political-party-school-in-africa/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "Interview with government officials established no evidence of UFWD related groups have hosted fundraising or provided support to government employees, politicians, or parties in Tanzania.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "interview with government officials found no records on UFWD -linked group have made public statements opposing the candidacy of local political party.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ripplesnigeria.com/tanzanian-president-thanks-chinese-official-for-not-wearing-face-mask-during-visit/",
+                    "https://qz.com/africa/1477395/tanzanias-magufuli-praises-no-strings-china-aid-as-library-opens/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "Interview with government officials found no evidence on politicians or government employees to have received direct or deferred benefits from PRC-connected individuals or entities openly or covertly. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "4",
+                "evidence": "Interview with government officials revealed that Chinese security companies have been registered in Tanzania to provide security to private residences, offices and businesses.",
+                "evidence_urls": [
+                    "http://africa.chinadaily.com.cn/weekly/2014-10/31/content_18836367.htm",
+                    "https://www.linkedin.com/company/china-tanzania-security"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.trade.gov/country-commercial-guides/tanzania-market-overview"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://docs.aiddata.org/ad4/pdfs/Banking_on_the_Belt_and_Road__Insights_from_a_new_global_dataset_of_13427_Chinese_development_projects.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://oec.world/en/profile/country/tza"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "interview with government (Ministry) officials show no evidence of PRC-related entities operating or substantially control critical infrastructure.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "Interview with government officials establish no evidence of Tanzania joining Asian Infrastructure Investment Bank (AIIB)",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "Interview with government officials and business individuals reveal that major businesses in Tanzania aren't members of Silk Road Chamber of International Commerce.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "Interview with government officials show no evidence of any economic coercion exerted on Tanzania by PRC",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "Interview with government officials reveal no evidence of harassments, threat and boycott on local businesses by the PRC government.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "Interview with government officials show that there is no free-trade agreements between Tanzania and PRC",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cetz//eng/ztgx/jj/t421433.htm#:~:text=The%20agreements%20signed%20between%20China,Tanzania%20(February%201965)%3B%20The"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "Interview with government officials estbalish no evidence that Tanzania has relaxed or removed regulatory restrictions or establish special economic zones to attract Chinese investment.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "Interview with government officials show no records of PRC-connected entities requisitioned infrastructure for failure to repay debts",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "Interview with government officials and Tech businesses establish evidence of PRC-connected entities provide telecom services",
+                "evidence_urls": [
+                    "https://saiia.org.za/research/china-powered-ict-infrastructure-lessons-from-tanzania-and-cambodia/",
+                    "https://www.ide.go.jp/English/Data/Africa_file/Manualreport/cia_09.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "Interview with Telecom companies show that local companies have signed agreements to adopt hardwares pr technical specifications",
+                "evidence_urls": [
+                    "https://www.ide.go.jp/English/Data/Africa_file/Manualreport/cia_09.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://saiia.org.za/research/china-powered-ict-infrastructure-lessons-from-tanzania-and-cambodia/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "Interview with government officials show that PRC-connected entities are authorized vendors to supply tech related equipment or service to the government organizations/institutions/Ministries",
+                "evidence_urls": [
+                    "https://www.ide.go.jp/English/Data/Africa_file/Manualreport/cia_09.html",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-4130"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "Interview with government officials show no collaboration between Tanzania-based companies/institutions and PRC-connected entitites on facial, voice recognition or other applications.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "1",
+                "evidence": "Interview with local government officials established that some cities and towns have signed agreement with PRC-connected entities to establish smart city systems.",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-4130"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "Interview with government and bank officials establish that financial institutions in Tanzania use SWIFT payment system rather than China Cross-Border Interbank Payment system.",
+                "evidence_urls": [
+                    "https://www.bis.org/cpmi/paysys/tanzania.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.thecitizen.co.tz/tanzania/oped/china-tanzania-digital-innovation-pivotal-to-socioeconomic-growth-3536720"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.thecitizen.co.tz/tanzania/oped/china-tanzania-digital-innovation-pivotal-to-socioeconomic-growth-3536720"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.similarweb.com/apps/top/google/store-rank/tz/all/top-free/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "Interview with government officials show no records of government collaboration with PRC in endorsing the use of Beidou satellite navigation system ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "1",
+                "evidence": "Interview with the government officials establish no evidence of existence of local groups/organization with words like promotion of peaceful reunification in their name usually publicizing Hong Kong and Taiwan issue.",
+                "evidence_urls": [
+                    "https://baijiahao.baidu.com/s?id=1722164821498115418&wfr=spider&for=pc"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "Interview with labour Union officials show that no meaningful cooperation on exchange or official visits exist between local unions and ACFTU in PRC",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "1",
+                "evidence": "Interview with government officials reveal no evidence of Tanzanians linked to the UFWD, who make appearances at Chinese diaspora community events, though government officials and Tanzanians (who studied in China) are often invited to attend.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://mct.or.tz/solidarity/",
+                    "https://www.facebook.com/mediacounciltanzania/posts/kang-bing-the-deputy-editor-in-chief-of-the-china-daily-presents-a-souvenir-to-t/1436608049759031/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chinaglobalsouth.com/migrated-posts/bo-sun-charity-chinese-youth-tanzania-africa/",
+                    "https://english.news.cn/africa/20220714/6f6f820a5f1b4c6891ab46049d5c206b/c.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://news.cgtn.com/news/3d3d774d3555544e77457a6333566d54/share_p.html",
+                    "https://yellow.place/en/startimes-tanzania-dar-es-salaam-tanzania"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "interview with local journalists reveal that no Chinese cultural products which positively portray China are being produced by local production studios.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "Interview with local celebrities reveal that no celebrity publish or share propaganda narratives from PRC. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://tz.china-embassy.gov.cn/eng/sgdt/202111/t20211116_10449013.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "Afrobarometer suggests this is the case in Tanzania.",
+                "evidence_urls": [
+                    "https://www.afrobarometer.org/wp-content/uploads/migrated/files/publications/Dispatches/ad489-pap3-africans_welcome_chinas_influence_maintain_democratic_aspirations-afrobarometer_dispatch-15nov21.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tradingeconomics.com/tanzania/imports/china/military-weapons-excluding-revolvers-pistols-lances"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "The reverse is the case. ",
+                "evidence_urls": [
+                    "https://tradingeconomics.com/tanzania/imports/china/military-weapons-excluding-revolvers-pistols-lances"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "Tanzania is totally import-dependent on military equipment",
+                "evidence_urls": [
+                    "https://tradingeconomics.com/tanzania/imports/china/military-weapons-excluding-revolvers-pistols-lances",
+                    "https://tradingeconomics.com/tanzania/imports/china/parts-accessories-arms-headings-9301-9304"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nationaldefensemagazine.org/articles/2022/7/28/usafricom-commander-warns-of-growing-chinese-influence-in-africa"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://en.people.cn/n3/2016/0916/c90000-9115578.html",
+                    "https://africa.cgtn.com/2016/09/15/china-sends-medical-assistance-to-earthquake-hit-areas-in-tanzania/",
+                    "https://www.africanleadershipmagazine.co.uk/tanzania-more-than-5bn-needed-to-repair-quake-hit-houses/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://eng.chinamil.com.cn/view/2018-02/14/content_7945056.htm",
+                    "http://www.fahamu.org/ep_articles/china-tanzania-carrying-out-month-long-joint-naval-drills/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://eng.chinamil.com.cn/view/2018-02/14/content_7945056.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "Interview with government officials restricted such information.  However, military personnel receive peacekeeping training from the United Nation. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No available data on this question..it is restricted ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.csis.org/analysis/personal-ties-measuring-chinese-and-us-engagement-african-security-chiefs"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.fahamu.org/ep_articles/china-tanzania-carrying-out-month-long-joint-naval-drills/",
+                    "http://en.people.cn/90001/90776/90883/7335565.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/africa/2021-05/12/c_139941596.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/642232/EPRS_BRI(2019)642232_EN.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "Interview with government officials restricted access to such information",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "interview with government officials restricted access to such information",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/africa/2020-07/20/c_139227235.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No available information on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nextgov.com/emerging-tech/2018/11/china-exporting-its-digital-surveillance-methods-african-governments/152495/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "There have been joint naval drills between both countries but there is no available information if such has happened between the Chinese Police and its Tanzanian counterpart.",
+                "evidence_urls": [
+                    "http://www.fahamu.org/ep_articles/china-tanzania-carrying-out-month-long-joint-naval-drills/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No available information on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "There is no information confirming this has ever happened in Tanzania",
+                "evidence_urls": [
+                    "https://no06.mofa.gov.tw/mofatreatys/Result.aspx?tysubject_c=&tysubject_e=&tysubject_o=&tycountry_c=%e5%9d%a6%e5%b0%9a%e5%b0%bc%e4%ba%9e&tycountry_e=%e5%9d%a6%e5%b0%9a%e5%b0%bc%e4%ba%9e&tyeffectivedate=&tyeffectivedateE=&tysigneddate=&tysigneddateE=&start=Y&tykeyword=&Order=Signing&tyclass="
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "There is no information confirming this has ever happened in Tanzania.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Tanzania had a GDP per capita of US$1136 and a total population of 59.73 million people. ",
+    "description-2": "The PRC established diplomatic relations with Tanganyika and Zanzibar in 1961 and 1963 respectively but when the two countries united as Tanzania, the PRC extended its diplomatic relations to the united entity in 1964. Tanzania was ranked 123/180 in Reporters without Border\u2019s 2022 World Press Freedom index and ranked partly free in Freedom Status in Freedom House\u2019s 2022 Global Freedom Status with a score of 34/100"
+}

@@ -1,0 +1,1049 @@
+{
+    "name": "Netherlands",
+    "partner": "Expert Forum",
+    "year": "2022",
+    "GDP": "$58,061.0",
+    "population": "17.5M",
+    "original": "81/388",
+    "ranking": "66",
+    "overall": "21%",
+    "effect": "4%",
+    "exposure": "27%",
+    "pressure": "29%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.worldchinesemedia.com/"
+                ],
+                "note": "The website worldchinesemedia.com mentions 3 outlets: United Times, New Holland Chinese Network and Overseas Chinese New World (used the website with googles machine translation). The Chinese names of three media are: \n1. \u65b0\u8377\u5170\u4e2d\u6587\u7f51\n2. \u8054\u5408\u65f6\u62a5\n3. \u534e\u4fa8\u65b0\u5929\u5730",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://cn.brnn.com/414904/414908/index.html"
+                ],
+                "note": "A Dutch NGO, RNW Media, largely funded by the Dutch ministry of foreign affairs is listed on the BRNN website. The CEO seems to have addressed a session of Media Cooperation Forums on the Belt and Road. The NGO is active with media projects in China, but is not a dutch media organization: the status of RNW Media is not very clear, and it is based in Hilversum, the Netherlands. ",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://nos.nl/nieuwsuur/artikel/2386673-dit-is-wat-we-niet-mogen-zien-in-tibet"
+                ],
+                "note": "Last year the Dutch correspondent for the main national news broadcaster NOS went on a PRC organized tour called \"\u4e2d\u5916\u8bb0\u8005\u65b0\u7586\u91c7\u98ce\u884c\" to Xinjiang. The story he made was very open about what it meant to go on a tour like this. In general, it would not be accepted as independent journalism if not accounted for.\nThe same national broadcaster journalist also visited Xinjiang after an invitation, but his reporting was extremely critical. The title of the article is in the same spirit: 'Filming is allowed at the Uyghurs, but the message seems to be: 'go away'.'  https://nos.nl/nieuwsuur/artikel/2353006-filmen-bij-de-oeigoeren-mag-maar-de-boodschap-lijkt-opsodemieteren",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "No sources found, but with increased sensitivity over this topic it seems unlikely",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://leidenasiacentre.nl/onderzoeksrapport-chinas-invloed-en-de-chinese-gemeenschap-in-nederland-van-prof-dr-frank-pieke/",
+                    "http://www.crtv.nl/radio/",
+                    "https://baike.baidu.hk/item/%E4%B8%AD%E5%9C%8B%E5%A0%B1%E9%81%93%E7%B6%B2%E7%B5%A1%E9%9B%BB%E8%A6%96/8481144"
+                ],
+                "note": "No official PRC media. See comments at indicator 6 for Dutch-Chinese owned media. See domain 7, indicator 7: the english version of CGTN is broadcasted by one large operator.\nCRTV exists in the country, which normally is under The State Council of the People's Republic of China, as a tool to spread propaganda, but we were not able to find direct links between CRTV and the PRC in English or Dutch sources. The report states it was set up by graduates in Amsterdam in 1996, 'to connect Chinese and Western culture and society through various media channels.' Their latest reports on their website date from 2019 (see URL2 above). \nHowever when we Baidu it, it shows that in the PRC there is a network called CRTV that belongs to The State Council of the People's Republic of China. CRTV can be found worldwide. It is to be supposed that CRTV in the Netherlands is also related to the PRC government like CRTV in other countries. They all share similar purposes (see URL3 above).\nSo the situation remains uncertain for the moment",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.nl/artikelen/chinese-media-in-nederland?share=R6xHQpqBkncxFXUxacKzXFUs%2FTk7G91pPgQoBtbjU6xekleUOVGXWsJzmJf2uo8%3D",
+                    "https://leidenasiacentre.nl/onderzoeksrapport-chinas-invloed-en-de-chinese-gemeenschap-in-nederland-van-prof-dr-frank-pieke/"
+                ],
+                "note": "The only available information is on the influence of PRC on chinese language media in the Netherlands. A think tank report argues the PRCs influence is limited. An investigative journalism website interpret the result of this report differently, they argue that chinese language media in the Netherlands are 'walking on Beijings leash' and are not reporting critically anymore.  Still the influence of these media are limited",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://nos.nl/artikel/2332437-diplomatie-of-politiek-ambassadeurs-roeren-zich-in-de-coronacrisis"
+                ],
+                "note": "See comment at indicator 8",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bnr.nl/nieuws/internationaal/10409413/open-brief-ambassadeur-moet-china-vrijpleiten",
+                    "https://nos.nl/artikel/2332437-diplomatie-of-politiek-ambassadeurs-roeren-zich-in-de-coronacrisis"
+                ],
+                "note": "The Chinese ambassador in the Netherlands in 2020 wrote an open letter that was published as advertisment. Multiple media reported on this, which shows that it is very unusual",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.independent.co.uk/sport/olympics/winter-olympics/dutch-tv-reporter-beijing-sjoerd-den-daas-b2009848.html"
+                ],
+                "note": "No cases have been found. Usually this is a type of issue that would be flagged by the Dutch society/union for journalists (NVJ). The situation is different for correspondents in China, where the main correspondents are under the pressure of the PRCs censorship. This was a hot topic during the Olympic Games, when a Dutch journalist was assaulted around the opening ceremony",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No sources found, seems very unlikely",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.nl/artikelen/chinese-media-in-nederland?share=R6xHQpqBkncxFXUxacKzXFUs%2FTk7G91pPgQoBtbjU6xekleUOVGXWsJzmJf2uo8%3D"
+                ],
+                "note": "The only case found is a pamphlet in Chinese, criticising the parliaments decision to denounce the Uyghur genocide",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.tweedekamer.nl/downloads/document?id=7ee015f4-76ed-449f-a456-43d83105952b&title=Stemmingen%20moties%20China.pdf",
+                    "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2019A02939"
+                ],
+                "note": "The parliament accepted all kinds of motions investigating Chinese influence in the Netherlands. In the latest strategic note on China by the government the tone is also more critical. This seems therefore unlikely. Some sort of exception is of course the Netherlands' participation in IPU",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eerstekamer.nl/nieuws/20191114/staten_generaal_ontvangt_chinese",
+                    "https://nos.nl/artikel/2270843-groenlinks-na-werkbezoek-in-china-tegen-5g-netwerk-van-huawei",
+                    "https://www.tweedekamer.nl/nieuws/kamernieuws/chinese-parlementaire-delegatie-bezoekt-tweede-kamer"
+                ],
+                "note": "Only official visits of Chinese officials have been found. A high delegation was hosted by the parliament and senate in 2019, Xi Jinping visited the Netherlands in 2014. The leader of the Green Left party visited China in 2019, but upon return argued that Huawei should be banned from the 5G network, and in 2021 argued against sending a Dutch delegation to the Beijing Winter Olympics",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "Difficult to find information, but seems very unlikely",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "MP Sjoerd Wiemer Sjoerdsma was sanctioned in terms of visiting the PRC: the Ministry of Foreign Affairs of PRC has announced the sanction in 2021 (see URL1 below) .The case received considerable media attention.\nThe former Dutch ambassador to the EU, Delphine Pronk, was sanctioned as well; she changed jobs afterwards. The Dutch Ministry of Foreign Affairs reacted by summoning  the PRC ambassador to The Hague, calling the sanctions 'unacceptable'. Sjoerdsma himself called it an 'encouragement to European colleagues' to speak up against the Uyghur genocide (see URL2 below). \n",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/web/wjdt_674879/zcjd/202103/t20210322_9180639.shtml",
+                    "https://www.trouw.nl/politiek/kamerlid-sjoerdsma-d66-en-hoge-nederlandse-diplomaat-op-sanctielijst-china~b9ea578e/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.vpro.nl/argos/lees/onderwerpen/china/2021/china-academici.html"
+                ],
+                "note": "No known cases. The practice is mentioned in a news article, but no references to Dutch cases",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.tweedekamer.nl/kamerstukken/detail?id=2020D25065"
+                ],
+                "note": "The Netherlands follows the ambiguous European stance on this topic. The Dutch parliament supported an investigation into the support of other european nations to include Taiwan in the WHO. In response to questions, the minister of foreign affairs stated in 2020 that the Netherlands 'is pushing for a meaningful participation of Taiwan in international organizations, without pushing for membership of organizations for which only sovereign states can be admitted'",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ipac.global/parliamentarians-raise-global-alarm-at-prc-interpol-election-bid/"
+                ],
+                "note": "Difficult to find information. Two parliamentarians of major coalition parties signed a letter opposing the candidacy of Hu Binchen for Interpol",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.clingendael.org/publication/netherlands-and-indo-pacific-inclusive-not-value-neutral"
+                ],
+                "note": "The Netherlands denounced breaches of international law in the South Chinese Sea, following EU comments on this matter",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://nos.nl/artikel/2370303-nederlands-parlement-spreekt-van-genocide-tegen-oeigoeren-het-voelt-goed-erkenning-te-krijgen",
+                    "https://www.tweedekamer.nl/kamerstukken/detail?id=2021Z03872&did=2021D08405",
+                    "https://nos.nl/nieuwsuur/artikel/2415717-vvd-zegt-als-laatste-coalitiepartij-wat-china-doet-met-oeigoeren-is-genocide",
+                    "https://www.government.nl/documents/diplomatic-statements/2022/06/14/joint-statement-47-countries-un-human-rights-council-situation-china"
+                ],
+                "note": "The Dutch parliament denounced the chinese actions as genocide in 2021. In 2022 also the main political party of the prime minister joined this verdict.\nThe latest joint statement came out on June 14, 2022 (see URL4 above).",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.government.nl/documents/diplomatic-statements/2022/06/14/joint-statement-47-countries-un-human-rights-council-situation-china",
+                    "https://www.parool.nl/nederland/blok-botst-met-kamer-over-mensenrechten-china~bf4ce7707/",
+                    "https://savetibet.nl/nieuwsartikel/minister-blok-formuleert-scherper-tibet-beleid-in-brief-aan-de-tweede-kamer/",
+                    "https://www.trouw.nl/opinie/had-minister-blok-de-moed-kritisch-te-zijn-tegenover-zijn-chinese-collega~bdd210d3/"
+                ],
+                "note": "The Dutch government says it raises human rights issues in bilateral meetings. There was some consternation in 2019, when the Dutch government did not mention Tibet in their new strategy regarding China. In a letter later that year, however, the minister of foreign affairs at the time did argue that the succession of the Dalai Lama should be a 'Tibetan affair'\nThe latest joint statement came out on June 14, 2022 (see URL1 above).",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://zoek.officielebekendmakingen.nl/ah-tk-20202021-485.html",
+                    "https://www.trouw.nl/buitenland/kabinet-maakt-zich-zorgen-om-hongkong~bf09b1f9/",
+                    "https://www.rijksoverheid.nl/documenten/kamerstukken/2021/06/23/kamerbrief-inzake-het-verslag-van-de-hoge-vertegenwoordiger-en-de-europese-commissie-over-de-politieke-en-economische-ontwikkelingen-in-hong-kong-in-2020",
+                    "https://www.government.nl/documents/diplomatic-statements/2022/06/14/joint-statement-47-countries-un-human-rights-council-situation-china"
+                ],
+                "note": "In 2021, the minister of foreign affairs was asked by the parliament to reply to the European Commissions report on the state of Hong Kong. She did not denounce it herself, but says she acts along with the EU. A year earlier the (previous) minister shared the concern the EU voiced about the new security law.\nThe latest joint statement came out on June 14, 2022 (see URL4 above).",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.tweedekamer.nl/kamerstukken/detail?id=2020D53601&did=2020D53601",
+                    "https://www.wur.nl/en/Research-Results/Research-Institutes/plant-research/show-wpr/Wageningen-University-Research-and-Tencent-announce-3rd-International-Autonomous-Greenhouse-Challenge.htm",
+                    "https://chinatechmap.aspi.org.au/#/map/f1-Netherlands"
+                ],
+                "note": "The governent report shows huawei has partnerships with many universities (often the technical ones). Tencent cooperates with Wageningen University. Chinatechmap also lists several cooperations. Many new cooperations in recent years are being scrutinised in the press.\nBased on the China Tech Map (see URL3 above) , 5 importn universities in the country have signed with Huawei regarding reserarch partnerships: \nNetherlands Seeds for the Future\nUniversity of Amsterdam\nLeiden University\nEindhoven University of Technology \nUniversity of Twente\n",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.eu/articles/university-groningen-confucius-institute?share=7BPsba2VJHC2srZxE1DFQ91BvADqbWR3NxBsp5hFpz6y3kXBSMWRwYhI3wge57s%3D",
+                    "https://www.clingendael.org/sites/default/files/2020-07/Rapport_politieke_beinvloeding_in_het_onderwijs_juni_2020.pdf"
+                ],
+                "note": "This is one of the indicators that has most been discussed in Dutch media in recent years. There are two active Confucius Institutes in the Netherlands, in Groningen and Maastricht; in 2019 the institute in Leiden was closed. Think tank Clingendael considers the one in Groningen as 'very active',  but considers it's reach and inlfuence as 'limited / non existent' ",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.brsn.net/jgcy-Institutions/zhiku_en/detail/20191009/1005000000038251570591790829589863_1.html"
+                ],
+                "note": "The Conficius Institutes have 14 Classrooms/Teaching Points. These schools, plus a few others are part of the official Dutch Education 'Chinese Network'. Broadcaster VPRO estimated in 2018 that 2872 Dutch school children were learning Chinese, funded by PCR",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.brsn.net/jgcy-Institutions/zhiku_en/detail/20191009/1005000000038251570591790829589863_1.html"
+                ],
+                "note": "The only found source is the Leiden Asia Center featuring on the BRSN website, but no mention on the think tanks website",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.nl/artikelen/china-science-investigation-overzicht?share=6odrzwFmKFHvHdmJrwSIzW9s67ddtnHHykEUvEawsSwsSTZzYs9KOmSyaOmvyTE%3D",
+                    "https://www.tweedekamer.nl/kamerstukken/detail?id=2020D53601&did=2020D53601"
+                ],
+                "note": "See the report discussed under indicator 1, plenty of cooperations. In a large investigation released in May 2022, investigative journalists of website Follow the Money reveal that Dutch scientist cooperate with Chinese funded scientists in developing technology that is interesting for the Chinese army.\nOne other recent development should be noted. The Free University in Amsterdam closed its Cross Cultural Human Rights Centre.  It was paid for by the Southwest University of Political Science and Law in Chongqing (250.000-300.000 euro). An investigative committee concluded that the scientific methods used were not good and uncritical of the PRC. They also concluded, however, that there was no proof that 'opinions were bought'. This is a new example useful for indicator 5.  It shows again. that the PRC is active in the Dutch academia, although the closing it also shows there's increasesd attention for the issue.  ",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eur.nl/esl/nieuws/prof-dr-martin-de-jong-benoemd-tot-hoogleraar-dynamics-inclusive-prosperity",
+                    "https://www.universiteitleiden.nl/en/staffmembers/aart-kleijn#tab-1"
+                ],
+                "note": "The only few examples found are the professors mentioned in these sources",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=LVUs82nNzwQ",
+                    "https://www.ftm.nl/artikelen/nieuwe-banden-met-chinese-staat-op-nederlandse-scholen?share=E8sr1y9%2FBjdKlQqJbZuOFqSty5dqJjXbkhdHnpRAcluvv0O4UkVwV7v0ywHOLzY%3D"
+                ],
+                "note": "Only one example is mentioned in media, a study trip of high school principals. The Groningen Confucius has made a promo video about this trip",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.nl/artikelen/acssnl-chinese-studentenvereniging-controle?share=1l0edZc6o1kkTnqIhl7TFKOYUV8dIxan%2BNxXn32iS%2B5Ebf6j84Zy08thpCRvaqc%3D",
+                    "https://www.clingendael.org/sites/default/files/2020-07/Rapport_politieke_beinvloeding_in_het_onderwijs_juni_2020.pdf",
+                    "https://nos.nl/artikel/2369102-studenten-in-nederland-vrezen-china-sommigen-durven-hun-mond-niet-open-te-doen"
+                ],
+                "note": "Several universities have student societies that are part of the Dutch CSSA (ACSSNL) Reports show that the ties between this society and the Chinese Embassy are strong and that members are spying on the activities of Chinese students. These reports argue in brief that this leads to self-censoring",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.vpro.nl/argos/lees/onderwerpen/china/2021/china-academici.html",
+                    "https://www.clingendael.org/sites/default/files/2020-07/Rapport_politieke_beinvloeding_in_het_onderwijs_juni_2020.pdf"
+                ],
+                "note": "No examples have been found, but a think tank reports that it's the strategy of the chinese embassy to create self censorship. In a news item on this type of diplomacy and hostage diplomacy, there's also no concrete dutch cases, but there are academics saying they fear they would probably not get one.\nThere are no concrete names of academics that have been denied visa to the PRC, but the scholars in the sources argue that they know it is common practice for the PRC to deny visa. Whether they refer to foreign colleagues, or Dutch colleagues that have not talked to media is not certain. The grade depend also on how heavy self-censorship weighs into the picture. Some scholars are not applying for visa as they fear they won't get it. ",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://nos.nl/artikel/2369095-zorgen-om-banden-rug-en-china-hoogleraar-mag-imago-china-niet-beschadigen",
+                    "https://www.rug.nl/about-ug/latest-news/news/archief2021/nieuwsberichten/confucius-instituut-groningen?lang=en",
+                    "https://www.clingendael.org/sites/default/files/2020-07/Rapport_politieke_beinvloeding_in_het_onderwijs_juni_2020.pdf"
+                ],
+                "note": "The Groningen Confucius Institute used to fund (for 50%) the Groningen University chair in Chinese Language and Culture. A clause in the contract of this professor said he could not damage China's image in public. After uproar in media and politics, this arrangement ended in 2021",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://nos.nl/artikel/2369095-zorgen-om-banden-rug-en-china-hoogleraar-mag-imago-china-niet-beschadigen"
+                ],
+                "note": "No such reports were found. A professor in the submitted source, however, argues, that Hongkong and Chinese students don't want to participate in discussions related to the situation in Hongkong, in fear of repercussions",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.nl/artikelen/steden-en-provinciebanden-met-chinese-tegenhangers-2?share=q7it7OA7KDmWcHxWXIIY2Q876cHhwxGRfd1GKRN5W6cE6jmZ5wK%2FtOsmfwuU8TY%3D",
+                    "https://www.clingendael.org/sites/default/files/2022-01/vriendschap-winnen.pdf"
+                ],
+                "note": "In the last years there were 14 agreements between Dutch and Chinese provinces, roughly half are dormant or inactive",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.nl/artikelen/steden-en-provinciebanden-met-chinese-tegenhangers-2?share=q7it7OA7KDmWcHxWXIIY2Q876cHhwxGRfd1GKRN5W6cE6jmZ5wK%2FtOsmfwuU8TY%3D",
+                    "https://www.clingendael.org/sites/default/files/2022-01/vriendschap-winnen.pdf"
+                ],
+                "note": "Media source has long list of 42 local government / city ties, some no longer active. Situation monitored by the government since recent years",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "No sources found and it seems unlikely",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.agroberichtenbuitenland.nl/actueel/nieuws/2022/03/24/virtuele-handelsmissie-china-met-minister-schreinemacher",
+                    "https://www.nu.nl/buitenland/6180868/china-expert-nederlandse-boycot-van-winterspelen-heeft-weinig-zin.html"
+                ],
+                "note": "The Netherlands did not send representatives to the Beijing Winter Olympics, but the government emphasized that it was not a 'boycott'. In May 2022, the minister of trade conducted a 'digital trade mission' to China",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No sources found, but we don't see a way in which this would be possible",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.rijksoverheid.nl/documenten/jaarverslagen/2021/11/03/overzicht-van-giften-aan-politieke-partijen-en-hun-neveninstellingen-2020"
+                ],
+                "note": "Campaign donations are transparent in the Netherlands, no such donations found",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.nl/artikelen/china-cda-kandidaat?share=OGJJEG7xlCeatiJn5KJFv%2BDwo06R3xDP3Qh%2FGK6J%2Bzq2RtQJLYEdxcLLDbIlaSo%3D"
+                ],
+                "note": "There is one story, dug up by investigative journalists, of a Chinese-dutch entrepreneur featuring very low on the lists for the Dutch Christian Democratic party (CDA), who owns a restaurant and hosted a CCP delegation, including heads of local UFWDs. No links to financial contributions and he only received 230 votes in the election, way short of getting a seat",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No examples found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.eu/articles/european-parliament-china-friendship-group?share=JiMpPiYk97Et%2F8ryy%2BIV6DEP38tn2N3bfT8t3J70E7MNIuG5MSVZi%2FfhrlKec60%3D",
+                    "https://www.ifri.org/sites/default/files/atoms/files/etnc_2022_report.pdf"
+                ],
+                "note": "Most political parties increased their criticism on China, no sources of openly positive claims are found. A large majoity voted to declare the chinese policies in Xinjiang as genocide, so the general attitude is defenitely negative. Only (irrelevant) example can be found at item 7",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No sources found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.nl/artikelen/overheid-ontbeert-inventaris-hikvision-dahua?share=vX2Ahcsbn9bbhh0TpW0MJEmOFJh3gbifsm%2BBG3yBTzAn7RN6LdIYxxvhLHJVrog%3D"
+                ],
+                "note": "Only mentions of hardware products  used by police and government (see domain 6 indicator 4, and domain 9, indicator 7)",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.clingendael.org/publication/dutch-views-china"
+                ],
+                "note": "Germany is Netherlands' largest trading party, but a think tank report argues that China is Germany's largest training partner, and much goods travel through the port of Rotterdam",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.dnb.nl/nieuws-statistiek/snb-2020/nederlandse-beleggers-bezitten-minder-nederlands-staatspapier/",
+                    "https://www.nu.nl/economie/6129711/wat-is-dat-nou-precies-de-staatsschuld-dit-moet-je-erover-weten.html"
+                ],
+                "note": "More than half the national debt is owned by Dutch investors and the European banking system",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eiti.nl/",
+                    "https://www.cbs.nl/en-gb/background/2019/27/international-trade-in-gas-in-the-netherlands"
+                ],
+                "note": "Dutch gas is mainly used in the Netherlands, or exported to Germany",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/2016_etnc_report.pdf",
+                    "https://www.iai.it/it/pubblicazioni/constraints-engagement-china-dutch-ports-and-bri",
+                    "https://www.rijkswaterstaat.nl/nieuws/archief/2019/12/nieuwe-editie-lichtkogel-de-invloed-van-china-op-onze-infrastructuur"
+                ],
+                "note": "A government infrastructure magazine discussed this topic in 2019. The Netherlans is an important trade partner of China and the infrastructure of airport Schiphol and, most importantly, the port of Rotterdam are important elements in the trade of the Belt and Road initiative, but China does not own them. Vulnerability to Chinese investment is a topic discussed in the media. A think tank report argues China doesn't consider NL a priority",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://nos.nl/artikel/2044123-nederland-ondertekent-oprichting-chinese-investeringsbank",
+                    "https://www.rvo.nl/onderwerpen/buitenlandnetwerk/internationale-organisaties/asian-infrastructure-investment-bank-aiib"
+                ],
+                "note": "Netherlands is participating member since the start",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sinopsis.cz/en/rolland-bri-influence-operations/#fnref120",
+                    "https://www.bricaistanbul.com/overview/about-brica/"
+                ],
+                "note": "The Netherlands Council for Trade Promotion is member of BRICA, but the role of this organization in the Dutch economic life is unclear",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.dw.com/en/chinese-sanctions-threaten-eu-investment-pact/a-56995389",
+                    "https://ecfr.eu/article/chinese-sanctions-how-to-confront-coercion-and-avoid-a-squeeze-on-europe/"
+                ],
+                "note": "The only relevant information deals with the Chinese-European investment deal being iced over the sanctions put on government officials. No specific stories deal with the Netherlands",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://fd.nl/economie-politiek/1380740/dwangarbeid-oeigoeren-brengt-ook-nederlandse-bedrijven-in-het-nauw",
+                    "https://www.ftm.nl/artikelen/nederlandse-bedrijven-worstelen-met-de-oeigoerenkwestie?share=hgHNQNAWpqKcWrnWdCdhk5jMz2z5qr%2BzglaN%2BgqFiUONVNvPVOtjfU7T10eFAcw%3D",
+                    "https://www.cpb.nl/economische-verwevenheid-met-china-via-handel-twee-kanten-van-een-medaille"
+                ],
+                "note": "Investigative journalism platform FTM asked Dutch multinationals for a reaction when Chinese customers started boycotting H&M. The article doesn't mention any Dutch companies being boycotted. There's some pressure the other way around, with Dutch customers encouraging companies to stop activities in Xinjiang.\nWhat is more, in June 2022 the government's influential  bureau for economic policy analysis (CPB) published an extensive report on the economic connections with the PRC. It highlights both the advantages and dangers on the trade. As a trading nation, the Netherlands profits from the trade, but it also makes it very vulnerable to Chinese boycots. ",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china_en"
+                ],
+                "note": "These are topics dealt with by the European Union",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.rvo.nl/onderwerpen/landen-en-gebieden/china/handel",
+                    "https://zoek.officielebekendmakingen.nl/blg-883780.pdf",
+                    "https://longreads.cbs.nl/im2020-2/de-handels-en-investeringsrelatie-tussen-nederland-en-china/"
+                ],
+                "note": "No mentions are found in any documents on Dutch-Chinese trade relations",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "Not such things are possible in the Netherlands",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.chinatelecomeurope.com/",
+                    "https://www.acien-nl.com/member-en/chinaunicom"
+                ],
+                "note": "Some companies (C Unicom & C Telecom) have offices in The Hague, providing international services. They don't seem to offer telecom services to individuals however. Netherlands is often used as a business hub by companies from outside the EU",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://fd.nl/ondernemen/1384291/huawei-verdwijnt-uit-de-kern-van-nederlandse-telecomnetwerken",
+                    "https://leidenasiacentre.nl/wp-content/uploads/2021/05/Chinas-Role-in-Digital-Standards-for-Emerging-Technologies-1.pdf"
+                ],
+                "note": "Huawei's participation in the development of a Dutch 5G network became a big political topic. Some telecom providers (KPN, T-Mobile) active in the creation of a 5G network signed deals with Huawei, but the government then decided Huawei would be banned from developping any 'sensitive' parts of the network. Afterwards, Huawei was howerver an important partner, and is still allowed to deliver antenna and radio services",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://nos.nl/artikel/2374551-huawei-had-onbeperkt-toegang-tot-miljoenen-klantgegevens-van-telfort",
+                    "https://www.theguardian.com/technology/2021/apr/19/huawei-may-have-eavesdropped-on-dutch-mobile-networks-calls"
+                ],
+                "note": "See 2. In addition, there are reports that Huawei in the past had access to customer data, without the provider (KPN) knowing about it. We are not sure how to grade this situation on the scale",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.nl/artikelen/overheid-ontbeert-inventaris-hikvision-dahua?share=b63ZxUtERSrJMDw3T3q%2Bd0gO2St%2BRGBqGG7mlNBH1x8U6J6Tdt9kcmcnUE73Z64%3D",
+                    "https://www.ftm.nl/artikelen/de-ogen-van-chinees-staatsbedrijf-hikvision-zijn-overal?share=ep4xsMX6IrCLZ1rowMjT6aLEqMCksdGb64tD3G2oLVfrUh0nwtHmpV1kwz%2B%2B2YM%3D"
+                ],
+                "note": "Investigative journalists revealed in February and March 2022 that Chinese companines Hikvision and Dahua supply local governments with security cameras. The journalists blame a lack of government oversight",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/f3-Artificial%20Intelligence"
+                ],
+                "note": "No mentions on the China Tech Map, only  connections are related to the smart city systems discussed at item 6",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.clingendael.org/sites/default/files/2022-01/vriendschap-winnen.pdf",
+                    "https://chinatechmap.aspi.org.au/#/map/f1-Netherlands"
+                ],
+                "note": "A think tank report of January 2022 argues that various cities signed a smart city agreement with Huawei in 2015, in many cases to create open-access WLAN networks, but also to create automation in elderly homes and other care facilities. The report argues, however, that it is unclear to what extent these projects have been executed. \nThe cities which signed contracts with Huawei include Den Haag, Tilburg, Groningen, Amsterdam, Amstelveen, Utrecht. Shouldn't the grading be \"more than a few, but significant\", since Den Haag and Amsterdam are both included? \n",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cips.com.cn/cips/gywm/cipsxt/zjcyzmd/index.html"
+                ],
+                "note": "No connections found",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://nvp.nl/news-and-publications/news/the-untapped-potential-of-dutch-venture-capital/",
+                    "https://www.netherlandsandyou.nl/your-country-and-the-netherlands/china/doing-business/trade-and-investment-in-the-netherlands",
+                    "https://www.hightechxl.com/post/hightech-connect-china-first-of-its-kind-investment-summit-matches-dutch-tech-capital-from-china"
+                ],
+                "note": "This seems likely. In 2018, a Chinese investment forum was organized in tech-hub Eindhoven",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/f1-Netherlands"
+                ],
+                "note": "The China tech map lists various examples of MOUs between dutch and chinese companies",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://app.sensortower.com/android/rankings/top/mobile/netherlands/overall?locale=zh-CN&date=2022-05-17&show_store_dat=true",
+                    "https://datareportal.com/reports/digital-2021-netherlands"
+                ],
+                "note": "There are different websites giving different numbers. In most, Tiktok is not in the top 5 yet (whatsapp, youtube, facebook, instagram, fb messenger), but Tiktok is systemically in the top5 of new downloads and might be in the top5 already at the end of 2022.",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No news sources has been found, but the EU has its own project so this seems very unlikely",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://leidenasiacentre.nl/wp-content/uploads/2021/04/Chinas-influence-and-the-Chinese-community-in-the-Netherlands-F.N.-Pieke.-Machine-translation..pdf"
+                ],
+                "note": "There's a section of the China Council for the Promotion of Peaceful Unification in the Netherlands, which has 100 members and focuses its comments mostly in chinese language media",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "Three names are mentioned in the UWCA list",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fnv.nl/mondiaal-fnv/nieuws-mondiaal-fnv/archief/chinese-werknemers-aangevallen-en-gearresteerd-van",
+                    "https://www.fnv.nl/nieuwsbericht/algemeen-nieuws/2021/02/fnv-bezorgd-over-lot-hongkongse-vakbondsleider-lee"
+                ],
+                "note": "There are some records of Dutch unions visiting Dutch companies in China in the 2000s. In 2021, the the by far biggest Dutch labour union, FNV, considered to be left wing, joined ITUC in condemning the situation in Hong Kong",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.nl/artikelen/chinese-media-in-nederland?share=R6xHQpqBkncxFXUxacKzXFUs%2FTk7G91pPgQoBtbjU6xekleUOVGXWsJzmJf2uo8%3D"
+                ],
+                "note": "Not much found. One of the Dutch Chinese newspapers (United Times) publishes articles of organisations that are liaised to the United Front ",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.clingendael.org/sites/default/files/2021-04/Report_ETNC_Chinas_Soft_Power_in_Europe_Falling_on_Hard_Times_2021.pdf",
+                    "https://www.clingendael.org/sites/default/files/2021-03/Barometer_Alert_Dutch_views_%20of_China_March2021.pdf"
+                ],
+                "note": "No sources have been found. With the current opinion on China being quite negative, it seems unlikely that professional branch organisations will enter cooperations with their chinese counterparts. The Dutch journalists association NVJ is  critical of press freedom in China",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No sources for this have been found, very unlikely",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ziggo.nl/televisie/zenders/cgtn"
+                ],
+                "note": "The second largest tv provider in the Netherlands (Ziggo) broadcasts the English CGTN chanel for no additional cost",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.vpro.nl/programmas/door-het-hart-van-china/kijk/afleveringen/door-het-hart-van-china-7.html",
+                    "https://www.youtube.com/watch?v=VsfY_k4ISNo",
+                    "https://www.clingendael.org/sites/default/files/2021-03/Barometer_Alert_Dutch_views_%20of_China_March2021.pdf"
+                ],
+                "note": "A major think tank concluded that opinions on China are 'unfavorable and deteriorating', no examples prove otherwise. There is a succesful documentary series (4 series, 20+ 45-minute episodes) by journalist Ruben Terlou who travels through China. He acknowledges that he can't be too negative about the PCR regime in order to keep doing his work, but definitely doesn't paint a positive picture of the PCR government. This is the most extreme situation one can find in the country",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.clingendael.org/sites/default/files/2021-03/Barometer_Alert_Dutch_views_%20of_China_March2021.pdf"
+                ],
+                "note": "No examples found, and with the negative opinion on China it is not very likely that celebrities are keen to do this",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No examples found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.clingendael.org/publication/dutch-views-china"
+                ],
+                "note": "Recent prominent think tank report on public opinion and China is called 'Unfavorable and deteriorating'",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sanctionsmap.eu/#/main/details/10/?search=%7B%22value%22:%22%22,%22searchType%22:%7B%7D%7D",
+                    "https://www.rvo.nl/onderwerpen/landen-en-gebieden/china/sancties-china"
+                ],
+                "note": "There's a sanction banning weapons imports since 1989",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.rvo.nl/onderwerpen/landen-en-gebieden/china/sancties-china",
+                    "https://sanctionsmap.eu/#/main/details/10/?search=%7B%22value%22:%22%22,%22searchType%22:%7B%7D%7D",
+                    "https://open.overheid.nl/repository/ronl-70204774-bfe5-47fc-8c79-cdb15367de74/1/pdf/het-nederlandse-exportcontrolebeleid-2020.pdf"
+                ],
+                "note": "There's a sanction banning the export of weapons since 1989. Latest reports show that there is export of dual-use goods, but these exports are scrutinized",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.eu/articles/china-science-investigation-launch?share=9eZicWfkXHmjT3yehoTCN6OS0OqFAiQLUwZqrMwoXoEMgLc6V5AlryZbCfU52JU%3D"
+                ],
+                "note": "With the existing embargo and NATO membership that seems unlikely. Nevertheless, a May 2022 report by investigative journalists shows that some Dutch scientists may be cooperating with Chinese colleagues in creating technology that could be used by the PLA",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "The Netherlands is part of NATO, so this is ruled out",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No indication that mask donation in early Covid months came from PLA",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "The Netherlands is part of NATO",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "Difficult to trace, but the Netherlands is part of NATO, so it is very unlikely",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "Difficult to trace, but the Netherlands is part of NATO, so it is very unlikely",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No information can be found, but this seems unlikely. In general old military personnel don't play a very big role in Dutch public life, with the exception of the current crisis in Ukraine",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No sources found, seems unlikely",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nu.nl/politiek/3744286/nederland-zet-eerste-stappen-militaire-samenwerking-china.html",
+                    "https://magazines.defensie.nl/defensiekrant/2014/08/hennis-in-china"
+                ],
+                "note": "No information can be found. It does not fall under this indicator, but might be a good place to mention that the Netherlands and China did cooperate in some missions. Chinese military guarded the Dutch camp on their mission in Mali, and they cooperated in the anti piracy mission in Somalia. The Dutch defence minister visited China in 2014 and said it would be the start of closer cooperation, but little seems to have come of this",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.hongkongwatch.org/all-posts/2020/10/23/hong-kong-watch-welcomes-irelands-decision-to-suspend-its-extradition-treaty-with-hong-kong-and-calls-for-eu-members-to-now-go-further-and-suspend-extradition-with-china",
+                    "https://www.reuters.com/article/hongkong-security-agreements-int-idUSKBN27Q23F"
+                ],
+                "note": "The Netherlands had an extradition treaty with Hong Kong, but this was suspended in 2021. See the map on the website of Hong Kong Watch for a european overview of extradition treaties",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No sources, but this would probably be an EU issue. Also the Chinese definition of terrorism matches poorly with the Dutch parliaments observation that the PCR commits genocide in Xinjang",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ad.nl/amsterdam/nederlandse-criminelen-in-top-misdaad-op-de-wallen~a84552f0/",
+                    "https://www.uva.nl/binaries/content/assets/subsites/amsterdam-research-institute-for-legal-studies/bonger-instituut-voor-criminologie/2009/pdf---slangenkoppen-en-tijgerjagers.pdf",
+                    "https://www.crimesite.nl/chinese-maffiaclan-in-nederland-opgerold-voor-drugs-via-postpakketten/"
+                ],
+                "note": "There are various reports that deal with the long history of Chinese criminal organizations in the Netherlands. Recent news item relate to the uncovering of a drugs network in 2021 and a report that the 'chinese maffia' is active in Amsterdam massage salons. There is no reason to think there's not still activity in this field",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://nos.nl/artikel/2368169-veiligheidsdiensten-willen-meer-geld-vanwege-spionage-uit-china-en-rusland",
+                    "https://nos.nl/artikel/2377101-rapport-over-kpn-bevestigt-jarenlange-geruchten-over-spionage-china",
+                    "https://www.aivd.nl/onderwerpen/jaarverslagen/jaarverslag-2019/spionage-en-ongewenste-buitenlandse-inmenging"
+                ],
+                "note": "There are plenty of examples. In their (relatively short) year report, the Dutch intelligence services single out China as the biggest danger for economic espionage, claiming Dutch companies are and have been targeted. They mentioned Chinese espionage as main reason to ask for extended funding",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://eenvandaag.avrotros.nl/item/aivd-honderden-cyberaanvallen-door-rusland-en-china/",
+                    "https://www.volkskrant.nl/nieuws-achtergrond/chinese-staatshackers-drongen-binnen-bij-nederlandse-overheid-dankzij-wereldwijd-citrix-lek~b27bb767/",
+                    "https://www.reuters.com/article/us-eu-cyber-idUSKBN2AY0F1"
+                ],
+                "note": "In an interview in 2017, the head of the Dutch intelligence services claimed there had been 'hundreds' of cyber attacks from China, Russia and Iran on Dutch government organizations and companies. Chinese state hackers conducted a hack on government services in 2021. The issue is becoming increasingly serious",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.trouw.nl/nieuws/chinese-dissident-vreest-ongeluk-in-nederland~b8ade6e4/",
+                    "https://www.amnesty-international.be/nieuws/oeigoeren-zijn-nergens-veilig"
+                ],
+                "note": "Little information found, but it is not unlikely. Amnesty International noted intimidation against Uyghurs in the Nethterlands by the PRC. One old story found, in 2005 Chen Yonglin cancelled a visit to the Netherlands fearing he would be harmed. Role of triads unclear, but is involved in violent activity (see item 3)",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ftm.nl/artikelen/overheid-ontbeert-inventaris-hikvision-dahua?share=W98HLiwW3L6l0geMIh%2BgCNj4a76ydjQmoivy7uerUTfi1puLzN3QhIksvT%2BYzNA%3D",
+                    "https://www.ftm.nl/artikelen/de-ogen-van-chinees-staatsbedrijf-hikvision-zijn-overal?share=cgWeDAdNFx2aaonU7HPknuek6vNwotXnU7RoSUuC%2B2GkmJU7L%2B6zVFzIm1RhFEY%3D"
+                ],
+                "note": "See also domain 6, indicator 4. Camera's used of PRC companies Hikvision and Dahua",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.parool.nl/nieuws/politie-gaat-nauwer-samenwerken-met-china~b1bd305f/"
+                ],
+                "note": "Few sources on this are available. In 2014, the head of the Dutch police travelled to China to initiate closer cooperation to counter international drug trafficking, but there don't seem to be follow ups, nor stories of joint patrols",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No sources found, but unlikely with the Dutch parliaments stance on Xinjiang and the lack of extradition treaty",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No cases found, and they are unlikely due to the lack of extradition treaty",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No cases found, and they are unlikely due to the lack of extradition treaty",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, the Netherlands had a GDP per capita of US$58,061 and a total population of 17.53 million people, with the Chinese population comprising 36,500, people (not including Chinese who are naturalized as citizens of host countries, or children born locally of Chinese descent). ",
+    "description-2": "The Netherlands established diplomatic relations with the People's Republic of China in 1954. The Netherlands was ranked 28th in Reporters Without Borders' 2022 World Press Freedom Index, and free in Freedom House's 2021 Global Freedom Status, with a score of 97/100.  "
+}

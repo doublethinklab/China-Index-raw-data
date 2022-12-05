@@ -1,0 +1,935 @@
+{
+    "name": "Slovakia",
+    "partner": "Global Voices",
+    "year": "2022",
+    "GDP": "$21,087.8",
+    "population": "5.44M",
+    "original": "96/392",
+    "ranking": "57",
+    "overall": "24%",
+    "effect": "10%",
+    "exposure": "34%",
+    "pressure": "10%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "No evidence found ",
+                "evidence_urls": [],
+                "note": "No evidence found ",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence found ",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "skip",
+                "evidence": "There is no proof or evidence, though some might happen in a very discreet way ",
+                "evidence_urls": [],
+                "note": "There have been some, though I am not aware of open sources to substantiate",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "evidence": "Influencer PopMatta was participating on Chinese state media organized events. (see below URL)",
+                "evidence_urls": [
+                    "http://city.cri.cn/2021-06-10/97083be7-3ff1-adf5-c20c-e7d3c7a7dbcb.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "2",
+                "evidence": "Change to 2. Slovakia is serviced by the Czech branch of China Radio International. Though different language, it is readily understood by almost entire population. CRI has explicitly stated that the Czech channel caters to Slovak audience as well.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "There is no evidence of this. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "The only thing worth noting here is that certain Slovak fringe media outlets carried several articles signed by Chinese ambassador. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "3",
+                "evidence": " Trend magazine published paid for content by Chinese embassy on Hong Kong 2019 protests. (see below URL)",
+                "evidence_urls": [
+                    "https://warsawinstitute.org/chinese-influence-slovak-information-media-space/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence found",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "4",
+                "evidence": " These narratives readily appear in certain fringe disinformation media. (see below URL)",
+                "evidence_urls": [
+                    "https://ceias.eu/from-east-with-love/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nrsr.sk/web/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/zpc&PoslanecID=275&CisObdobia=6"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://dennikn.sk/minuta/584182/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.webnoviny.sk/spolu-to-zvladneme-lepsie-taiwan-moze-pomoct/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence found ",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.irozhlas.cz/zpravy-svet/zuzana-caputova-lidska-prava-cina-svoboda-slovensko_1907101541_dbr"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": " In 2020 Parliament adopted resolution demanding release of Panchen Lama. (see below URL)",
+                "evidence_urls": [
+                    "https://www.irozhlas.cz/zpravy-svet/zuzana-caputova-lidska-prava-cina-svoboda-slovensko_1907101541_dbr"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.irozhlas.cz/zpravy-svet/zuzana-caputova-lidska-prava-cina-svoboda-slovensko_1907101541_dbr"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "Huawei made substantial contracts with several tech universities, possibly resulting in IP transfers. Overall, Slovak unis and research center maintain approx. 140 different relations with Chinese entities, including those linked to military. (see below URLs)",
+                "evidence_urls": [
+                    "https://www.trend.sk/spravy/huawei-technologies-oslavil-slovensku-svoje-15-vyrocie",
+                    "https://ceias.eu/slovak-universities-have-a-china-problemand-they-dont-even-know-it/ ",
+                    " https://academytracker.ceias.eu"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "3 of them. (see below URLs)",
+                "evidence_urls": [
+                    "https://www.euractiv.com/section/politics/short_news/head-of-chinese-institute-threatens-slovak-expert/",
+                    "https://ceias.eu/wp-content/uploads/2020/12/universities-paper.pdf",
+                    "https://academytracker.ceias.eu/. "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "In both elementary and secondary schools but still an exception and not scaled up. (see below URLs)",
+                "evidence_urls": [
+                    "https://eduworld.sk/cd/redakcia/4657/cinske-gymnazium-banska-bystrica",
+                    "https://ceias.eu/chinas-inroads-into-slovak-universities/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "Don't belong but collaborate. (see below URL)",
+                "evidence_urls": [
+                    "https://www.euractiv.com/section/all/short_news/slovak-university-researchers-delivered-weekly-briefings-to-controversial-chinese-think-tank/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    " https://academytracker.ceias.eu/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Depends on whether student level recruitments are to be included. Several unis participate on Huawei Seeds for Future",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "No supporting evidence ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No documented evidence though there is suspicion it is happening. (see below URL)",
+                "evidence_urls": [
+                    "academytracker.ceias.eu "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "Medzi slovensk\u00fdch akt\u00e9rov, ktor\u00ed sa o \u010c\u00edne vyjadrovali negat\u00edvnej\u0161ie, patria v prvom rade novin\u00e1ri (Peter Morvay, Andrej Mati\u0161\u00e1k, Mat\u00fa\u0161 Kr\u010dm\u00e1rik a \u010fal\u0161\u00ed), akademici (Martin Slobodn\u00edk),",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Only in Confucius institutes that are major providers of Chinese language education, incl. on elementary and high school level. See https://ceias.eu/chinas-inroads-into-slovak-universities/ so it depends if the question is about Slovak Universities as such or the overall curriculum that is available to students. ",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No supporting evidence ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.amo.cz/wp-content/uploads/2020/09/Mapinfluence-policy-paper-SK.pdf",
+                    "https://ceias.eu/under-the-radar/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://wb.jl.gov.cn/yhcs_85472/201910/t20191017_6114452.html",
+                    "http://www.xiping.gov.cn/portal/jrxp/bmxx/webinfo/2022/03/phone1649451119368148.htm",
+                    "http://www.amo.cz/wp-content/uploads/2020/09/Mapinfluence-policy-paper-SK.pdf",
+                    "https://ceias.eu/under-the-radar/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "1",
+                "evidence": "Junket trips for local and national politicians are known to have occurred. (see below URL)",
+                "evidence_urls": [
+                    "http://www.amo.cz/wp-content/uploads/2020/09/Mapinfluence-policy-paper-SK.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%EF%BC%8D%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E9%97%9C%E4%BF%82"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "3",
+                "evidence": "Supreme Court justices traveled to China on several occasions. Trainings on low enforcement and anti-terrorism occurred as well. (based on FOIA request responses by Ministry of Interior and Ministry of Justice to CEIAS in 2020)",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "3",
+                "evidence": "China has been rarely point of political discourse, but on those few occasions, positive statements were made by high ranking officials, including Prime Minister and ministers, and MPs. (see below URL)",
+                "evidence_urls": [
+                    "https://chinaobservers.eu/chinas-sticks-and-carrots-in-central-europe-the-logic-and-power-of-chinese-influence/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No evidence found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "No, and not even in the top 10 in 2019 before the pandemic. (see below URL)\n",
+                "evidence_urls": [
+                    "https://flo.uri.sh/visualisation/2946670/embed "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "\u200b\u200bhttps://www.trend.sk/trend-archiv/najvacsie-firmy-slovenska-tazobny-priemysel"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.metalbulletin.com/Article/3733036/Chinas-Hesteel-stalls-negotiations-for-US-Steel-Kosice-takeover-local-media-say.html"
+                ],
+                "note": "Though until August 2021, CITIC owned a minority indirect share in Swan, private company that operates governmental communication network. ",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.researchgate.net/publication/308625087_Chinese_financial_presence_in_Slovakia_and_Slovak_'China_Policy' "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://fta.mofcom.gov.cn/english/index.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": " Though Bank of China held lien on Swan Mobile 4G network. Since the debt was repaid in timely manner, no exercise of lien rights occurred",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "Most of 4G networks run on huawei/zte equipment. Also, smaller telecom operators were relying on ZTE to develop 5G network. (see below URL)",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-usa-china-huawei-slovakia-idUSKCN1PO1TO"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "Decision on 5G using Chinese technology as well as a new national strategy is pending, at the same time Huawei routers are widely used. (see below URLs)\n\n",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-usa-china-huawei-slovakia-idUSKCN1PO1TO ",
+                    "https://chinaobservers.eu/china-in-the-slovak-security-strategy-a-step-in-the-right-direction/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": " There have been reports of Hikvision equipment used in traffic monitoring, border control, prisoner control. (see below URL)",
+                "evidence_urls": [
+                    " https://dennikn.sk/2149583/problem-hikvision-ako-slovensko-pusta-rizikovu-cinsku-firmu-do-bezpecnostnej-infrastruktury/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No - only with Taiwan. (see below URLs)\n",
+                "evidence_urls": [
+                    "https://www.taiwannews.com.tw/en/news/4393193",
+                    "https://chinatechmap.aspi.org.au/#/map/f1-Slovakia",
+                    "https://clustercollaboration.eu/content/slovak-smart-city-cluster"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://chinaobservers.eu/chinas-sticks-and-carrots-in-central-europe-the-logic-and-power-of-chinese-influence/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": " TikTok is the 3rd most popular social network. (see below URL)",
+                "evidence_urls": [
+                    " https://www.go4insight.com/post/ko%C4%BEko-slov%C3%A1kov-je-na-soci%C3%A1lnych-sie%C5%A5ach-v-roku-2022"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "3",
+                "evidence": "Several UFWD organizations operate in Slovakia (at least 17), though they are not very active. ",
+                "evidence_urls": [
+                    ": http://sk.china-embassy.gov.cn/chn/sgxx/dongtai1/202208/t20220804_10734677.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.rmzxb.com.cn/c/2017-06-20/1603851.shtml?n2m=1"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence ",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://sk.china-embassy.gov.cn/dshd/202108/t20210827_8960319.htm",
+                    "https://www.163.com/dy/article/GKFL85640514BIH4.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://kknews.cc/zh-sg/culture/83az994.html",
+                    "http://www.cevia.eu/Ueber-uns/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "Chinese diaspora organizations closely linked to Chinese Embassy have been making donations to support victims of housing block explosion, and to covid relief fund. (see below URL)",
+                "evidence_urls": [
+                    "https://www.aktuality.sk/clanok/778955/cinania-zhanali-ruska-a-respiratory-aj-na-slovensku-prebehli-najmenej-dve-zbierky/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "But some Slovak YouTubers do relay the Beijing narrative, while they are not celebrities and publish mostly for audiences inside China. (see below URLs)",
+                "evidence_urls": [
+                    "https://www.guancha.cn/CaoYeMan/2022_03_07_629128.shtml",
+                    "https://www.youtube.com/channel/UCTW7xYWZZVhQjI9pDGO6O1g/featured"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://spravy.pravda.sk/svet/clanok/570279-cina-slovakov-neoslnuje/",
+                    "https://dennikn.sk/2144662/cina-nema-v-europe-dobry-imidz-na-slovensku-podla-prieskumu-najpozitivnejsie-vnimame-rusko/ ",
+                    " https://ceias.eu/wp-content/uploads/2020/11/SK-poll-report_FINAL.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "Explanatory note: There is only 0.4% of arms and ammunition imports. (see below URL)",
+                "evidence_urls": [
+                    "https://tradingeconomics.com/slovakia/imports/china/arms-ammunition-parts-accessories"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "4",
+                "evidence": "In 2020 arms and ammunition exports to China were worth 2000 USD. (see below URL)",
+                "evidence_urls": [
+                    "https://tradingeconomics.com/slovakia/exports/china/arms-ammunition-parts-accessories"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "The military magazine Armadny Magazin writes positively about Chinese military equipment and technological advantage. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://merics.org/sites/default/files/2021-01/210118%20Merics%20EU-China%20Mappings%20final.pdf "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "While there is no specific agreement on this, law enforcement has been engaging in cooperation with China law enforcement on crime preventions, including terrorism. Representatives of Police participated on anti-terrorism trainings in PRC. (Per Interior Ministry response to FOIA request filed by CEIAS in 2020)",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://warsawinstitute.org/czech-slovak-intelligence-report-china/",
+                    "https://www.sis.gov.sk/pre-vas/sprava-o-cinnosti.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "Hikvision cameras have been used in border patrol, as well as prison monitoring systems. (see below URL)",
+                "evidence_urls": [
+                    "https://dennikn.sk/2149583/problem-hikvision-ako-slovensko-pusta-rizikovu-cinsku-firmu-do-bezpecnostnej-infrastruktury/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Slovakia had a GDP per capita of US$21,088, and a total estimated population of 5.44 million people, with the Chinese population comprising an estimated few thousand people.",
+    "description-2": "Slovak Republic established diplomatic relations with the People's Republic of China in 1949. Slovak Republic was ranked 27th in Reporters Without Borders\u2019 2022 World Press Freedom Index,  and Free in Freedom House\u2019s 2022 Global Freedom Status with a score of 90/100."
+}

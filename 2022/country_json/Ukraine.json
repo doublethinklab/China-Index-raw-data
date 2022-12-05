@@ -1,0 +1,970 @@
+{
+    "name": "Ukraine",
+    "partner": "Expert Forum",
+    "year": "2022",
+    "GDP": "$4,835.6",
+    "population": "43.8M",
+    "original": "115/372",
+    "ranking": "44",
+    "overall": "31%",
+    "effect": "18%",
+    "exposure": "37%",
+    "pressure": "33%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "evidence": "A certain Ukraine Chinese Network exists that belongs to World Chinese Media, according to databases, but its presence in the public space is insignificant. Old info from before 2015 may be obsolete because a lot has changed meanwhile in the media landscape: first of all, disappearance of most printed newspapers and a shift in the public's media consumption as a result of various crises, the war and the moving of advertising in online. More recent analysis by Radio Free Europe has not detected a Chinese presence in the media space.",
+                "evidence_urls": [
+                    "https://www.radiosvoboda.org/amp/information-influence-media-prc-china-ukraine/31073783.html",
+                    "https://www.worldchinesemedia.com/2015/05/12/56/2/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "They exists formally, though the info about them is old and in the context of the war with Russia and Beijing's position on it, attitudes in UKR have toughened significantly, including in the media. Pro-Russian media / journalists were silenced, and to a large extent this network overlaps with the pro-China one, as the source quoted below makes clear. The media landscape in 2022 in Ukraine is quite different from 2021, not to mention previous years\n",
+                "evidence_urls": [
+                    "http://cn.brnn.com/414904/414908/index.html",
+                    "https://www.radiosvoboda.org/a/information-influence-media-prc-china-ukraine/31073783.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.radiosvoboda.org/amp/information-influence-media-prc-china-ukraine/31073783.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "We are aware of many cases when journalists visited PRC for study trips, however, there is no evidence that these received trainings there",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.radiosvoboda.org/amp/information-influence-media-prc-china-ukraine/31073783.html"
+                ],
+                "note": "Most of the PRC media do not have a Ukrainian version, however, these have a Russian version which is understood by most Ukrainians ",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://parlament.ua/ru/article/komu-prinadlezhat-ukrainskie-smi-podrobnyj-analiz/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "skip",
+                "evidence": "Some information exists from a person in the media sector (influencer) that PRC-related entities have posted positive news in Ukrainian media; there is no official or public confirmation of this. Due to the current context in Ukraine, many public persons interviewed have reservations to be quoted ",
+                "evidence_urls": [],
+                "note": "Only marginal channels, in general online",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.radiosvoboda.org/amp/information-influence-media-prc-china-ukraine/31073783.html"
+                ],
+                "note": "There is a problem with tracking advertising paid by PRC since this is not made public and often one could determine it only by the very positive content",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "We are not aware of any such cases",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There were several channels (ZIK, 112 Ukraine, NewsOne) which were more positive on China but there is no information that media in Ukraine censored views critical of the PRC",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "This is not an issue of interest in Ukraine normally, with the multiple crises in the last years. However, we are not aware of such cases taking place",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://expertforum.ro/wp-content/uploads/2021/10/China-Watch-Chinese-communities-in-Romania-Bulgaria-and-Ukraine.pdf.pdf",
+                    "http://w1.c1.rada.gov.ua/pls/mpz2/organizations.dep_group_members?grp=29"
+                ],
+                "note": "According to the source, the Ukraine-China friendship group is the largest friendship group in the parliament: 175 MPs out of 421. Morever, parties created an interaction group OBOR",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ukranews.com/en/news/787147-servant-of-the-people-political-party-has-common-principles-with-the-communist-party-of-china"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "www.da.mfa.gov.ua"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://apnews.com/article/united-nations-china-europe-ukraine-health-a0a5ae8f735b92e39c623e453529cbb9",
+                    "https://www.mfa.gov.cn/ce/cegy/eng/zgyw/t1104104.htm",
+                    "https://www.globaltimes.cn/page/202102/1214609.shtml",
+                    "https://en.interfax.com.ua/news/general/720822.html"
+                ],
+                "note": "Mostly under previous governments, but also recently in the pro-Russian regions / political groups",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence of such cases",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://apps.who.int/gb/or/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No such evidence exists",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "Ukraine never spoke publicly about this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nbcnews.com/news/world/fed-u-s-ukraine-cuts-deals-china-shuts-about-uyghurs-n1275192"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "skip",
+                "evidence": "The Ukrainian government has not change its one-China policy, latest affirmed in 2008. However with the things so much in flux it is difficult to confirm the current political stance of the present government",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "Ukraine has remained silent on the subject",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "Huawei has set up Seeds for the future program since 2016. Kyiv Polytechnic Institute, National University of Kyiv, Kyiv Mohyla Academy, Shevchenko National University of Kyiv, Kyiv National University of Technologies and Design are all included\n\n\n\n",
+                "evidence_urls": [
+                    "https://forea.kpi.ua/en/seeds-for-the-digital-future-of-ukraine-from-the-students-of-kpi/",
+                    "https://chinatechmap.aspi.org.au/#/data/"
+                ],
+                "note": "An alliance of Ukrainian and Chinese Universities including 49 Ukrainian and 92 Chinese higher educational institutions has been created for closer cooperation in the field of education",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://east-center.org/wp-content/uploads/2021/09/DRI-report-2021.pdf"
+                ],
+                "note": "Six Confucius Institutes and two Chinese classrooms in Ukraine ",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://zakon.rada.gov.ua/laws/show/5029-17/print1331482006276224#Text"
+                ],
+                "note": "Chinese (mandarin) is not on the approved list for the education system",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "skip",
+                "evidence": "The official webpages do not list any Ukrainian think tank or research center as part of PRC-affiliated networks. However, certain centers, such as the Association of Sinologists of Ukraine behave themselves as they would be part of this, which is completely loyal to China's interests in Ukraine.\nThere is also the V.I. Vernadsky Taurida National University but this is not under the control of Ukraine because it is in territory occupied by Russia for more that eight years (Crimeea), so the accuracy of information cannot be verified at source and the same institution appears in international databases as belonging to different countries",
+                "evidence_urls": [
+                    "http://uasr.xjtu.edu.cn/About_UASR/Members.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://east-center.org/wp-content/uploads/2021/09/DRI-report-2021.pdf"
+                ],
+                "note": "Wang Jing, the head of Chinese government-affiliated Skyrizon, created and funded several organisations in Ukraine, which were active in 2015\u20132019. These are the Ukrainian Silk Road Association \u201cSilk Link,\u201d which positioned itself as a \u201cB2B2G platform for business and political cooperation between Ukraine, China and European countries,\u201d the \u201cTianxia Link\u201d Center for Contemporary China, which aimed at deepening relations between Ukraine and China, the Ukrainian House in Beijing, and Xinwei Ukraine. Both suspended their activity after the failure of Skyrizon to get control over Motor Sich",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "2",
+                "evidence": "\u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0414\u0435\u043d\u0438\u0441\u043e\u0432 from \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0430 \u0430\u043a\u0430\u0434\u0435\u043c\u0456\u044f \u043d\u0430\u0443\u043a \u0423\u043a\u0440\u0430\u0457\u043d (Natsional'na akademiya nauk Ukrayiny) was on the list of Thousand Talents Program 2012 ",
+                "evidence_urls": [
+                    "https://blog.liga.net/user/vzadorskiy/article/39739",
+                    "https://alumni.hit.edu.cn/site/xy_hit/xy/cnt/?id=2432"
+                ],
+                "note": "The lists of the participants were not made public after 2018. According to Ukrainian experts, there are many talents from Ukraine who have been recruited through various programs, especially university programs in the area of engineering. Also, companies such as Huawei is organizing its \"seed for future\" program. However, experts note that in the last years the interest of China in Ukraine's talents significantly decreased and remaine mainly in the area of military R&D",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "skip",
+                "evidence": "Following interview with inside expert  the incident described in the indicator exists but there is no public available evidence",
+                "evidence_urls": [],
+                "note": "Takes place mostly through universities",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "In Ukraine there has never been much public discussion about this, but this is unlikely to happen on large scale",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "Although experts note that visa bans for critical research could have happened, there is no evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence for this and there are no many such academic programs anyway",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "Not much context for such discussions in class exists in Ukraine, and no such cases were reported.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://expertforum.ro/wp-content/uploads/2021/10/China-Watch-Chinese-communities-in-Romania-Bulgaria-and-Ukraine.pdf.pdf"
+                ],
+                "note": "Many regional authorties signed cooperation agreements with authortitiesin PRC and chinese companies.",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "According to experts, there are at least 91 agreemets between Ukrainian and PRC entities which envisage, in one way o another, sister-city ties.\n",
+                "evidence_urls": [
+                    "https://expertforum.ro/wp-content/uploads/2021/10/China-Watch-Chinese-communities-in-Romania-Bulgaria-and-Ukraine.pdf.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.geopolitica.info/china-ukraine/"
+                ],
+                "note": "Also in interview with expert",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.geopolitica.info/china-ukraine/"
+                ],
+                "note": "A number of Ukrainian politicians attended (July 6, 2021) a forum organised by the Chinese Communist Party in Beijing. ",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No evidence of such activity",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://delo.ua/econonomyandpoliticsinukraine/vybory-2019-kto-finansiruet-fondy-kandidatov-i-351501/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "Interview with expert",
+                "evidence_urls": [],
+                "note": "There was not public or non-public information about this",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence of such activity\nInterview with expert",
+                "evidence_urls": [],
+                "note": "No public or non-public information about this",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://russian.news.cn/2021-07/01/c_1310037765.htm",
+                    "https://hromadske.ua/ru/posts/nacbank-otmenyaet-ogranichenie-kursa-prodazhi-valyuty-i-umenshaet-limit-na-snyatie-nalichnyh-deneg-za-granicej"
+                ],
+                "note": "Ukrainian head of the governing party' faction in the parliament mentioned that his party and CCP have a lot in common and that Ukraine should use the positive experience of economic development of China. Also, high-level politicians participated in the presentation organized by the Chinese embassy of the Xi book",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://expertforum.ro/wp-content/uploads/2021/10/China-Watch-Chinese-communities-in-Romania-Bulgaria-and-Ukraine.pdf.pdf"
+                ],
+                "note": "There were several cases when former diplomats would join Chinese companies ",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "1",
+                "evidence": "It is mostly about buying Chinese hardware which is them operated by local security services",
+                "evidence_urls": [
+                    "https://expertforum.ro/wp-content/uploads/2021/10/China-Watch-Chinese-communities-in-Romania-Bulgaria-and-Ukraine.pdf.pdf"
+                ],
+                "note": "On October 15, 2020, Ukraine\u2019s State Service for Special Communications and Information Protection signed a memorandum of understanding with Huawei on cooperation in the areas of cybersecurity and cyber defense. According to the joint press release, the proposed cooperation aimed to strengthen Ukraine\u2019s state defense against cyber threats, create a channel for information exchange, and provide advanced training for personnel in cybersecurity and communications ",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://customs.gov.ua/en/"
+                ],
+                "note": "Overall volume of trade was $18.99bn - 13,4% of all trade of Ukraine. Export to China $8.01 bn and import $10.98 bn",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.project-syndicate.org/onpoint/ukraine-debt-deferment-restructuring-by-anna-gelpern-et-al-2022-04"
+                ],
+                "note": "Most of the debt belongs to IFI and in Eurobonds",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "Ukraine's top trading partner is the EU, but a breakdown by countries puts China on top as no. 1\n",
+                "evidence_urls": [
+                    "https://uiamp.org.ua/kitay-uzhe-tretiy-god-vystupaet-naibolee-krupnym-torgovym-partnyorom-ukrainy"
+                ],
+                "note": "Ukraine exported raw materials amounting to almost $14 billion in 2021. Out of this, the exports to China were about $3 billion. Therefore, most of the raw materials do not go to China but still, a significant part goes to China if considered per country",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "PRC owns certain assets in Ukraine's infrastructure, however they are not critical or strategic. Aside from the Mykolaiv port PRC also owns some large cereals companies, other agrobusiness firms etc. However, none of these are critical at this point, they cannot buy land (but just lease it) and found their assets trapped in the war zones of Eastern Ukraine. If PRC would have controlled Motor Sych factory, which was a transactions discussed for a number of years, then this would have been a company with significant industrial profile, but the deal was not approved by the Ukrainian government. This is a sign of the limited   Chinese influence in 2022 in spite of the high volume of purely commercial trade in 2021.",
+                "evidence_urls": [
+                    "https://www.wikiwand.com/zh-tw/%E4%B8%AD%E7%B2%AE%E9%9B%86%E5%9B%A2",
+                    "https://thepeoplesmap.net"
+                ],
+                "note": "China does not own any strategic critical infrastructure",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=CrfsUeOY7iw",
+                    "https://srcic.org/silk-road-members/?page=3"
+                ],
+                "note": "Ukrainian Chamber of Commerce is member of the Silk Road Chamber of International Commerce. At the same time, about 1100 Chinese companies opened their representations in Ukraine",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.rferl.org/a/china-vaccines-ukraine-xinjiang/31382099.html"
+                ],
+                "note": "China threatened to cut supplies of the vaccines and restrict trade if Ukraine does not withdraw its signature from the declaration on human rights in the Xinjiang - however this was not public and China did not impose trade restrictions since Ukraine withdrew its signature",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.rferl.org/a/china-vaccines-ukraine-xinjiang/31382099.html"
+                ],
+                "note": "As above, the reason for harassing Ukraine was the statement related to HR in Xinjiang",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.trade.gov/country-commercial-guides/ukraine-trade-agreements"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ces.org.ua/wp-content/uploads/2021/09/Chinese-economic-footprint-in-Ukraine-1.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ces.org.ua/wp-content/uploads/2021/09/Chinese-economic-footprint-in-Ukraine-1.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.businesswire.com/news/home/20190617005826/en/Ukraine-Mobile-Infrastructure-Broadband-Operators-Statistics-and-Analyses-2019---ResearchAndMarkets.com"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.commsupdate.com/articles/2016/12/08/lifecell-signs-5g-cooperation-agreement-with-ericsson-huawei/",
+                    "https://www.commsupdate.com/articles/2018/11/08/iot-time-m2minternet-of-things-weekly-digest/",
+                    "https://east-center.org/wp-content/uploads/2021/09/DRI-report-2021.pdf"
+                ],
+                "note": "About 80\u201390 per cent of information and telecommunication equipment of Ukrainian mobile operators is manufactured by Chinese companies Huawei and ZTE, which also service and replace it",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "expert interview",
+                "evidence_urls": [
+                    "https://www.commsupdate.com/articles/2018/03/27/ukrtelecom-expanding-coverage-with-zte-credit/"
+                ],
+                "note": "The Chinese companies participate in various state projects such as \"safe cities\" in Kyiv and Kharkiv and wi-fi for Kyiv Metro. The indicator is only an assessment; it is difficult to quantify with precision",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/f1-Ukraine"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "skip",
+                "evidence": "Cameras in public spaces were installed years ago and they continued to function until short before the war. Reportedly some of these had facial recognition, but this is hard to confirm. It is not clear what happened to them after the Russian invasion in Feb 2022.",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-2452"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.city.kharkov.ua/ru/news/kharkiv-spilno-z-kompanieyu-huawei-rozrobit-kontseptsiyu-rozumnogo-mista-42091.html"
+                ],
+                "note": "Kharkiv City Council and Huawei signed and memorandum on \"Smart City\" for Kharkiv",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://asiatimes.com/2022/03/china-media-goads-russia-to-use-cips-over-swift/"
+                ],
+                "note": "\"At present, CIPS has 75 direct participants and 1,205 indirect participants. In Europe, the system\u2019s direct participants are in London, Frankfurt, Zurich, Paris, Luxembourg, Hungary and Russia\"",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "expert interview",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "No info exists that such things may happen",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ain.ua/ru/2021/02/15/rejting-socsetej-v-seti-kievstar/"
+                ],
+                "note": "TikTok in in top5 social netwroks in Ukraine (after facebook, youtube, instagram and twitter). Is thi what you mean under this indicator?",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No info exists that such things may happen",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "skip",
+                "evidence": "There may be such organizations in Ukraine but no public info exists at this point. In general such issues are not top priority on the public agenda in 2022, given the situation",
+                "evidence_urls": [
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/202005/t20200529_12278420.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html#"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fpsu.org.ua/napryamki-diyalnosti/informatsijna-robota/16565-podiya-na-stseni-mtskm-profspilok-ukrajini-odin-poyas-odin-shlyakh.html"
+                ],
+                "note": "There is no information of any visits or cooepration with ACFTU taking place. However, there are ceratain cultural events at the organized by Ukrainian Federation of Trade Unions which promote China. For instance, in Nove,ber 2019 the Federation hosted a Chinese orchestra with a concert \"One Belt - One Road\".",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "There is no evidence of UFWD personnel in Ukraine",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ukranews.com/news/507445-kytay-gotov-prynymat-bolshe-ukraynskykh-zhurnalystov-v-ramkakh-obmennykh-vyzytov"
+                ],
+                "note": "There is a cooperation at many levels in journalistic and cultural sphere. For instance, All-China Journalist Association has a program of annual exchanges with National Union of Journalists of Ukraine, including visits to China for Ukrainian journalists and to Ukraine for chinese journalists",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ukrinform.ua/rubric-economy/3011733-derzavnij-zernovij-korporacii-peredali-z-kitau-zasobi-individualnogo-zahistu.html",
+                    "https://www.rferl.org/a/ukraine-coronavirus-oligarchs-medicine/30492082.html"
+                ],
+                "note": "Jack Ma financed the purchase of 1 million coronavirus testing kits for Ukraine at a cost of $80 million at the beginning of COVID pandemic",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "We are not aware of any such case",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "China is a very rare topic for discussion in Ukraine. There opinions about China which prevail are mostly negative or neutral",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "China is a very rare topic for public attention in Ukraine",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://expertforum.ro/wp-content/uploads/2021/10/China-Watch-Chinese-communities-in-Romania-Bulgaria-and-Ukraine.pdf.pdf"
+                ],
+                "note": "Sometimes politicians promote Chinese narratives including positive comments about the need to adopt Chinese model of governance",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://neweurope.org.ua/wp-content/uploads/2021/12/Diplomatia2022_eng_web.pdf"
+                ],
+                "note": "In Ukraine there is no opinion poll measuring the views of Ukrainians towards PRC government. However, when asked to evaluate the importance of deepening cooperation with the countries, PRC is placed 12 with 76,4% (behind Poland, Germany, Canada, UK, USA, France, Turkey, Georgia, Lithuania, Sweden, Italy). But when asked whom should Ukraine support in the case of a conflict between US and China, 52,6% said US and only 10,6% said China",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://hromadske.ua/ru/posts/kitaj-byl-krupnejshim-torgovym-partnerom-ukrainy-v-2020-godu-rossiya-tretya",
+                    "https://ces.org.ua/wp-content/uploads/2021/09/Chinese-economic-footprint-in-Ukraine-1.pdf"
+                ],
+                "note": "Ukraine did not import military products (at least before the current war)",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chinaobservers.eu/why-ukraine-is-reassessing-its-defense-cooperation-with-china/"
+                ],
+                "note": "Ukraine supplied a wide range of military components for aircrafts (engines), navy ships, etc. It is estimated that before the war, the overall annual amount of exports was abut $90 million",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chinaobservers.eu/why-ukraine-is-reassessing-its-defense-cooperation-with-china/"
+                ],
+                "note": "Ukraine and China do not have join production, although such plans existed in the past. However, China is building certain military products based on technical documentation from Ukraine",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "expert interview",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "It would also annoy Russia\nexpert interview",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "It would also annoy Russia\nexpert interview",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "expert interview",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "expert interview",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "We are not aware of any such case",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "We are not aware of any such case",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "expert interview",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://minjust.gov.ua/m/4906"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "According to official information, there is no such agreement that would qualify. Old data from before the invasion of Crimea in 2014 are obsolete because the security situation is completely different today",
+                "evidence_urls": [
+                    "https://minjust.gov.ua/m/4906"
+                ],
+                "note": "The List of international agreements of Ukraine does not include such an agreement",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "A case of infants trafficking involving Chinese nationals was reported in 2020, but it is likely that local gangs were organizing the whole thing while the Chinese nationals were trying to use the opportunity, without being part of the Chinese mafia as such. What is more, Ukraine has a quite liberal law on surrogate mothers, with 2500 children per year born as a result of such arrangements, some international (see article in link). In the confusion of the war many misunderstandings can occur in such cases",
+                "evidence_urls": [
+                    "https://www.occrp.org/en/daily/12226-ukrainian-police-in-baby-mill-bust",
+                    "https://www.wionews.com/world/two-chinese-nationals-arrested-for-allegedly-attempting-to-smuggle-infants-from-ukraine-462828",
+                    "https://www.economist.com/europe/2022/09/08/the-war-has-thrown-ukraines-surrogacy-industry-into-crisis"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.tadviser.ru/index.php/\u0421\u0442\u0430\u0442\u044c\u044f:\u041a\u0438\u0431\u0435\u0440\u043f\u0440\u0435\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c_\u0438_\u043a\u0438\u0431\u0435\u0440\u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b_:_\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+                    "https://silkbridge.info/v-ukraine-kitajskogo-shpiona-prigovorili-k-10-godam-lishenija-svobody/",
+                    "https://ssu.gov.ua/novyny/kontrrozvidka-sbu-zatrymala-na-hariachomu-shpyhuniv-i-poperedyla-vytik-do-inozemnoi-storony-materialiv-taiemnykh-viiskovykh-rozrobok-video"
+                ],
+                "note": "In most of the cases, the espionage refers to the military technologies",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.theguardian.com/technology/2022/apr/01/china-accused-of-launching-cyber-attacks-on-ukraine-before-russian-invasion"
+                ],
+                "note": "Investigation claims that more than 600 websites, including Ukraine\u2019s defence ministry, were subjected to thousands of hacking attempts coordinated by the Chinese government prior to Russian war against Ukraine",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "We are not aware of such cases",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "At least one such case does exist, so the system seems to be in use\n",
+                "evidence_urls": [
+                    "https://ain.capital/2021/05/19/what-is-wrong-with-hikvision/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "Not practically possible",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.voanews.com/a/east-asia-pacific_teen-fiancee-flee-netherlands-avoid-extradition-back-china/6208514.html"
+                ],
+                "note": "A citizen of PRC has been detained in Ukraine, at the request of PRC authorities, for his online comments over clashes between China and India. But the person was allowed to leave to the Netherlands. So, it is not entirely clear if this case falls under the indicator described",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "We are not aware of such cases",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "There are at least two known cases of risk of being extradited to PRC, but this did not happen in reality",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Ukraine had a GDP per capita of US$4,836 and a total population of 43.81 million people, with the Chinese population comprising 6,000 people (not including Chinese who are naturalized as citizens of host countries, or children born locally of Chinese descent).",
+    "description-2": "Ukrainian Soviet Socialist Republic established diplomatic relations with the People's Republic of China in 1949. After Ukraine gained independence from the Soviet Union in 1991, the two countries forged formal diplomatic relations in 1992. Ukraine was ranked 106th in Reporters Without Borders' 2022 World Press Freedom Index, and partly free in Freedom House's 2022 Global Freedom Status, with a score of 61/100.  "
+}

@@ -1,0 +1,1142 @@
+{
+    "name": "Bangladesh",
+    "partner": "Global Voices",
+    "year": "2022",
+    "GDP": "$2,503.0",
+    "population": "166.3M",
+    "original": "102/384",
+    "ranking": "54",
+    "overall": "27%",
+    "effect": "28%",
+    "exposure": "29%",
+    "pressure": "12%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "World Chinese Media Network was founded in Toronto, Canada in 1998.  It's the website lists media organizations (URL 1) that belong to the WCM. We could not find any Bangladeshi media's name on this network. We also noticed that some Bangladeshi media are invited by the Chinese Embassy or PRC related entities for different events. But they do not belong to the network. (see below URL 2 & 3)",
+                "evidence_urls": [
+                    "https://www-worldchinesemedia-com.translate.goog/benkanjieshao/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc",
+                    "https://bdnews24.com/bangladesh/2016/10/11/china-seeks-bangladesh-medias-cooperation-to-bolster-political-economic-ties",
+                    "https://unb.com.bd/category/Bangladesh/chinese-new-year-dcab-and-cmg-usher-in-year-of-the-ox/64831"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "From our research, we found that The Financial Express from Bangladesh was invited to join the Belt and Road News Network (BRNN). From the website of the Belt and Road News Alliance we could not find any Bangladeshi media listed. We can thus say that one or two media may be a p[art of these networks, however, no definitive list was found. ",
+                "evidence_urls": [
+                    "https://thefinancialexpress.com.bd/world/belt-and-road-news-network-launched-in-beijing-1555998736",
+                    "https://thediplomat.com/2019/10/what-is-the-belt-and-road-news-network/",
+                    "https://brnalink.com/members.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "We have seen the start of media tours since 2016. Added a few examples. (see below URLs) However, during the Covid-19 pandemic the tours came to a halt. This has not resumed yet. ",
+                "evidence_urls": [
+                    "https://bdnews24.com/bangladesh/2016/10/11/china-seeks-bangladesh-medias-cooperation-to-bolster-political-economic-ties",
+                    "https://theprint.in/opinion/china-is-paying-foreign-journalists-including-from-india-to-report-from-beijing/154013/",
+                    "https://www.daily-sun.com/post/341351/Huawei-keen-to-support-Bangladesh%E2%80%99s-ICT-sector-with-innovative-solutions"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "evidence": "There have been a number of instances where journalists from Bangladeshi media organisations were invited for short and/or long time trainings in the past 5 years. (see below URLs) However, during the pandemic such training did not take place. ",
+                "evidence_urls": [
+                    "https://www.facebook.com/BelieveInMemes/videos/291769266176050/",
+                    "https://www.chinadaily.com.cn/china/2016-10/17/content_27077588.htm",
+                    "https://carnegieendowment.org/2021/10/13/china-s-influence-in-south-asia-vulnerabilities-and-resilience-in-four-countries-pub-85552"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "We have identified a couple of media outlets being distributed in Bengali - such as China Radio International and China Bangla News portal. (see below URL 1 & 2)\nThe Facebook page of CGTN (English version) however has a lot higher reach among Bangladeshis. UNB News Bangladesh (first fully digitalized private sector wire service in South Asia since 1988) also has a news exchange agreement with Xinhua. (see below URL 3)\n\n",
+                "evidence_urls": [
+                    "https://bengali.cri.cn/",
+                    "https://chinabanglanews.com/",
+                    "https://www.unb.com.bd/category/Bangladesh/unb-xinhua-sign-news-exchange-agreement/3046"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "We could not find any evidence that any local media outlets have been wholly or partly owned by PRC citizens or corporations. Attaching a report titled \"Who Owns the Media in Bangladesh?\" by the Center for Governance Studies (CGS) which explored the nature and patterns of media ownership. (see below URLs) The report does not show any Chinese connection. ",
+                "evidence_urls": [
+                    "https://bdmediaowners.com/wp-content/uploads/2021/01/Full-Report_Who-Owns-the-Media-in-Bangladesh.pdf",
+                    "https://www.comminit.com/global/content/who-owns-media-bangladesh"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "We have seen instances of publishing China specific contents in Bangladeshi media through the privately owned newswire UNB news or the state owned newswire BSS. (see below URL 1 & 2) It is to be noted that UNB news has a content sharing agreement with Xinhua. (see below URL 3)",
+                "evidence_urls": [
+                    "https://www.bssnews.net/business/55297",
+                    "https://unb.com.bd/category/Opinion/building-a-china-bangladesh-community-of-public-health-through-solidarity-and-cooperation/52694",
+                    "https://www.unb.com.bd/category/Bangladesh/unb-xinhua-sign-news-exchange-agreement/3046"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "1",
+                "evidence": "We have seen special supplements in some newspaper during Chinese celebrations and some sponsored ad (mostly) in Social media. Some examples are attached in the below URLs. These are a few in numbers and have no significant impact. ",
+                "evidence_urls": [
+                    "https://www.facebook.com/BanglaSis",
+                    "https://www.thedailystar.net/news/bangladesh/diplomacy/news/will-work-push-china-bangladesh-strategic-partnership-new-heights-xi-jinping-2991701?amp",
+                    "https://www.researchgate.net/figure/Number-of-stories-on-China-and-India-in-2016-by-newspaper_fig1_342751262"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "We haven't seen any example of that. During the pandemic period (2020 April till now) the travel between China and Bangladesh has not normalized. (see below URL)",
+                "evidence_urls": [
+                    "https://www.google.com/search?q=bangladeshi+journalist+denied+visa+in+china&sxsrf=ALiCzsY6xeX2f2I9_oF3BzLKDRWyVhw-Ng:1652519721188&ei=KXN_Yv2OC8bbz7sPpsK0qA4&start=0&sa=N&ved=2ahUKEwi9x9zX0973AhXG7XMBHSYhDeU4FBDy0wN6BAgBEDc&biw=1440&bih=764&dpr=2 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "We haven't seen such examples of censorship. There are instances of criticism of China on the pressure: the human rights violations in Uyghur. (see below URL 2) This is important to Bangladeshis as it is a predominantly Muslim nations and some religious scholars criticize China for its handling of Muslims in Uyghur. Some people also critiqued China for its role during the Bangladesh liberation war. (see below URL 1)",
+                "evidence_urls": [
+                    "https://www.bahumatrik.com/%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%9A%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%A8-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%9A%E0%A7%80%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AF%E0%A7%8C%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE/92214",
+                    "https://en.dhakapost.com/national/1523",
+                    "https://www.studyinternational.com/news/chinas-borders-international-students/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "We haven't seen such examples of personalities during our research. Also, maltreatment of Uyghurs is a sensitive issue in Bangladesh (given the majority Muslim population) and no one would dare to deny such allegations without repercussions. However, we have seen media personalities (especially those who visited or received training in China) talking about positive things about China. (see below URLs)",
+                "evidence_urls": [
+                    "https://theprint.in/world/china-enlists-foreign-vloggers-to-show-happy-uyghurs-in-xinjiang/941214/",
+                    "https://www.facebook.com/BelieveInMemes/videos/291769266176050/",
+                    "https://www.southasiamonitor.org/open-forum/bangladesh-needs-be-friends-both-us-and-china"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "During our research, we haven't found any existence of any parliamentary friendship group between China and Bangladesh. We saw that that the Chinese ambassador visited the speaker of the Bangladesh National Parliament in June 2019. (see below URL 1)\nDuring the pandemic there was no parliamentary exchange. However, we saw in April 2022, a parliamentary standing committee recommended the proposal of a smart city on the Bay of Bengal from a consortium of two local and two Chinese companies - China Civil Engineering Construction Corporation (CCECC), China Railway Design Corporation (CRDC). (see below URL 2)",
+                "evidence_urls": [
+                    "https://www.risingbd.com/national/news/299607",
+                    "https://www.thedailystar.net/news/bangladesh/news/offshore-smart-city-self-serving-dubious-initiative-3014621"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "1",
+                "evidence": "We have seen that representatives of the ruling Awami League and the opposition Bangladesh Nationalist Party (BNP) met PRC officials before the pandemic. ",
+                "evidence_urls": [
+                    "https://www.benarnews.org/english/news/bengali/china-mou-03212019171549.html",
+                    "https://archive.dhakatribune.com/bangladesh/foreign-affairs/2017/09/18/awami-leagues-courtesy-visit-china-turning-diplomatic-tour",
+                    "https://www.mfa.gov.cn/ce/cebd/eng/zmjw/t1436843.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "1",
+                "evidence": "China has provided a number of training to civil servants of Bangladesh on governance and other issues before the pandemic. All trainings have been suspended during the Covid-19 pandemic. (see below URLs)",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cebd/eng/dshd/t1454008.htm",
+                    "https://www.bai.gov.cn/en/newlist/detail.aspx?nodeid=574&page=ContentPage&contentid=8554",
+                    "https://worldskills.org/media/news/worldskills-china-provides-training-programmes-tvet-teachers-bangladesh/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "There hasn't been such interferences before, but in May 2021, China's Ambassador in Bangladesh Li Jiming said at a virtual meeting organised by the Diplomatic Correspondents Association \"Obviously it will not be a good idea for Bangladesh to participate in this US Led Quad alliance because it will substantially damage our bilateral relationship.\" (see below URL 1)\n\nBangladesh's foreign minister Dr AK Abdul reacted on this comment as \"very unfortunate\" and \"aggressive\". (see below URLs)",
+                "evidence_urls": [
+                    "https://economictimes.indiatimes.com/news/defence/china-threatens-bangladesh-says-ties-will-be-hit-if-it-joins-quad/articleshow/82544639.cms",
+                    "https://thediplomat.com/2021/05/chinas-warning-to-bangladesh-on-the-quad/",
+                    "https://www.hindustantimes.com/world-news/china-wants-bangladesh-to-align-strategies-promote-belt-and-road-projects/story-hPCBfNQ0hstvBcsSlxcluO.html"
+                ],
+                "note": "In 2016, Chinese Ambassador to Bangladesh Ma Mingqiang visited a Tibetan art installation at Dhaka Art Summit and demanded that they be removed immediately. Later, he sent the organisers a mail-in protest and requested that the works be taken down. The organisers obliged by covering up the five frames with white sheets with the artists\u2019 consent.\nhttps://globalvoices.org/2016/02/10/chinese-authorities-pressured-a-bangladesh-art-summit-into-censoring-a-tibet-exhibit/\n\nIn 2009, Chinese authorities put pressure to close another Tibet exhibition in Dhaka. https://globalvoices.org/2009/11/01/bangladesh-chinese-pressure-censors-tibet-exhibition-in-dhaka/",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "We haven't found any data regarding this during our research.",
+                "evidence_urls": [
+                    "https://www.google.com/search?q=Bangladeshi+detained+in+china&sxsrf=ALiCzsbo77_S4AdbmVsUGH-60EeupJ1TNQ:1653851675136&source=lnms&tbm=nws&sa=X&ved=2ahUKEwix7e3MtYX4AhVKet4KHZRKAegQ_AUoAXoECAEQAw&cshid=1653851962817556&biw=1440&bih=764&dpr=2"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "We checked the official records of World Health Assembly and found no evidence of the Prime Minister or the Foreign Minister of Bangladesh talking about it or participating in any vote. (see below URL 2)\nHowever, Bangladesh politically supports China's one country policy and does not recognize Taiwan. (see below URL 1 & 3)",
+                "evidence_urls": [
+                    "https://www.tbsnews.net/world/taiwan-says-very-difficult-get-who-invite-trying-hard-415934",
+                    "https://apps.who.int/gb/or/ ",
+                    "http://www.xinhuanet.com/english/2021-07/16/c_1310064950.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "We have not found evidence that Bangladesh publicly supported the appointment of a PRC official to be the head of a United Nations agency. However, Bangladesh may have supported some of the candidacies. (see below URLs)",
+                "evidence_urls": [
+                    "https://www.uscc.gov/sites/default/files/2020-04/PRC_Representation_in_International_Organizations_April2020.pdf",
+                    "https://thediplomat.com/2020/04/how-china-is-remaking-the-un-in-its-own-image/",
+                    "https://www.mfa.gov.cn/ce/ceegy/eng/zxxx/t1674748.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "Politically Bangladesh supports all of PRC's territorial claims as described in the links. On April 27, 2016, Foreign Minister Wang Yi met in Beijing with State Minister for Foreign Affairs Mohamed Shahriar Alam of Bangladesh. Mohamed Shahriar Alam expressed that China\u2019s stance and practices regarding the South China Sea issue are in line with the international law, of which Bangladesh has a full understanding. As per a research article on The Diplomat, Bangladesh is among 66 countries who supported China's claims. ",
+                "evidence_urls": [
+                    "https://webcache.googleusercontent.com/search?q=cache:6DUtL6WA67gJ:https://thediplomat.com/2016/07/who-supports-china-in-the-south-china-sea-and-why/+&cd=1&hl=en&ct=clnk&gl=sg",
+                    "https://www.mfa.gov.cn/ce/cebb/eng/zgyw/t1359744.htm",
+                    "https://web.archive.org/web/20201031144102/http://www.fmprc.gov.cn/web/zyxw/t1358968.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "Although Bangladesh has remained silent on PRC\u2019s treatment of its Uyghur population, there have been protests by citizens. (see below URL 1 & 3)\nA recent report shows that although Bangladesh previously defended China's stance it is not defending since 2020. (see below URL 4 & 5)",
+                "evidence_urls": [
+                    "https://thediplomat.com/2019/07/which-countries-are-for-or-against-chinas-xinjiang-policies/",
+                    "http://www.xinhuanet.com/english/2021-07/16/c_1310064950.htm",
+                    "https://www.wionews.com/south-asia/protests-in-bangladesh-over-persecution-of-uyghurs-in-china-342841",
+                    "https://www.axios.com/2020/10/08/un-statement-china-uighurs-xinjiang",
+                    "https://jamestown.org/program/the-22-vs-50-diplomatic-split-between-the-west-and-china-over-xinjiang-and-human-rights "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "4",
+                "evidence": "In July 2021, Bangladesh Foreign Minister Abdul Momen said that Bangladesh always adheres to the one-China principle and firmly supports China on issues related to China's internal affairs such as Xinjiang, Hong Kong and Tibet. (see below URLs)",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2021-07/16/c_1310064950.htm",
+                    "https://en.prothomalo.com/opinion/op-ed/bangladesh-china-friendship-and-resolving-the-rohingya-crisis",
+                    "https://globalvoices.org/2016/02/10/chinese-authorities-pressured-a-bangladesh-art-summit-into-censoring-a-tibet-exhibit/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "In July 2021, Bangladesh Foreign Minister Abdul Momen said that Bangladesh always adheres to the one-China principle and firmly supports China on issues related to China's internal affairs such as Xinjiang, Hong Kong and Tibet.  (see below URLs)",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2021-07/16/c_1310064950.htm",
+                    "https://webcache.googleusercontent.com/search?q=cache:HSd5W3P6S1cJ:https://thediplomat.com/2020/10/which-countries-support-china-on-hong-kongs-national-security-law/+&cd=13&hl=en&ct=clnk&gl=sg",
+                    "https://www.axios.com/2020/07/02/countries-supporting-china-hong-kong-law"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "evidence": "Huawei has presence in Bangladesh and it has established research partnerships with local universities over the years. But nothing big. Examples are presented with links. ",
+                "evidence_urls": [
+                    "https://www.tbsnews.net/bangladesh/education/huawei-buet-ict-academy-set-develop-talent-ecosystem-389878",
+                    "https://www.aust.edu/news/867",
+                    "https://thefinancialexpress.com.bd/education/huawei-selects-10-bd-students-for-seeds-for-the-future-project-1534484410",
+                    "https://en.prothomalo.com/youth/education/seeds-for-the-future-2022-bangladesh-kicks-off-with-roadshows",
+                    "https://unb.com.bd/m/category/Tech/seeds-for-the-future-moves-to-3rd-round-with-30-students/94182"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "1",
+                "evidence": "We have found three Confucius Institutes/Classrooms - namely in Dhaka University, North South University and Shanto-Mariam University. The the first Confucius Institute in Dhaka was established in 2006 in collaboration with North South University and the Chinese Yunnan University. In 2009 another one was opened in the Shanto-Mariam University. Another Confucius Institute was opened at Dhaka University in 2016. These offer some Chinese language courses.",
+                "evidence_urls": [
+                    "https://www.newagebd.net/article/52936/bangladesh-is-an-important-friend-of-china-in-south-asia",
+                    "https://m.theindependentbd.com/home/printnews/162455",
+                    "http://www.china.org.cn/international/2009-02/15/content_17279561.htm",
+                    "https://www.digmandarin.com/confucius-institutes-around-the-world.html"
+                ],
+                "note": "However, The Confucius Institutes Around the World \u2013 2021 map shows only two Confucius Institutes in Bangladesh\nhttps://www.digmandarin.com/confucius-institutes-around-the-world.html\n\n1. Confucius Institute at North South University\n2. Confuicus Institute at University of Dhaka\n\n",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "There are some language courses available in a few Universities (also in Confucius classrooms) but none at the K12 level or in primary education as per our knowledge. We could not find any data regarding to this.   ",
+                "evidence_urls": [
+                    "https://bestlistbd.com/listing-category/best-courses/chinese-language-course-in-dhaka/",
+                    "http://www.iub.edu.bd/oece/cLanguageC.php"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "The Bangladesh-China Silk Road Forum was launched in 2019. The chairman of the forum is Dilip Barua, general secretary of the Communist Party of Bangladesh, an ally of the ruling Grand Alliance. Bangladesh Institute of Peace and Security Studies, another think tank is also part of the Belt and Road Studies Network. ",
+                "evidence_urls": [
+                    "https://www.mizzima.com/article/bangladesh-china-silk-road-forum-launched-bangladesh",
+                    "https://www.facebook.com/Bangladesh-China-Silk-Road-Forum-111722670461068/",
+                    "http://www.brsn.net/jgcy-Institutions/zhiku_en/detail/20190703/1005000000038251562146671799574651_1.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "1",
+                "evidence": "There is no evidence but looking at how some think tanks and research centres operate, we can assume that one or more of them have received financial support from PRC-connected individuals or entities.",
+                "evidence_urls": [
+                    "http://en.people.cn/90001/90776/90884/6452200.html",
+                    "https://cpd.org.bd/china-sees-opportunities-for-trade-and-investment-in-bangladesh/",
+                    "https://www.unb.com.bd/video/94/Cosmos-Dialogue:-Bangladesh-China-Relations"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "We suspect that there might be one or two cases but during the pandemic probably everything was stopped and we have no data or evidence to support this. ",
+                "evidence_urls": [
+                    "https://www.facebook.com/Sichuanuniversitychina/photos/sichuan-university-scu-is-one-of-chinas-top-universities-falling-under-the-direc/1651517498477002/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "2",
+                "evidence": "There have been a number of cases where scholars have taken trips to China all expenses paid. However, during the pandemic there was a pause. Attaching some links from before the pandemic. ",
+                "evidence_urls": [
+                    "https://blogs.worldbank.org/endpovertyinsouthasia/bangladesh-collaborates-china-strengthening-skills-its-youth",
+                    "https://www.thefinancialexpress.com.bd/education/150-bd-students-join-youth-camp-in-china-1536056021",
+                    "http://bd.china-embassy.gov.cn/eng/zmjw/202012/t20201214_1583769.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "In our country there are no Chinese Students and Scholars Associations. And no data was available to answer this question.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "We have found no data as evidence.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No PRC-connected entities have been involved in school or university curriculum design in Bangladesh. We did not found any data. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "In our country teachers or professors would more likely discuss about Uyghur rather avoid them. Although they wouldn't probably talk about Taiwan or Tiananmen Square Massacre. There are no such report as the question indicates.",
+                "evidence_urls": [
+                    "https://archive.dhakatribune.com/opinion/op-ed/2021/03/18/op-ed-why-the-uighur-genocide-in-china-matters"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "2",
+                "evidence": "There are more than a few instances where politicians or government employees at the sub-national level are signing agreements with the PRC government or state owned enterprises.",
+                "evidence_urls": [
+                    "https://www.newagebd.net/article/72279/onelink.to/article/35972",
+                    "https://thedailynewnation.com/news/131913/Water-logging-to-be-resolved--very-shortly-:-CCC-Mayor",
+                    "https://thefinancialexpress.com.bd/national/rajshahi-city-signs-friendship-loi-with-chinas-yiyang-city-1540196640"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "skip",
+                "evidence": "China has expressed its desire to build six sister cities in Bangladesh and promised to make those cities as developed as some Chinese cities.  However, such a deal has not been materialised yet. Only Kunming is shown as a sister city of Chittagong in Bangladesh. But no ties with local municipalities.",
+                "evidence_urls": [
+                    "https://www.orfonline.org/expert-speak/chinese-proposal-bangladesh-sister-city-alliance-67725/",
+                    "https://archive.dhakatribune.com/bangladesh/2020/05/19/china-wants-sister-cities-in-bangladesh",
+                    "https://kunming.cn/en/sister_cities/index_2.shtml",
+                    "https://newsmobile.in/articles/2020/07/26/the-red-alert-chinas-sister-city-alliances-are-more-politically-motivated-than-it-appears-heres-the-reality/",
+                    "https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Bangladesh"
+                ],
+                "note": "We have skipped this question.\n\n\"No ties with local municipality\" means we have not seen a report mentioning the agreement between local municipalities of these two countries. This report mentions that the Sister city arrangements are not functioning well in Bangladesh. https://www.dhakatribune.com/business/2022/06/13/what-prevents-bangladesh-from-implementing-sister-city-cooperation\n\nhttps://newsmobile.in/articles/2020/07/26/the-red-alert-chinas-sister-city-alliances-are-more-politically-motivated-than-it-appears-heres-the-reality/",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "1",
+                "evidence": "Yes politicians or government employees have taken trips to the PRC - all expenses paid. During the pandemic there was no such trips. Attached are links to some before the pandemic. ",
+                "evidence_urls": [
+                    "https://cri.org.bd/2016/06/20/cri-facilitates-youth-politicians-tour-of-china/",
+                    "http://english.imde.cas.cn/ne/events/201812/t20181211_202183.html",
+                    "http://www.crecg.com/english/2691/2743/10074899/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "1",
+                "evidence": "There have been a few reports on this. However, during the pandemic some meetings were virtual as travel stopped. ",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2021-06/14/c_1310007165.htm",
+                    "https://www.benarnews.org/english/news/bengali/china-mou-03212019171549.html",
+                    "https://www.tbsnews.net/worldbiz/china/china-respects-and-protects-human-rights-including-xinjiang-people-chinese-ambassador"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "2",
+                "evidence": "The military cooperation between Bangladesh and China in form of arms supply, construction of military infrastructure and trainings have increased in past five years. ",
+                "evidence_urls": [
+                    "https://thediplomat.com/2018/06/bangladeshs-new-military-deal-with-china",
+                    "https://www.cescube.com/vp-china-bangladesh-defence-cooperation-arms-trade-and-military-infrastructure",
+                    "http://www.ipcs.org/comm_select.php?articleNo=4476",
+                    "https://web.archive.org/web/20201228215655/https://public.opentech.fund/documents/English_Weber_WWW_of_Information_Controls_Final.pdf",
+                    "https://archive.ph/10iVx/a62920c2c56335fe4a5e27fc85b31fef0470dfe3.jpg",
+                    "https://web.archive.org/web/20170807103241im_/http://www.meiyapico.com/uploadfiles/image/20170112/20170112083614_61700.jpg"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "skip",
+                "evidence": "Although there are no concrete proof but China connected parties such as Bangladesh Communist Party (Marxist-Leninist) [Dilip Barua is the general secretary], Workers Party [Rashed Khan Menon is the president] and Jatiya Samajtantrik Dal [Hasanul Haque Inu is the president] receives some sort of assistance from China that is common belief. ",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2021-06/14/c_1310007165.htm",
+                    "https://www.mfa.gov.cn/ce/cebd//eng/xwdt/t837015.htm"
+                ],
+                "note": "We have skipped the indicator rating as no public available evidence could be added. ",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "There have been no evidence to corroborate that. However, there are reports that the Chinese Ambassador to Bangladesh Li Jiming has had some exposure the UFWD.",
+                "evidence_urls": [
+                    "https://carnegieendowment.org/2021/10/13/china-s-influence-in-south-asia-vulnerabilities-and-resilience-in-four-countries-pub-85552",
+                    "https://www.hindustantimes.com/world-news/china-sends-hardcore-ambassadors-to-south-asia-to-push-bri-and-undermine-india/story-Oz8Aakf28IQJqHB1uJKOQL.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No such incident happened in Bangladesh. No data found. Also the last election was in 2018. The next is in 2023.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "2",
+                "evidence": "Yes, there have been a number of cases where a politician or a government employee have publicly expressed positive views of the PRC government. But those are not that impactful or causing international repercussions. ",
+                "evidence_urls": [
+                    "https://www.dhakatribune.com/foreign-affairs/2022/04/27/fm-momen-no-chance-of-chinese-debt-trap",
+                    "http://www.xinhuanet.com/english/asiapacific/2021-04/02/c_139854675.htm",
+                    "https://www.thedailystar.net/news/bangladesh/diplomacy/news/china-not-only-offering-basket-money-also-affordable-proposals-2966521"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "skip",
+                "evidence": "It is perceived that some politicians or government employees, because of their close ties with China, have received direct or deferred benefits from PRC-connected individuals or entities openly or covertly. However, we could not find evidence in support of the claim. ",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2021-06/14/c_1310007165.htm",
+                    "https://www.mfa.gov.cn/ce/cebd//eng/xwdt/t837015.htm"
+                ],
+                "note": "We have skipped the indicator rating as no public available evidence could be found. ",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No such data have been found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "Over 30% of Bangladesh's annual imports are from China, making it the country's number one trading partner (for trade in goods only).",
+                "evidence_urls": [
+                    "https://www.statista.com/statistics/438384/most-important-import-partners-of-bangladesh/",
+                    "https://www.ceicdata.com/en/indicator/bangladesh/total-imports-from-china",
+                    "http://bbs.portal.gov.bd/sites/default/files/files/bbs.portal.gov.bd/page/8643ec8b_27a3_41cd_bbd9_9be3479f578e/2021-05-16-07-23-44bf174e4067f2379fa65c6b7dbefb52.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "At the end of fiscal 2020-21, Bangladesh's external debt stood at $60.15 billion. Out of which 38 percent was from the World Bank, 24.5 percent from the Asian Development Bank (ADB), 17 percent from the Japan International Cooperation Agency (Jica), 6.81 percent from China, 6.14 percent from Russia, and 1.3 percent from India. In 2016, Bangladesh government signed a Memorandum of Understanding (MoU) with China worth over $20 billion for implementing 27 development projects. However the actual amount disbursed was much lower for these projects as only a few of them are being implemented. ",
+                "evidence_urls": [
+                    "https://www.thefinancialexpress.com.bd/economy/chinas-lending-to-bangladesh-surges-1611975747",
+                    "https://www.thedailystar.net/views/opinion/news/bangladesh-risk-falling-the-chinese-debt-trap-2224391",
+                    "https://thediplomat.com/2021/11/the-bri-in-bangladesh-win-win-or-a-debt-trap/",
+                    "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-not-any-chinese-debt-trap-ambassador-reiterates-3021466?amp",
+                    "https://docs.aiddata.org/ad4/pdfs/Banking_on_the_Belt_and_Road__Insights_from_a_new_global_dataset_of_13427_Chinese_development_projects.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "Bangladesh does not export mining industries products to China. In 2020, Bangladesh exported $785M to China . The main products that Bangladesh exported to China were Jute Yarn ($89.4M), Knit T-shirts ($75.4M), and Non-Knit Men's Suits ($69.5M). ",
+                "evidence_urls": [
+                    "https://oec.world/en/profile/bilateral-country/chn/partner/bgd",
+                    "https://www.ceicdata.com/en/indicator/bangladesh/total-exports-to-china"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "In Bangladesh, PRC-related entities do not (100%) own, operate or substantially control critical infrastructure. ",
+                "evidence_urls": [
+                    "https://thepeoplesmap.net/",
+                    "https://icsin.org/blogs/2020/08/21/chinas-infrastructure-development-projects-in-bangladesh/",
+                    "https://docs.aiddata.org/ad4/pdfs/Banking_on_the_Belt_and_Road__Insights_from_a_new_global_dataset_of_13427_Chinese_development_projects.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Established in 2016, the AIIB has financed $2.6 billion in 13 Bangladeshi projects till 2021. Bangladesh gained membership in March 2016.",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html",
+                    "https://www.tbsnews.net/bangladesh/infrastructure/streaming-credit-flow-aiib-set-emerge-key-lender-374170",
+                    "https://thefinancialexpress.com.bd/economy/bangladesh/aiib-to-review-bangladesh-projects-for-quicker-execution-1630376630"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "We found data that Bangladesh China Chamber of Commerce & Industry (BCCCI), Bangladesh Investment Development Authority (BIDA) and Dhaka Chamber of Commerce & Industry (DCCI) are part of Belt and Road Global Forum. \n\nWhereas the Federation of Bangladesh Chambers of Commerce & Industry is a member of Silk Road Chamber of International Commerce. ",
+                "evidence_urls": [
+                    "https://srcic.org/news/july-star-fbcci/?page=3",
+                    "https://www.beltandroadglobalforum.com/en/member/forumfull"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No data found supporting the question.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No such incident happened.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "Bangladesh is discussing a free trade agreement (FTA) with China in an effort to boost exports to its massive market (2021 June report). But no such FTA yet.",
+                "evidence_urls": [
+                    "https://bida.gov.bd/details/bangladesh-fta-talks-china-minister",
+                    "http://fta.mofcom.gov.cn/list/chinabengalen/chinabengalennews/1/encateinfo.html",
+                    "https://research.hktdc.com/en/article/NTcxMzc1Njcz"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "Yes, there are one or two designated economic and industrial zones for China in Bangladesh. Also, China is the top foreign investor in the country's different economic zones (EZ).",
+                "evidence_urls": [
+                    "https://www.beza.gov.bd/chinese-economic-industrial-zone/",
+                    "https://www.textiletoday.com.bd/mirsarai-economic-zone-work-full-swing/",
+                    "https://www.thefinancialexpress.com.bd/economy/bangladesh/china-top-investor-in-bangladeshs-economic-zones-1610506680"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No such incident of failure to repay debts happened. ",
+                "evidence_urls": [
+                    "https://english.news.cn/asiapacific/20220206/2dd9afadea644499b1138c7feb9cdcdd/c.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "No. China Mobile, China Unicom or China Telecom are not present in Bangladesh. ",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Asia_Pacific_region#Bangladesh"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "In my country Huwawei has signed several agreements with different telco providers. The state-owned Teletalk has tied up with Huawei to launch 5G in Bangladesh. The company has also helped providers like Banglalink to modernize its network. Banglalink also has another agreement with ZTE for its network modernisation across the country.",
+                "evidence_urls": [
+                    "https://www.huawei.com/en/news/2021/12/bangladesh-5g-launch",
+                    "https://www.dhakatribune.com/business/2022/04/12/banglalink-inks-deal-with-huawei-for-network-modernization",
+                    "https://en.prothomalo.com/corporate/banglalink-signs-agreement-with-zte-for-network-modernisation",
+                    "https://www.huawei.com/en/news/2017/6/grameenphone-villaradio"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "1",
+                "evidence": "Besides cellular networks, PRC connected entities are also implementing internet/wifi/telco service infrastructure projects. ",
+                "evidence_urls": [
+                    "https://www.thedailystar.net/news/asia/china/news/china-firm-implement-tk-3975cr-digital-connectivity-project-3009051",
+                    "https://english.news.cn/asiapacific/20220417/d806ff28d6e74686a30b3b041556e2d3/c.html",
+                    "https://www.chinadaily.com.cn/business/2017-09/12/content_31886278.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "Bangladesh has procured arms from China. According to SIPRI data, from 2016 to 2020, 17 per cent of China's total arms exports went to Bangladesh. We could not find much evidence but reports alleged that Chinese State-owned Poly Technologies Inc (PTI) supplied infrastructure as a vendor. The PRC is implementing several projects now in Bangladesh  (see image) - vendor details unknown. ",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/china/military/article/3139603/how-china-grew-buyer-major-arms-trade-player",
+                    "https://www.defseca.com/military/china-constructing-bangladesh-navys-ultra-modern-submarine-base/",
+                    "https://www.benarnews.org/english/news/bengali/ships-arrive-01092020163510.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "Under the 'Digital Sylhet City' project, around 110 Face Recognition and Automatic Number-plate Recognition (ANPR) cameras have been installed in different points of the city. Additionally free Wi-Fi zones were created at 62 locations in Sylhet with a total of 126 access points. China's Huawei Technologies Co Ltd provided the tracking system solutions and the devices required for this project.",
+                "evidence_urls": [
+                    "https://asia.nikkei.com/Business/China-tech/China-exports-AI-surveillance-tech-to-over-60-countries-report",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-1626",
+                    "https://archive.ph/zpSQt",
+                    "https://archive.ph/HLaV1",
+                    "https://archive.dhakatribune.com/bangladesh/nation/2019/07/29/high-tech-security-cameras-installed-in-sylhet"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "There is no smart city in existence in Bangladesh. However, in recent months, four state owned companies from China have proposed building a metro rail line in Chattogram and reclaiming land from the sea to build a 60-square km \"smart city\" in exchange for a share of the latter. The fate of the proposal is unknown at the moment.",
+                "evidence_urls": [
+                    "https://www.thedailystar.net/news/bangladesh/transport/news/chinese-proposal-ctg-metro-rail-return-stake-smart-city-2968136",
+                    "https://opengovasia.com/china-proposes-to-build-a-smart-city-in-bangladesh/",
+                    "https://bangladeshpost.net/posts/china-keen-to-build-smart-city-on-chittagong-coast-80244"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "Bangladeshi banks are used to working within SWIFT network with transactions in US dollar. They are yet to use Cross-Border Interbank Payment System (CIPS) which deals with Chinese banks and yuan-denominated payments around the world. However, there is a strong debate in the country for using the CIPS system. ",
+                "evidence_urls": [
+                    "https://www.tbsnews.net/economy/banking/bangladeshi-banks-look-chinese-payment-channel-skirt-western-sanctions-386430",
+                    "https://thefinancialexpress.com.bd/views/columns/bypassing-swift-messaging-system-1648393282"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "There have been one or two cases where it was reported that a PRC-connected company invested in a Bangladeshi technology startup. ",
+                "evidence_urls": [
+                    "https://www.finextra.com/pressarticle/73644/ant-financial-invests-in-banladesh-based-bkash",
+                    "https://kr-asia.com/2c2p-aims-beyond-southeast-asia-with-ant-group-investment",
+                    "https://www.thedailystar.net/business/alibaba-buys-20pc-stake-bkash-1568293"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "There are reports of one or two of such collaborations. But nothing significant. ",
+                "evidence_urls": [
+                    "https://www.newagebd.net/article/121571/huawei-to-launch-four-ict-programmes-in-bangladesh",
+                    "https://www.dhakatribune.com/business/2022/03/28/huawei-yearning-to-provide-digital-power-solutions-and-advanced-cloud-services-in-bangladesh"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "In Bangladesh, Tiktok is getting popular. However, in terms of usage, it is yet to climb to the top 5 most used social media platforms.\n\n1) Facebook - 44.70 million users\n2) YouTube - 34.50 million users\n3) Facebook Messenger - 21.45 million users\n4) LinkedIn - 4.60 million users\n5) Instagram - 4.45 million users\n\nTikTok was once banned in Bangladesh. But it's now available. ",
+                "evidence_urls": [
+                    "https://gs.statcounter.com/social-media-stats/all/bangladesh",
+                    "https://datareportal.com/reports/digital-2022-bangladesh?rq=bangladesh",
+                    "https://www.statista.com/statistics/1299807/number-of-monthly-unique-tiktok-users/",
+                    "https://www.cruxfinder.com/banned-tiktok/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "Bangladesh has not yet used Beidou satellite navigation system. However, Bangladesh's Post and Telecommunications Minister Mustafa Jabbar mentioned in June 2020 that the country will consider cooperation with the BeiDou Navigation Satellite System (BDS). ",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2020-06/24/c_139164014.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "In our country there are hardly any talks seen publicly about Taiwan, Hong Kong and Tibet issues. None with words like \u201cPromotion of Peaceful Reunification\u201d. However, there are concerns about Xinjiang/Uyghur Muslims issues. We were unable to gather any data regarding this. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No such information found in Bangladesh. We found one Overseas Chinese Association in Bangladesh.",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cebd/eng/dshd/t1421512.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No such data found. All travel was suspended during the pandemic. ",
+                "evidence_urls": [
+                    "https://www.linkedin.com/company/chinese-enterprises-association-in-bangladesh-ceab/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "1",
+                "evidence": "The current Chinese Ambassador to Bangladesh Li Jiming has previous ties with the UFWD as reports claim. He regularly hosts Chinese diaspora community events in Bangladesh. ",
+                "evidence_urls": [
+                    "https://www.hindustantimes.com/world-news/china-sends-hardcore-ambassadors-to-south-asia-to-push-bri-and-undermine-india/story-Oz8Aakf28IQJqHB1uJKOQL.html",
+                    "https://japan-forward.com/china-installs-influence-operators-in-diplomatic-posts-foreign-lawmaking-bodies/",
+                    "https://unb.com.bd/category/Bangladesh/chinese-new-year-dcab-and-cmg-usher-in-year-of-the-ox/64831"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "There are reports of some events arranged with the collaboration of PRC-connected professional associations. So it is assumed that there are a few instances - but insignificant. ",
+                "evidence_urls": [
+                    "https://www.newagebd.net/article/87016/group-show-celebrates-bangladesh-china-friendship",
+                    "https://m.theindependentbd.com/post/217393",
+                    "https://unb.com.bd/category/Bangladesh/chinese-new-year-dcab-and-cmg-usher-in-year-of-the-ox/64831"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "There are some reports about financial support by PRC-connected individuals or entities to religious communities and charities. ",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cebd/eng/dshd/t1443283.htm",
+                    "http://bd.china-embassy.gov.cn/eng/dshd/202002/t20200222_1583534.htm",
+                    "https://www.chinadaily.com.cn/world/2017-03/02/content_28411406.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "There are some Chinese TV content aired by some Bangladeshi TV channels (government and private). Although it could not be known whether they received the drama/TV shows freely or at a cheap rate. ",
+                "evidence_urls": [
+                    "https://www.daily-sun.com/post/379273/Chinese-TV-drama-serial-debuts-in-Bangladesh",
+                    "https://bangladeshpost.net/posts/chinese-drama-mu-starts-today-25884",
+                    "http://global.chinadaily.com.cn/a/202008/18/WS5f3b483ca310834817261029.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "evidence": "The number of cultural products produced by Bangladesh that highlight China is very low. So it's hard to form an opinion. However, the contents found by travel bloggers seem to be positive about China. ",
+                "evidence_urls": [
+                    "http://global.chinadaily.com.cn/a/202008/18/WS5f3b483ca310834817261029.html",
+                    "https://www.thedailystar.net/supplements/30th-anniversary-supplements/agents-change/news/has-the-bangladeshi-youth-caught-streaming-2045001",
+                    "https://www.youtube.com/watch?v=QILKriKYYh0",
+                    "https://www.youtube.com/watch?v=-5PxDKOfzv0"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No such data found. Usually celebrities don't push propaganda narratives - only politicians, businessmen and journalists are seen doing it. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "1",
+                "evidence": "In Bangladesh there are newswires that have collaboration with PRC-connected newswire. We have seen some news media sharing propaganda narratives from PRC government or embassies.",
+                "evidence_urls": [
+                    "https://www.bssnews.net/news/59545",
+                    "http://www.xinhuanet.com/english/2021-07/16/c_1310064950.htm",
+                    "https://www.dhakatribune.com/asia/2022/05/30/covid-hit-shanghai-to-end-two-month-lockdown-on-june-1",
+                    "https://www.dhakatribune.com/asia/2022/05/30/xi-hails-new-atmosphere-in-hong-kong-welcomes-next-leader"
+                ],
+                "note": "Out of these links only Bangladesh Sangbad Sangstha (BSS) is national news agency.",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "Usually Bangladeshi people do not think of China as much. But as the media is engulfed with Indian news stories - the usual Anti-China stuff trickles down to Bangladesh and people believe them. And the treatment of Uyghur Muslims have bothered many Bangladeshis. They don't probably have positive views of the PRC government - but they don't have extreme negative views either (unlike India). ",
+                "evidence_urls": [
+                    "https://www.quora.com/How-does-Bangladeshi-people-think-of-China",
+                    "https://www.researchgate.net/publication/348060366_Understanding_China's_Relationship_with_Bangladesh"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "Bangladesh has regularly imported arms from China in the past decade. According to SIPRI data, from 2016 to 2020, 17 per cent of China's total arms exports went to Bangladesh.  ",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/china/military/article/3139603/how-china-grew-buyer-major-arms-trade-player",
+                    "https://www.southasiamonitor.org/china-watch/china-fast-tracks-key-defence-projects-bangladesh",
+                    "https://www.thedailystar.net/country/bangladeshs-first-two-submarines-commissioned-1374724",
+                    "https://chinapower.csis.org/china-global-arms-trade/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "Bangladesh does not export military or law-enforcement equipment to the PRC.",
+                "evidence_urls": [
+                    "https://data.worldbank.org/indicator/MS.MIL.XPRT.KD",
+                    "https://www.scmp.com/news/china/military/article/3139603/how-china-grew-buyer-major-arms-trade-player",
+                    "https://www.indexmundi.com/facts/bangladesh/arms-exports"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No such data found among the strategic cooperation of Bangladesh with the PRC.",
+                "evidence_urls": [
+                    "https://www.orfonline.org/expert-speak/china-bangladesh-strategic-linkages/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "There have been reports that China is installing a missile maintenance facility in Bangladesh. But the Chinese Ambassador to Bangladesh confirmed that PRC will not build any military base in Bangladesh. ",
+                "evidence_urls": [
+                    "https://www.dhakatribune.com/foreign-affairs/2022/03/13/envoy-china-wont-build-military-base-in-bangladesh",
+                    "https://asia.nikkei.com/Politics/International-relations/India-wary-of-China-setting-up-Bangladesh-missile-maintenance-hub",
+                    "https://www.tribuneindia.com/news/nation/china-to-set-up-missile-repair-base-in-bdesh-370800"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "Yes there have been a few such cases seen during the Covid-19 pandemic.",
+                "evidence_urls": [
+                    "https://unb.com.bd/category/Bangladesh/chinese-pla-provides-covid-19-vaccines-to-bangladesh-armed-forces/78105",
+                    "https://www.banglanews24.com/public/politics/news/bd/784533.details",
+                    "https://www.mfa.gov.cn/ce/cebd/eng/zmjw/t1683594.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No definitive proof has been found.",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cebd/eng/zmjw/t1683594.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "There is no authentic report that members of the military have received professional military education from the PRC. However, Bangladesh has purchased a lot of arms for the military, navy and airforce. And as per the purchase agreement training comes into the agreement. So sources confirmed that Bangladesh military received some sort of training. ",
+                "evidence_urls": [
+                    "https://www.shephardmedia.com/news/landwarfareintl/bangladesh-receives-vt5-tanks-plus-other-equipment/",
+                    "https://thediplomat.com/2018/06/bangladeshs-new-military-deal-with-china/",
+                    "http://www.xinhuanet.com/english/2021-04/27/c_139910533.htm",
+                    "https://www.wionews.com/south-asia/bangladesh-faces-quality-issues-with-chinese-military-equipment-report-431351"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "There is a defence cooperation agreement in force with the PRC. However, we could not get proof that members of Bangladesh military have received peacekeeping training from the PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No credible data available regarding this. We tried to interview other journalists (diplomatic correspondents) in the country but no information was available. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No authentic information was available. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "None in the past four years. There was a joint exercise with India, Bangladesh, China and Myanmar in 2017. ",
+                "evidence_urls": [
+                    "https://indianexpress.com/article/north-east-india/indian-army-to-have-joint-exercise-with-bangladeshi-chinese-myanmar-army-in-northeast-4922527/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "There is no extradition treaty, legal assistance or mutual arrangement for Bangladesh with the PRC.",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/Extradition_law_in_China",
+                    "http://www.gd.jcy.gov.cn/jcyw/sfxz/flfgytyxd/201812/t20181212_2440091.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "Bangladesh signed a counterterrorism agreement with the PRC back in 2016 which is still ongoing. ",
+                "evidence_urls": [
+                    "https://www.benarnews.org/english/news/bengali/bangladesh-china-10142016170137.html",
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/yzs_663350/gjlb_663354/2681_663366/2683_663370/201907/t20190709_510086.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No such data/report was found in Bangladesh.",
+                "evidence_urls": [
+                    "https://www.google.com/search?q=triad+chinese+gang+in+bangladesh&sxsrf=ALiCzsadAwRbyD9Dq84YzJxY7lqxct1B0g%3A1653505805880&ei=DX-OYuyxNcTB3LUPpc2N-AY&ved=0ahUKEwis7MWRrfv3AhXEILcAHaVmA28Q4dUDCA4&uact=5&oq=triad+chinese+gang+in+bangladesh&sclient=gws-wiz"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "1",
+                "evidence": "There is no authentic proof. But there are a few reports regarding this. \n\n",
+                "evidence_urls": [
+                    "https://www.tbsnews.net/tech/espionage-focused-hacking-group-bitter-apt-targets-bangladesh-418138",
+                    "https://www.reuters.com/article/us-usa-fed-bangladesh-philippines-idUSKCN0X2190"
+                ],
+                "note": "This report suggests that the Bitter APT attackers are likely to be an actor or group operating under a mandate to understand China\u2019s international goals. https://www.anomali.com/news-events/press/anomali-threat-research-team-discovers-bitter-apt-phishing-campaign-targeting-peoples-republic-of-china-government-agencies",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "1",
+                "evidence": "There are a few reports available regarding this. But they are insignificant. ",
+                "evidence_urls": [
+                    "https://archive.dhakatribune.com/bangladesh/2021/04/02/cyber-attacks-hit-over-200-organizations-including-bangladesh-bank-btrc",
+                    "https://www.reuters.com/article/us-usa-fed-bangladesh-philippines-idUSKCN0WP1YQ",
+                    "https://eurasiantimes.com/china-spreads-to-india-bangladesh-and-nepal-frauds/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No such data is available. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "Under the 'Digital Sylhet City' project, around 110 Face Recognition and Automatic Number-plate Recognition (ANPR) cameras have been installed in different points of the city. Additionally free Wi-Fi zones were created at 62 locations in Sylhet with a total of 126 access points. China's Huawei Technologies Co Ltd provided the tracking system solutions and the devices required for this project.",
+                "evidence_urls": [
+                    "https://archive.dhakatribune.com/bangladesh/nation/2019/07/29/high-tech-security-cameras-installed-in-sylhet",
+                    "https://www.jagonews24.com/en/tech/news/46623"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "There is no joint patrol and no such data was found during our research.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No such data was found during our research. ",
+                "evidence_urls": [
+                    "https://www.google.com/search?q=bangladesh+detained+people+at+the+request+of+the+PRC&sxsrf=ALiCzsZMA7RAcQsGlh7mRCc3KdMxRJEr7Q%3A1654022819357&ei=o2KWYtW8FcKhseMP9MeckAk&ved=0ahUKEwiVmuSUs4r4AhXCUGwGHfQjB5IQ4dUDCA4&uact=5&oq=bangladesh+detained+people+at+the+request+of+the+PRC&sclient=gws-wiz"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "Bangladesh does not recognise Taiwan. And no such instances were found during our research. ",
+                "evidence_urls": [
+                    "https://www.google.com/search?q=bangladesh+deport+taiwan+national",
+                    "https://safeguarddefenders.com/en/blog/new-investigation-exposes-prc-hunting-taiwanese-overseas",
+                    "https://safeguarddefenders.com/sites/default/files/pdf/China%27s%20Hunt%20for%20Taiwanese%20overseas_2.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No such data found during our rersearch.",
+                "evidence_urls": [
+                    "https://www.google.com/search?q=bangladesh+expels+chinese+national"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Bangladesh had a GDP per capita of US$2,503.00 and a total estimated population of 166.30 million people, with the Chinese population comprising an estimated 100,000 people. ",
+    "description-2": "Bangladesh established diplomatic relations with the People's Republic of China in 1976. Bangladesh was ranked 162th in Reporters Without Borders\u2019 2022 World Press Freedom Index, and Partly Free in Freedom House\u2019s 2022 Global Freedom Status with a score of 39/100."
+}

@@ -1,0 +1,928 @@
+{
+    "name": "Belarus",
+    "partner": "Civic IDEA",
+    "year": "2022",
+    "GDP": "$7,303.7",
+    "population": "9.34M",
+    "original": "84/376",
+    "ranking": "61",
+    "overall": "22%",
+    "effect": "26%",
+    "exposure": "26%",
+    "pressure": "0%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "According to their website, there are no Belorusian media organizations that belong to the World Chinese Media Network. (see below URL)",
+                "evidence_urls": [
+                    "https://www.worldchinesemedia.com/2015/05/12/56/  "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "Today Belarus Publishing Group is a member of the \"Belt and Road\" New Cooperation Alliance. (see below URL)",
+                "evidence_urls": [
+                    "http://cn.brnn.com/414904/414908/index.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "The official ceremony of concluding the Agreement \"On the exchange of delegations and cooperation in the field of journalism\" was held on April 26 simultaneously in Minsk and Beijing. The document was signed between the Belarusian Union of Journalists (BUJ) and the All-China Association of Journalists (VJA).\nThe agreement provides for the exchange of journalistic experience, organization of press tours and interviews, internships for Belarusian journalists in China and Chinese journalists in Belarus to study and implement the best practices in media development, participation in media forums and seminars. \n(see below URL)",
+                "evidence_urls": [
+                    "http://www.dompressy.by/2022/04/26/belorusskie-i-kitajskie-zhurnalisty-podpisali-soglashenie-o-sotrudnichestve/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "According to the expert's knowledge, such accidents take place, but public data is not availale.",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No evidence found in that regard.",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "According to expert's knowledge, such accidents have taken place (few but insignificant), but the public information is not available. ",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "First Meeting of the Commission on Customs and Quarantine Cooperation between Belarus-China (see below URL 1)\n\nFirst Deputy Minister of Foreign Affairs of Belarus S.Aleinik participates in the session of Belarus-China Commission on trade and economic cooperation. (see below URL 2)",
+                "evidence_urls": [
+                    "https://rocb-europe.org/first-meeting-of-the-commission-on-customs-and-quarantine-cooperation-between-belarus-china",
+                    "https://www.mfa.gov.by/en/press/news_mfa/d427610dcc22ed91.html",
+                    "http://www.npc.gov.cn/englishnpc/c23934/202106/bc2aaa4931ed45e28d67c44dc71d23f3.shtml"
+                ],
+                "note": "Li Zhanshu, chairman of the National People's Congress Standing Committee, holds talks with Natalia Kochanova, chairwoman of the Council of the Republic of the National Assembly of Belarus, and Vladimir Andreichenko, chairman of the House of Representatives of the National Assembly of Belarus, via video link at the Great Hall of the People in Beijing, capital of China, June 8, 2021. (Xinhua/Huang Jingwen). (see URL 3)",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "1. On December 22, 2021, Vice Foreign Minister Le Yucheng and Belarusian Deputy Minister of Foreign Affairs Nikolai Borisevich held video consultations between Chinese and Belarusian Foreign Ministries. The two sides exchanged views on bilateral relations, high-level exchanges, practical cooperation, and international and regional issues of common concern. (see below URL 1)\n\n2. On June 24, 2016 local time, President Xi Jinping met in Tashkent with President Alexander Lukashenko of Belarus. (see below URL 2)\n\n3. On May 12, 2022 the First Deputy Minister of Foreign Affairs of the Republic of Belarus, Sergei Aleinik, met with the Ambassador Extraordinary and Plenipotentiary of the People\u2019s Republic of China, Xie Xiaoyun. (see below URL 3)\n\n4. He Wei, vice-chairman of the Chinese People's Political Consultative Conference (CPPCC) National Committee, met with Valery Mitskevich, deputy chairman of the House of Representatives of Belarus, via video link on April 29 (see below URL 4)\n\n5. Belarusian President Alexander Lukashenko visited China and was welcomed by Xi Jinping in September 2016 (see below URL 5)",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/eng/wjbxw/202112/t20211223_10474837.html",
+                    "https://www.mfa.gov.cn/ce/cegv/eng/wjyw/t1375781.htm",
+                    "https://www.mfa.gov.by/en/press/news_mfa/f9bafda09d4d6219.html",
+                    "http://en.cppcc.gov.cn/2021-05/01/c_624063.htm",
+                    "https://www.youtube.com/watch?v=j-2yfkt5lik"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "\n\n",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "The public information is not found.",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "Belarus has not expressed any public opinion, thus it remained silent.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "evidence": "Press Secretary Andrei Popov responds to a media question over the events in Urumqi in Xinjiang Uyghur Autonomous Region of the People\u2019s Republic of China:\n\"We carefully watch the events in this region. We took with regret the reports about riots there that entailed human losses and considerable damage. We note that the Chinese authorities undertake needed measures to contain and discontinue this conflict. We express condolences to relatives and next of kin to those perished, as well as our sympathy with those who suffered due to the unrest. We confirm that the Republic of Belarus considers the Xinjiang Uyghur Autonomous Region as an integral part of China and believe that events happening there are China\u2019s internal affair. We hope that the legal measures taken by the Chinese authorities to break off the conflict will allow to normalize situation in the region in the near future\" \n(see below URL)\n\n\n",
+                "evidence_urls": [
+                    "https://www.mfa.gov.by/en/press/news_mfa/df0d82eacc0bde9b.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No public evidence available demonstrating the position of Belarus.",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "During the ongoing 46th session of the UN Human Rights Council, a Belarusian representative delivered a joint speech on Friday on behalf of 70 countries, emphasizing that Hong Kong affairs are China's internal affairs and should not be interfered in by external forces.  \n\nThe Geneva-based senior diplomats also spoke positively of the national security law in Hong Kong.\n\"Belarus is deeply convinced that sustainable and effective development is impossible without political stability and national unity and integrity; this is why any separatist activity is totally incompatible with achieving prosperity and stability of the nation, and this is why we welcome the new law,\" Ambrazevich said.\n\nKhitchadeth said the enforcement of the national security law in Hong Kong \"is very necessary in order to better protect the rights and freedom of Hong Kong residents in a safe environment\".\nAndrabi recalled that during the previous session of the UN Human Rights Council, many countries, including Pakistan, also issued a joint statement in support of China on Hong Kong-related issues. \"That statement was quite an emphatic expression to reject the approach of targeting China based on political considerations,\" he said.\n\nAvailable at the URL below.",
+                "evidence_urls": [
+                    "https://global.chinadaily.com.cn/a/202103/07/WS60448086a31024ad0baad5cb.html"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "MINSK, 15 May (BelTA) \u2013 Belarus counts on further effective cooperation with Huawei Company. Prime Minister of Belarus Andrei Kobyakov made the statement as he met with Huawei Chairman of the Board of Directors Guo Ping on 15 May, BelTA has learned.\nAndrei Kobyakov remarked that in addition to selling equipment to Belarus Huawei Company also implements its projects, carries out scientific research projects in Belarus, and trains Belarusian students in the People's Republic of China. (see below URL 1)\n\nIn September 2016, Huawei signed a \u201cSeeds for the Future\u201d tripartite cooperation agreement with Belarusian Ministry of Communications and Informatization, Ministry of Education of Belarus, and 10 students from the Belarusian State University, Belarusian State University of Informatics and Radioelectronics and the Belarusian State Academy of Telecommunications participated in the program. (see below URL 2)\n\nMINSK, 2 May (BelTA) - Huawei and the Belarusian State Academy of Communications will set up a joint training center, Director General of OOO Bel Huawei Technologies Pan Yong told BelTA (see below URL 3)",
+                "evidence_urls": [
+                    "https://eng.belta.by/economics/view/belarus-counts-on-lasting-effective-cooperation-with-huawei-111699-2018",
+                    "https://archive.ph/Zbmkc#selection-2691.0-2691.390 ",
+                    "https://eng.belta.by/society/view/huawei-belarusian-state-academy-of-communications-to-set-up-joint-training-center-111365-2018/"
+                ],
+                "note": "Belarus' Education Ministry, Huawei seek cooperation in digital.....  plan for the development of the information and communication technology (ICT) sector in. Source: https://www.belarus.by/en/business/business-news/belarus-education-ministry-huawei-seek-cooperation-in-digital-transformation_i_0000061971.html \n(we could not open the link, but it seems it contains relevant information, hope it can be available for you). ",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "The Confucius Classroom at the Belarusian State Economic University was officially established in 2013 by the decision of the Office of Chinese Language Council International / Confucius Institute Headquarters (Hanban). The plaque with the appropriate name was solemnly presented at the European Forum of Confucius Institutes, held in Minsk on the basis of Belarusian State University on September 11-13, 2013. The Confucius Classroom of BSU RISC at BSEU operates based on the agreement signed in November 2012 between the BSU Republican Institute of Sinology named after Confucius and the Belarusian State Economic University, as well as on the approved Regulations on the Confucius Classroom at BSEU. ( Available at: http://confucius.bseu.by/eng/about-us/)\n\n\u201cIn May 2019, we signed an agreement with Anhui University and the Confucius Institute Headquarters to establish such an institute in our university,\u201d she informed. A Chinese co-director of the Confucius Institute, a teacher from China and two volunteers came to Brest in December. Back then, the first groups of learners were enrolled from among students. This week they are to take their final exam in the elementary spoken Chinese language. The project is financed equally by Pushkin Brest State University and Anhui University, Anzhela Saidi informed. (https://eng.belta.by/society/view/confucius-institute-opens-in-brest-134748-2020/) \n\nRepublican Confucius Institute of Sinology (RCIS)is the largest Belarusian centre for the study of the Chinese language and culture- https://bsu.by/en/structure/faculties/respublikanskiy-institut-kitaevedeniya-imeni-konfutsiya-d/about\n\n\nRepublican Confucius Institute of Sinology at Belarusian Stat\u0435 University\nConfucius Institute at Minsk State Linguistic University\nScience and Technology Confucius Institute at Belarusian National Technical University\nConfucius Institute at Francisk Skorina Gomel State University\nConfucius Institute at Brest State named after A.S. Pushkin University\nConfucius Institute at Belarusian State University of Physical Culture\n(established confucius intitutions in Belarus, available at: https://www.digmandarin.com/confucius-institutes-around-the-world.html)\n",
+                "evidence_urls": [
+                    "http://confucius.bseu.by/eng/about-us/ ",
+                    "http://confucius.bseu.by/Eng/",
+                    "https://eng.belta.by/society/view/confucius-institute-opens-in-brest-134748-2020/",
+                    "https://bsu.by/en/structure/faculties/respublikanskiy-institut-kitaevedeniya-imeni-konfutsiya-d/about",
+                    "https://www.digmandarin.com/confucius-institutes-around-the-world.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No public data available.",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence found.",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "skip",
+                "evidence": "According to the expert's knowledge the some funding has been provided from the PRC, but the public record or an other relevant information is not available in that regard.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "2",
+                "evidence": "Two NNU faculty elected to 2016 Chang Jiang Scholars Program ... Maryia Uporava, the Republic of Belarus \u201cYou just need to enjoy the process of studying.\" (see below URL)",
+                "evidence_urls": [
+                    "https://en.njnu.edu.cn/news/welcome-members-of-the-class-of-2024?page=37"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No public information available, cases have not been identified. ",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No evidence found, such cases have not been identified. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "BEIJING, 29 September (BelTA) \u2013 Belarus and China have signed a package of agreements and memorandums on cooperation in various fields. These documents were signed in the presence of the two heads of state in Beijing on 29 September, BelTA has learned. (see below URL)",
+                "evidence_urls": [
+                    "https://eng.belta.by/politics/view/belarus-china-sign-package-of-cooperation-agreements-in-various-fields-94932-2016/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "1",
+                "evidence": "Minks is among the list (see below URL 1, 2)",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_China",
+                    "https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Belarus"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "Li Zhanshu, chairman of the National People's Congress Standing Committee, holds talks with Natalia Kochanova, chairwoman of the Council of the Republic of the National Assembly of Belarus, and Vladimir Andreichenko, chairman of the House of Representatives of the National Assembly of Belarus, via video link at the Great Hall of the People in Beijing, capital of China, June 8, 2021. (see below URL)",
+                "evidence_urls": [
+                    "http://www.npc.gov.cn/englishnpc/c23934/202106/bc2aaa4931ed45e28d67c44dc71d23f3.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "2",
+                "evidence": "Meiya Pico, a Chinese cybersecurity company, was instructed by the Chinese Ministry of Public Security to train countries affiliated with the BRI in digital forensics. Meiya Pico may also be part of establishing a Safety Corridor from China to Europe, aiming to tie security and safety services and products to international development projects. (see below URL 2)\n(Belarus is also among the list countries)",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-2207",
+                    "https://web.archive.org/web/20201228215655/https://public.opentech.fund/documents/English_Weber_WWW_of_Information_Controls_Final.pdf",
+                    "https://archive.ph/10iVx/a62920c2c56335fe4a5e27fc85b31fef0470dfe3.jpg"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No public evidence found.",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence found.",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "Xi Jinping pointed out that China and Belarus are all-weather good friends, and the China-Belarus comprehensive strategic partnership featuring mutual trust and win-win cooperation has been at a high level in recent years. The two countries have made fruitful achievements in jointly building the Belt and Road Initiative, with the China-Belarus industrial park becoming a model project. Bilateral practical cooperation has been elevated to a new level. (see below URL 1)\n\nXi Jinping stressed that the current international and regional situation is complex and changeable. China and Belarus have cooperated effectively on multilateral occasions including the United Nations, and firmly supported each other in safeguarding our core national interests, which has demonstrated the strategic value of China-Belarus cooperation. (see below URL 2)\n\nIn 2005, Lukashenko told Xinhua, China\u2019s official news agency, the reason for his newfound attraction to Beijing: \u201cSo long as we [Belarus] develop such relations with China, we cannot be isolated.\u201d That same year, he paid a state visit to the PRC, returning with a stack of memoranda and a mountain of promises. (see below URL 5)\n\nIn an interview with the New China News Agency in October 2010, Lukashenko stated that China was Belarus\u2019 best friend. He explained his rationale: \u201cChina\u2019s investment has never had any political strings attached, therefore, we are more than willing to see China speed up its investment in Belarus on a larger scale.\u201d (see below URL 4)\n\nBelarusian authorities attach significant importance to relations with China as an opportunity for economic development and strengthening their state\u2019s international position. (see below URL 3)",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/ceus//eng/zgyw/t1658999.htm",
+                    "https://www.fmprc.gov.cn/eng/zxxx_662805/202201/t20220111_10480930.html",
+                    "https://pism.pl/publications/The_Importance_of_Cooperation_with_China_for_Belarus",
+                    "https://harvardpolitics.com/china-and-belarus-a-special-relationship/",
+                    "https://carnegiemoscow.org/commentary/82662"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "According to the expert's knowldge, some trips have taken place ( few, but insignificant), however any public evidence could not be found.",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No public evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "China\u2019s economic presence in the region has been steadily growing since the late 2000s, with Belarus clearly becoming China\u2019s primary partner. China provided Belarus with an extensive set of economic cooperation tools, including the flagship project of the \u201cGreat Stone\u201d Chinese-Belarusian Industrial Park near Minsk, as well as credit lines aimed at developing infrastructure and industry. Belarus has also become a key transit country for rapidly increasing Eurasian railway connections, facilitating 90% of EU-China railway freight trade. (see below URL)",
+                "evidence_urls": [
+                    "https://cepa.org/the-belarus-china-iron-brotherhood-begins-to-rust/ "
+                ],
+                "note": "Although Beijing reportedly aims to increase its economic presence in Belarus, lack of structural reforms, as well as some sort of Soviet-style economy, seem to prevent greater influx of Chinese investment. In other words, China, as well as certain powerful Russian oligarchic structures, see the current economic model in Belarus as an obstacle to more advanced cooperation. Available at: https://globalcomment.com/what-is-chinas-agenda-in-belarus/ \n\n\nRegionally, 44.2% of Belarusian commodity exports accrue to the EAEU countries. The European Union is the second largest market for Belarusian products (25.5%). https://president.gov.by/en/belarus/economics/foreign-trade/key-trade-partners. https://www.google.com/search?q=eaeu+countries&oq=EAEU+countries&aqs=chrome.0.0i512l2j0i22i30l2j0i390l2j69i60.5112j0j7&sourceid=chrome&ie=UTF-8 ",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "In order to overcome the phobia of Chinese \u201cdebt trap\u201d the Government of Belarus recently decreased the number and amount of Chinese loans tied to infrastructure projects, improved credit terms, increased FDI from China, and created joint industrial park \u2018Great Stone\u2019. As a result, the case of Belarus and China outlines how to avoid \u201cdebt trap\u201d in \u2018Belt and Road\u2019 initiative by focusing on FDI from China. (see below URL 1)\n\nAt present trade in goods with China does not exceed 6% of total Belarusian trade. Meanwhile, debts owed to Chinese banks have reached approximately US$3.3 billion, which accounts for approximately 20% of foreign public debt, and exacerbates the macroeconomic problems. In December 2019, Beijing granted the Belarusian government a direct loan of US$500 million. (see below URL 2)\n\nChinese loans and economic activities in the Eastern European nation still remain overshadowed by Russian actions on the ground. For comparison, at the end of March 2020, the volume of loans granted to Minsk by Moscow reached almost $8 billion, according to the prospectus of the issue of Belarusian Eurobonds, while Belarus\u2019 outstanding debt to China is about $3 billion. (see below URL 3)",
+                "evidence_urls": [
+                    "https://www.intechopen.com/chapters/75896",
+                    "https://www.osw.waw.pl/sites/default/files/OSW-Studies_The-non-strategic-partnership_net-1.pdf",
+                    "https://globalcomment.com/what-is-chinas-agenda-in-belarus/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "MINSK, 18 January (BelTA) \u2013 Belarus has joined the Asian Infrastructure Investment Bank (AIIB), meeting all the conditions of the resolution of the AIIB Board of Governors, BelTA learned from the Belarusian Finance Ministry. (see below URL 1)\n\nMembers and Prospective Members of the Bank: see below URL 2",
+                "evidence_urls": [
+                    "https://eng.belta.by/economics/view/belarus-joins-asian-infrastructure-investment-bank-118079-2019/",
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "Republican Confederation of Entrepreneurship of Belarus (RCEB) Belarus is the member of BRICA. (see below URL)",
+                "evidence_urls": [
+                    "https://www.bricaistanbul.com/overview/brica-members/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No evidence vound.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "MINSK, 8 April (BelTA) \u2013 The first round of negotiations over the agreement on investments and trade in services between Belarus and China was held online on 7 April, BelTA learned from the press service of the Belarusian Economy Ministry. (see below URL 1)",
+                "evidence_urls": [
+                    "https://eng.belta.by/economics/view/belarus-china-in-talks-over-agreement-on-investments-trade-in-services-138900-2021/"
+                ],
+                "note": "On October 25, 2019, the Agreement on Trade and Economic Cooperation with China dated May 17, 2018 entered into force. The agreement does not provide for the creation of a free trade regime, at the same time it is aimed at eliminating sanitary and technical barriers to trade, developing sectoral cooperation with China in the areas of advanced technologies, innovations, transport and logistics infrastructure.It provides for the rules on ensuring freedom of transit, which creates favorable conditions for Belarusian enterprises\u2019 participation in production and transport chains as part of the Chinese leadership's \"One Belt, One Road\" initiative. \nhttps://economy.gov.by/en/aftingoods-en/ \n(but the information does not specify, that the agreement covers the good, services or digital goods).",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "Belarus-Chinese Special Economic Zone To Open In Vitebsk\n\nBelarussia\u2019s Bremino Group and China\u2019s Shaanxi Zhongqiao Silk Road Technology Development Company are to jointly develop an \u201cInternational Silk Road Trade Center\u201d in Bolbasovo, Orsha District, Vitebsk Oblast in Belarus. (see below URL 1)\n\nOn 5 June 2012, the President of Belarus signed Decree No.253 \u201cOn China-Belarus industrial park\u201d. The document establishes a special economic zone in the Minsk region for a period of 50 years with a view to developing priority industries such as electronics, biomedicine, chemical industry and mechanical engineering. (see below URL 2)",
+                "evidence_urls": [
+                    "https://www.russia-briefing.com/news/belarus-chinese-special-economic-zone-open-vitebsk.html/#:~:text=Bolbasovo%2C%20Orsha%20District%2C%20Vitebsk%20Oblast,retail%20trade%20in%20consumer%20goods.",
+                    "https://investmentpolicy.unctad.org/investment-policy-monitor/measures/414/new-china-belarus-industrial-park-"
+                ],
+                "note": "China provided Belarus with an extensive set of economic cooperation tools, including the flagship project of the \u201cGreat Stone\u201d Chinese-Belarusian Industrial Park near Minsk, as well as credit lines aimed at developing infrastructure and industry. Belarus has also become a key transit country for rapidly increasing Eurasian railway connections, facilitating 90% of EU-China railway freight trade- https://cepa.org/the-belarus-china-iron-brotherhood-begins-to-rust/",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "China Telecom Group will build a telecommunication node inside the China-Belarus industrial park Great Stone to provide communication services inside the park, BelTA learned from Kirill Koroteyev, First Deputy Director General of SZAO Industrial Park Development Company. (see below URL 1)\n\nChina Telecom is a Chinese state-owned company and one of the world top telecommunication services providers. Upon concluding a cooperation agreement with SZAO Industrial Park Development Company at the end of 2017, China Telecom built a telecommunication node at the China-Belarus Great Stone Industrial Park to provide communication services inside the Industrial Park. (see below URL 2)",
+                "evidence_urls": [
+                    "https://www.ctamericas.com.cn/china-telecom-builds-telecommunication-node-china-belarus/",
+                    "https://www.sorainen.com/deals/china-telecom-builds-telecommunications-node-at-the-china-belarus-great-stone-industrial-park/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "2",
+                "evidence": "ZTE and A1 launched the first 5G SA test network in Belarus. (see below URL)",
+                "evidence_urls": [
+                    "https://www.zte.com.cn/global/about/news/20200525e1.html"
+                ],
+                "note": "No final decision has been made on when exactly the 5G rollout will begin. The official reminded that a 5G working group had been established under the Council of Ministers in order to take into account all the peculiarities the introduction of the new technology may entail. \u201cWe are going to prepare a final report in February in order to inform the head of state and approach the decision-making stage. There is also the frequency allocation procedure to consider. There may be tenders or some other options. We've worked them out,\u201d Konstantin Shulgan explained- https://eng.belta.by/society/view/nationwide-5g-coverage-within-five-years-deemed-possible-in-belarus-136553-2021/ (the talks have been conducted between parties) \n\nThe Huawei company is creating its own scientific and technological center in Belarus. We plan to participate in this project more widely, and not only for cooling systems- https://rci.bsu.by/docs/One%20Belt%20One%20Road%20Initiative:%20Opportunities%20for%20Belarus.pdf",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "skip",
+                "evidence": "ZTE has partnered up with Mobile Digital Communications in 2017 but then, whether the partnership has been prolonged or not, can not be identified. Thus, we skip the question. (see below URL)",
+                "evidence_urls": [
+                    "https://www.commsupdate.com/articles/2017/01/19/velcom-zte-claim-world-first-with-commercial-fully-virtualised-core-network/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No public evidence available.",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No pdirect evidence found.",
+                "evidence_urls": [
+                    "https://eng.belta.by/society/view/belarus-china-to-cooperate-in-smart-grid-technology-112665-2018"
+                ],
+                "note": "In 2015, Minsk was hoping to attract Chinese investments to a \u201csmart city\u201d project in the Belarusian capital, but in 2021 it became obvious that the United Arab Emirates-based Emaar Properties company, rather than Chinese corporations, would build a \u20ac4 billion complex: https://globalcomment.com/what-is-chinas-agenda-in-belarus/ ",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No any information found in that regard.",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "No direct evidence found. ",
+                "evidence_urls": [],
+                "note": "Right now, there are more than 60 companies active in the park, including as many as 33 from China, and only 12 from Belarus (the rest are Western companies, mainly from Germany). China has invested more than USD2bn in the \u201cGreat Stone\u201d industrial park, and according to the Chinese embassy in Minsk the total invested amount is ultimately expected to reach USD5.5bn. Initially, when China first entered Belarus with its investments, the elites in Minsk hoped that their value across the country could reach USD30bn. This was classic wishful thinking because that amount is equal to half of the country\u2019s annual GDP. Even so, the cumulative value of Chinese loans, grants and investments is estimated by the renowned Chinese Academy of Social Sciences in Beijing at USD20bn.\nhttps://www.obserwatorfinansowy.pl/in-english/business/what-is-china-doing-in-belarus/\n\n\nTechnology is a prominent theme. In addition to Great Stone, Belarus and China have signed an agreement to establish a research and development centre with a focus on smart technologies, computer semantics and artificial intelligence systems. Chinese investment has also gone into Belarusian railways, infrastructure, construction and manufacturing. China is now Belarus\u2019s third most significant trading partner after Russia and Ukraine, with trade expected to top $3.5 billion in 2018\u2014just a drop in a very large bucket for China, but highly significant for Belarus- https://www.aspistrategist.org.au/china-belarus-and-the-bear-in-the-room/",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "MINSK, 28 February (BelTA) \u2013 A new resident company has been registered in the China-Belarus industrial park Great Stone, BelTA has learned.\nInternational Technology Company Xinlian intends to set up a center to store and process large amounts of data. The project is supposed to be implemented in 2019-2020, with the total volume of investments close to $2.5 million. (see below URL)",
+                "evidence_urls": [
+                    "https://eng.belta.by/economics/view/new-company-to-set-up-big-data-processing-center-in-china-belarus-industrial-park-great-stone-119122-2019/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "The popularity of TikTok has not bypassed users from Belarus. TikTok was already in the top five most popular social networks in Belarus in 2021, according to a study on social networks and instant messengers in Belarus.\n\nAccording to We Are Social and Kepios, almost 3.1 million Belarusians used TikTok at the beginning of 2022, making this social network the second most popular after Instagram. In the last quarter of 2021 alone, TikTok added about 440,000 users from Belarus. If current growth rate is maintained, TikTok has every chance of becoming the most popular social network in Belarus by the end of 2022. (see below URL 1)",
+                "evidence_urls": [
+                    "https://isans.org/columns-en/tiktok-in-belarus-audience-trends-and-new-opportunities.html",
+                    "https://www.similarweb.com/zh-tw/apps/top/google/store-rank/by/social/top-free/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "According to their official website, Belarusian organizations do not cooperate with UWCA. (see below URL)",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "No evidence found.",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "Minsk to celebrate Chinese New Year on 2 February- https://eng.belta.by/society/view/minsk-to-celebrate-chinese-new-year-on-2-february-108968-2018 (links to UFWD is not identified)",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "2",
+                "evidence": "The official ceremony of concluding the Agreement \"On the exchange of delegations and cooperation in the field of journalism\" was held on April 26 simultaneously in Minsk and Beijing. The document was signed between the Belarusian Union of Journalists (BUJ) and the All-China Association of Journalists (VJA). (see below URL)",
+                "evidence_urls": [
+                    "http://www.dompressy.by/2022/04/26/belorusskie-i-kitajskie-zhurnalisty-podpisali-soglashenie-o-sotrudnichestve/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "According to the expert's knowledge, PRC generally, is portrayed positively with the country, but the direct evidence can not be found. \n\nInterestingly, pro-Chinese propaganda was promoted extensively by state actors as diplomats and state television rather than the expected proponents of Russian propaganda. The same narrative has been spread in Belarus as in the other countries of the EaP, namely, the humanitarian aid of China to countries facing COVID-19 outbreaks. https://crpe.ro/eapfakes/countries/belarus/the-path-of-the-dragon-in-belarus-unfolding-pro-chinese-propaganda-in-belarus/",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "Meet Alla: A Belarusian Social-Media Influencer In China | ASIAN BOSS- https://www.youtube.com/watch?v=P0wWssMrPIE",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "1",
+                "evidence": "We really would like to use China's reform experience: Russian, Belarusian officials. (see below URL1, 2)",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=V7HMxt9WWw4",
+                    "https://www.youtube.com/watch?v=Sb7iJdm9T54"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "\"We share a common Soviet background and we came out of communism. Their parents and my parents lived in approximately the same conditions, so they are understandable to me as a nation. It seems to me that we share something in common in mentality. We, Belarusians, are hardworking, and the Chinese are also so hardworking, ready to endure for the sake of some idea, a brighter future\".\n\" I would say that it is easier for Belarusians to find a common language with the Chinese than for Russians. Belarusians do not impose their point of view, and they communicate well with other people. Therefore, the Chinese see us as friendly and pleasant people. But in general, Belarusians are closer to the European way, the European mentality. We are, after all, a European country.\" (see below URL)",
+                "evidence_urls": [
+                    "https://belsat.eu/ru/news/07-04-2022-chto-obshhego-u-belarusi-i-kitaya-i-mozhno-li-nazvat-podnebesnuyu-drugom-belarusi-opyt-belorusov-zhivushhih-v-kitae/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "On June 21, the Belarussian Defense Ministry announced that China would be providing Belarus with new armored vehicles. The move is just the latest sign of a growing partnership between Minsk and Beijing, including in the security realm. Though China and Belarus established relations 25 years ago, ties have been strengthening in recent years. Last year, Chinese President Xi Jinping and Belarussian President Alexander Lukashenko upgraded relations to the level of a comprehensive strategic partnership, an endeavor first announced in 2013. (see below URL 1)\n\nOn July 3 Belarus marked 73 years since Minsk was liberated from the Nazis by Soviet forces. The public holiday was accompanied by a requisite military parade. The event served as a reminder of a growing reliance on China as a would-be ally. Another Chinese 4\u00d74 spotted in the July 3 parade is the VN3/VN4. Deliveries of this particular armored car only began in mid-2017 and it\u2019s further proof that internal security is a serious preoccupation for the Lukashenko regime. The VN3/VN4 is designed to carry at least eight passengers behind its cab. A roof hatch supports a turret and in Belarusian service it\u2019s armed with a manually operated 12.7mm NSV machine gun in a cupola. (see below URL 2)",
+                "evidence_urls": [
+                    "https://thediplomat.com/2017/06/china-gives-belarus-new-armored-vehicles/",
+                    "https://21stcenturyasianarmsrace.com/2017/07/09/the-belarusian-army-is-using-a-lot-of-chinese-hardware/",
+                    "https://thediplomat.com/tag/china-belarus-military/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No, according to The Observatory of Economic Complexity (OEC). (see below URL)",
+                "evidence_urls": [
+                    "https://oec.world/en/profile/bilateral-country/chn/partner/blr"
+                ],
+                "note": "No evidence found.",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "evidence": "The sides discussed the next year's Belarusian-Chinese planned military cooperation events. A memorandum on establishing twinning relations between the defense ministries of Belarus and China in the area of international military cooperation was signed.Oleg Voinov and Ci Guowei underlined the presence of good prospects for Belarus-China military cooperation and the importance of further enhancement and development of these prospects. Belarus-China relations of trustful comprehensive strategic partnership and mutually beneficial cooperation were emphasized. (see below URL 1)\n\nA big Belarusian military delegation visited China back in April this year. They negotiated with representatives of the air forces and 11 companies. Increase of military and technical cooperation was the subject of these negotiations. They spoke about modernization of system of operation and control over the air forces, as well as about manufacturing of heavy chassis for launchers of rockets of different types. (see below URL 2)",
+                "evidence_urls": [
+                    "https://eng.belta.by/society/view/belarusian-chinese-defense-ministries-sign-military-technical-cooperation-memorandum-145668-2021/",
+                    "https://euroradio.fm/en/belarus-and-china-increase-military-cooperation",
+                    "https://belarusinfocus.info/the-ruling-elite/ideologists-lobby-internet-restrictions-law-enforcement-relaxed-pressure-opposition/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "No evidence found.",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "around 77 servicemen of the Armed Forces of Belarus received education in the institutions of the Chinese People\u2019s Liberation Army. The two countries also hold regular joint army training exercises. For example, \u201cHunting Falcon\u201d is a regular exercise designed to strengthen the partnership between the two armies in counteracting terrorist threats. This commitment to military cooperation is further evidenced by the amount of high level exchanges between the two countries. From 2013 to 2017 representatives of the Belarusian Defense Ministry visited China seven times while delegations of the Chinese Defense Ministry paid eleven visits to Belarus. (see below URL 1)\n\nJINAN, Aug. 7 (ChinaMil) -- Chinese and Belarusian special operations forces commenced the joint training entitled \u201cEagle Assault 2018\u201d at a comprehensive training base attached to the Northern Theater Command of the Chinese People\u2019s Liberation Army (PLA) in Jinan City of east China's Shandong Province on the morning of August 5, 2018. (see below URL 2)",
+                "evidence_urls": [
+                    "http://minskdialogue.by/en/research/memorable-notes/belarus-china-relations",
+                    "http://eng.chinamil.com.cn/view/2018-08/07/content_9244657.htm"
+                ],
+                "note": "The prospects of developing Belarus-China relations in military education and staff training will be discussed during the visit of the Belarusian military delegation to Beijing.\nThe Belarusian delegation includes deputy Defence Minister Major General Yuri Merentsov and aide to Defence Minister for moral and psychological support Colonel Alexander Gura.The Belarusian delegation is planning to meet with Chinese Defence Minister Cao Gangchuan and a number of other military officials. They are also expected to attend the 3rd mechanized division of the Chinese Army and the National Defence Academy- https://mfa.gov.by/print/en/press/news_mfa/cfaaf39c61a2ce5d.html \n\nMINSK, (UrduPoint / Pakistan Point News, app - 15th Aug, 2018 ): Head of the General Staff of the Armed Forces, First Deputy Defense Minister of Belarus Oleg Belokonev is expected to discuss the development of cooperation in joint military training during his official visit to China, BelTA learned from the Belarusian Defense Ministry- http://eng.chinamil.com.cn/view/2018-08/16/content_9254561.htm",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "On May 11 local time, President Xi Jinping and President Alexander Lukashenko of Belarus met with 15 representatives of Belarusian veterans of the World War II at the Belarusian Great Patriotic War Museum in Minsk- https://www.mfa.gov.cn/ce/cegv//eng/wjyw/t1263528.htm\n(However, if any kinds of benefits have been granted, is not identified)",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence found.",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Belarus had a GDP per capita of US$7,303.70 and a total population of 9.34 million people, with the Chinese population comprising 4,200 people (According to 2015 statistics) or 0.04% of the total population.",
+    "description-2": "Belarus established diplomatic relations with the People's Republic of China in 1992. Belarus was ranked 153rd in Reporters Without Borders' 2022 World Press Freedom Index, and Not Free in Freedom House's 2022 Global Freedom Status, with a score of 8/100."
+}

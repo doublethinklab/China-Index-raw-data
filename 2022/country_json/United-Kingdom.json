@@ -1,0 +1,1071 @@
+{
+    "name": "United Kingdom",
+    "partner": "Martin Thorley",
+    "year": "2022",
+    "GDP": "$47,334.4",
+    "population": "67.3M",
+    "original": "146/384",
+    "ranking": "27",
+    "overall": "38%",
+    "effect": "17%",
+    "exposure": "42%",
+    "pressure": "60%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "2",
+                "evidence": "There are four UK-based media outlets identified on the World Chinese Media website: Guardian Chinese Network; British Chinese Times; British Overseas Chinese Newspaper; and British Chinese Business Daily. These news outlets, however, are no longer widely read, and the majority of their website links are either broken or are not maintained. There are some small scale publications with websites (such as Chinese Business Gazette, included in links below).\n\nMore attention is paid to more mainstream PRC English-language media outlets, which are not solely focussed on the UK. Mainstream UK newspapers often comment on articles written in, for example, the Global Times.\n",
+                "evidence_urls": [
+                    "https://chinesebg.com/",
+                    "https://www.ukjs.co.uk/aboutus",
+                    "http://www.haibao001.com/newsitem/278331484",
+                    "https://www.theguardian.com/world/2021/nov/17/little-britain-chinese-media-weigh-in-on-reports-of-spat-between-liz-truss-and-uk-envoy"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "The \u201cBritish Daily Mail General Trust Group United Newspaper Company\u201d is listed as a local respondent for the committee of Belt and Road New Network.",
+                "evidence_urls": [
+                    "http://en.brnn.com/n3/2019/0425/c415308-9571930.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "2",
+                "evidence": "In 2021 the BBC uncovered a network of British vloggers who were either paid to produce content favourable to the PRC, or received privileged access to PRC government events in exchange for their content. ASPI also notes that UK-based social media influencers, alongside influencers from Canada, Germany and Ghana, partook in a \u2018A Date with China\u2019 (\u4e2d\u56fd\u6709\u7ea6) media tour of Xinjiang in May 2021. This tour was organised by the Cyberspace Administration of China (CAC). However, there is little evidence of UK significant media organisations or journalists engaging in this behaviour.",
+                "evidence_urls": [
+                    "https://www.bbc.co.uk/news/world-asia-china-57780023",
+                    "https://s3-ap-southeast-2.amazonaws.com/ad-aspi/2021-12/Borrowing mouths to speak on Xinjiang-2.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "3",
+                "evidence": "The PRC often subsidizes journalist and media \u2018trainings\u2019, however these seem to be largely geographically focussed on countries in the Belt and Road Initiative. The UK is not at the core of the BRI, and does not seem to be the focus of these efforts. However, the PRC has hired UK-based online influencers to amplify favourable narratives.\n",
+                "evidence_urls": [
+                    "https://www.businessinsider.com/china-taught-foreign-countries-journalists-how-to-restrict-speech-2018-11?r=US&IR=T",
+                    "https://freedomhouse.org/report/special-report/2020/beijings-global-megaphone",
+                    "https://www.theguardian.com/world/2022/jan/22/china-hires-western-tiktokers-to-polish-its-image-during-2022-winter-olympics",
+                    "https://www.thetimes.co.uk/article/china-state-tv-channel-cgtn-enlists-uk-student-influencers-dw9v5sbnc"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "4",
+                "evidence": "The major PRC state-backed media outlets all publish in English.",
+                "evidence_urls": [
+                    "http://en.people.cn/",
+                    "https://www.globaltimes.cn/index.html",
+                    "http://www.chinadaily.com.cn/",
+                    "http://www.xinhuanet.com/english/china/index.htm",
+                    "https://www.cgtn.com/",
+                    "https://english.cctv.com/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "evidence": "Prior to February 2021, China Global Television Network (CGTN) was the primary PRC-owned outlet in the UK. At this time CGTN was expanding its UK operations. However, an investigation by the UK regulatory body Ofcom found that CGTN\u2019s broadcasting licence was held by an entity that had no editorial control over its programming. As such, Ofcom decided to withdraw CGTN\u2019s broadcasting license on the basis that it lacked editorial control, and that this editorial control was likely exercised by the Chinese Communist Party. CGTN was issued with a fine, and no longer has a broadcasting licence, but remains a significant source of PRC-linked media content in the UK. ",
+                "evidence_urls": [
+                    "https://www.nytimes.com/2021/02/04/world/europe/uk-china-cgtn-license.html",
+                    "https://www.bbc.co.uk/news/articles/celkpjz7dz1o"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "2",
+                "evidence": "The UK-Chinese Times published an insert from the People\u2019s Daily (the official mouthpiece of the CCP) from 2010 to 2018, but this publication is no longer widely in circulation. The Telegraph previously contained a \u201cChina Watch\u201d section funded by the state-controlled outlet China Daily. However, The Independent now has an agreement with China Daily to platform China Watch. ",
+                "evidence_urls": [
+                    "https://freedomhouse.org/report/special-report/2020/beijings-global-megaphone",
+                    "https://www.ft.com/content/f5d00a86-3296-11e8-b5bf-23cb17fd1498",
+                    "https://www.independent.co.uk/asia/china/china-daily"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "4",
+                "evidence": "Until April 2020, the UK newspaper the Telegraph contained a \u2018China Watch\u2019 section, which was funded by the PRC and written by Chinese state journalists. The Telegraph was reportedly paid \u00a3750,000 a year for producing this material. However, following a backlash, this section was removed from the newspaper. The Independent now has an agreement with China Daily to platform China Watch.\n\nDuring the initial COVID-19 outbreak, the PRC flooded social media with paid advertisements containing positive stories about the PRC\u2019s COVID containment policies. These advertisements were targeted at the UK, alongside the US and EU.\n",
+                "evidence_urls": [
+                    "https://www.theguardian.com/media/2020/apr/14/daily-telegraph-stops-publishing-section-paid-for-by-china",
+                    "https://www.telegraph.co.uk/technology/2020/04/05/china-floods-facebook-instagram-undeclared-coronavirus-propaganda/",
+                    "https://www.independent.co.uk/asia/china/china-daily"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "Several UK journalists, including John Sudworth from the BBC, were forced to leave China after being denied visas and facing increasing threats of legal action1. Other UK journalists have reportedly had their devices intercepted by PRC officials, and many have faced problems renewing and accessing visas.",
+                "evidence_urls": [
+                    "https://fccchina.org/wp-content/uploads/2022/01/2021-FCCC-final.pdf?x39796"
+                ],
+                "note": "We consider this question to be in reference to British journalists regardless of location. If it refers to activities in British territory exclusively then we may need to reconsider. ",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "1",
+                "evidence": "UK outlets by and large do not censor to appease the PRC. The only example of censorship by UK media outlets at the request of the PRC was in 2019, when the British GQ put President Xi on its \u2018worst dressed\u2019 list, and then later removed any reference to him following online backlash.",
+                "evidence_urls": [
+                    "https://www.buzzfeed.com/markdistefano/gq-worst-dressed-removal"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "Although there are some British Twitter commentators who have denied human rights abuses in Xinjiang, there are no widely known celebrities or media commentators who openly express such sentiments. \n\nOn a modest scale in terms of public recognition, former MP George Galloway has strongly supported the Chinese party-state line on Xinjiang. He is included here as a commentator and celebrity, having previously appeared on Celebrity Big Brother.",
+                "evidence_urls": [
+                    "https://www.codastory.com/authoritarian-tech/influencers-xinjiang-denialism/",
+                    "https://twitter.com/georgegalloway/status/1311909100725456897?s=20&t=cD4RRVQOGIQ_za90JvZawg"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "The All Party Parliamentary Group on China \u201cwas established in 1997 to widen the parliamentary contribution to the UK-China bilateral relationship.\u201d  To this end, it is not linked entirely with the PRC but is on good terms with PRC officials, hosting many roundtables and events on the Parliamentary Estate  (mostly virtual now) and including visits to China. Though one could make a case for either answer here, ultimately the APPG isn't an official bilateral organisation (as in, for example, the German case). We answer \"No\" accordingly.",
+                "evidence_urls": [
+                    "https://appcg.org.uk/",
+                    "https://appcg.org.uk/hello-year-of-the-rat-appcg-celebrates-chinese-new-year/",
+                    "https://twitter.com/appcg/status/1060151808709066752"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "The APPG China has introduced many British legislators to PRC representatives.  Since the pandemic, the Chinese Embassy in London has held virtual events with British legislators present, most recently for the leaving party for former Ambassador Liu Xiaoming \u2013 guests included Lord Heseltine, former Deputy Prime Minister of the UK, David Lidington, former Chancellor of the Duchy of Lancaster, Jeremy Hunt, former Foreign Secretary, Sir Oliver Letwin, former Minister for Government Policy in the Cabinet Office, Mark Sedwill, former UK Cabinet Secretary and Head of the Civil Service and National Security Adviser, Sir Vince Cable, former Leader of the Liberal Democrats, Lord Powell, Lord Sassoon, Lord Howell, Lord Bates, Lord Green, Lord O'Neill, Lord Wilson, Lord Davidson, Lord McNally, Lord Dobbs, Lord Giddens, Lord Desai, Lord Soley, Richard Graham MP, Chairman of APPCG, Mark Logan MP, Mark Hendrick MP, Lisa Cameron MP, Philip Dunne MP, Liam Byrne MP, Barry Gardiner MP. ",
+                "evidence_urls": [
+                    "https://twitter.com/appcg/status/1060151808709066752",
+                    "https://archive.vn/IIMuW"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "We don't believe there are any cases."
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "PRC diplomats have attempted to pressure politician to change their political and diplomatic stances in the UK. As well as sanctions directed at Members of Parliament,  the former Ambassador has engaged directly.",
+                "evidence_urls": [
+                    "https://www.bbc.co.uk/news/uk-56532569",
+                    "https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fambliuxiaoming%2Fstatus%2F1280572886319857666&data=04%7C01%7CM.Thorley2%40exeter.ac.uk%7C67fae60c982449d5aa9d08d9fa3a573a%7C912a5d77fb984eeeaf321334d8f04a53%7C0%7C0%7C637815951969858271%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&sdata=L7wWuMz7YIwL9rsNjQzAXHLWnD6NscYYqIXyeiRLD80%3D&reserved=0"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "British citizen Peter Humphrey was imprisoned in what was considered \"a politically driven case\". Donald Clarke's research demonstrates that the sentence delivered was beyond the realms of what would be expected for a case of this nature in normal conditions.\n\nFor reference, the PRC has denied or attempted to deny UK citizens entry to Hong Kong on numerous occasions, such as Hong Kong Watch founder Benedict Rogers in 2017, or the Foreign Affairs Committee MPs in 2014.",
+                "evidence_urls": [
+                    "https://www.theguardian.com/world/2015/jun/18/china-gsk-peter-humphrey-prostate-problems-confession-claim",
+                    "https://scholarship.law.gwu.edu/faculty_publications/1137/",
+                    "https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-38212539",
+                    "https://www.bbc.co.uk/news/uk-politics-41586529"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "We don't believe this has taken place recently."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "We don't believe this has happened recently but acknowledge this requires further research."
+                ],
+                "note": "We haven't found evidence of this but find it difficult to provide a definitive answer. ",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "The official position of the UK government backs UNCLOS from a position of supposed neutrality. The UK has also sailed a carrier strike group through the South China Sea.\n\nThe UK Government\u2019s position on the South China Sea is \u201cWe do not take a position on competing sovereignty claims. Our commitment is to international law, particularly to UNCLOS and to freedom of navigation and overflight. We call on all parties to refrain from activity likely to raise tensions, including land reclamation, construction and militarisation, and we urge all parties to exercise restraint and behave responsibly in accordance with their international obligations. Our commitment to upholding UNCLOS is a global matter, and we will continue to raise concerns with other nations where their interpretation of UNCLOS differs from ours. We are committed to working closely with allies and partners to uphold the primacy of UNCLOS in the South China sea.\u201d ",
+                "evidence_urls": [
+                    "https://hansard.parliament.uk/commons/2020-09-03/debates/99D50BD9-8C8A-4835-9C70-6E9A38585BC4/SouthChinaSeaFreedomOfNavigation",
+                    "https://www.bbc.co.uk/news/world-asia-58015367"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "As of April 2021, the UK\u2019s Parliament unanimously holds the position that a genocide is taking place in Xinjiang against the Uyghur and other minorities.  Additionally, Parliament considered the findings of the Uyghur Tribunal that a genocide is taking place, and voted unanimously for the Government to live up to its 2007 ICJ obligations to explore the risk of genocide in the Xinjiang region.  \nNote that this is Parliament, not the Government\u2019s, position.\n",
+                "evidence_urls": [
+                    "https://www.theguardian.com/world/2021/apr/22/uk-mps-declare-china-is-committing-genocide-against-uyghurs-in-xinjiang",
+                    "https://hansard.parliament.uk/Commons/2022-01-20/debates/22242466-901D-4CCA-995F-552292371002/UyghurTribunalJudgment"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "skip",
+                "evidence": "We feel this questions is too loose. The question asks what stance \"the country\" has shown. The UK has demonstrated a wide range of stances from very many actors. There is an official line of the UK government that it recognises Tibet as part of the PRC but at the same time there is fierce criticism of the PRC on Tibet in Parliament. The stances are myriad and contradictory. \nhttps://www.gov.uk/government/publications/china-country-of-concern--2/china-country-of-concern#tibet \nhttps://hansard.parliament.uk/commons/2020-10-07/debates/12B1306D-28AC-43B6-BC13-E091E922E177/ChinaLabourProgrammeInTibet",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "Various Foreign Secretaries have been extremely critical of the National Security Law.\n\nIn its most recent Six-monthly Report, the Foreign Office again raised concerned about the National Security Law. Foreign Secretary Liz Truss shared the report on Twitter.\n\nIt quoted former Foreign Secretary Dominic Raab, who on 2 January 2021 said \u201cThe mass arrest of politicians and activists in Hong Kong is a grievous attack on Hong Kong\u2019s rights and freedoms as protected under the Joint Declaration. These arrests demonstrate that the Hong Kong and Chinese authorities deliberately misled the world about the true purpose of the National Security Law, which is being used to crush dissent and opposing political views. The UK will not turn our backs on the people of Hong Kong and will continue to offer British Nationals (Overseas) the right to live and work in the UK.\u201d \n\nThree days later, Raab issued a statement alongside the Foreign Ministers of Australia and Canada, and the US Secretary of State. It read \u201cThe National Security Law is a clear breach of the Sino-British Joint Declaration and undermines the \u2018One Country, Two Systems\u2019 framework. It has curtailed the rights and freedoms of the people of Hong Kong. It is clear that the National Security Law is being used to eliminate dissent and opposing political views.\u201d \n\n",
+                "evidence_urls": [
+                    "https://twitter.com/trussliz/status/1470707342165614594?lang=en",
+                    "https://twitter.com/trussliz/status/1472830880691412993",
+                    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1040471/49th-Six-monthly-Report-on-Hong-Kong.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "There are significant numbers of research partnerships between British universities and PRC-connected entities. These linkages were the subject of a recent investigation by The Times newspaper, which revealed \u00a3240 million of Chinese-linked capital given to British universities \u2013 either as donations or as part of research collaborations.",
+                "evidence_urls": [
+                    "https://www.thetimes.co.uk/article/british-research-could-help-china-build-superweapons-wzlcrngsj"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "By 2019, there were at least 29 Confucius Institutes in the UK according to the Conservative Party Human Rights Commission (CPHRC) report into Confucius Institutes in the UK (and repeated in a report on UK-China ties in higher education by The Policy Institute at King\u2019s College London and the Mossavar-Rahmani Center for Business and Government at the Harvard Kennedy School). The CPHRC report states that this was at the time \u201cthe second largest number in the world after the United States\u201d and that the Confucius Institutes are connected to many major higher education institutions \u201csuch as Edinburgh, Liverpool, Manchester, Newcastle, Nottingham, Cardiff and University College London\u201d. The report also states that there were, at the time, 148 Confucius classrooms in the UK. ",
+                "evidence_urls": [
+                    "https://conservativepartyhumanrightscommission.co.uk/wp-content/uploads/2020/03/CPHRC_Confucius_Institutes_report_FEBRUARY_2019-1.pdf",
+                    "https://www.kcl.ac.uk/policy-institute/assets/china-question.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "The House of Commons Library states that \u201cmost schools teach one or more of French, German and Spanish, but the Government does not promote the teaching of particular languages\u201d. There is statutory guidance on teaching foreign languages to students aged 7-11 years old, but the language selection is not included in the guidance.\n\nWithin this loose framework, a number of primary school students will receive Mandarin Chinese language classes, but this is not mandated and may come from other sources, most notably the \u201cMandarin Chinese for Primary Schools\u201d initiative delivered by the UCL Institute of Education and funded by the HSBC Global Education Programme.\n",
+                "evidence_urls": [
+                    "https://commonslibrary.parliament.uk/research-briefings/cbp-7388/#:~:text=Most%20schools%20teach%20one%20or,as%20Arabic%2C%20Japanese%20and%20Polish",
+                    "https://www.gov.uk/government/publications/national-curriculum-in-england-languages-progammes-of-study/national-curriculum-in-england-languages-progammes-of-study"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "The UK\u2019s Overseas Development Institute is listed as member of the \u201cBelt and Road Studies Network\u201d on the BRSN website. \n\nThe Silk Road Think Tank Network lists three UK organisations amongst its members: Chatham House; the Institute of Development Studies, University of Sussex; and the 48 Group Club.\n\nThese affiliations appear limited and aren\u2019t prominent on the British side of the partnerships.\n",
+                "evidence_urls": [
+                    "http://www.brsn.net/list/zhikujigou_en/index_4.html",
+                    "https://archive.fo/HopGu"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "2",
+                "evidence": "There are limited examples of PRC-connected funding for British think-tanks such as The Embassy of the PRC, Huawei, and China International Capital Corporation giving to Chatham House. Likewise, there are academic research centres and institutions receiving funding from PRC-connected entities, for example PRC funding for the National Graphene Institute at the University of Manchester. There is still a degree of uncertainty around such funding given the lack of transparency in the sector. We record an answer \u201c2\u201d, though it is borderline. ",
+                "evidence_urls": [
+                    "https://archive.ph/u1GUc",
+                    "https://www.chinadaily.com.cn/china/2016-07/26/content_26232129.htm",
+                    "https://www.ft.com/content/ae6968c4-b5ec-11e4-b58d-00144feab7de",
+                    "https://www.prnewswire.co.uk/news-releases/tencent-cloud-collaborates-with-the-university-of-edinburgh-in-research-and-education-through-its-industry-leading-cloud-offerings-819604979.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "3",
+                "evidence": "There are a small number of cases of recruitment via the Thousand Talent program in the UK, though given the number of \u201crecruitment stations\u201d believed to be active in the country, it is highly likely that there are further instances of recruitment. An example of a known case is that of Professor Zhao Hua (\u8d75\u534e) at Brunel University, who is listed as an example in CCP talent recruitment literature. \n\nThere are limited examples of recruitment of those without, or with very few, prior links to the PRC, most notably the British neuroscientist Professor Keith M. Kendrick. He was \u201cthe first foreign full professor who came to Sichuan province through the China 1000 Talent Scheme and the Sichuan 100 Talent Scheme\u201d. \n",
+                "evidence_urls": [
+                    "https://archive.ph/en0L3#selection-435.73-435.100",
+                    "https://www.aspi.org.au/report/hunting-phoenix",
+                    "https://web.archive.org/web/20120902095140/http://www.access4.eu/China/1024.php"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "This is an extremely difficult question to answer convincingly. There are very many links between the academic realms in the two countries, and this involves regular trips both ways. There is a grey area where these trips take place and it would be very difficult to discern the precise reasoning behind the invites to British scholars who visit China for academic reasons. ",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "3",
+                "evidence": "There have been multiple cases of PRC student disruption of protests (most commonly protests held by Hong Kongese students). Though it is difficult to distinguish the extent to which the reaction by PRC students is organic or pre-organised via groups such as the CSSA, there are instances where CSSA involvement has been demonstrated. The linked report includes reference to two instances where CSSA involvement was apparent \u2013 in Manchester and Leeds. ",
+                "evidence_urls": [
+                    "https://www.theguardian.com/uk-news/2019/oct/18/hong-kong-protesters-uk-pro-beijing-intimidation"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "3",
+                "evidence": "Though there are not significant numbers of cases where academics have been censured for their research in the manner described here, when it has taken place it has been serious. The most obvious example is Dr Jo Smith Finley, a scholar at Newcastle University who was sanctioned by the PRC government because of her research on Xinjiang. \u201cThe sanctions include a ban on entering China, Hong Kong and Macau, the freezing of property in China and the prohibition of doing business with Chinese citizens and institutions.\u201d",
+                "evidence_urls": [
+                    "https://www.bbc.co.uk/news/uk-england-tyne-56545200"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "The Foreign Affairs Committee published a report in 2019, discussing \u201cautocracies\u2019 influence on academic freedom in the UK\u201d with significant reference to the PRC. The report identified efforts to influence curricula but didn\u2019t identify involvement as outlined in the question above. There are questions over compromise in other respects (the possibility of self-censorship where institutions are dependent on Chinese student tuition fees, for example) but they do not amount to involvement as described here. \n\nThis is a question where further evidence may become apparent in future studies \u2013 from the Confucius classroom scheme, for example.\n",
+                "evidence_urls": [
+                    "https://publications.parliament.uk/pa/cm201919/cmselect/cmfaff/109/109.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "3",
+                "evidence": "Self-censorship typically occurs in the most private realm and so it would be extremely difficult to prove it without an admission by the individual involved. A recent report found 40% of academics specialising in China admitting to self censoring when teaching students from China. \n\nA thoughtful discussion of self-censorship in British universities around the topic of China is available the Higher Education Policy Institute\u2019s report into UK universities and China. ",
+                "evidence_urls": [
+                    "https://www.timeshighereducation.com/news/uk-scholars-more-likely-self-censor-when-teaching-chinese-students",
+                    "https://www.hepi.ac.uk/wp-content/uploads/2020/07/UK-Universities-and-China_HEPI-Report-132_FINAL.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "During the Golden Era, Manchester was targeted by then-Chancellor George Osborne as a place to direct Chinese investment, as part of his wider campaign to bring Chinese investment into the Northern Powerhouse.  The launch of the Manchester China Forum was part of this and facilitated \u00a36bn in the region. Notable projects include the Far East Consortium investment into the \u00a31bn Northern Gateway project and the \u00a31bn Airport City development involving Beijing Construction and Engineering Group as a major equity partner. \n\nDuring his 2015 speech in Chengdu, Osborne brought with him Richard Leese, the leader of Manchester, Sean Anstee, the leader of Trafford, Joe Anderson, the Mayor of Liverpool, Julie Dore, the leader of Sheffield, Michael Jones from Cheshire, Judith Blake from Leeds, Nick Forbes from Newcastle. All were council leaders.\n",
+                "evidence_urls": [
+                    "https://www.gov.uk/government/speeches/chancellor-speech-in-chengdu-china-on-building-a-northern-powerhouse",
+                    "https://www.investinmanchester.com/about-us/the-manchester-china-forum"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "A paper from 2016 for the Government Office for Science found 52 formal twinning partnerships between Chinese and British cities.  Cardiff is twinned with Xiamen, Manchester is twinned with Wuhan, Leeds is twinned with Hangzhou, and Wirral is twinned with Taicang.",
+                "evidence_urls": [
+                    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/545779/gs-16-14-future-of-cities-twinning-contact-britain-china.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "Some MPs have been on such trips. In 2014, Sir Geoffrey Clifton Brown travelled to China and met members of an environment think tank, China Telecom Corporation Limited and visited two major universities.  In April 2018, Conservative MP Richard Graham visited Hong Kong \u201cto support the bilateral relationship and business development between UK and Hong Kong, and to gain understanding of Hong Kong's political, social and economic development.\u201d The trip was donated by the Hong Kong Government and paid for in part by the International Liaison Department of the Chinese Communist Party (IDCPC).",
+                "evidence_urls": [
+                    "https://www.wiltsglosstandard.co.uk/news/11262895.cotswold-mp-defends-trip-to-china-paid-for-by-chinese-communists/",
+                    "https://www.theyworkforyou.com/regmem/?d=2018-04-30#24921"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "Prior to the Coronavirus pandemic, the APPG on China ran annual visits to China which brought along MPs to meet Chinese officials. In 2014, the APPGC visited Xinjiang, and MPs included Caroline Dinenage MP, Brian Donohoe MP, Mark Garnier MP, Stephen McCabe MP, Roger Godsiff MP and Richard Graham MP.  They met \u201cwith the Director of the Standing Committee of the Xinjiang People\u2019s Congress and had an extensive discussion with members of the congress on the general situation in Xinjiang, relations between Han Chinese and ethnic minorities, and the freedoms of religion for members of different faith groups. Following this meeting members also saw the Vice Chairman and key members of the Xinjiang Islamic Association, before travelling to meet Deputy Director General Chen Zongrong at the State Administration for Religious Affairs, and Vice Minister Wang Chao at the Chinese Ministry of Foreign Affairs.\u201d \n\nThere were three more visits between 2015 and 2016. In 2015, Andrea Jenkyns MP, Robert Jenrick MP, Conor Burns MP, Jamie Reed MP, Daniel Zeichner MP, and Roger Godsiff MP travelled to Beijing.  In 2016, a delegation of MPs including Graham Brady MP, Henry Smith MP, Karl McCartney MP, Jonathan Reynolds MP, Jeff Smith MP, Joan Ryan MP, Roberta Blackman Woods MP, Michelle Donelan MP, Andrew Stephenson MP, and Sharon Hodgson MP travelled to Hong Kong and met senior officials including Chief Secretary Carrie Lam.",
+                "evidence_urls": [
+                    "https://appcg.org.uk/wp-content/uploads/2014-2015-Annual-Report.pdf",
+                    "https://appcg.org.uk/wp-content/uploads/2015-2016-Annual-Report.pdf",
+                    "https://appcg.org.uk/wp-content/uploads/2015-2016-Annual-Report.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "We note that Meiya Pico (\u5ec8\u9580\u5e02\u7f8e\u4e9e\u67cf\u79d1\u4fe1\u606f\u80a1\u4efd\u6709\u9650\u516c\u53f8) from Xiamen, PRC, claims to have provided training on digital forensics in the UK. We can't identify with total confidence who received this training on the British side so we have answered \"No\" but we note this here in case further evidence is available for the next round of questions. ",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-2192",
+                    "https://web.archive.org/web/20201228215655/https://public.opentech.fund/documents/English_Weber_WWW_of_Information_Controls_Final.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "3",
+                "evidence": "The recent MI5 alert to Parliament stated that Christine Lee, a political donor, was acting \u201con behalf of the United Front Work Department (UFWD) of the Chinese Communist party\u201d.",
+                "evidence_urls": [
+                    "https://www.theguardian.com/uk-news/2022/jan/13/chinese-national-trying-to-improperly-influence-politicians-says-mi5"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "3",
+                "evidence": "Labour MP Barry Gardiner received donations worth \u00a3500,000 from Chinese-British solicitor Christine Lee. Gardiner also employed Lee\u2019s son in his office.  In an interference alert, MI5 said Lee \"had been undertaken in covert coordination with the United Front Work Department [of the CCP], with funding provided by foreign nationals located in China and Hong Kong\".  MI5 revealed Lee was creating \u201clinks\" for the Chinese Communist Party with current and aspiring MPs.  Liberal Democrat Leader Ed Davey also received funding from Lee.",
+                "evidence_urls": [
+                    "https://www.standard.co.uk/news/uk/barry-gardiner-chinese-lee-sky-news-jeremy-corbyn-b976632.html",
+                    "https://www.bbc.co.uk/news/uk-politics-59984380",
+                    "https://www.spectator.co.uk/article/britain-is-finally-waking-up-to-china-s-influence-operations"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "We don't believe this has occurred publicly. "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "Throughout the Golden Era, the Prime Minister and various Cabinet officials have made positive remarks. During a speech at the Shanghai Stock Exchange, then-Chancellor George Osborne said \u2018Let\u2019s stick together to make Britain China\u2019s best partner in the West.\u201d  During a speech to mark President Xi\u2019s state visit, then Prime Minister David Cameron said \u201cChina and Britain are both global powers with a global outlook. We share an interest in a stable and ordered world, in which countries play by the rules and work together to address threats to our security and to our prosperity.\u201d ",
+                "evidence_urls": [
+                    "https://www.spectator.co.uk/article/the-great-british-kowtow",
+                    "https://www.gov.uk/government/speeches/joint-press-conference-david-cameron-and-president-xi-jinping"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "Former Chief Secretary to the Treasury between 2010 and 2015 Danny Alexander MP is now Vice-President of the Asian Infrastructure Investment Bank.  Huawei hired Peer and former BP Boss Lord Browne to be its UK Chairman.  Sir Simon Fraser, former head of the Foreign Office, founded lobbying firm Flint Global and took on Huawei.  Prime Minister Boris Johnson\u2019s former Strategic Advisor Eddie Lister \u201chelped broker China\u2019s purchase of its new embassy in London on behalf of the UK government \u2014 while being paid both by the property firm representing Beijing and the developer that sold the site for \u00a3255m.\u201d",
+                "evidence_urls": [
+                    "https://www.gov.uk/government/people/danny-alexander",
+                    "https://www.thetimes.co.uk/article/revealed-how-huawei-conquered-britain-fqss396g0",
+                    "https://www.thetimes.co.uk/article/revealed-johnsons-aide-edward-lister-linked-to-both-sides-in-chinese-embassy-deal-tswqbpz62"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "We don't believe there are any instances."
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "UK Trade Info considers China to be the UK\u2019s third most important trading partner by combined exports and imports value. By imports alone, the PRC is now the UK\u2019s largest partner.",
+                "evidence_urls": [
+                    "https://www.uktradeinfo.com/trade-data/overseas/2021/uk-overseas-trade-in-goods-statistics-may-2021/",
+                    "https://www.telegraph.co.uk/business/2022/02/11/chinese-exports-britain-surge-record-635bn/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "While there remains some lack of clarity around precise figures, HM Treasury data suggests that PRC entities do not own more than 50% of the UK\u2019s sovereign debt. ",
+                "evidence_urls": [
+                    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/785550/debt_management_report_2019-20_final_web.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "UK extractive industries are dominated by oil and gas. Of these, China is second (behind the Netherlands) in terms of oil exports but doesn\u2019t feature prominently in gas. ",
+                "evidence_urls": [
+                    "https://www.gov.uk/government/publications/extractive-industries-transparency-initiative-payments-report-2018/extractive-industries-in-the-uk",
+                    "https://questions-statements.parliament.uk/written-questions/detail/2021-12-03/HL4681"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "This is a borderline answer but we conclude that \u201cNo\u201d is the most appropriate answer at present. State-owned China General Nuclear (CGN) will be a junior partner (with French EDF) in the Hinkley Point C Nuclear Power megaproject. If a CGN-led Bradwell nuclear power station is built then that would constitute a \u201cYes\u201d in this instance, but this outcome appears increasingly unlikely. \nThe UK\u2019s busiest port, Felixstowe in Suffolk, is owned by Hutchison Port Holdings, a subsidiary of Hong Kong-based CK Hutchison, run by Chinese-born magnate and billionaire Li Ka-shing. \n\nAlso of note in terms of water supply, China Investment Corporation owns a 9% stake in Thames Water, which provides and manages the water supply for 15 million people in and around London. None of these examples meet the criteria set in the question.\n",
+                "evidence_urls": [
+                    "http://en.cgnpc.com.cn/encgn/c100083/2015-10/21/content_8ded47dfc8674339be826ce20114d836.shtml",
+                    "https://news.sky.com/story/investing-in-britain-what-does-china-own-10345588"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "The UK was the first major Western country to become a prospective founder member of the Asian Infrastructure Investment Bank.",
+                "evidence_urls": [
+                    "https://www.gov.uk/government/news/uk-announces-plans-to-join-asian-infrastructure-investment-bank#:~:text=In%20doing%20so%2C%20the%20UK,seek%20to%20join%20the%20AIIB%20.&text=I%20am%20delighted%20to%20announce,significant%20support%20in%20the%20region"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "Some of the membership information is not disclosed so this cannot be answered with certainty but of available data at the time of writing, it doesn\u2019t appear there are major UK businesses substantially involved.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "Sanctions on British individuals have not been matched by formal sanctions on British products. However, the Chinese Chamber of Commerce has warned that there could be \u201ca consumer backlash against British companies such as Jaguar Land Rover and Burberry\u201d if the UK doesn\u2019t \u201creverses its hostility to China\u201d. ",
+                "evidence_urls": [
+                    "https://www.thetimes.co.uk/article/block-us-and-britain-will-suffer-warns-china-jzvkmkwnd"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "4",
+                "evidence": "British fashion group Burberry faced a significant backlash as a member of the Better Cotton Initiative (which suspended its links to Xinjiang). British football club Arsenal faced a backlash in China after player Mesut \u00d6zil criticised China\u2019s treatment of Muslims in Xinjiang.",
+                "evidence_urls": [
+                    "https://www.forbes.com/sites/isabeltogoh/2021/03/26/as-burberry-faces-backlash-in-china-over-xinjiang-cotton-other-luxury-brands-could-face-boycott/",
+                    "https://www.theguardian.com/world/2019/dec/16/mesut-ozil-row-chinas-arsenal-fans-burn-shirts-in-anger-at-xinjiang-post"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "The UK does not have a free trade agreement with the PRC.",
+                "evidence_urls": [
+                    "https://www.gov.uk/guidance/uk-trade-agreements-with-non-eu-countries"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "There is no evidence of central or local government relaxing or removing regulatory restrictions to attract investment or economic participation from the PRC explicitly. The UK has established \u201cFreeports\u201d though this is part of a wider development and does not appear to be targeting the PRC over other countries.",
+                "evidence_urls": [
+                    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/878352/Freeports_Consultation_Extension.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "There is no evidence that the PRC or PRC connected entity has requisitioned infrastructure or land or failure to repay debts in a timely manner. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "These entities do not supply telecom services in the UK.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "evidence": "UK providers have been ordered to remove all Huawei 5G equipment from their networks by 20271. These restrictions also apply to Huawei\u2019s broadband networks1. Recently, it was revealed that the Prime Minister\u2019s new communications director lobbied on behalf of Huawei to stop the ban2, but evidently this had no effect on the government\u2019s decision.",
+                "evidence_urls": [
+                    "https://www.bbc.co.uk/news/technology-53403793 %0d2",
+                    "https://www.theguardian.com/technology/2022/feb/07/guto-harri-reportedly-lobbied-no-10-chief-of-staff-to-stop-ban-on-huawei"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "1",
+                "evidence": "The UK imposed restrictions on the use of PRC-linked broadband equipment. Operators are in the process of transitioning away from purchasing new Huawei equipment for fibre networks.",
+                "evidence_urls": [
+                    "https://www.bbc.co.uk/news/technology-53403793"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "There is no clear evidence of PRC-connected entities supplying equipment to the UK national government, military or security services as described in the question. However, it is important to note that there is evidence of PRC influence in the UK defence industry supply chains. A Parliamentary report on this matter states \u201cprivately held companies are more common in the lower tiers of the defence supply chain and that information on their ownership is not so readily accessible, making it more difficult to clearly define whether they are subject to foreign involvement\u201d1. The report lists several defence companies that have been acquired by Chinese-owned firms since 2010, but also asserts that steps are being taken to prevent PRC involvement in supplying equipment and services to the government.",
+                "evidence_urls": [
+                    "https://publications.parliament.uk/pa/cm5801/cmselect/cmdfence/699/69905.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "4",
+                "evidence": "Over half of local councils in London were found to be using PRC-made surveillance equipment. At least 28 councils were using video surveillance technologies made by Hikvision, the vendor to the Xinjiang police. Seven councils used technology from the PRC\u2019s second largest surveillance equipment company, Zhejiang Dahua Technology Co Ltd. This equipment is used in the UK to monitor public spaces.",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-britain-tech-china-idUSKBN2AI0QJ"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "1",
+                "evidence": "While Bournemouth council in Dorset appeared to be close to signing a deal with Alibaba to provide \u2018smart services\u2019, this was cancelled at the last minute over surveillance fears. UK councils were later issued guidance to avoid overseas smart technology suppliers, and analysts estimate that there are only a handful of risky smart city contracts in the UK. \n\nIn the same vein, the UK has also attempted to export its own smart city infrastructure to the PRC.\n",
+                "evidence_urls": [
+                    "https://www.ft.com/content/46d35d62-0307-41d8-96a8-de9b52bf0ec3",
+                    "https://www.gov.uk/government/news/uk-offers-to-build-smart-future-cities-together-with-china-at-china-smart-cities-international-expo"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "In the UK both the China Construction Bank Corporation London Branch and the Bank of China London Branch use CIPS.",
+                "evidence_urls": [
+                    "https://www.cips.com.cn/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "4",
+                "evidence": "Previously, the UK actively sought PRC investment for its emerging technology companies, as well as in other sectors. In 2015, the UK joined the Asian Infrastructure Investment Bank, and sought PRC investment in the manufacturing, nuclear energy and telecommunications sectors. By 2017, the UK received almost 60 percent of PRC foreign direct investment in the EU. Notably, in 2021 Tencent took a stake in Britain\u2019s neobank Monzo. However, more recently the UK government has taken legislative action to limit PRC investment in the UK technology sector, in particular targeting PRC state-backed investment.\n \nDespite this, Tencent recently made a number of investments and acquisitions in the UK, including in a nuclear fusion technology company, a start-up focussed on the genomic study of rare diseases, and an open banking start-up.  \n",
+                "evidence_urls": [
+                    "https://qz.com/2005972/what-the-uk-can-teach-the-world-about-engaging-with-china/",
+                    "https://rhg.com/wp-content/uploads/2020/04/MERICS-Rhodium-Group_COFDI-Update-2020-2.pdf",
+                    "https://www.reuters.com/markets/europe/chinas-tencent-builds-stake-uk-digital-bank-monzo-2021-12-31/",
+                    "https://beijingtobritain.substack.com/p/ukraine-and-taiwan-johnson-on-weibo?s=r"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "3",
+                "evidence": "In 2017, the UK and China launched a memorandum of understanding for science, technology and innovation. Officials agreed this strategy would support \u201cpartnerships between academics, researchers and businesses\u201d and extend upon \u201cthe ongoing China Research and Innovation Partnership Fund which has supported over 460 joint projects\u201d. The priority areas for this project were stated to be \u201cpriority areas for collaboration in a variety of areas, including life sciences, food security, renewable energy and environmental technologies\u201d. ",
+                "evidence_urls": [
+                    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/665199/uk-china-strategy-science-technology-innovation-cooperation.pdf",
+                    "https://www.gov.uk/government/news/joint-uk-china-strategy-for-science-technology-and-innovation-cooperation-sets-new-horizons-for-closer-international-collaborations"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "The top five social media/messaging apps in the UK are: (1) YouTube; (2) Facebook; (3) WhatsApp; (4) Facebook Messenger; (5) Instagram. YouTube is owned by Google, and the remaining apps are owned by Meta. Although no PRC-connected entities are Google shareholders, it is worth noting that Google\u2019s parent company Alphabet continues to invest and launch new products in China. Facebook similarly does not have any PRC-connected shareholders or developers.",
+                "evidence_urls": [
+                    "https://www.statista.com/statistics/284506/united-kingdom-social-network-penetration/  ",
+                    "https://supchina.com/2020/06/18/google-parent-company-alphabet-is-back-in-china-because-it-never-left/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "There is no evidence of meaningful collaboration.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "2",
+                "evidence": "There are a number of these groups active in the UK. The question of their significance is a contentious one. The groups aren\u2019t well known among the wider population though that is beginning to change as media coverage increases.\n\nAs one might expect, they are more visible in Chinese language media. See, for example, this Chinese language interview with a key member of the group in the UK (listed in evidence): \u201c2000\u5e742\u6708\uff0c\u6b27\u6d32\u7b2c\u4e00\u4e2a\u4e2d\u56fd\u7edf\u4e00\u4fc3\u8fdb\u4f1a\u2014\u2014\u5168\u82f1\u534e\u4eba\u4e2d\u56fd\u7edf\u4e00\u4fc3\u8fdb\u4f1a\u5ba3\u544a\u6210\u7acb\uff0c\u5355\u58f0\u4efb\u4f1a\u957f\u201d\n",
+                "evidence_urls": [
+                    "https://archive.ph/eDPbj"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "UWCA literature lists three members for the UK.",
+                "evidence_urls": [
+                    "https://archive.ph/0Aud7"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "While there is one significant visit that took place in 2007 between the UK\u2019s Trades Union Congress (TUC) and the PRC\u2019s All-China Federation of Trade Unions (ACFTU), there is not regular contact, nor could we identify significant contact that has taken place more recently.",
+                "evidence_urls": [
+                    "https://www.tuc.org.uk/research-analysis/reports/two-systems-one-challenge"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "2",
+                "evidence": "There are instances of united front-linked individuals attending Chinese diaspora related events though they don\u2019t appear to be of great significance. As an example, Shan Sheng (His English name is spelt differently in different sources, his Chinese name is \u5355\u58f0: president of China Re-unification Society in the UK, the British wing of the China Council for the Promotion of Peaceful National Reunification) can be seen in attendance here at a local UK Henan culture and business meeting. ",
+                "evidence_urls": [
+                    "https://archive.ph/tCpIX",
+                    "https://archive.ph/eDPbj"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "There does appear to be activity of this nature, albeit inconsistent and not typically recent. \nThere are people-to-people links that do not qualify, for example the All-China Women\u2019s Federation has met with the UK\u2019s National Alliance of Women\u2019s Organisations which represents a number of groups. There are examples where linkages appear likely but aren\u2019t explicit, for example in the establishment of the \u201cUK Chinese Arts Associations\u201d (\u82f1\u56fd\u534e\u4eba\u827a\u672f\u534f\u4f1a). \n",
+                "evidence_urls": [
+                    "https://web.archive.org/web/20220504144359/https://nawo.org.uk/news-archives/delegation-from-all-china-womens-federation-acwf/",
+                    "https://archive.ph/t7bgX"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "This appears possible but we cannot ascertain with certainty that it has happened. In most notable case, British tabloid newspapers reported that the China Taoist Association acted as a front for United Front activity in engagement with British charities FaithInvest and the Alliance of Religions and Conservation. It is not clear if a donation was made directly in this instance. In other groups checked, complete data was not available. ",
+                "evidence_urls": [
+                    "https://www.dailymail.co.uk/news/article-10458523/Chinese-spies-infiltrated-charity-set-Prince-Philip-met-Duke-Windsor-Castle.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "Such products are available but we do not believe they are distributed directly by PRC connected-entities freely or at a reduced priced. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "To date, there remains a spectrum of coverage on China from UK production studios (including critical documentary films as in the example) but this is an area to monitor. A relatively recent meeting between leading Chinese and UK Chinese television producers explored deeper collaboration. ",
+                "evidence_urls": [
+                    "https://www.bbc.com/mediacentre/proginfo/2021/34/chinas-magic-weapon",
+                    "https://www.thecreativeindustries.co.uk/site-content/industries-tv-film-china-uk-tv-collaboration"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "1",
+                "evidence": "PRC funding of British \u201cinfluencers\u201d on media platforms like Youtube is well-known, but there is very little in the way of celebrities. We include George Galloway since he has shared many PRC propaganda pieces and has also appeared as a contestant on the UK's Celebrity Big Brother.",
+                "evidence_urls": [
+                    "https://www.thetimes.co.uk/article/beijing-funds-british-youtubers-to-further-its-propaganda-war-x5gqp5fg0",
+                    "https://twitter.com/georgegalloway/status/1311909100725456897?lang=en-GB"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "There are limited examples of local councils referring to the PRC favourably in their coverage of partnerships and deals with PRC entities and polities but these are infrequent and less common at present. The evidence presented here covers Sheffield\u2019s initially positive but ultimately complicated link with Sichuan. We do not believe this constitutes \"regularly publish[ing] or shar[ing] propaganda narratives from the PRC\".",
+                "evidence_urls": [
+                    "https://www.bbc.co.uk/news/uk-england-south-yorkshire-36846472",
+                    "https://www.bbc.co.uk/news/uk-england-south-yorkshire-48925175#:~:text=Sheffield%20City%20Council%20announced%20the,put%20Sheffield%20on%20the%20map%22"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "Unfavourable views of the PRC in the UK currently stand at historic highs.",
+                "evidence_urls": [
+                    "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "28 local councils across the UK, including half of London councils, have purchased and use Hikvision surveillance technology or Zhejiang Dahua Technology. There is no update yet as to whether these councils have made efforts to remove this equipment from their councils. The Metropolitan Police is among 15 police forces found to use Hikvision and Dahua cameras.  \n\nThe Devon and Cornwall Police, and Dorset Police, together use DJI platforms and drones for emergency response along the British coastlines. These were first deployed in 2015. In 2020, there were reports of the MOD using DJI drones in order to secure training grounds at Salisbury Plains against illegal public access. \n\nChinese components have also reportedly found their way into UK defence platforms and systems. Exception PCB manufactures printed circuit boards that are included in the F-35 and is owned by a Chinese parent company. UK MOD has dismissed this as a critical component, stating that these are \u2018bare plastic boards\u2019 supplied further up the supply chain. The government purchased two second-hand Chinese 737 airliners to convert into E-7 Wedgetail planes for the UK\u2019s AEW&C capacity. The UK Defence Sub-Committee\u2019s report found that seven companies operate within UK Defence that have been acquired by Chinese companies in recent years.",
+                "evidence_urls": [
+                    "https://www.thetimes.co.uk/article/british-using-chinese-cctv-linked-to-repression-of-uighurs-jzlkpjxhw",
+                    "https://www.reuters.com/article/us-britain-tech-china-idUSKBN2AI0QJ",
+                    "https://enterprise-insights.dji.com/user-stories/uk-police-up-their-game-against-harsh-weather-with-matrice-300-rtk",
+                    "https://insidedio.blog.gov.uk/2020/08/03/eye-in-the-sky-drones-at-salisbury-plain/",
+                    "https://committees.parliament.uk/publications/4700/documents/47986/default/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "The UK maintains an arms embargo against China and adheres to dual-use technology export controls for China. However, technology transfer for military end-use has been reported, particularly through academic cooperation or Chinese predatory investment in strategic technologies. The UK parliament found that technology developed by a UK semiconductor technology company that was acquired by a Chinese parent company could have ended up in a Chinese naval railgun. Academic collaboration with UK universities and Chinese counterparts or through Chinese funding has covered areas including metals and alloys, aerospace physics and hypersonic technology, ceramics, peizoelectrics and rare earths, drones and radars, shipbuilding, data science, AI and facial recognition and robotics.",
+                "evidence_urls": [
+                    "https://committees.parliament.uk/publications/4700/documents/47986/default/",
+                    "https://www.civitas.org.uk/content/files/ChinaReport.pdf"
+                ],
+                "note": "\n",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "There is no evidence of co-development in the manner described in the question.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "There is no evidence the PRC has expressed intentions to to establish a base in the UK.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "The PLA has not participated in these activities in the UK.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "PLA military are not deployed in the UK",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "There is no evidence members of the UK military have received professional military education from the PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "There is no evidence that members of the UK military have received peacekeeping training from the PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "We don't believe there are high-ranking retired or current military and/or intelligence officers that meet the conditions set in the question.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "At present, there are no high-ranking retired or current military and/or intelligence officials advocating for more coordination with the PLA.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "Such cooperation does not appear to take place. The PRC Defence Attache to the UK has in 2020 called for the UK and China to start cooperation in these areas.",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/ceuk/eng/HotTopics/jianjunjie/t1801270.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "The UK does not have an extradition treaty with China. The UK signed a Treaty between the UK and PRC on Mutual Legal Assistance in Criminal Matters in Beijing on 2 December 2013. The Treaty entered into force in the UK on 15 January 2016.\n\nPreviously, the UK had a legal mutual assistance treaty with Hong Kong as well, but in 2020 China\u2019s foreign ministry announced in July 2020 that it would suspend the treaty.",
+                "evidence_urls": [
+                    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/496845/TS_10.2016_China_MLA_Cm_9199_WEB_Accessible.pdf",
+                    "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1042580/Treaty_List_2021.pdf",
+                    "https://www.reuters.com/article/uk-hongkong-security-china-mofa-idUKKCN24T0V3"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "As part of the UK-China High Level Security Dialogue in 2016, the UK and China agreed to exchange information in the future on counter-terrorism and terrorism financing, but in the 2017 Second high-level UK-China security Dialogue there was no mention of this having gone ahead.",
+                "evidence_urls": [
+                    "https://www.gov.uk/government/publications/china-uk-high-level-security-dialogue-official-statement/china-uk-high-level-security-dialogue-communique#counter-terrorism",
+                    "https://www.gov.uk/government/news/second-high-level-uk-china-security-dialogue-february-2017"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "Several Chinese triad gangs are active in the UK. An EU report from 2011 found that groups such as 14K Triad, Sun Yee On, Red Sun, United Bamboo and Big Circle are active in Britain, with the greatest concentration of activity in London\u2019s Chinatown, but with operations across larger cities in the UK such as Glasgow, Birmingham, and Cardiff. In 2019, the Times reported that Chinese snakehead gangs were feeding the resurgence of Chinese organised crime in the UK, involved particularly in people smuggling and drug dealing. There have  been further reports of triad activity in 2013, such as a brawl between members of two factions of Chinese triads fought in the streets of Manchester\u2019s Chinatown. An academic article from 2016 examines the UK\u2019s policing of Chinese organised crime in the UK based on research from 2010 and 2014-2015. This research argues that the threat from locally based Chinese triads in the UK closely linked to Hong Kong has diminished and instead mainland Chinese networks which operate across the UK with links to mainland China have become predominant in the UK triad society. Secondly, the research argues that these triads in the UK are also changing the type of criminal activity they are involved in, such as production and export of firearms and new drugs to the UK, to smuggling counterfeit goods. The latest reporting on Chinese triad activity in the UK was from 2019, when the bodies of 30 people were found in the lorry crossing into the UK. ",
+                "evidence_urls": [
+                    "https://www.europarl.europa.eu/RegData/etudes/note/join/2011/453191/IPOL-LIBE_NT%282011%29453191_EN.pdf",
+                    "https://www.thetimes.co.uk/article/lorry-deaths-chinese-snakehead-gangs-fuel-organised-crime-in-uk-k0q97x007",
+                    "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/men-sentenced-over-part-in-manchester-1211408",
+                    "https://researchonline.ljmu.ac.uk/id/eprint/10655/1/%E2%80%98Forget it%2C Jake. It%E2%80%99s Chinatown%271.pdf",
+                    "https://www.researchgate.net/publication/232912412_From_Triads_to_snakeheads_organised_crime_and_illegal_migration_within_Britain's_Chinese_community",
+                    "https://www.mirror.co.uk/news/uk-news/horrifying-rise-mother-snakeheads-behind-20721217"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "3",
+                "evidence": "MI5 has stated that China has conducted industrial espionage and intellectual property theft in the UK. Concern by Parliament, the Government and intelligence agencies suggests the Chinese primarily seek to gain access to UK commercial information and innovation through collaboration with research institutes and academia, as well as through predatory investment strategies by Chinese companies investing in or acquiring UK companies particularly in tier three companies.",
+                "evidence_urls": [
+                    "https://www.reuters.com/world/uk/britains-mi5-spy-chief-says-beware-russian-chinese-agents-2021-07-13/",
+                    "https://www.reuters.com/world/uk/uk-politicians-be-warned-chinese-spying-threat-sun-2022-01-13/",
+                    "https://www.politico.eu/article/uk-seeks-to-build-great-wall-against-chinese-and-russian-espionage/",
+                    "https://www.forces.net/news/experts-warn-mps-about-security-risks-china-defence-supply-chain",
+                    "https://thediplomat.com/2022/01/uk-intelligence-agency-targets-chinas-united-front/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "The UK\u2019s Foreign Office network was breached in 2003 by Chinese-linked hackers. In 2022 another breach of the FCDO occurred but it is not clear whether this was linked to China. In 2020, there was a reported increase in opportunistic but state-led Chinese cyber attacks on UK companies including technical companies focussing on patient data as well as a major social care company. The attacks reportedly aim to steal information that could be of benefit to the Chinese government. In 2022. The Times and Sunday Times were also hit by a cyber attack, thought to be linked to China. This included the emails and documents of some employees and journalists. In 2021, there were also reports that British MPs (in particular those more critical of China and the CCP) had been the target of at least one successful cyber intrusion and have had a MSS cyber attack launched against them. ",
+                "evidence_urls": [
+                    "https://www.bbc.co.uk/news/technology-60309335",
+                    "https://www.wired.co.uk/article/china-coronavirus-hacking-uk-us",
+                    "https://www.thetimes.co.uk/article/the-times-and-sunday-times-hack-linked-to-china-mmlp0cg9h",
+                    "https://www.smh.com.au/world/europe/china-cyberattack-on-british-mps-exposed-20210720-p58bgy.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "We cannot identify proof of this having taken place. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "28 local councils across the UK, including half of London councils, have purchased and use Hikvision surveillance technology or Zhejiang Dahua Technology. There is no update yet as to whether these councils have made efforts to remove this equipment from their councils. The Metropolitan Police is among 15 police forces found to use Hikvision and Dahua cameras.  \n\nThe Devon and Cornwall Police, and Dorset Police, together use DJI platforms and drones for emergency response along the British coastlines. These were first deployed in 2015. In 2020, there were reports of the MOD using DJI drones in order to secure training grounds at Salisbury Plains against illegal public access. \n",
+                "evidence_urls": [
+                    "https://www.thetimes.co.uk/article/british-using-chinese-cctv-linked-to-repression-of-uighurs-jzlkpjxhw",
+                    "https://www.reuters.com/article/us-britain-tech-china-idUSKBN2AI0QJ",
+                    "https://insidedio.blog.gov.uk/2020/08/03/eye-in-the-sky-drones-at-salisbury-plain/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "There is no evidence of this having taken place. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "There is no evidence of this having taken place in the manner the questions sets out. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "We are not aware of any instances where this has taken place recently. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "There is no evidence this has taken place recently. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, United Kingdom had a GDP per capita of US$47,334 and a total population of 67.32 million people, with the Chinese population comprising 393,141 people, or 0.7% of the total population according to the most recent census.",
+    "description-2": "The United Kingdom established full diplomatic relations with the People's Republic of China in 1972. The United Kingdom was ranked 33rd in Reporters Without Borders' 2021 World Press Freedom Index, and Free in Freedom House's 2021 Global Freedom Status, with a score of 93/100. "
+}

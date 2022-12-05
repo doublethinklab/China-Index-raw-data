@@ -1,0 +1,926 @@
+{
+    "name": "Hungary",
+    "partner": "Central European Institute of Asian Studies",
+    "year": "2022",
+    "GDP": "$18,772.7",
+    "population": "9.7M",
+    "original": "105/368",
+    "ranking": "51",
+    "overall": "29%",
+    "effect": "30%",
+    "exposure": "33%",
+    "pressure": "2%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "evidence": "\u65b0\u5bfc\u62a5, \u4e2d\u534e\u65f6\u62a5, \u4e16\u754c\u4e2d\u56fd\n",
+                "evidence_urls": [
+                    "https://www.worldchinesemedia.com/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "D1 TV (B&R TV Networks)\n",
+                "evidence_urls": [
+                    "http://en.videochina.org.cn/2017/0417/4741.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "skip",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "Expert comment: For instance, I know from someone (working for a Chinese company operating in Hungary) that they invited journalist to travel to China, and that was not unique at all. I know that CASS (at least before Covid) organized conferences relatively regularly on China-CEE relations and paid all the costs for those researchers who they invited to attend (I was one of them till a certain point - that is when I formulated criticism/touched upon political topics in my research). I heard stories that politicians travelled to China under similar circumstances, etc. All in all, there is no media link I could add here, but we may add \"personal experience\u201d, \u201crumours\u201d, etc",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "CRI",
+                "evidence_urls": [
+                    "https://hungarian.cri.cn/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "Klasszik R\u00e1di\u00f3\n",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-china-radio-partners-idUSKCN0SR1KS20151102",
+                    "https://www.direkt36.hu/en/kemjatszmakat-hozott-budapestre-orban-kinai-nyitasa/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mynewsdesk.com/gbtimes/pressreleases/gbmm-starts-cooperation-with-hungarian-klasszik-radio-793612"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://apnews.com/article/budapest-hungary-viktor-orban-newspapers-europe-39028d9c44b64e08a6609b60a8bf7a13",
+                    "https://cmds.ceu.edu/article/2019-08-08/report-establishment-kesma-exacerbates-overall-risk-media-pluralism-hungary",
+                    "https://hungarytoday.hu/govt-backs-right-wing-media-firm/",
+                    "https://carnegieendowment.org/2021/10/13/china-s-influence-in-southeastern-central-and-eastern-europe-vulnerabilities-and-resilience-in-four-countries-pub-85415",
+                    "https://carnegieendowment.org/files/202110-Brattberg_et_al_EuropeChina_final.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "Magyar-K\u00ednai Bar\u00e1ti Csoport (tranlsates as Hungary-China Friendship Group) ",
+                "evidence_urls": [
+                    "https://www.parlament.hu/web/guest/barati-tagozatok-2018-2022-41.-ciklus?p_p_id=hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_GFdMcDYLqhEG&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_auth=pQPtFJmf&_hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_GFdMcDYLqhEG_pairAction=%2Finternet%2Fcplsql%2Fogy_ipu.ipu_taglap%3FP_Ckl%3D41%26P_NYELV%3DHU%26P_IPU%3Dk%C3%ADnai%26P_MIND%3D"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bpxv.hu/hirek/61084"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://telex.hu/belfold/2021/06/06/kinai-nagykovetseg-sajtoszovivo-reakcio-a-szombati-fudan-ellenes-tuntetesre"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "Except for a Canadian-Hungarian citizen, Michael Kovrig, but he was kept hostage because of his Canadian nationality and the Huawei case.",
+                "evidence_urls": [
+                    "https://www.bbc.com/news/world-us-canada-58687071"
+                ],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/china/diplomacy/article/3084588/budapest-stands-beijing-opposing-taiwans-membership-world",
+                    "https://carnegieendowment.org/2021/10/13/china-s-influence-in-southeastern-central-and-eastern-europe-vulnerabilities-and-resilience-in-four-countries-pub-85415"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Could not be verified. ",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "The EU remained silent on Chinese meddling in the South China Sea because of Budapest\u2019s veto.",
+                "evidence_urls": [
+                    "https://www.politico.eu/article/viktor-orban-hungary-eu-israeli-palestinian-conflict-veto-dysfunction/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "skip",
+                "evidence": "Although Budapest supported the EU sanctions after human rights concerns as regards Xinjiang, but called them \"pointless\", and hosted China's defence minister for an official visit days after the EU sanctions decision. ",
+                "evidence_urls": [
+                    "https://www.reuters.com/world/asia-pacific/hungary-blocks-eu-statement-criticising-china-over-hong-kong-diplomats-say-2021-04-16/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "Pro-Tibet demonstrations organised in Hungary are not allowed or are dispersed.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "Hungary did not support the EU statement condemning China because the government said it would have been pointless.",
+                "evidence_urls": [
+                    "https://www.rferl.org/a/hungary-criticized-eu-statements-china/31290741.html"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://academytracker.ceias.eu/map/eu/Hungary",
+                    "https://academytracker.ceias.eu/articles/5aMALRe9KxDWaNjuLvd9or",
+                    "https://digitrendi.hu/huawei-osztondijprogram-es-5g-s-kutatasi-projektek-az-obudai-egyetemen/",
+                    "http://old.uni-obuda.hu/articles/2021/09/28/egyuttmukodesben-a-huawei-jel",
+                    "https://sci.u-szeged.hu/sztehirek/2019-majus/egyuttmukodesi?objectParentFolderId=30826"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "There are 5 institutes: Confucius Institute at E\u00f6tv\u00f6s Lor\u00e1nd University, Confucius Institute at University of Szeged, Confucius Institute at University of Miskolc, Confucius Institute for Traditional Chinese Medicine at University of Pecs, Confucius Institute at University of Debrecen",
+                "evidence_urls": [
+                    "https://academytracker.ceias.eu/map/eu/Hungary",
+                    "https://academytracker.ceias.eu/articles/5aMALRe9KxDWaNjuLvd9or",
+                    "https://www.digmandarin.com/confucius-institutes-around-the-world.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "There is one bilingual primary school in Hungary.",
+                "evidence_urls": [
+                    "https://www.globaltimes.cn/content/1151338.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "3",
+                "evidence": "China-CEE Institute (owned by CASS)\n",
+                "evidence_urls": [
+                    "https://china-cee.eu/structure",
+                    "http://www.china.org.cn/world/2017-04/25/content_40686852.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Not sure, since there is no data avalable on this.",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "There is no evidence for this claim",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://u-szeged.hu/sztehirek/2019-november/szte-ajtk-gtk"
+                ],
+                "note": "Not sure, since there is no data avalable on this.",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "skip",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "Not sure, since there is no data avalable on this.",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "There is no evidence for this claim",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "There is no evidence for this claim",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "There are city-company agreements/cooperations in cities where big Chinese MNEs invested (e.g. Miskolc, Komarom, Cegl\u00e9d). ",
+                "evidence_urls": [
+                    "https://lefteast.org/chinese-capital-hungarian-accumulation-regime/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://hu.wikipedia.org/wiki/Magyar_v%C3%A1rosok_testv%C3%A9rv%C3%A1rosainak_list%C3%A1ja#K%C3%ADna"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "skip",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "expert note: I haven\u2019t included evidence/links to media articles because there are no articles on these issues (to my knowledge), however I know about these from private sources, own experience (I am dealing with China for a bit more than 20 years, spent some time in public administration, work as a researchers for many years, etc. - I simply hear/see/experience things).",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "PM Orb\u00e1n visited China with delegations in 2017 and 2018, since 2020 delegations have stopped as a result of the pandemic, therefore it is difficult to assess since.\n\n",
+                "evidence_urls": [
+                    "https://hirado.hu/2017/05/12/szeretik-a-magyar-termekeket-kinaban/",
+                    "https://www.origo.hu/itthon/20181103-orban-viktor-sanghaji-expo.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.politico.eu/article/orban-taunts-germany-by-doubling-down-on-support-for-china/",
+                    "https://www.mfa.gov.cn/ce/cepl//pol/zgyw/t1872804.htm",
+                    "https://www.scmp.com/news/china/article/3173066/viktor-orbans-landslide-re-election-paves-way-even-closer-hungary-china",
+                    "https://hungarytoday.hu/orban-china-hungary-cooperation-increasingly-important/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "Not yet - but with the 5G development it might change. ",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "NA\n",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "Hungarian Chamber of Commerce and Industry (HCCI) is a member of SRCIC.",
+                "evidence_urls": [
+                    "https://srcic.org/silk-road-members/?page=1"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "Fidesz has been subsidising multinational companies - incl. Chinese -  for quite some time, and has been particularly keen to entice electronics and automotive manufacturers, with each job created receiving significant public subsidies.\n\n",
+                "evidence_urls": [
+                    "https://lefteast.org/chinese-capital-hungarian-accumulation-regime/",
+                    "https://www.chinadaily.com.cn/a/202207/04/WS62c23d8aa310fd2b29e6a1c2.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "Huawei and ZTE are important partners of Hungary-based telecom companies, and the Hungarian government announced that Huawei will develop 5G network in Hungary.",
+                "evidence_urls": [
+                    "https://chinaobservers.eu/hungary-china-relations-is-it-time-for-a-change/",
+                    "https://www.reuters.com/article/us-hungary-telecoms-huawei-idUSKBN1XF12U",
+                    "https://www.businesswire.com/news/home/20110504007597/en/ZTE-Selected-as-Telenor%E2%80%99s-New-Main-Value-Added-Service-VAS-Supplier-in-the-Nordic-Region"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.businesswire.com/news/home/20110504007597/en/ZTE-Selected-as-Telenor%E2%80%99s-New-Main-Value-Added-Service-VAS-Supplier-in-the-Nordic-Region"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "Dahua provided surveillance equipment to Hungarian police.",
+                "evidence_urls": [
+                    "https://dailynewshungary.com/questionable-face-recognition-cameras-to-be-installed-in-hungary/",
+                    "https://www.sourcesecurity.com/news/dahua-technology-headquarters-visited-delegation-hungarian-co-4261-ga.1595239790.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://dailynewshungary.com/questionable-face-recognition-cameras-to-be-installed-in-hungary/"
+                ],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bbj.hu/business/industry/deals/itm-huawei-sign-mou-on-long-term-cooperation"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "\u4e2d\u56fd\u94f6\u884c\u5308\u7259\u5229\u5206\u884c",
+                "evidence_urls": [
+                    "http://www.cips.com.cn/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "However, TikTok is popular among youngsters. ",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "1",
+                "evidence": "\"K\u00edna B\u00e9k\u00e9s Egyes\u00edt\u00e9s\u00e9t El\u0151mozd\u00edt\u00f3 Magyarorsz\u00e1gi Egyes\u00fclet\", \"Magyarorsz\u00e1gi K\u00ednaiak B\u00e9k\u00e9t \u00e9s Egys\u00e9get El\u0151mozd\u00edt\u00f3 T\u00e1rsas\u00e1ga\"\n",
+                "evidence_urls": [
+                    "https://kisebbsegkutato.tk.hu/adatbazis/migr",
+                    "http://www.helyicivil.hu/r/magyarorszagi-kinaiak-a-szebb-magyar-kinai-jovoert-kereskedelmi-egyesulet-budapest/budapest-xiii-ker-egyesulet-alapitvany",
+                    "http://www.helyicivil.hu/r/magyarorszagi-kinaiak-beket-es-egyseget-elomozdito-tarsasaga-budapest/budapest-xiii-ker-egyesulet-alapitvany"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2007/09/kinai-magyar-szakszervezeti-egyuttmukodes"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Not directly, but they certainly borrow elements.",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "But very close: This indicator \"Ugyanolyan rossz v\u00e9lem\u00e9nnyel vannak a magyarok Ukrajn\u00e1r\u00f3l, mint Oroszorsz\u00e1gr\u00f3l\n\" shows that 51% of Hungarians have positive view to China(see below URL1). However, other indicator \"Ki szereti K\u00edn\u00e1t?\" shows \nthat around 25% of Hungarians have positive view to China(see below URL2).",
+                "evidence_urls": [
+                    "https://444.hu/2022/05/09/ugyanolyan-rossz-velemennyel-vannak-a-magyarok-ukrajnarol-mint-oroszorszagrol",
+                    "https://merce.hu/2021/01/20/ki-szereti-kinat"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence to suggest otherwise. ",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "There is no extradition treaty between China and Hungary but mutual legal assistance in civil and commercial matters exist since 1997.",
+                "evidence_urls": [
+                    "http://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzflty/fltymsssfxzty/201812/t20181225_151362.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence exists to support otherwise",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence that suggests otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence that suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence that suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence that suggest otherwise. ",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "According to ChinaTechMap, Hungarian police purchased surveillance equipment for law enforcement.",
+                "evidence_urls": [
+                    "https://www.sourcesecurity.com/news/dahua-technology-headquarters-visited-delegation-hungarian-co-4261-ga.1595239790.html",
+                    "https://dailynewshungary.com/questionable-face-recognition-cameras-to-be-installed-in-hungary/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence that suggests otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No arrests have been made, but demonstrations \"against\" China are dispersed / not allowed.",
+                "evidence_urls": [],
+                "note": "There is no evidence that suggests otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence that suggests otherwise. ",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "NA",
+                "evidence_urls": [],
+                "note": "There is no evidence that suggests otherwise. ",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Hungary had a GDP per capita of US$18,773 and a total population of 9.70 million people, with the Chinese population comprising 19,655 people, or 0.2% of the total population. ",
+    "description-2": "Hungary established diplomatic relations with the People's Republic of China in 1949. Hungary was ranked 85th in Reporters Without Borders' 2022 World Press Freedom Index, and Partly Free in Freedom House's 2022 Global Freedom Status, with a score of 69/100."
+}

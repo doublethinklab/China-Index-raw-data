@@ -1,0 +1,1099 @@
+{
+    "name": "Italy",
+    "partner": "Expert Forum",
+    "year": "2022",
+    "GDP": "$35,551.3",
+    "population": "59M",
+    "original": "139/396",
+    "ranking": "33",
+    "overall": "35%",
+    "effect": "20%",
+    "exposure": "41%",
+    "pressure": "38%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2143.pdf",
+                    "https://news.cgtn.com/news/3d3d414f3245544e33457a6333566d54/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2143.pdf",
+                    "https://www.china-files.com/go-east-speciale-il-2021-delle-relazioni-italia-cina/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2143.pdf",
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf",
+                    "https://italian.cri.cn/1781/2018/06/26/481s322813.htm"
+                ],
+                "note": "Few references to who paid for the trips",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tfipost.com/2020/03/china-is-training-journalists-from-india-and-other-countries-to-peddle-chinese-propaganda/",
+                    "https://www.ifj.org/fileadmin/user_upload/210512_IFJ_The_Covid_Story_Report_-_FINAL.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ned.org/wp-content/uploads/2021/02/Chinas-Global-Media-Footprint-Democratic-Responses-to-Expanding-Authoritarian-Influence-Cook-Feb-2021.pdf",
+                    "https://www.iai.it/sites/default/files/iaip2143.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ilmessaggero.it/economia/flash_news/class_editori_crea_joint_venture_la_cinese_hmi-704958.html",
+                    "https://www.iai.it/sites/default/files/iaip2143.pdf",
+                    "https://baijiahao.baidu.com/s?id=1603954235127688447&wfr=spider&for=pc",
+                    "http://dw.chinanews.com/chinanews/hmtopic.jsp?cname=ydlxhsb",
+                    "http://www.ouhuatimes.cn/html/muying/"
+                ],
+                "note": "There are two small local mediaoutlets \u610f\u5927\u5229\u65b0\u534e\u65f6\u62a5 (see URL4 above) & \u6b27\u534e\u8054\u5408\u65f6\u62a5 (see URL5 above) written in Chines targeting Chinese Diaspora community (we suppose) in Italy. \n",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.visiontimes.com/2021/06/12/china-infiltrated-italys-media-outlets-to-influence-public-opinion.html",
+                    "https://www.ifj.org/fileadmin/user_upload/210512_IFJ_The_Covid_Story_Report_-_FINAL.pdf",
+                    "https://www.iai.it/sites/default/files/iaip2143.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ifj.org/fileadmin/user_upload/210512_IFJ_The_Covid_Story_Report_-_FINAL.pdf",
+                    "https://www.iai.it/sites/default/files/iaip2143.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bitterwinter.org/choking-on-spaghetti-what-went-wrong-in-xis-italian-visit/",
+                    "https://www.ilfoglio.it/politica/2019/03/23/news/la-solidarieta-della-politica-sulle-minacce-cinesi-alla-giornalista-del-foglio-il-silenzio-di-lega-e-m5s-245020/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2143.pdf",
+                    "https://www.ilfoglio.it/politica/2019/03/23/news/la-solidarieta-della-politica-sulle-minacce-cinesi-alla-giornalista-del-foglio-il-silenzio-di-lega-e-m5s-245020/",
+                    "https://baijiahao.baidu.com/s?id=1703991493660074818&wfr=spider&for=pc"
+                ],
+                "note": "In 2021 some Italian media including: Classeditori\u3001\u300c\u5e0c\u8096\u5185\u4f20\u5a92\u96c6\u56e2\u300d\u3001\u300c\u65e5\u5831\u300d\uff08might be dailyonline.it\uff09\u3001Money.it\u3001\u300c\"\u610f\u5927\u5229\u65b0\u95fb\u5728\u7ebf\" \u6bcd\u96c6\u56e2\u4e9a\u7279\u5170\u5c3c\u65af\u96c6\u56e2\u300dsent regards to the Chinese Communist Party for its 100th anniversary. This might be signal that some self-censorship takes place in these media (see URL3 above) . ",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://formiche.net/2021/08/grillo-uiguri-network-claudio-mutti/",
+                    "https://www.lantidiplomatico.it/dettnews-la_fake_news_del_genocidio_degli_uiguri_smascherata_dalla_matematica/8_39326/",
+                    "https://www.radioradicale.it/scheda/639021/la-repressione-cinese-degli-uiguri-e-il-negazionismo-nel-blog-di-beppe-grillo?qt-blocco_interventi=1"
+                ],
+                "note": "Beppe Grillo used to be extremely well-known, so the negation of Uygur genocide was significant, but he has since nuanced his position",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.camera.it/application/xmanager/projects/leg18/attachments/upload_file_europaestero/upload_files/000/000/466/PRESIDENZE_SEZ_BIL_AMICIZIA_15_03_2022.pdf",
+                    "https://www.geopolitica.info/litalia-entra-nellalleanza-inter-parlamentare-sulla-cina/"
+                ],
+                "note": "On the other hand, Italy also joined the Inter-Parliamentary Alliance on China (see URL2 above).",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.liberoquotidiano.it/news/commenti-e-opinioni/27967668/enrico-letta-affari-cina-non-piacciono-usa-a-quale-poltrona-dice-addio-segretario-pd.html",
+                    "https://web.archive.org/web/20200310091132/https://henryjacksonsociety.org/wp-content/uploads/2019/12/HJS-Sharp-Power-Report-FINAL.pdf",
+                    "https://it.notizie.yahoo.com/m5s-blitz-grillo-ad-ambasciata-182617058.html"
+                ],
+                "note": "While many parties meet with Chinese officials, few seem really swayed",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "1",
+                "evidence": "Apparently three trainings hosted for civil servants took place, most recent in 2020. Chacking Italian sources they look like examples of public administration practices used in China which are  presented and discussed in the Italian school\n1. 2020/11, \u4e2d\u592e\u515a\u6821\uff08\u56fd\u5bb6\u884c\u653f\u5b66\u9662\uff09\u300c\u4e2d\u592e\u515a\u6821\uff08\u56fd\u5bb6\u884c\u653f\u5b66\u9662\uff09\u4e0e\u610f\u5927\u5229\u963f\u65af\u5e73\u7814\u7a76\u6240\u5408\u4f5c\u4e3e\u529e\u201c\u540e\u75ab\u60c5\u65f6\u4ee3\u7684\u4e16\u754c\u201d\u4e2d\u610f\u5b66\u672f\u7814\u8ba8\u4f1a\u300d(see URL1 below)\n2. 2014/06, \u965d\u897f\u884c\u653f\u5b66\u9662\u5b66\u62a5\u300c\u610f\u5927\u5229\u9ad8\u4e2d\u7ea7\u5b98\u5458\u7814\u4fee\u73ed\u4e00\u884c\u6765\u6211\u9662\u57f9\u8bad\u5b66\u4e60\u300d(see URL2 below)\n3. 2015/01, \u4e2d\u56fd\u5171\u4ea7\u515a\u65b0\u95fb\u7f51\u300c\u526f\u6821\u957f\u8d75\u957f\u8302\u4f1a\u89c1\u610f\u5927\u5229\u56fd\u5bb6\u884c\u653f\u5b66\u9662\u9662\u957f\u7279\u91cc\u4e9a\u4e00\u884c\u300d(see URL3 below)",
+                "evidence_urls": [
+                    "https://www.ccps.gov.cn/bmpd/gjhzb/xwdt/202011/t20201117_144899.shtml",
+                    "http://www.yidu.edu.cn/100000/detail/article/57749ef5ede4fe1a838f4ca5.html?org=100000&uorg=999999",
+                    "http://cpc.people.com.cn/n/2015/0108/c87228-26350853.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.voanews.com/a/china-attempts-to-block-cultural-events-in-germany-italy/6290403.html",
+                    "https://www.voanews.com/a/italy-detention-of-exiled-uighur-activist-a-wake-up-call-as-china-flexes-muscles-rights-activists-say/3970690.html",
+                    "https://www.startmag.it/mondo/cina-italia-affari-viadellaseta/"
+                ],
+                "note": "The pressure, if it exists, is primarily informal",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=A3oYJDSeBv0&ab_channel=TubeRadio"
+                ],
+                "note": "Score should be 1 but it does not appear in menu. One incident is mentioned in the source, but it does not appear serious",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://apps.who.int/gb/ebwha/pdf_files/WHA73-REC3/A73_REC3-en.pdf#page=1",
+                    "https://www.opiniojuris.it/taiwan-oms/",
+                    "https://www.cnsnews.com/article/international/patrick-goodenough/who-says-13-countries-now-back-proposal-taiwans"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.visiontimes.com/2021/11/23/interpol-committee-china.html",
+                    "https://yiqinfu.github.io/posts/united-nations-general-assembly/"
+                ],
+                "note": "Most likely not, but it is extremely difficult to prove something didn't happen",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.rappler.com/nation/114816-italy-support-ph-south-china-sea-row/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bitterwinter.org/italian-parliament-condemns-ccps-crimes-against-uyghurs/",
+                    "https://www.rfi.fr/en/international/20210324-italy-follows-france-germany-in-sanctioning-china-over-treatment-of-uyghurs"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tibet.net/italian-parliamentarians-and-civil-societies-discuss-human-rights-abuse-and-environmental-degradation-by-china-in-tibet-and-xinjiang/",
+                    "https://new-york-un.diplo.de/un-en/news-corner/201006-heusgen-china/2402648"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://new-york-un.diplo.de/un-en/news-corner/201006-heusgen-china/2402648",
+                    "https://www.reuters.com/article/us-china-italy-idUSKBN25L1LR"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2144.pdf",
+                    "https://www.rainews.it/archivio-rainews/articoli/Universita-e-start-up-per-Huawei-l-Italia-continua-ad-avere-un-ruolo-di-primo-piano-89a44804-8aa7-4473-8622-020f113b5aa0.html",
+                    "http://chinaroom.polito.it/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2144.pdf",
+                    "https://www.clingendael.org/sites/default/files/2021-04/Report_ETNC_Chinas_Soft_Power_in_Europe_Falling_on_Hard_Times_2021.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.clingendael.org/sites/default/files/2021-04/Report_ETNC_Chinas_Soft_Power_in_Europe_Falling_on_Hard_Times_2021.pdf",
+                    "https://www.istitutoconfucio.unimi.it/aule-confucio/poli-didattici/",
+                    "https://www.italiaoggi.it/news/nei-licei-italiani-scoppia-la-moda-della-lingua-cinese-2258054"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.ucmsr.com/meminfo/71"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://decode39.com/2337/china-ccp-italy-influence/",
+                    "https://www.fondazioneitaliacina.it/it/la-fondazione/chi-siamo/network/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.centroculturalecinese.com/it/grande-successo-del-convegno-promozionale-di-reclutamento-studenti-italiani-per-luniversita-di-zhengzhou-le-iscrizioni-di-studenti-internazionali-alluniversita-di-henan-aprono-un-nu/",
+                    "https://www.esteri.it/it/sala_stampa/archivionotizie/approfondimenti/2014/02/20140211_cina/",
+                    "https://www.parmadaily.it/studentessa-delluniversita-dieci-italiani-training-huawei-cina/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf",
+                    "https://www.rainews.it/archivio-rainews/articoli/Universita-e-start-up-per-Huawei-l-Italia-continua-ad-avere-un-ruolo-di-primo-piano-89a44804-8aa7-4473-8622-020f113b5aa0.html?refresh_ce"
+                ],
+                "note": "Mostly indirect information",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.asianews.it/notizie-it/Politecnico-di-Milano,-docente-cinese-a-studente-di-Taipei:-Taiwan-%C3%A8-Cina-55458.html"
+                ],
+                "note": "There have been accusations, but they are mostly about self-censorship and have largely been disproven",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf"
+                ],
+                "note": "If it exists, it has not been noted in the plentiful documentation about PRC's influence in Italy",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://formiche.net/2020/12/istituto-confucio-giunipero-unica/"
+                ],
+                "note": "The connection is indirect: Italian academics who have autonomy over the design of curricula are hired en-masse by Confucius Institutes (~16 in Italy) and it is possible that PRC exerts influence over them in an informal way. There has been no official contestation of the sort in the public sphere, but when the majority of China scholars in the country are also somehow paid by the PRC, some invisible influence is possible",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2152.pdf",
+                    "https://www.corriere.it/la-lettura/19_dicembre_19/istituti-confucio-cina-polemica-replica-tripodi-venezia-la-lettura-9591dd64-2265-11ea-8e32-6247f341a5cc.shtml"
+                ],
+                "note": "Plenty of accusations, nothing really confirmed, though it is hard to prove. Rather than actively militate against such discussions, PRC-connected institutions seem to try to coopt such discussions to better control the narrative",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://web.archive.org/web/20200310091132/https://henryjacksonsociety.org/wp-content/uploads/2019/12/HJS-Sharp-Power-Report-FINAL.pdf",
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://cinainitalia.com/2020/08/20/gemellaggio-tra-citta-cinese-e-siena/",
+                    "http://www.comune.torino.it/relint/gemellaggieaccordi/",
+                    "https://cinainitalia.com/2020/06/25/cina-italia-guiyang-e-vicenza-saranno-gemellate/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.brookings.edu/wp-content/uploads/2020/05/FP_20200519_playing_with_fire.pdf",
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.liberoquotidiano.it/news/politica/29518428/cina-parlamentari-ordini-dragone-dossier-nomi.html",
+                    "https://www.affaritaliani.it/politica/renzi-i-soldi-cinesi-dalla-matteo-pr-quei-bonifici-ripetitivi-da-8-33-779028.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf"
+                ],
+                "note": "There seems to be no evidence of anything of the sort. If it would happen, it would likely be restricted to areas with large Chinese immigrant populations and not be highly visible in the media",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://local.hyperbros.com/petrocelli-filocinese-in-cina-un-miliardo-di-persone-accetta-il-modello-socialista-ma-mi-faccia-il-piacere/",
+                    "https://www.huffingtonpost.it/politica/2022/04/27/news/grillo_conferma_sua_passione_per_cina_sul_blog_elogio_di_xi_jinping-9272823/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.liberoquotidiano.it/news/commenti-e-opinioni/27967668/enrico-letta-affari-cina-non-piacciono-usa-a-quale-poltrona-dice-addio-segretario-pd.html",
+                    "https://web.archive.org/web/20200310091132/https://henryjacksonsociety.org/wp-content/uploads/2019/12/HJS-Sharp-Power-Report-FINAL.pdfhttps://web.archive.org/web/20200310091132/https://henryjacksonsociety.org/wp-content/uploads/2019/12/HJS-Sharp-Power-Report-FINAL.pdf"
+                ],
+                "note": "Mostly former politicians, but also some current leaders",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2152.pdf",
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://oec.world/en/profile/country/ita/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.research.unicredit.eu/DocsKey/fxfistrategy_docs_2019_170284.ashx?EXT=pdf&KEY=KZGTuQCn4lsvclJnUgseVEGHysWJl2NsEwG0xblWxFK9BVQAB4eryA==&T=1"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mef.gov.it/focus/I-rapporti-tra-Italia-e-Cina/",
+                    "https://oec.world/en/visualize/tree_map/hs92/export/ita/chn/show/2020/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://splash247.com/trieste-silk-road-return-or-how-china-called-italys-bluff/",
+                    "https://www.iai.it/sites/default/files/iaip2117.pdf",
+                    "https://thepeoplesmap.net/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ft.com/content/29f4814c-467e-11e9-a965-23d669740bfb",
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=Y64BgwEIxiw&ab_channel=IAIChannel",
+                    "https://www.iai.it/sites/default/files/iaip2140.pdf",
+                    "https://www.iai.it/sites/default/files/iaip2118.pdf"
+                ],
+                "note": "The only things that may qualify are acquisitions: Pirelli bought by ChemChina, PRC SOE. In addition Ansaldo Energia was bought by Shanghai Electric, a public PRC company",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2152.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2152.pdf",
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf"
+                ],
+                "note": "Some Italian brands have a corporate presence in China, but never opened stores there, and there was no boycott.",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china_en"
+                ],
+                "note": "Not possible as a EU member country",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://investmentpolicy.unctad.org/investment-policy-monitor/measures/3445/italy-establishes-a-new-special-economic-zone-",
+                    "https://www.agenziacoesione.gov.it/zes-zone-economiche-speciali/"
+                ],
+                "note": "Italy has established special economic zones, but there is absolutely no sign it has done so on the behest of PRC investment, nor are there signs that these zones have received significant PRC investment",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.china-files.com/go-east-speciale-il-2021-delle-relazioni-italia-cina/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://it.cmlink.com/it/homepage",
+                    "https://www.tech4d.it/2021/03/il-drago-di-china-mobile-e-pronto-per-litalia-cmlink-in-arrivo-entro-il-2021/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2152.pdf"
+                ],
+                "note": "Agreements were repeatedly blocked by the government, though there is a theoretical possibility that Huawei or ZTE may at some point sign an agreement with one of the providers",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bloomberg.com/news/articles/2019-04-30/vodafone-found-hidden-backdoors-in-huawei-equipment",
+                    "https://www.ansa.it/innovazione_5g/notizie/tecnologia/2021/10/06/internet-provideroperatori-nazionali-sono-asset-strategico_79b84c2c-1f05-4cef-bbac-bb390b63c60e.html"
+                ],
+                "note": "This has been mitigated by the fact that the government is pressuring telecom companies to revamp their service provision",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2152.pdf",
+                    "https://chinatechmap.aspi.org.au/#/map/"
+                ],
+                "note": "The use of the Golden Power tool, used by the Draghi government also retroactively, has severely limited any clear provision of technology by PRC connected entities to the government",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "Huawei did provide such services for some subnational governments, but it is unclear if these contracts were kept after the Draghi government ceased cooperation with Huawei at the central level. The fall of the Draghi government further increases uncertainty here.",
+                "evidence_urls": [
+                    "http://extranet.greens-efa.eu/public/media/file/1/7297",
+                    "https://www.tomshw.it/altro/huawei-e-acea-insieme-per-un-colosseo-piu-sicuro-grazie-alle-telecamere-smart/"
+                ],
+                "note": "While biometric recognition processes are used (in a relatively restrictive way), none of the companies providing the service seem to be connected with the PRC",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ipresslive.it/comunicates/26432/smart-city-for-intelligent-life-accordo-tra-huawei-e-lassociazione-italia-startup",
+                    "https://e.huawei.com/it/material/local/fec7bd5bf6c5431aba9137c986318197",
+                    "https://www.snewsonline.com/smart-city-nel-pnrr-10-miliardi-28-comuni-italiani-ha-almeno-un-progetto/"
+                ],
+                "note": "It seems impossible to identify precisely which provider offered what to a certain city, but one of the largest players in the field is Politecnico di Milano, which has a long-standing partnership with Huawei. The mitigating factor here is the government's strong impetus to control for the provision of technology through PRC-connected entities",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://internationalmoneytransfers.org/italy-swift-codes/",
+                    "https://www.cips.com.cn/en/participants/participants_announcement/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.wired.it/economia/start-up/2019/05/28/shopping-tax-free-stamp-cina/",
+                    "https://www.wired.it/economia/start-up/2021/09/17/startup-cina-finanziamenti-europa-mappa/"
+                ],
+                "note": "While there has been some investment, EU and Italian national legislation is flexible enough that it can likely block any type of PRC investment that would be considered threatening to the security of the country",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.corriere.it/economia/consumi/22_febbraio_28/huawei-pay-italia-accordo-intesa-bancomat-pagamenti-contactless-b6cc876a-987c-11ec-899b-30de360aaa79.shtml",
+                    "https://www.ilsole24ore.com/radiocor/nRC_23.09.2019_18.26_5463318",
+                    "http://www.lucidamente.com/49203-perche-laccordo-huawei-unibo-sullia-desta-molte-perplessita/"
+                ],
+                "note": "Huawei is a significant player in the Italian tech sector and is embedded in many initiatives, but the government has the capacity to stop them with relatively little effort",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "TikTok is in the top5 most used apps in Italy.",
+                "evidence_urls": [
+                    "https://www.franzrusso.it/condividere-comunicare/mobile-2022-social-italia/",
+                    "https://www.insidemarketing.it/italiani-e-social-media-2021-blogmeter-dati/",
+                    "https://datareportal.com/reports/digital-2021-italy"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ec.europa.eu/defence-industry-space/eu-space-policy/galileo/galileo-system_en"
+                ],
+                "note": "No sign of anything of the like, plus EU countries would be interested to use Galileo rather than Beidou if they would ever choose to change from GPS",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://web.archive.org/web/20200310091132/https://henryjacksonsociety.org/wp-content/uploads/2019/12/HJS-Sharp-Power-Report-FINAL.pdf",
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf",
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/"
+                ],
+                "note": "There is a China Council for the Promotion of Peaceful National Reunification which is extremely active in Italy and has even coordinated mask donations during the COVID19 crisis",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "A local organization \"\u610f\u5927\u5229\u534e\u4fa8\u534e\u4eba\u8d38\u6613\u603b\u4f1a\" belongs to \u4e16\u754c\u83ef\u4eba\u806f\u5408\u7e3d\u6703WUCA. And there is confirmation that WUCA & UWCA (mentioned in the indicator) are part of the same group\n",
+                "evidence_urls": [
+                    "http://www.wuca.net/plus/view.php?aid=374"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www2.cgil.it/cina-acftu-e-cgil-continuano-il-confronto/",
+                    "https://www2.cgil.it/dopo-20-anni-incontro-tra-la-cgil-e-il-sindacato-cinese-acftu/"
+                ],
+                "note": "The most left-wing major trade union in Italy seems to have had some connections with the ACFTU, but they haven't written anything since 2014. Seeing the type of public pressure normally put by Italian society on trade unions, it is unlikely that such a cooperation would have continued",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf"
+                ],
+                "note": "A UFWD affiliate, Soong Ching Ling Foundation, is extremely active in Italy and present in many ways in both Italian and Chinese immigrant settings",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf"
+                ],
+                "note": "Very difficult to find information online. Exchanges might exist, but they are definitely not close, nor do they seem publicized",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "Catholic network of support during pandemics (see the URL below)\n",
+                "evidence_urls": [
+                    "https://www.gospeltimes.cn/article/index/id/51471?btwaf=97477338"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No sign of anything like this in the Italian language. It would likely be difficult to do in a rich country, such as Italy",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://frontierenews.it/2020/11/la-dura-vita-di-chi-fa-lasiatico-nei-film-italiani/"
+                ],
+                "note": "From my experience, not at all. The PRC is generally portrayed as self-interested, exploitative and authoritarian",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Nobody has heard of anything of the sort, nor can we find anything in Italian or English",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Apart from individual MPs or political leaders, such as Petrocelli, Rosato or Grillo, there is nothing of the sort. Even they speak squarely as individuals, not as representatives of the government; see section on Politics.",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ilfoglio.it/esteri/2020/10/07/news/che-cosa-pensiamo-davvero-della-cina--1142371/",
+                    "https://www.termometropolitico.it/1266230_sondaggi-politici-sono-gli-italiani-i-piu-anti-cinesi-in-europa.html",
+                    "https://formiche.net/2021/05/draghi-e-dragoni-la-cina-e-meno-vicina-il-report-dagli-stati-uniti/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.esercito.difesa.it/equipaggiamenti/Armamento-leggero-e-supporto-di-fuoco/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ilpost.it/2019/06/09/armi-italia-esportazioni/",
+                    "https://documenti.camera.it/_dati/leg18/lavori/documentiparlamentari/IndiceETesti/067/002v01/INTERO.pdf"
+                ],
+                "note": "Italy is among the largest arms exporters in the world, so it's almost inevitable that they export arms to the PRCas well, but the quota is extremely low",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://first.art-er.it/_aster_/viewNews/46950/italia-cina-online-il-piano-d-azione-per-il-2025"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nato.int/cps/en/natohq/nato_countries.htm"
+                ],
+                "note": "Hard to privide positive evidence for non-actions",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nato.int/cps/en/natohq/nato_countries.htm"
+                ],
+                "note": "Italy received some masks as donations from PRC but there is no PLA affiliation",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nato.int/cps/en/natohq/nato_countries.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nato.int/cps/en/natohq/nato_countries.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nato.int/cps/en/natohq/nato_countries.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nato.int/cps/en/natohq/nato_countries.htm"
+                ],
+                "note": "No information of anything of the sort and extremely unlikely in general. The Italian Army has a reputation for being extremely pro-American",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nato.int/cps/en/natohq/nato_countries.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://italian.irib.ir/notizie/mondo/item/192881-italia-e-cina-aumentano-le-cooperazioni-militari"
+                ],
+                "note": "There is a piece of news on the internet about this in the past, but it is not corroborated with anything on Italy Defense Ministry website. Moreover it seems impossible that such cooperation exists today",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.giustizia.it/giustizia/it/mg_1_3.page?tabait=y&tab=a&aia=AIA1199503&detail=y"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.interno.gov.it/it/notizie/italia-cina-piu-collaborazione-nel-contrasto-criminalita-transnazionale"
+                ],
+                "note": "While there is no trace of any cooperation on combatting terrorism, there is an agreement against transnational crime",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ilfoglio.it/cronache/2019/06/12/news/cosi-le-organizzazioni-criminali-cinesi-in-italia-hanno-messo-le-mani-su-trasporti-e-rifiuti-259923/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.politico.eu/article/europe-raises-red-flags-on-chinas-cyber-espionage/",
+                    "https://www.startmag.it/mondo/cina-russia-huawei-5g-avio-aero-e-spionaggio-industriale-italia-nuovo-crocevia-strategico/",
+                    "https://ec.europa.eu/docsroom/documents/34841/attachments/1/translations/en/renditions/native"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iai.it/sites/default/files/iaip2152.pdf",
+                    "https://sinopsis.cz/wp-content/uploads/2021/11/it0.pdf"
+                ],
+                "note": "No sign that state espionate or cyber-attacks from the part of the PRC are seen as a risk. The only potential such discussion could be had surrounding the Huawei 5G discussion, which has been closed",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.panorama.it/news/la-storia-del-capo-della-mafia-cinese-italia-e-europa",
+                    "https://www.ilprimatonazionale.it/approfondimenti/avanzata-mafia-cinese-italia-111023/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ilsole24ore.com/art/5g-gara-un-miliardo-le-forze-polizia-ammesse-anche-cinesi-huawei-e-zte-AEgh22L",
+                    "https://formiche.net/2019/04/roma-ignora-gli-alert-sul-made-china-telecamere-huawei-due-quartieri/",
+                    "https://www.milanofinanza.it/news/tecnologie-huawei-per-l-ecosistema-alert-alla-polizia-su-attivita-illegali-202111231314046829"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.poliziadistato.it/articolo/15435b163b244ead0568454355",
+                    "https://www.poliziadistato.it/articolo/225dc132752fd60626399822"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-china-italy-xinjiang-idUSKBN1AD16Z"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No information about this was found, so it is unlikely to have happened, though the Italian media seems interested in the subject.",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ilfoglio.it/esteri/2022/01/11/news/interpol-ed-estradizioni-cosi-la-cina-da-la-caccia-ai-dissidenti-3530579/"
+                ],
+                "note": "No information about this was found, although the Italian media seems interested in the subject",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Italy had a GDP per capita of US$35,551 and a total population of 59.1 million people, with the Chinese population comprising 330,500 people (not including Chinese who are naturalized as citizens of host countries, or children born locally of Chinese descent).",
+    "description-2": "Italy established diplomatic relations with the People's Republic of China in 1970. Italy was ranked 58th in Reporters Without Borders' 2021 World Press Freedom Index, and free in Freedom House's 2021 Global Freedom Status, with a score of 90/100.  "
+}

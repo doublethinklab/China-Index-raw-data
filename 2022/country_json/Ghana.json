@@ -1,0 +1,1031 @@
+{
+    "name": "Ghana",
+    "partner": "Emeka Umejei",
+    "year": "2022",
+    "GDP": "$2,445.3",
+    "population": "31.08M",
+    "original": "168/396",
+    "ranking": "20",
+    "overall": "42%",
+    "effect": "31%",
+    "exposure": "53%",
+    "pressure": "19%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "3",
+                "evidence": "Though imax claims to be a fully Ghanaian owned business, it has an affiliation with StarTimes which is a Chinese-owned media company. ",
+                "evidence_urls": [
+                    "https://medium.com/@eolander/chinas-startimes-is-now-one-of-africa-s-most-important-media-companies-103843ebc376"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "Even though Ghanaian journalists have attended media exchanges programme in China, there is no evidence they are members of the Belt and Road news alliance. There is also no Ghanaian media organisation on the Belt and Road News Network or Belt and Road News Alliance. ",
+                "evidence_urls": [
+                    "http://en.brnn.com/n3/2019/0425/c415308-9571930.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "4",
+                "evidence": "I found that local journalists were in china mostly for training and not media tours. The reference however mentions that the major activities of the training included lecturers, workshops, study tour and excursions",
+                "evidence_urls": [
+                    "http://www.faapa.info/en/2018/09/24/ghana-and-china-media-professionals-urged-to-collaborate/",
+                    "https://ghanaguardian.com/ghanaian-journalists-sharpen-their-skills-in-china"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "4",
+                "evidence": "Several Ghanaian journalists have received training organised by PRC-connected entities such as Huawei, the Research and Training Institute (RTI) of National Radio and TV Administration (NRTA), etc. ",
+                "evidence_urls": [
+                    "https://dailyguidenetwork.com/journalists-undergo-training-in-china/",
+                    "https://citinewsroom.com/2021/05/huawei-day-with-media-chinese-tech-giant-shares-plans-with-ghanaian-journalists/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "media houses in Ghana that use a local Ghanaian language are not known to have any affiliations with Chinese state media. However, StarTimes, which is not a state-media but is closely linked to the Chinese Communist party (CCP) has just begun a new programme that is broadcast in local Twi language in Ghana. ",
+                "evidence_urls": [
+                    "http://www.faapa.info/blog/startimes-to-start-showing-journey-to-the-west-in-twi/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "The interview revealed that several print media houses (Finder, Ghanaian Times, Business Times, Daily Graphic) have a very close partnership with China, its not known if they are owned by China in any way",
+                "evidence_urls": [
+                    "https://freedomhouse.org/country/ghana/beijings-global-media-influence/2022"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "Interview with local Ghana media organisations such as The Finder newspaper, Ghanaian Times, Business Times, and Daily Graphic revealed that they enjoy a working relationship with the Local Chinese Embassy and publish their content from time to time. \n",
+                "evidence_urls": [
+                    "https://freedomhouse.org/country/ghana/beijings-global-media-influence/2022",
+                    "https://www.mfa.gov.cn/ce/cegh//eng/sgxw/t1418945.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "3",
+                "evidence": "It was clearly revealed in the interview that a few mentioned Ghanaian news media organizations such as the Finer newspaper, the Ghanaian Times, Financial and Business Times, daily Graphics, agency do place advertisement sent to them by the Chinese representation in Ghana",
+                "evidence_urls": [
+                    "https://freedomhouse.org/country/ghana/beijings-global-media-influence/2022"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "The local Chinese Embassy in Ghana once criticised the Ghanaian media for their reporting on the involvement of Chinese national nationals in illegal mining of Gold in the country",
+                "evidence_urls": [
+                    "https://citifmonline.com/2017/04/chinese-mission-angry-over-galamsey-reportage-calls-for-fairness/#sthash.zK07RwyE.dpuf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "3",
+                "evidence": "The lecturer interviewed mentioned that he had spoken to a Ghanaian journalist who was extremely pro china and added that some media outlets with partnership with China will hardly publish anything that will be critical of the Chinese government. This is especially the case for the Finder newspaper which has an exclusive media content partnership with Xinhua news agency. ",
+                "evidence_urls": [
+                    "https://freedomhouse.org/country/ghana/beijings-global-media-influence/2022"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "Rather than denying the existence of human rights abuses in the PRC especially in the Xinjiang region, African personalities perceived it as an internal affair of China. ",
+                "evidence_urls": [
+                    "https://www.persecution.org/2021/04/20/african-leaders-ignore-chinas-religious-freedom-violations/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cegh//eng/xwdt/t220791.htm",
+                    "https://www.graphic.com.gh/news/general-news/ghana-china-resolve-to-deepen-ties.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Gabby Asare Okyere Darko, considered unofficially, as the Prime Minister, is the cousin of the president and is the single most powerful person around the President. Also, the ruling party's International Affairs Director, Mr. Attafuah, has has several meetings with PRC officials. One significant observation is that both persons were very distant ideologically from the PRC but have warmed up considerably to the PRC in recent times.",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cegh/eng/dszl/dsjh/t1269683.htm",
+                    "https://mfa.gov.gh/index.php/ambassador-of-china-to-ghana-pays-courtesy-call-on-minister-for-foreign-affairs-and-regional-integration/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "4",
+                "evidence": "The Ministry of Commerce of China through the Academy for International Business Officials (AIBO) organized a training session for 20 stewards from the Office of the President in China.",
+                "evidence_urls": [
+                    "https://mofep.gov.gh/sites/default/files/pbb-estimates/2016/2016-PBB-18-MFARI.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jailing-Aisha-Huang-in-Ghana-wasn-t-important-won-t-give-us-cash-Osafo-Maafo-739502"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "no data/ evidence to verify this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "evidence": "Ghana supports and enforces the 'One China' Policy and therefore does not support Taiwan's participation in the WHO when China is there. ",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cebw//eng/zfgx/t258994.htm#:~:text=The%20Ghanaian%20side%20reiterated%20its,cause%20of%20peaceful%20national%20reunification."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "no data/ evidence to verify this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "Although Ghana has not spoken out for or against China in the South Sea Dispute, it has questioned the tribunal's jurisdiction on ruling on similar matters relating to Ghana itself",
+                "evidence_urls": [
+                    "https://www.itlos.org/fileadmin/itlos/documents/cases/case_no.20/C20_Response_Ghana.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "Ghana has not openly supported  China on the persecution of Uyghur Moslems in the Xinjiang province",
+                "evidence_urls": [
+                    "https://qz.com/africa/1667141/african-leaders-defend-china-arrests-of-uyghur-muslims-in-xinjiang/",
+                    "https://www.bbc.com/news/world-africa-56717986"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "The reference cited mentions some African countries that has declared support of China's treatment of Tibetans",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/10/2020-edition-which-countries-are-for-or-against-chinas-xinjiang-policies/",
+                    "https://thediplomat.com/2020/04/chinas-investment-in-africa-cannot-buy-the-silence-of-a-continent/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "Ghana is not on the list of countries known to be in support of the imposed law on Hong Kong",
+                "evidence_urls": [
+                    "https://www.axios.com/2020/07/02/countries-supporting-china-hong-kong-law"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "Other private universities have also signed MoUs with PRC-connected entities are Pentecost University, UMAT and Kumasi Polytechnic",
+                "evidence_urls": [
+                    "https://ucc.edu.gh/news/chinese-university-partners-five-ghanaian-universities-establish-centre-west-african-studies",
+                    "https://www.ug.edu.gh/news/university-ghana-and-tianjin-university-traditional-chinese",
+                    "https://www.uhas.edu.gh/en/public/news/uhas-signs-mou-with-shantou-university-medical-college.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "There are 14 Confucius Centers in Ghana",
+                "evidence_urls": [
+                    "https://ucc.edu.gh/news/chinese-ministry-education-fund-\u201cconfucius-classroom\u201d-university-primary-school",
+                    "https://www.ug.edu.gh/confucius-institute/ch/\u5b54\u9662\u65b0\u95fb/china-ghana-educational-cooperation-and-exchange",
+                    "https://ucc.edu.gh/news/ucc-confucius-institute-marks-confucius-institute-day-3rd-anniversary#:~:text=Mensah%20noted%20that%20CIUCC%20now,approved%20as%20the%20Confucius%20Classrooms."
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "Though some government institutions are teaching Chinese language, there is no evidence or data to confirm if its going to be integrated into educational curriculum",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "it has been established that some institutes of higher learning in Ghana has reseach partnerships with Chinese institutions but there's no evidence of ownership",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "The University of Health and Allied Sciences (UHAS) has a research partnership with a Chinese institution and that could be be a factor in the donation received from china",
+                "evidence_urls": [
+                    "https://www.graphic.com.gh/news/education/ghananews-china-gives-60m-for-uhas-project.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "no data/ evidence to verify this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "Faculty exchange was identified in all educational institutions with MoUs with Chinese universities and research centers",
+                "evidence_urls": [
+                    "http://www.ug.edu.gh/confucius-institute/ch/%E5%AD%94%E9%99%A2%E6%96%B0%E9%97%BB/china-ghana-educational-cooperation-and-exchange"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "no data/ evidence to verify this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "no data/ evidence to verify this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "The University of Ghana has a center for Asian Studies that will likely have a course on Asian History, however this cannot be considered as  curriculum design by prc entities",
+                "evidence_urls": [
+                    "https://coh.ug.edu.gh/centre-asian-studies"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "no data was found to support this indicator",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "There are evidences of partnership agreements at subnational level between Ghanaian entities and PRC's ",
+                "evidence_urls": [
+                    "https://newsghana.com.gh/ghana-signs-sister-city-deal-with-china/",
+                    "https://www.graphic.com.gh/news/general-news/ama-secures-750-million-chinese-grant-for-projects.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://newsghana.com.gh/ghana-signs-sister-city-deal-with-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "4",
+                "evidence": "There are indications that there is a growing partnership between the CCP and Ghana's political actors. There are regular trips by government officials to China",
+                "evidence_urls": [
+                    "https://mfa.gov.gh/index.php/the-minister-for-foreign-affairs-and-regional-integration-hon-shirley-ayorkor-botchwey-pays-official-visit-to-china/",
+                    "http://gh.china-embassy.gov.cn/eng/dszl/dsjh/201509/t20150909_6894149.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "1",
+                "evidence": "This is an area of partnership that will witness increased engagement in the next 5-10 years",
+                "evidence_urls": [
+                    "https://mfa.gov.gh/index.php/the-minister-for-foreign-affairs-and-regional-integration-hon-shirley-ayorkor-botchwey-pays-official-visit-to-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "4",
+                "evidence": "There are evidences that the Chinese Communist party has made donations to the ruling NPP in Ghana",
+                "evidence_urls": [
+                    "https://ghanapoliticsonline.com/bawumia-takes-npp-cash-begging-bowl-china/",
+                    "https://www.modernghana.com/news/424418/chinese-company-funds-ndc-afag-alleges-ndc-denie.html",
+                    "http:/dailyguidenetwork.com/Chinese-communist-party-donates-to-npp/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "evidence of UFWD presence was not found in Ghana. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "Evidence of UFWD presence was not found in Ghana.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "Mahamadu Bawumia, the Vice President of the Republic of Ghana, gabby Asare the most influential political actor without portfolio, and other top government functionaries express positive views about China.",
+                "evidence_urls": [
+                    "https://english.www.gov.cn/statecouncil/wangyi/202204/20/content_WS625f44c4c6d02e5335329a53.html",
+                    "https://dailyguidenetwork.com/ghana-china-relationship-has-been-robust-exemplary-bawumia/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No data/ evidence to verify this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://africacenter.org/spotlight/chinese-security-firms-spread-african-belt-road/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/CountrySnapshot/en/GHA",
+                    "https://tradingeconomics.com/ghana/imports-by-country"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "it appears that China's loans to Ghana are mostly in exchange for some natural resources",
+                "evidence_urls": [
+                    "https://www.myjoyonline.com/ghana-owed-imf-world-bank-others-7-9bn-as-of-september-2020/",
+                    "https://www.myjoyonline.com/international-capital-market-debt-constitutes-46-of-ghanas-external-debt/",
+                    "https://www.cnbc.com/2019/11/21/chinas-2-billion-ghana-deal-fears-over-debt-influence-environment.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://media.africaportal.org/documents/Ghana.pdf",
+                    "https://www.africanews.com/2017/06/29/ghana-signs-10b-bauxite-deal-with-china//"
+                ],
+                "note": "Page 12 downwards of the first reference shows low amount of minerals exported to china, however, the bauxite deal is also quite significant",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": " Page 6 indicates some Chinese investment in the manufacturing sector in Ghana which is not in the critical or sensitive category. No Chinese affiliated data center was found",
+                "evidence_urls": [
+                    "https://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/131119/filename/131330.pdf",
+                    "https://www.songhaiadvisory.com/blog/2021/9/1/ghanas-digital-economy-amp-the-impact-of-data-centres"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/news-events/news/2018/AIIB-Approves-Membership-of-Algeria-Ghana-Libya-Morocco-Serbia-Togo.html",
+                    "https://www.businessworldghana.com/ghana-joins-aiib-to-raise-capital-for-infrastructure-investments/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.newsilkroadnetwork.com/en/news/108-ghana-s-interest-in-the-new-silk-road-freight-consult-shares-its-growing-interactions-with-china",
+                    "http://www.faapa.info/blog/nigeria-ghana-set-to-explore-new-areas-of-business-opportunities/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "there's no data to support this indicator",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "there's no data to support this indicator",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.trade.gov/country-commercial-guides/china-trade-agreements",
+                    "http://fta.mofcom.gov.cn/english/fta_qianshu.shtml",
+                    "https://foreignpolicy.com/2021/08/19/africa-china-afcfta-free-trade-economy-investment-infrastructure-competition/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "Ghana may have at some point have a SEZ to attract PRC investors but current studies does not confirm that",
+                "evidence_urls": [
+                    "https://sci-hub.se/https://doi.org/10.1017/S0022278X10000649"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "there's no data to support this indicator",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://africabusinesscommunities.com/news/first-4g-network-introduced-in-ghana.html",
+                    "https://thebftonline.com/2021/07/28/preparing-tomorrows-workforce-for-a-w-i-s-e-r-ghana-an-interview-with-tommy-zhou-managing-director-huawei-ghana/",
+                    "https://www.chinatelecomglobal.com/whats_new/140486/CTG_Prelaunch_Connectivity_Services_to_Africa_for_Mobile_Operators%7D"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.myjoyonline.com/china-to-assist-ghana-in-security-project/",
+                    "https://www.mobileworldlive.com/latest-stories/mtn-ghana-huawei-deploy-umts900-network",
+                    "https://www.biztechafrica.com/article/mtn-ghana-live-46-4g-sites-and-huawei-p10/12488/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "The last reference may be irrelevant as Kasapa is no longer in service",
+                "evidence_urls": [
+                    "https://www.yumpu.com/en/document/read/37373896/surfline-4g-lte-signs-deal-with-huawei-for-nationwide-expansion-in-the-west-african-country-of-ghana",
+                    "https://www.biztechafrica.com/article/huawei-signs-management-deal-vodafone-ghana/440/",
+                    "https://www.lightreading.com/zte-installs-cdma-in-ghana/d/d-id/615373"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://nita.gov.gh/projects/jurong-logistics-hub/",
+                    "https://iipgh.org/e-government-initiatives-in-ghana/",
+                    "https://www.datacenterdynamics.com/en/news/ghana-government-opens-data-center-to-private-business/#:~:text=The%20Government%20of%20Ghana%20has,and%20help%20the%20private%20sector."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "Though very clear, the interest and intention for such an exchange is not evident",
+                "evidence_urls": [
+                    "https://thebftonline.com/2021/07/28/preparing-tomorrows-workforce-for-a-w-i-s-e-r-ghana-an-interview-with-tommy-zhou-managing-director-huawei-ghana/",
+                    "https://citinewsroom.com/2021/05/huawei-ready-for-partnership-to-connect-ghanaian-households-with-broadband-internet-jenny-zhou/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "There had been initial talk of Huawei handling this project but was eventually handed over to Celtell, who has announced it will be using both Chinese and American technology",
+                "evidence_urls": [
+                    "https://nita.gov.gh/whale-cloud-and-alibaba-partner-ghana-on-innovative-city-development/",
+                    "https://developingtelecoms.com/telecom-technology/wireless-networks/12627-ghana-s-celltel-gets-the-go-ahead-for-major-wi-fi-project.html",
+                    "https://quarmecaptain.com/ama-taking-steps-to-make-accra-smart-city/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "Ghana is known to use SWIFT for cross border transaction and SWIFT is likely partnered with CIPS  but the submitted reference was not accessible",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "According to Crunchbase, none of Ghana's fintech startups has chinese investors except Jetstream which is a logistics startup with investment from china's MSA Capital",
+                "evidence_urls": [
+                    "https://www.crunchbase.com/organization/jetstream-africa/company_financials"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "2",
+                "evidence": "According to the second reference, Inspur has worked with local Ghanaian businesses on cloud computing and Big Data development but could not find any information on said local businesses with an MoU",
+                "evidence_urls": [
+                    "https://presidency.gov.gh/index.php/briefing-room/news-style-2/813-chinese-i-t-giant-inspur-group-to-establish-west-africa-headquarters-in-ghana",
+                    "http://www.bjreview.com/Special_Reports/2018/5_Years_of_the_Belt_and_Road_Initiative/From_the_Magazine/201810/t20181018_800144491.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.statista.com/statistics/1171534/leading-social-media-platforms-ghana/",
+                    "https://www.similarweb.com/apps/top/google/store-rank/gh/communication/top-free/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "Global Navigation Satellite System \u2013 GNSS Referencing Station. This section on the webpage reveals Beidou as one of the satellites used in Ghana",
+                "evidence_urls": [
+                    "https://eoric.uenr.edu.gh/?bunch_services=global-navigation-satellite-systems"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://gh.china-embassy.gov.cn/eng/sgxw/200702/t20070213_6137545.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "The United Chinese World Association has presence in Africa but there is no evidence of African countries on its membership. ",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "The reports on the ACFTU seminar for African Trade Unions does not specify representattives of the Ghana Trade Union were present",
+                "evidence_urls": [
+                    "https://oatuu.org/2019/11/20/acftu-oatuu-china-africa-trade-union-leaders-seminar-field-visit-in-beijing/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No UFWD associated report was found on local Ghanaian news sites",
+                "evidence_urls": [
+                    "https://allafrica.com/stories/201702010906.html",
+                    "http://www.ug.edu.gh/confucius-institute/news/celebration-2018-chinese-new-year-confucius-institute-university-ghana-0"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.graphic.com.gh/news/general-news/get-china-news-from-china-journalists-association.html",
+                    "https://www.graphic.com.gh/news/general-news/first-lady-confers-with-hunan-women-federation.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/africa/2021-04/06/c_139861419.htm",
+                    "https://thecophq.org/chinese-christians-in-ghana-donate-10000-face-masks-to-the-needy/",
+                    "https://www.nytimes.com/2020/02/23/world/asia/china-religion-coronavirus-donations.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "3",
+                "evidence": "StarTimes is a major player in the Ghana media sector distributing entertainment products to homes at a cheaper price than the competition",
+                "evidence_urls": [
+                    "https://yen.com.gh/108040-startimes-channels-prices-ghana-2022.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "Kalybos in China could have offered some insight ino this indicator but there isnt much infoemation about the movie",
+                "evidence_urls": [
+                    "https://www.myjoyonline.com/when-stephen-amoah-enacted-kung-fu-moves-while-announcing-introduction-of-ghana-chinese-in-kumawood-movies/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://news.cgtn.com/news/3d3d774d3041544f79457a6333566d54/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.gna.org.gh/1.21329773",
+                    "https://chinaafricaproject.com/category/media/propaganda/",
+                    "https://www.ghanaweb.com/GhanaHomePage/features/The-C-H-I-N-A-way-for-a-better-post-COVID-world-1451395"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "The average Ghanaian has no 'interest' in th PRC government per se but generally have a negative view of the Chinese presence in Ghana and their government's engagement with the Chinese government and its effect on them. According to the Afrobarometer report, though views are generally low and mixed, some aspects have improved over the years",
+                "evidence_urls": [
+                    "https://afrobarometer.org/sites/default/files/africa-china_relations-3sept20.pdf",
+                    "https://chinadialogue.net/en/business/6005-special-report-china-s-image-crisis-in-ghana/",
+                    "https://digitalcollections.sit.edu/cgi/viewcontent.cgi?article=3925&context=isp_collection"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "For further referencing: the below URL 1.",
+                "evidence_urls": [
+                    "https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/642232/EPRS_BRI(2019)642232_EN.pdf",
+                    "https://www.airforce-technology.com/news/newsreport-china-emerges-as-the-biggest-supplier-of-arms-to-ghana-5713384/",
+                    "https://www.independent.co.uk/news/world/africa/twothirds-of-african-countries-now-using-chinese-military-equipment-a6905286.html",
+                    "https://www.worldscientific.com/doi/pdf/10.1142/S2377740017500257"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "I think this should be the other way round as Ghana does not produce military wares of any kind; it is dependent on import for its military wares",
+                "evidence_urls": [
+                    "https://www.piie.com/blogs/realtime-economic-issues-watch/arms-and-influence-chinese-arms-transfers-africa-context"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "evidence": "The donated items indicated in the first reference were office supplies to the Interpol division of the Ghana Police Service but it can be noted that a proposed training programs for the personnel in the sevice was mentioned",
+                "evidence_urls": [
+                    "http://gh.china-embassy.org/eng/sgxw/201601/t20160122_6142928.htm",
+                    "https://allafrica.com/stories/201610280968.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "Ghana has not been indicated as a potential candidate for a chinese military base",
+                "evidence_urls": [
+                    "https://asia.nikkei.com/Politics/International-relations/Indo-Pacific/China-has-multiple-military-basing-options-in-Africa-analysts-say",
+                    "https://www.defense.gov/News/News-Stories/Article/Article/2969935/general-says-china-is-seeking-a-naval-base-in-west-africa/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "The PRC has participated in humanitarian relief both physically and through donation of cash. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "4",
+                "evidence": "Even if there is no Chinese military base in Ghana, the local Chinese embassy has a permanent defence attach\u00e9 ",
+                "evidence_urls": [
+                    "https://newsghana.com.gh/94th-anniversary-of-the-founding-of-the-chinese-peoples-liberation-army-building-a-community-with-a-shared-future-for-mankind/",
+                    "https://dailyguidenetwork.com/chinese-embassy-presents-ppe-to-defence-press-corps/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "'In terms of a $7.5 million grant facility agreement signed in July this year, 28 Ghanaian military officers will be sent to China to study subjects that include security and defence. In August 15 Ghanaian officers went to China for military training, on courses ranging from three months to one year'.",
+                "evidence_urls": [
+                    "https://www.defenceweb.co.za/sea/sea-sea/ghana-commissions-chinese-patrol-boats/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "While there is no data to support that China has trained Ghanaian military officials in peacekeeping, there are indications that this could have formed part of the military exchanges between both countries. ",
+                "evidence_urls": [
+                    "http://english.chinamil.com.cn/view/2022-05/20/content_10156858.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "no data was found to support this indicator",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Chinese-may-rule-over-Ghana-one-day-Retired-military-officer-warns-1278460"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "evidence of military to military cooperation is overwhelming",
+                "evidence_urls": [
+                    "https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/642232/EPRS_BRI(2019)642232_EN.pdf",
+                    "http://eng.chinamil.com.cn/view/2018-06/06/content_8053858.htm",
+                    "https://allafrica.com/stories/199806180168.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "An extradition treaty was signed between Ghana and China in 2018. ",
+                "evidence_urls": [
+                    "https://thefinderonline.com/news/item/14172-ghana-china-ties-on-new-path"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "In the Page 4 of the referenced article states that China\u2019s growing involvement in Africa\u2019s security has led some African countries such as Ghana, Nigeria, Zimbabwe, Sudan, and Ethiopia, among others, to extend invitations to China to help with their security-related issues, including building the capacity of their military and police, provision of equipment and joint counter-piracy operations, and intelligence sharing in the fight against terrorist groups.",
+                "evidence_urls": [
+                    "https://sci-hub.se/https://doi.org/10.1142/S2377740017500257"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No data was found to support this indicator",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "1",
+                "evidence": "The evidence might not be a strong indication of this happening in Ghana ",
+                "evidence_urls": [
+                    "https://www.seafoodsource.com/news/environment-sustainability/report-finds-concealed-chinese-companies-denying-ghana-fishing-revenues"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "There has been attempted hacking on the government of ghana website but its origin is unknown",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No data was found to support this indicator",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://allafrica.com/stories/202111040537.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "There has been joint patrol between the Ghanaian and Chinese navies but not with the local Police. ",
+                "evidence_urls": [
+                    "http://eng.chinamil.com.cn/view/2018-06/06/content_8053858.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No data was found to support this indicator",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No data was found to support this indicator",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "Ghana is the first country in Africa to deport illegal Chinese miners to China. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Ghana had a GDP per capita of US$2,445, and a total population of 31.08 million people (World Bank, 2020). China established diplomatic relations with Ghana in 1960.",
+    "description-2": "Ghana established diplomatic relations with the PRC in 1960. Ghana was ranked 60/180 in Reporters without Border\u2019s 2022 World Press Freedom index and ranked Free in Freedom Status in Freedom House\u2019s 2022 Global Freedom Status with a score of 80/100"
+}

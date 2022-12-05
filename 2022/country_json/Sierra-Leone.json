@@ -1,0 +1,973 @@
+{
+    "name": "Sierra Leone",
+    "partner": "Emeka Umejei",
+    "year": "2022",
+    "GDP": "$515.9",
+    "population": "8.141M",
+    "original": "118/396",
+    "ranking": "47",
+    "overall": "30%",
+    "effect": "31%",
+    "exposure": "34%",
+    "pressure": "8%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "There are media houses that have connections or agreement with Chinese media, but not owned by them",
+                "evidence_urls": [
+                    "https://www-worldchinesemedia-com.translate.goog/benkanjieshao/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc"
+                ],
+                "note": "Interview with journalists who work with Chinese related institutions ",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "2",
+                "evidence": "There are media practitioners who have attended such forums in China, but there are no readily available data to quantify them.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://pdf.usaid.gov/pdf_docs/PA00ZHWQ.pdf"
+                ],
+                "note": "There are varied opinions about the benefits of Chinese media exchanges for journalists in Sierra Leona. Some journalists who had gone to the shorter programs-3 weeks- see them as 'media tours', but others label them as 'seminars' , 'training' and 'workshop.'",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "4",
+                "evidence": "There are several training programmes in China that have been organised for media practitioners in the country.",
+                "evidence_urls": [
+                    "http://en.people.cn/n3/2019/0830/c90000-9610872.html",
+                    "https://cocorioko.net/sierra-leonean-journalists-in-beijing-for-seminar-on-new-media/",
+                    "https://pdf.usaid.gov/pdf_docs/PA00ZHWQ.pdf",
+                    "https://thecalabashnewspaper.com/30-sierra-leone-journalists-depart-for-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "Reviews of the Independent Media Commission (IMC) records and  the State of the Media Reports of the Society for Democratic Initiative (SDI) and Media Reform Coordinating Group (MRCG) indicate there is nothing like that in Sierra Leone",
+                "evidence_urls": [],
+                "note": "There are no data to show Chinese content that is broadcast or published in local languages.",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "In Sierra Leone media organizations are registered as local businesses. So in essence, they are local media institutions. There was 'Lee TV' which had some Chinese partners, but that is no longer operational in the country.",
+                "evidence_urls": [],
+                "note": "The following helped in reaching my answer:\nInterview with Station Managers and Editors , Review of the Independent Media Commission (IMC) records, Review of the State of the Media Reports of the SDI and MRCG",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "There are no data to ascertain this.  While the media report on contents of PRC state funded media, there is no evidence to show that they deliver it on a cheap or free basis.",
+                "evidence_urls": [
+                    "https://english.news.cn/africa/20220429/e4f1d0e8caa04a65a038cd1ae0f4877f/c.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "1",
+                "evidence": "Such stories like the one on the weblink are mostly promotion or advertisement contents",
+                "evidence_urls": [
+                    "https://thewatchnewssl.com/on-allegations-of-illegal-fishingchinese-embassy-sets-the-records-straight/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "Such stories like the one on the weblink are mostly promotion or advertisement contents.\nThere is no available evidence to prove that pressure has been exerted on journalists to the extent of public denouncement, revocation of journalist ID, denial of visa. However, one pointed out that the Chinese Embassy expresses concerns if there are unfavourable stories published about them.\n",
+                "evidence_urls": [
+                    "https://pdf.usaid.gov/pdf_docs/PA00ZHWQ.pdf"
+                ],
+                "note": "Interview with the national journalists association-SLAJ and journalists",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://pdf.usaid.gov/pdf_docs/PA00ZHWQ.pdf"
+                ],
+                "note": "Some of the journalists who have had training or visited China said they would not be critical about China in their reportage.",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "In interviews, some of the interviewees pointed out that Western journalists are reporting negative stories about China's human rights situations. ",
+                "evidence_urls": [
+                    "https://www.brookings.edu/articles/protect-the-party-chinas-growing-influence-in-the-developing-world/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "However, China provides various supports to the Sierra Leonean parliament.",
+                "evidence_urls": [
+                    "http://en.people.cn/n3/2018/1224/c90000-9531404.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cesl//eng/xwdt/t1886088.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.thesierraleonetelegraph.com/does-sierra-leone-need-a-foreign-service-academy-costing-millions-of-dollars/",
+                    "https://slconcordtimes.com/mps-ratified-sierra-leone-foreign-service-academy/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No data to support this evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No enough data to support this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No enough data to answer this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "3",
+                "evidence": "Sierra Leone has constantly supported China in global forums such as the United Nations. Sierra Leone was one of the 21 African countries that co-sponsored and voted in favor of UN General Assembly Resolution 2758, which recognized the People\u2019s Republic of China as \u2018the sole legitimate representative of China at the United Nations\u2019. Sierra Leone has remained a faithful and strong proponent of the one-China principle.",
+                "evidence_urls": [
+                    "https://www.politicosl.com/articles/china-seeks-sierra-leones-support-interpol-seat",
+                    "https://www.ayvnewspaper.com/news/china-considers-supporting-sierra-leone-for-un-security-council-seat/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/uk-southchinasea-china-idUKKCN0Z016W",
+                    "https://www.reuters.com/article/uk-southchinasea-china-idUKKCN0Z016W"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "In 2010, former president of Sierra Leone, Ernest Bai Koroma voiced his support for China's position on Uyghur and Tibet. However, in 2020, Sierra leone withdrew its letter condemning the persecution of Uyghurs in the Xinjiang province of China. ",
+                "evidence_urls": [
+                    "https://www.saveuighur.org/save-uighur-applauds-letter-from-39-countries-condemning-china/",
+                    "https://www.fmprc.gov.cn/ce/ceie/eng/NewsPress/t650963.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/ce/ceie/eng/NewsPress/t650963.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.axios.com/2020/07/02/countries-supporting-china-hong-kong-law"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "There is a research partnership with PRC and the University of Makeni",
+                "evidence_urls": [
+                    "https://www.researchgate.net/publication/345446874_The_Role_of_China_Seminars_in_Building_Other_Developing_Countries_An_Experience_Case_in_Sierra_Leone",
+                    "https://thepienews.com/news/african-unis-sign-agreements-with-chinese-institutions/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "There is only one Conficious at Fourah Bay College, University of Sierra Leone. ",
+                "evidence_urls": [
+                    "https://www.thesierraleonetelegraph.com/sierra-leone-to-become-home-to-west-africa-confucius-institute/",
+                    "https://www.facebook.com/554420588066402/posts/confucius-institute-of-usl-held-the-first-companies-exhibition-and-job-fairon-ap/696912367150556/",
+                    "https://www.ayvnewspaper.com/uncategorized/confucius-institute-turns-5-in-sierra-leone/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://english.news.cn/africa/20220303/73e4bef892ec44abaa33f28ac71cbb85/c.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "There are no data readily available to ascertain this.",
+                "evidence_urls": [
+                    "http://www.ucmsr.com/route"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "1",
+                "evidence": "There is a growing research in China-Africa issues receiving financial support.",
+                "evidence_urls": [
+                    "https://unimak.edu.sl/chinese-embassy-boosts-unimak/",
+                    "https://thepienews.com/news/african-unis-sign-agreements-with-chinese-institutions/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "No data to substantiate this question. However, there are indications that Sierra Leoneans will gladly participate in these programmes as far it comes with funding for local talents",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "2",
+                "evidence": "There is no record available on the exact number of participants so far ",
+                "evidence_urls": [
+                    "https://unimak.edu.sl/chinese-embassy-boosts-unimak/",
+                    "https://www.researchgate.net/publication/312538087_THE_EVOLUTION_OF_CHINA-SIERRA_LEONE_CO-OPERATION"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No available data on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No available data on this incident but from my knowledge as an academic I could not find anything suggesting to the contrary.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No data available on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No available data on this question.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "The Sierra Leonean government has several agreements with the PRC.",
+                "evidence_urls": [
+                    "https://mofaic.gov.sl/sierra-leone-signs-economic-and-technical-cooperation-agreements-with-china/",
+                    "https://www.cnbc.com/2021/05/19/china-deal-to-build-a-fishing-harbor-in-sierra-leone-meets-resistance.html",
+                    "http://www.xinhuanet.com/english/africa/2021-05/15/c_139948096.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "1",
+                "evidence": "'In March 1984, Hefei, the capital city of East China's Anhui Province, established a sister-city relationship with Freetown, the capital of Sierra Leone'-this highlighted in the link but no available data suggesting that this partnership is still in force or discarded. ",
+                "evidence_urls": [
+                    "http://www.china.org.cn/english/features/focac/183425.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "4",
+                "evidence": "The PRC offers a lot of training to government officials. ",
+                "evidence_urls": [
+                    "https://cocorioko.net/seminar-on-chinas-economic-development-practices-for-sierra-leone-ends-in-beijing/",
+                    "https://www.awarenesstimes.com/drwebsite/publish/article_200530898.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "A lot of politicians or government employees visit the PRC and meeting with PRC officials and think tanks.",
+                "evidence_urls": [
+                    "http://www.news.cn/english/2021-12/07/c_1310355430.htm",
+                    "https://slconcordtimes.com/30-staff-from-finance-ministry-off-to-china-for-seminar-on-economic-planning/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://covid-19.chinadaily.com.cn/china/2014-12/04/content_19025537.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.thesierraleonetelegraph.com/china-is-meddling-in-sierra-leones-party-politics/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No data/evidence available on this question.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No available data on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://news.cgtn.com/news/2020-11-18/Sierra-Leone-ambassador-lauds-China-s-fight-against-COVID-and-poverty-VwwjwruWwo/index.html",
+                    "https://www.globaltimes.cn/page/202009/1201788.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No data available on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No available data on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "China has been Sierra Leone's largest trading partner for more than 10 years, and high-quality and cost-competitive Chinese goods have enriched Sierra Leone's market, saved Sierra Leonean people's money, and helped improve the country's production and economic efficiency.",
+                "evidence_urls": [
+                    "https://global.chinadaily.com.cn/a/202106/23/WS60d26b91a31024ad0bacac67.html#:~:text=China%20has%20been%20Sierra%20Leone's,country's%20production%20and%20economic%20efficiency."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "No available on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.metalbulletin.com/Article/3313479/Sierra-Leone-becomes-top-six-supplier-of-iron-ore-to-China.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.theguardian.com/environment/2021/may/17/sierra-leone-sells-rainforest-for-chinese-fishmeal-plant"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "Insufficient data evidence. I have provided a link to members of the Belt and Road Chamber of International Commerce and Sierra Leone is not listed as a member. The second link is to membership list of the  Belt and Road Industrial and Commercial Alliance (BRICA) and Sierra Leone is also not a member.",
+                "evidence_urls": [
+                    "https://srcic.org/silk-road-members/",
+                    "https://www.bricaistanbul.com/overview/brica-members/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "Insufficient data evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "there's no data to support this indicator",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "China maintains 17 Free Trade Agreements (FTAs) with its trade and investment partners and is negotiating or implementing an additional eight FTAs. China\u2019s FTA partners are ASEAN, Singapore, Pakistan, New Zealand, Chile, Peru, Costa Rica, Iceland, Switzerland, Maldives, Mauritius, Georgia, Korea, Australia, Cambodia, Hong Kong, and Macao.",
+                "evidence_urls": [
+                    "https://www.trade.gov/country-commercial-guides/china-trade-agreements"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "Insufficient data evidence ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "Insufficient data evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fitchsolutions.com/telecommunications/sierra-leone-telecoms-broadly-positive-weak-market-fundamentals-pose-risks-25-05-2021#:~:text=There%20are%20four%20mobile%20network,QCell%20and%20state%2Downed%20SierraTel."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ide.go.jp/English/Data/Africa_file/Manualreport/cia_09.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ide.go.jp/English/Data/Africa_file/Manualreport/cia_09.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ide.go.jp/English/Data/Africa_file/Manualreport/cia_09.html",
+                    "https://www.chinadaily.com.cn/regional/2016-09/16/content_26814626.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No available data on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cips.com.cn/cipsen/7068/7047/50631/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "No available data on this question ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.similarweb.com/apps/top/apple/store-rank/sl/social-networking/top-free/iphone/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.beidou.gov.cn/was5/web/search?channelid=233605&sw=sierra%20leone&orderby=&type=&resultType=&timeRange=&page=1&chnlid="
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No available data on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/ce/cesl/eng/xnyfgk/t705395.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No available data on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "No available data on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://english.news.cn/africa/20220429/e4f1d0e8caa04a65a038cd1ae0f4877f/c.html#:~:text=The%20items%20consisting%20of%20rice,the%20capital%20of%20Sierra%20Leone.",
+                    "http://www.xinhuanet.com/english/africa/2020-08/11/c_139283269.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://startimessierraleone.websites.co.in/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No available data on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://en.cidca.gov.cn/2021-08/25/c_657976.htm",
+                    "http://en.nhc.gov.cn/2020-11/25/c_82262.htm",
+                    "http://ex.chinadaily.com.cn/exchange/partners/45/rss/channel/www/columns/6h4i91/stories/WS610c886da310efa1bd667029.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.afrobarometer.org/wp-content/uploads/migrated/files/africa-china_relations-3sept20.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tradingeconomics.com/sierra-leone/imports/china/military-weapons-excluding-revolvers-pistols-lances#:~:text=pistols%20from%20China-,Sierra%20Leone%20Imports%20of%20military%20weapons%2C%20other%20than%20revolvers%2C%20pistols,COMTRADE%20database%20on%20international%20trade."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "Reverse is the case. ",
+                "evidence_urls": [
+                    "https://tradingeconomics.com/sierra-leone/imports/china/military-weapons-excluding-revolvers-pistols-lances#:~:text=pistols%20from%20China-,Sierra%20Leone%20Imports%20of%20military%20weapons%2C%20other%20than%20revolvers%2C%20pistols,COMTRADE%20database%20on%20international%20trade.",
+                    "https://economictimes.indiatimes.com/news/defence/china-expands-defence-supplies-with-african-states/articleshow/91505473.cms?from=mdr"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://economictimes.indiatimes.com/news/defence/china-expands-defence-supplies-with-african-states/articleshow/91505473.cms?from=mdr"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ecfr.eu/article/chinas-new-military-base-in-africa-what-it-means-for-europe-and-america/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.chinadailyhk.com/articles/178/176/89/1503290981975.html",
+                    "https://reliefweb.int/report/sierra-leone/chinese-government-provides-one-million-usd-emergency-disaster-relief-fund"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://awokonewspaper.sl/sierra-leone-news-7-military-officers-off-to-china/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "4",
+                "evidence": "Only provisions for war college training in China ",
+                "evidence_urls": [
+                    "https://www.crisisgroup.org/asia/north-east-asia/china/china-expands-its-peace-and-security-footprint-africa"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No available data on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.crisisgroup.org/asia/north-east-asia/china/china-expands-its-peace-and-security-footprint-africa"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "The following sections in the attached link indicates that Sierra Leone does not have extradition treaty with China\n3. Chapter IV: International cooperation\n 3.1. Observations on the implementation of the articles under review ",
+                "evidence_urls": [
+                    "https://www.unodc.org/documents/treaties/UNCAC/WorkingGroups/ImplementationReviewGroup/3-4November2015/V1507253e.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.un.org/counterterrorism/sites/www.un.org.counterterrorism/files/220512_press_release_mou_sierra_leone_cttravel.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No Available data to answer this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No Available data on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "No Available data on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No available data on this question but as a resident of Sierra Leone I know this like the back of my hand",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "In 2014, a mobile electronic surveillance system for infectious diseases (MESSID) was deployed in Sierra Leone but was not for law enforcemnet",
+                "evidence_urls": [
+                    "https://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.189"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No available data on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No available data on this question but since there is no treaty agreement between Sierra Leone and China this is not supposed to happen",
+                "evidence_urls": [
+                    "http://www.gd.jcy.gov.cn/jcyw/sfxz/flfgytyxd/201812/t20181212_2440091.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "Sierra Leone does not have extradition treaty with China. So it is not possible to deport a Taiwanese national to China to face persecution.",
+                "evidence_urls": [
+                    "http://www.gd.jcy.gov.cn/jcyw/sfxz/flfgytyxd/201812/t20181212_2440091.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "Sierra Leone does not have extradition treaty with China and hence, this is not possible within the ambit of the law.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Sierra Leone had a GDP per capita of Sierra Leone of US$516 and a population of 8.141 million people. ",
+    "description-2": "The PRC established diplomatic relations with Sierra Leone in July 1971. Sierra Leone was ranked 46/180 in Reporters without Border\u2019s World Press Freedom Index 2022 and Partly free in Freedom House\u2019 2022 Global Freedom Status with a score of 65/100"
+}

@@ -1,0 +1,947 @@
+{
+    "name": "Belgium",
+    "partner": "Central European Institute of Asian Studies",
+    "year": "2022",
+    "GDP": "$51,767.8",
+    "population": "11.5M",
+    "original": "67/392",
+    "ranking": "75",
+    "overall": "17%",
+    "effect": "4%",
+    "exposure": "24%",
+    "pressure": "13%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "No Belgian media is listed among the members. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "There is no evidence that Belgian journalists or media organizations are members of one of these networks ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "2",
+                "evidence": "There is no open source on this matter. An expert told in an interview conducted by the researcher that for several years, China has offered journalists all-expenses-paid trips. The expert did not give me any further details on how exactly these tours were conducted.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "Xinhua has its Europe Regional Bureau in Brussels, as it the main EU institutions are located in this city. Chun GAN, \"Expansion of Chinese state media in Europe and its impact on Chinese media discourse on Europe: The case of Xinhua News Agency\", Presented at the 15th Annual Conference on Asia Studies, 27 November 2021.",
+                "evidence_urls": [
+                    "https://eias.org/publications/op-ed/bridging-europe-and-china-the-power-of-media-communication-and-storytelling/",
+                    "https://asiepacifique.fr/chine-influence-lobbying-bruxelles-discours-medias-ue/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "In 2018, Le Soir, a nationwide French newspaper, published a double page from China Daily and another from Xinhua newsagency (\"Focus Belgique-Chine\"). ",
+                "evidence_urls": [
+                    "https://www.lesoir.be/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "1",
+                "evidence": "De Staandard, a Flemish daily, is one of the many Western newspapers which regularly published \"China Watch\", produced by China Daily. Le Soir carries ChinaDaily advertisements on its website every day.",
+                "evidence_urls": [
+                    "https://www.lesoir.be/",
+                    "https://www.theguardian.com/news/2018/dec/07/china-plan-for-global-media-dominance-propaganda-xi-jinping"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "There is no evidence that journalists faced in the last years such pressure. .",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "There is no evidence for such a behavior. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "The Belgian parliament has many bilateral friendship groups with different countries, among them with China. ",
+                "evidence_urls": [
+                    "http://uip.fed-parl.be/index_ipu_fr.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "1",
+                "evidence": "There are regular meeting between Chinese politicians and the  Chinese ambassador in Belgium with members of the Belgium-China Friendship Group of the Federal Belgium Parliament.",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cebel/eng/sghd/t1638270.htm",
+                    "http://uip.fed-parl.be/ipu/complete_list_fr.html#list",
+                    "http://uip.fed-parl.be/ipu/reports/2020/20200717_China/fr.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No such services are provided to Belgian diplomats. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "According to an expert interviewed by the researcher, Belgian politicians have been pressured by Chinese diplomats (including through letters from PRC diplomats) during debates or when taking a position, for example on the Uighur issue. Threats have also been made on the issue of Tibet at the federal political level.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "There is no evidence for such actions. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://apps.who.int/gb/or/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "There is no evidence for such a behavior. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "Belgium shares the position of the EU. ",
+                "evidence_urls": [
+                    "https://www.consilium.europa.eu/en/press/press-releases/2016/07/15/south-china-sea-arbitration/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "In June 2021, the foreign relations committe of the Belgian Parliament passed a motion related to Xinjiang in which it warns of \"a serious risk of genocide\" against Uygur Muslims in the autonomous province. The motion speaks of \"mass violations of human rights that may constitute crimes against humanity\". In July 2022, the Belgian Parliament adopted a critical resolution too.   ",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/china/diplomacy/article/3137686/china-sanctions-belgian-lawmaker-motion-warning-genocide-risk",
+                    "https://www.lachambre.be/doc/flwb/pdf/55/1789/55k1789008.pdf#search=%22ouighours%20%2055k%20%3Cin%3E%20keywords%22"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "The Belgian also adopted a specific resolution on Tibet in September 2019. ",
+                "evidence_urls": [
+                    "https://www.lachambre.be/doc/flwb/pdf/55/0347/55k0347001.pdf#search=%22tibet%20%2055k%20%3Cin%3E%20keywords%22",
+                    "https://www.lalibre.be/debats/opinions/2020/06/15/le-gouvernement-chinois-doit-nous-laisser-acceder-au-tibet-GLIYX4C5MBADDI5C72OS2YX7M4/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "As recently as June 2022, the Belgian Parliament adopted a specific resolution on the Situation in Hong Kong. ",
+                "evidence_urls": [
+                    "https://www.lachambre.be/doc/flwb/pdf/55/1524/55k1524006.pdf#search=%22hong%20kong%20%2055k%20%3Cin%3E%20keywords%22"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "There are  more than 30% of Chinese partner institutions that are partners of Belgian universities that have a medium to very high risk profile\" with this reference . For example, there is a cooperation agreement between Lingang Group and VIVES University. The University of Ghent has also an agreement with Huawei. DU BOIS, Cind & BALCAEN, Pieter \"Sino-Belgian Research Collaborations\", in China, Systemic Rival Economic Competitor and Negotiating Partner, Luk Sanders (ed.), Belgian Royal Higher Institute for Defence, October, 2020, p.39-50.",
+                "evidence_urls": [
+                    "https://www.durfdenken.be/nl/de-ugent/academische-samenwerking-die-bruggen-bouwt-15-jaar-china-platform",
+                    "http://www.baces.be/partners/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.leuvenkongyuan.com",
+                    "https://www.confucius.uliege.be/cms/c_11139446/fr/confucius",
+                    "https://www.confuciusinstituut.be",
+                    "https://www.belchin.be/institut-confucius-a-bruxelles/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "There is no evidence for such a plan. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": " The Flanders-China Chamber of Commerce is not a member of these particular networks but has other relationships with the PRC. ",
+                "evidence_urls": [
+                    "https://www.flanders-china.be/en/about-us"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "In 2014, Brussels Academy for China and European Studies (BACES) was founded by Vrije Universiteit Brussel, Renmin University of China, Fudan University and Sichuan University. The think tank is conceived as \"a platform for exchanging academic ideas, supporting academic activities and for promoting understanding between Chinese and European people\". Partners are the universities of Ghent (Belgium), Lancaster (UK), Sofia (Bulgaria), Bucharest (Romania), and Deakin (Australia). According to the BACES website, Huawei (The Netherlands) sponsor \"currently\" a Chair at BACES. The Brussels-based Europe-China Forum organizes events attended by high-ranking current and former Belgian and EU politicians. Its annual Europe-China Forum, a come-together of European and Chinese policymakers, is co-organized by the Chinese Mission to the EU and the China Institute for Reform and Development (CIRD), a public research institute in Haikou (Hainan, China). President is former EU Commissioner Etienne Davignon.  \nDU BOIS, Cind & BALCAEN, Pieter \"Sino-Belgian Research Collaborations\", in China, Systemic Rival Economic Competitor and Negotiating Partner, Luk Sanders (ed.), Belgian Royal Higher Institute for Defence, October, 2020, p.39-50. ",
+                "evidence_urls": [
+                    "http://be.china-embassy.gov.cn/eng/sghd/202009/t20200919_2076840.htm",
+                    "http://www.baces.be/partners/",
+                    "https://corporateeurope.org/en/2019/04/follow-new-silk-road-chinas-growing-trail-think-tanks-and-lobbyists-europe",
+                    "https://www.friendsofeurope.org/events/europe-china-forum-2022/",
+                    "http://be.china-embassy.gov.cn/eng/sghd/202009/t20200919_2076840.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "3",
+                "evidence": "According to an expert interview conducted by the researcher, university professors and researchers, often working on China, have been invited to give lectures and courses in China for years. Although researchers used to have a certain freedom, since a few years Belgian professors are strongly invited to tell the \"right\" vision of China and can no longer afford to express themselves on certain subjects.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "There is no evidence for such claims.",
+                "evidence_urls": [
+                    "https://www.veto.be/artikel/navigating-allegations-of-chinese-espionage-and-interference-in-academia"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "Academics deny that they have been censored by China or were not allowed to travel to China due to their critical research. ",
+                "evidence_urls": [
+                    "https://www.veto.be/artikel/navigating-allegations-of-chinese-espionage-and-interference-in-academia"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "\"Chinese company COSCO Shipping signed a concession agreement with the Port of Zeebrugge in Belgium in 2018. The event was chaired by Kris Peeters (Deputy Prime Minister Minister for Work, Economic Affairs and Consumer Affairs, responsible for Foreign Trade), Carl Decaluw\u00e9 (Governor, Province of West Flanders) and Renaat Landuyt (Mayor of the City of Bruges). In January 2022, Cosco obtained an extension of its concession for another 15 years, until December 31, 2055.\n\nThe West Flanders Governor Carl Decaluw\u00e9 has been collaborating with the Chinese province of Zhejiang for several decades. \nBoth the Federal and the Flemish government signed cooperation agreements with Chinese ministries. Wallonia-Bruxelles has also a few agreements with provincial counterparts.  \"",
+                "evidence_urls": [
+                    "https://www.made-in.be/west-vlaanderen/haven-zeebrugge-en-chinese-cosco-verlengen-hun-relatie-tot-en-met-2055/",
+                    "https://en.coscoshipping.com/art/2018/1/23/art_6923_72178.html",
+                    "https://www.fdfa.be/en/treaties-and-mous?f%5B0%5D=treaties-and-mous-countries-and-regions%3Achina-1&sort_by=paddle_publication_date&sort_order=DESC",
+                    "http://be.china-embassy.gov.cn/eng/sghd/202206/t20220629_10711565.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.liege.be/fr/vie-communale/services-communaux/international/jumelages-et-partenaires",
+                    "https://www.woluwe1150.be/services-communaux/jumelages/",
+                    "https://www.mons.be/ma-commune/mons-et-son-histoire/jumelages/changsha"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "There are regular visits of Belgian politicians in China, inter alia, the high-level visit of King Philippe in 2015. The Prime Ministers also travel regularly to China to meet their counterparts. During the COVID-19 pandemics,  online meetings were hold.",
+                "evidence_urls": [
+                    "https://www.premier.be/en/video-call-li-keqiang-prime-minister-china"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "There is no evidence for such activities. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No such reports exist. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "There is no evidence for such activities. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "There is no evidence for such activities. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "1",
+                "evidence": "The Workers' Party (PTB) abstained from voting for the resolution in favor of the Uighur people in March 2021.",
+                "evidence_urls": [
+                    "https://www.ptb.be/la_r_pression_des_ou_ghours_en_chine_et_la_nouvelle_guerre_froide"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "The only known prominent example is Yves Leterme, a former Prime Minister",
+                "evidence_urls": [
+                    "https://www.europarl.europa.eu/doceo/document/A-9-2022-0022_FR.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/CountrySnapshot/en/BEL",
+                    "https://oec.world/en/profile/country/bel"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "Interview with expert n\u00b03",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "The PRC is not Belgium's top customer. ",
+                "evidence_urls": [
+                    "https://oec.world/en/profile/country/bel"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "Not according the two links provided. However, according to the report \"European seaports and\nChinese strategic influence\" (see below URL1)  and the artical \"La Chine s'est empar\u00e9e de pr\u00e8s 90% du terminal de conteneurs de Zeebrugge. \" (see below URL2), both of these descriptions show that \"in Zeebrugge, COSCO owns 90 per cent of the only terminal operator, COSCO Shipping Ports Zeebrugge Terminal\".",
+                "evidence_urls": [
+                    "https://www.clingendael.org/sites/default/files/2019-12/Report_European_ports_and_Chinese_influence_December_2019.pdf",
+                    "https://www.lalibre.be/economie/entreprises-startup/2019/12/26/la-chine-sest-emparee-de-pres-90-du-terminal-de-conteneurs-de-zeebrugge-FTZYBBFPYFH4LHOKYTXTHFKCCI/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Belgium became an official member in July 2019. The AIIB's Board of Governors approved ist membership in March 2017. ",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "No but we can notice that there are several Belgian the team members of Silk Road Partners.",
+                "evidence_urls": [
+                    "https://silkroadpartners.eu/team/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "On 30 December 2020, the EU and China concluded in principle the negotiations on the Comprehensive Agreement on Investment (CAI) (see below URL1). But in this artical \"Is the EU-China Investment Agreement Dead?\" (see below URL2)., it shows that since China\u2019s refusal to condemn the Russian invasion of Ukraine, the agreement is already on ice.",
+                "evidence_urls": [
+                    "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china/eu-china-agreement_en",
+                    "https://thediplomat.com/2022/03/is-the-eu-china-investment-agreement-dead/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. No restrictions were lowered for attracting the China-Belgium Technoly Center (CBTC), launched in 2016 in Louvain-la-Neuve. ",
+                "evidence_urls": [
+                    "https://www.wallonia.be/en/news/china-closely-monitors-its-incubator-louvain-la-neuve"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "There is no evidence that Chinese entities do provide telecom services. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "In June 2020, Belgium reacted to the prominent presence of Huawei and ZTE as well as pressure from the US. It imposed new restrictions, including banning so-called high-risk vendors \"in the 'core' and 'backbone' of 5G netowrks and a cap of 35 percent for such vendors in the 'radio access' part of the network\". However, the Chinese companies were not mentioned by name. ",
+                "evidence_urls": [
+                    "https://www.politico.eu/article/belgium-huawei-restrictions/",
+                    "https://www.reuters.com/article/us-orange-nokia-security-5g-idUSKBN26U0YY"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "The Belgian Military boutght between 2016 and 2019 about 300 Huawei routers. After a political controversy, the Ministry of Defence ordered a replacement. ",
+                "evidence_urls": [
+                    "https://www.brusselstimes.com/215899/controversy-as-belgian-defense-uses-chinese-huawei-to-access-the-internet",
+                    "https://www.techzine.eu/news/security/80317/belgian-military-forced-to-replace-huawei-wifi-hotspots/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/data/",
+                    "https://www.brusselstimes.com/215899/controversy-as-belgian-defense-uses-chinese-huawei-to-access-the-internet"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "There is no evidence for this claim.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "2",
+                "evidence": "According to the website \"Mapping China\u2019s Tech Giants\", there exist 36 projects in Belgium. An expert interview confirms these activities (see below URL1). ",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/homepage/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cips.com.cn"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.lecho.be/economie-politique/europe/economie/l-ere-des-investissements-chinois-massifs-est-terminee-en-europe/10383374.html",
+                    "https://www.crunchbase.com/hub/belgium-venture-capital-investors"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.yicaiglobal.com/news/baidu-partners-belgium-wabco-on-driverless-vehicle-solutions"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://sensortower.com/android/rankings/top/mobile/cambodia/overall?locale=%E2%80%8Ezh-%E2%80%8ECN&iap=all&watch_enabled=&rankings_type=free&min_cost=0&max_cost=&date%E2%80%8E=2021-06-12&show_store_dat=true%E2%80%8E"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "There is no evidence for such activities. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "There is no evidence for recent meetings. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "There are only few such relations. For instance, a meeting  of the Party Leadership Group of the All-China Women's Federation with the Belgian Chinese Women's Federation took place in Beijing in September 2019.  \n",
+                "evidence_urls": [
+                    "https://www.womenofchina.cn/womenofchina/html1/19112/2806-1.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No evidence could be found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.pewresearch.org/global/2020/10/06/unfavorable-views-of-china-reach-historic-highs-in-many-countries/",
+                    "https://www.pewresearch.org/global/2022/06/29/negative-views-of-china-tied-to-critical-views-of-its-policies-on-human-rights"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "There is no evidence for such imports. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "There exists no evidence for such exports. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "There is no evidence for such cooperation. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence could be found. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "There is no evidence for such a behavior. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=20-12-16&numac=2019010102"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://diplomatie.belgium.be/fr/politique/themes-politiques/paix-et-securite/terrorisme/lutte-contre-le-terrorisme"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "There is no evidence for such activities. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.lavenir.net/actu/belgique/2021/09/01/des-espions-chinois-echappent-a-des-poursuites-en-belgique-64ZJS4QWXNCPBJZVOMASIPYGBY/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "3",
+                "evidence": "The Belgian State Security Service (VSSE) warns of Chinese espionage targeted agains Belgian interests. However, many suspected activities are directed against the EU institutions or the NATO located in Belgium.",
+                "evidence_urls": [
+                    "https://diplomatie.belgium.be/en/news/declaration-minister-foreign-affairs-malicious-cyber-activities",
+                    "https://www.rtbf.be/article/la-belgique-accuse-des-pirates-chinois-de-cyberattaques-contre-la-defense-et-l-interieur-11033718",
+                    "https://www.euractiv.com/section/politics/short_news/belgium-hacked-most-likely-by-china/",
+                    "https://www.vrt.be/vrtnws/en/2019/11/23/belgian-trade-mission-suffers-massive-attack-in-china/",
+                    "https://www.rtbf.be/article/cyberattaque-dune-vaste-ampleur-en-belgique-des-suspicions-despionnage-coordonne-par-un-etat-etranger-10769166",
+                    "https://www.politico.eu/article/belgium-defense-ministry-hit-with-cyberattack/",
+                    "https://www.scmp.com/news/world/europe/article/3039940/how-belgium-became-drawcard-spies-and-gateway-chinese-espionage",
+                    "https://euobserver.com/world/148409"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "There is no evidence for such activities. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "There is no evidence for this claim. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "There is no evidence for such a behavior. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "There is no evidence for such a behavior. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "There is no evidence for such a behavior. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Belgium had a GDP per capita of US$51,767.80 and a total population of 11.58 million people.",
+    "description-2": "Belgium established diplomatic relations with the People's Republic of China in 1971. Belgium was ranked 23rd in Reporters Without Borders' 2022 World Press Freedom Index, and Free in Freedom House's 2022 Global Freedom Status, with a score of 96/100."
+}

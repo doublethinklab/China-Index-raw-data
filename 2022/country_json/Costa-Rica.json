@@ -1,0 +1,1003 @@
+{
+    "name": "Costa Rica",
+    "partner": "Fundaci\u00f3n Andr\u00e9s Bello - Centro de Investigaci\u00f3n Chino Latinoamericano",
+    "year": "2022",
+    "GDP": "$12,508.6",
+    "population": "5.13M",
+    "original": "124/380",
+    "ranking": "39",
+    "overall": "33%",
+    "effect": "29%",
+    "exposure": "41%",
+    "pressure": "4%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existe registro de medios costarricenses que pertenezcan a dicha organizaci\u00f3n.",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.puntoyaparte-ca.com/staff/javier-cordoba/",
+                    "https://www.youtube.com/watch?v=QQfCL42LacE",
+                    "http://spanish.xinhuanet.com/2019-11/30/c_138596137.htm"
+                ],
+                "note": "La agencia de noticias Xinhua mantiene un periodista en el pa\u00eds, que se dedica a cubrir noticias nacionales, o informaciones bilaterales Costa Rica-China, o noticias de la regi\u00f3n centroamericana. Ahora, este periodista trabaja tambien para la cadena CGTN.",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3wycNjO",
+                    "https://bit.ly/3sQ6sxS"
+                ],
+                "note": "En este caso, debo recurrir al perfil de Facebook del periodista Manuel Estrada, de Diario Extra, que estuvo entre abril y agosto del 2019 en diversos lugares de China, en una gira pagada por el PRC. Estrada todav\u00eda labora en Diario Extra, como lo muestra el segundo enlace. Actualmente es el subdirector.",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3wEIDKp"
+                ],
+                "note": "Las \u00faltimas evidencias son de antes de la pandemia.",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.gatotv.com/canal/cgtn_espanol",
+                    "https://www.cabletica.com/television/canales"
+                ],
+                "note": "En el caso de las noticias de la agencia Xinhua, no se trata de una difusi\u00f3n masiva, mientras que todas las cableras tienen el Canal CCTV, que transmite tanto programas en ingl\u00e9s como en chino, y transmite otro canal que se llama CGTN. No hay medios impresos.",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existe evidencia de medios que sean propiedad, en todo o parte, de ciudadanos de la RPC o sus empresas.",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://espanol.cgtn.com/n/2022-05-03/GfDCEA/CGTN-y-medios-de-comunicacion-latinoamericanos-y-caribenos-presentan-el-programa-especial-CGTN-Charla-Juvenil-China-America-Latina/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Como periodista, soy un constante usuario de los medios sociales y tengo responsabilidad en monitoreo de noticias, pero nunca he visto ni tenido evidencia de publicidad de este tipo.",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No hay evidencia sobre este tipo de incidentes en Costa Rica.",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No hay evidencia sobre este tipo de incidentes en Costa Rica.",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Se ha hecho una revisi\u00f3n recurrente de redes y medios para verificar este indicador, sin que se haya obtenido alguna evidencia de que haya habido personalidades o celebridades de Costa Rica que se refieran a alguno de estos asuntos.",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "Este grupo parlamentario de amistad estaba integrado por congresistas que acaban de terminar funciones este 30 de abril. Adjunto documento de Google con la lista oficial que envi\u00f3 la funcionaria Florencine Fern\u00e1ndez Flores, de la Unidad de Cooperaci\u00f3n Internacional de la Comisi\u00f3n de Relaciones Internacionales y Comercio Exterior de la Asamblea Legislativa. (enlace 1)",
+                "evidence_urls": [
+                    "https://drive.google.com/file/d/1Xryn6IE4WxE17vn3ye3vQ20dT1qtad01/view"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=gc5NO7JuE6M",
+                    "https://www.youtube.com/watch?v=WNo8RcQZwTA&t=72s"
+                ],
+                "note": "La reuni\u00f3n m\u00e1s reciente se realiz\u00f3 de forma virtual, el 19 de octubre del 2021. ",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "En los 15 a\u00f1os de relaciones diplom\u00e1ticas de Costa Rica con la RPC, ha habido numerosas visitas de funcionarios costarricenses a la RPC, pero no hay constancia de pasant\u00edas o cursos para diplom\u00e1ticos o servidores p\u00fablicos.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No hay evidencia de que la RPC haya presionado a diplom\u00e1ticos para cambiar posiciones pol\u00edticas o diplom\u00e1ticas. Vale apuntar que desde el establecimiento de relaciones diplom\u00e1ticas, en el 2007, Costa Rica ha mantenido posiciones neutrales en numerosas discusiones en torno a asuntos relacionados con intereses de la RPC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No hay evidencia de que ciudadanos de Costa Rica hayan sido detenidos o que se les haya negado la visa de salida de la RPC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "En las actas de la Asamblea General de la OMS hay evidencia de que se habl\u00f3 a favor de que Taiw\u00e1n participara, en el 2005, como observador. Para esa \u00e9poca, CR a\u00fan sosten\u00eda relaciones diplom\u00e1ticas con la Rep\u00fablica de China en Taiw\u00e1n. Despu\u00e9s de ese a\u00f1o, la delegaci\u00f3n costarricense no habl\u00f3, ni a favor ni en contra. Las relaciones diplom\u00e1ticas entre CR y la RPC se establecieron en el 2007. Se adjunta copia del Marco de Acci\u00f3n Conjunta para la Cooperaci\u00f3n entre CR y la RPC 2016-2020, donde Costa Rica se compromete a apoyar los intereses n\u00facleo y grandes preocupaciones de soberan\u00eda nacional e integridad territorial de China.",
+                "evidence_urls": [
+                    "http://www.mag.go.cr/asuntos-internacionles/Plan-Accion-Conjunta-para-Cooperacion-2016-2020.pdf",
+                    "https://apps.who.int/gb/ebwha/pdf_files/WHA58-REC3/A58_REC3-en.pdf#page=1"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "3",
+                "evidence": "Aunque Costa Rica no anunci\u00f3 su apoyo p\u00fablico a Qu Dongyu, director general de la FAO, un funcionario de la Canciller\u00eda, que fuera representante de Costa Rica ante la FAO, el FIDA y el PMA, Pablo Innecken, confirma que Costa Rica, en bloque con los dem\u00e1s pa\u00edses de Am\u00e9rica Latina, estuvo entre los 107 pa\u00edses que lo apoyaron. En cuanto a ICAO e Interpol, no se obtiene evidencia. En el caso de la ICAO (OACI, por sus siglas en espa\u00f1ol), valga mencionar que Costa Rica entra a ser parte de su consejo a partir del 2019, un a\u00f1o despu\u00e9s de la reelecci\u00f3n de Fang Liu como secretaria general.",
+                "evidence_urls": [
+                    "https://www.facebook.com/777319662401534/posts/1736727786460712/",
+                    "https://www.rree.go.cr/?sec=servicios&cat=prensa&cont=593&id=5352"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "El gobierno de Costa Rica no se ha pronunciado, como Estado, sobre las reclamaciones de la RPC sobre el mar meridional de China, excepto una agrupaci\u00f3n pol\u00edtica que, para el 2016, era la tercera en tama\u00f1o en el Congreso costarricense, pero cuya posici\u00f3n no es significativa ni determinante en la pol\u00edtica exterior costarricense. No obstante, hago \u00e9nfasis en lo ya indicado sobre el Marco de Acci\u00f3n Conjunta para la Cooperaci\u00f3n entre CR y la RPC, 2016-2020.",
+                "evidence_urls": [
+                    "https://bit.ly/3MEeNfM",
+                    "http://spanish.xinhuanet.com/2016-07/07/c_135495337.htm",
+                    "https://bit.ly/3LGs0Dv"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "En el enlace de soporte se puede observar que Costa Rica no estuvo a favor de un pronunciamiento contra la pol\u00edtica de Derechos Humanos de la RPC en el territorio de Xinjiang. Tal y como puede observarse, la naci\u00f3n centroamericana no aparece entre las 43 patrocinantes de dicha declaraci\u00f3n. ",
+                "evidence_urls": [
+                    "https://onu.delegfrance.org/we-call-on-china-to-allow-immediate-meaningful-and-unfettered-access-to"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "Como enlace adjunto a esta respuesta, se muestran las declaraciones del exembajador de Costa Rica en la RPC, Marco Vinicio Ruiz, en las que explica la estrategia de este pa\u00eds de no expresar una posici\u00f3n p\u00fablica sobre el asunto del T\u00edbet y otros asuntos relacionados con intereses de la RPC, tales como la situaci\u00f3n de los uigures en Xinjiang, o las reclamaciones en el Mar de China Meridional. Adicionalmente, vale recordar el documento firmado entre ambas naciones sobre apoyo a los intereses soberanos de ambos pa\u00edses. ",
+                "evidence_urls": [
+                    "https://bit.ly/38IQDlN"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "Declaraciones del exembajador de Costa Rica en la RPC, Marco Vinicio Ruiz, explica la estrategia de nuestro pa\u00eds de no expresar una posici\u00f3n p\u00fablica sobre el asunto del T\u00edbet y otros asuntos relacionados con intereses de la RPC, tales como la situaci\u00f3n de los uigures en Xinjiang, o las reclamaciones en el Mar de China Meridional (enlace 1). \nAdicionalmente, vale recordar el documento firmado entre ambas naciones sobre apoyo a los intereses soberanos de ambos pa\u00edses. ",
+                "evidence_urls": [
+                    "https://bit.ly/38IQDlN",
+                    "https://bit.ly/39L0p6Q"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://citic.ucr.ac.cr/noticias/universidad-costa-rica-firma-convenio-marco-cooperacion-con-compania-huawei-technologies",
+                    "http://institutoconfucio.ucr.ac.cr/content/intercambio-de-experiencias-entre-china-y-costa-rica-y-donaci%C3%B3n-de-insumos-m%C3%A9dicos-fortalece"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "Existen dos institutos Confucio, uno \"independiente\" que aparece en el primer enlace, que funciona sin ligamen a ninguna instituci\u00f3n educativa, y el segundo que aparece ligado a la universidad estatal m\u00e1s grande y prestigiosa del pa\u00eds, la Universidad de Costa Rica, tanto as\u00ed que su sitio web est\u00e1 ligado dentro del sitio web institucional.",
+                "evidence_urls": [
+                    "https://bit.ly/3NtAShj",
+                    "https://bit.ly/3MEBBfE"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "Ver los puntos del 3 al 8 del Art\u00edculo VIII. \u00c1rea Educativa del Marco de Acci\u00f3n Conjunta para la Cooperaci\u00f3n entre el Gobierno de Costa Rica y el Gobierno de la Rep\u00fablica Popular China 2016-2020.",
+                "evidence_urls": [
+                    "https://bit.ly/3Nr5yzI",
+                    "https://bit.ly/3PARF3N"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "No hay evidencia de que haya centros de investigaci\u00f3n acad\u00e9mica o think tanks de este tipo en Costa Rica.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "4",
+                "evidence": "La Universidad de Costa Rica, la m\u00e1s importante del pa\u00eds, tiene seis convenios con universidades estatales o entidades, no solo para becas, sino tambi\u00e9n para movilidad de docentes e investigadores entre ambos pa\u00edses. En el caso de las becas, son para estudios doctorales. ",
+                "evidence_urls": [
+                    "https://oaice.ucr.ac.cr/es/cooperaci%C3%B3n-internacional-msuperior/convenios/convenios-vigentes.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "3",
+                "evidence": "De lo que hay m\u00e1s evidencia es de m\u00faltiples convocatorias a programas de becas del gobierno de la RPC, y en esta p\u00e1gina de la embajada en Costa Rica, tambi\u00e9n se evidencia que ha habido programas de reclutamiento a programas de entrenamiento, en particular del Ministerio de Ciencia y Tecnolog\u00eda de la RPC. ",
+                "evidence_urls": [
+                    "https://bit.ly/3th6DSU",
+                    "https://bit.ly/3zhYdib"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "3",
+                "evidence": "En los dos enlaces adjuntados, se puede observar parte de las condiciones establecidas por la RPC para el pago de estancias acad\u00e9micas, Maestr\u00edas o Doctorados en su territorio.",
+                "evidence_urls": [
+                    "https://bit.ly/3GmOxod",
+                    "https://bit.ly/38aBLwg"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No hay evidencia de incidentes o acciones de este tipo.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No hay evidencia de este tipo de incidentes.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "evidence": "Espec\u00edficamente, la Embajada de la RPC estuvo involucrada en el dise\u00f1o de un Bachillerato en mandar\u00edn, junto con la Universidad Nacional (UNA), centro de educaci\u00f3n superior p\u00fablico que se ubica en Heredia, Costa Rica. ",
+                "evidence_urls": [
+                    "https://bit.ly/3xcGm9K"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No hay evidencia en torno a profesores o maestros que hayan tenido problemas por estas discusiones, o que hayan sufrido presi\u00f3n desde otros sectores o colegas por ello.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://spanish.xinhuanet.com/chinaiber/2016-06/30/c_135479063.htm",
+                    "https://www.nicoya.go.cr/noticia/93/municipalidad-de-nicoya-firma-con-china-un-programa-para-instalar-camaras-de-seguridad-en-el-canton"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.larepublica.net/noticia/ciudades-chinas-y-ticas-fortalecen-sus-lazos-de-hermandad"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "En el primer enlace, se deja constancia de los viajes m\u00e1s recientes de diputados costarricenses a la RPC, pero eso sucedi\u00f3 durante los \u00faltimos cuatro periodos legislativos, despu\u00e9s del establecimiento de relaciones diplom\u00e1ticas (2007). Tambi\u00e9n viajaron en numerosas ocasiones representantes del partido m\u00e1s grande y tradicional de Costa Rica, el Partido Liberaci\u00f3n Nacional (PLN). En el segundo enlace, se hace referencia al viaje de empleados de la gran empresa estatal de energ\u00eda y telecomunicaciones de Costa Rica, que tiene el monopolio de la producci\u00f3n y comercializaci\u00f3n de electricidad, el Instituto Costarricense de Electricidad (ICE).",
+                "evidence_urls": [
+                    "https://bit.ly/3MECuVw",
+                    "https://www.youtube.com/watch?v=k3OtMjrvHHg"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "El primer enlace corresponde al viaje de siete diputados del periodo legislativo reci\u00e9n concluido, invitados por la Asamblea Popular Nacional de la RPC, donde sostuvieron reuniones de alto nivel con representantes del gobierno chino y de la Asamblea Nacional del Pueblo. En julio del 2013, viaj\u00f3 el entonces presidente de la Asamblea Legislativa Costarricense, y antes del viaje del entonces presidente del Congreso, tambi\u00e9n hab\u00edan ido otros diputados y representantes del Partido Liberaci\u00f3n Nacional, a la RPC.",
+                "evidence_urls": [
+                    "https://bit.ly/3wEFElj",
+                    "https://bit.ly/38Bsxti"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "3",
+                "evidence": "El ministro de Seguridad P\u00fablica del gobierno reci\u00e9n terminado (2018-2022), Michael Soto, viaj\u00f3 a la RPC, donde concret\u00f3 no solo donaciones econ\u00f3micas importantes, sino tambi\u00e9n la visita a Costa Rica de equipos t\u00e9cnicos de la RPC. Tambi\u00e9n lo hab\u00eda hecho, antes que \u00e9l, el ministro de Seguridad del gobierno anterior (2014-2018), Gustavo Mata, que hab\u00eda recibido tambi\u00e9n financiamiento de parte de la RPC.",
+                "evidence_urls": [
+                    "https://bit.ly/3aza8xP"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No hay evidencia de este tipo de financiamiento o donaciones. En Costa Rica, este tipo de donaciones o financiamiento extranjero a campa\u00f1as electorales est\u00e1 fuera de la ley, es ilegal. Aunque ha habido financiamiento ilegal en algunas campa\u00f1as, no hay evidencia de que se haya dado, en alg\u00fan momento, desde la RPC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No se cuenta con evidencia en torno al apoyo de parte de, por ejemplo, el Instituto Confucio hacia alg\u00fan empleado de gobierno, pol\u00edtico y agrupaci\u00f3n pol\u00edtica. Por lo pronto, el Instituto ha sido amplificador de las donaciones canalizadas hacia CR de parte de la RPC a trav\u00e9s de su embajada. Existe tambi\u00e9n una C\u00e1mara de Industria y Comercio China-Costa Rica. Recomiendo el enlace de YouTube del canal CGTN donde se da cuenta del muy reciente acto en que se celebr\u00f3 el 15 aniversario del establecimiento de relaciones internacionales entre China y Costa Rica.",
+                "evidence_urls": [
+                    "https://bit.ly/3MGImxq",
+                    "https://bit.ly/3Npt7JL",
+                    "http://cicccr.com/",
+                    "https://www.facebook.com/CamaraChinaCR/",
+                    "https://www.facebook.com/ColoniaChinaCR/",
+                    "https://bit.ly/3zmGExy",
+                    "http://acdacc.org/esp.html",
+                    "https://www.youtube.com/watch?v=bkGE1elTVGw"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "En las campa\u00f1as pol\u00edticas, las relaciones diplom\u00e1ticas de Costa Rica con la RPC no han sido objeto de debate, ni se ha promovido ning\u00fan tipo de modificaci\u00f3n en dichas relaciones.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "Todos los presidentes de Costa Rica, desde el 2007, han hablado positivamente del gobierno de la RPC y de las posibilidades de nuestro pa\u00eds como socio estrat\u00e9gico.",
+                "evidence_urls": [
+                    "https://bit.ly/3zoPkTV",
+                    "https://bit.ly/3MmAWOT",
+                    "https://bit.ly/3tdNlxZ"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No hay evidencia de hechos de este tipo, pese a la revisi\u00f3n hecha.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No hay evidencia de este tipo de contrataciones de empresas de servicios de seguridad privados.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "El principal socio de importaciones para Costa Rica sigue siendo Estados Unidos y China se ubica en el segundo lugar, muy por debajo del socio norteamericano.",
+                "evidence_urls": [
+                    "https://bit.ly/3thuS3s",
+                    "https://bit.ly/3NVOhz0"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "El enlace contiene declaraciones del exministro de Hacienda, Elian Villegas (2020-2022), en las que afirma que la RPC ni sus entidades financieras son acreedores de m\u00e1s de la mitad de la deuda soberana de Costa Rica.",
+                "evidence_urls": [
+                    "https://bit.ly/3mlZRHS"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "Costa Rica no tiene industrias extractivas de petr\u00f3leo ni metales. Del total de las exportaciones del pa\u00eds, la RPC solamente significa un 2%.",
+                "evidence_urls": [
+                    "https://bit.ly/38V5oC1",
+                    "https://bit.ly/3xnp7nr"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "Actualmente, la \u00fanica relaci\u00f3n entre el pa\u00eds y una empresa de la RPC es la ampliaci\u00f3n de la ruta 32 hacia la provincia caribe\u00f1a de Lim\u00f3n, que est\u00e1 a cargo de la empresa China Harbour Engineering Company (CHEC), que ha tenido importantes atrasos y pol\u00e9micas. Esa ampliaci\u00f3n est\u00e1 financiada por el Eximbank, de la RPC.",
+                "evidence_urls": [
+                    "https://bit.ly/3Q6jPDU"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://srcic.org/silk-road-members/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "La relaci\u00f3n comercial entre Costa Rica y China no ha implicado, hasta el momento, ning\u00fan tipo de sanciones; m\u00e1s bien, se firm\u00f3 en el 2010 un tratado de libre comercio entre ambos Estados. ",
+                "evidence_urls": [
+                    "http://fta.mofcom.gov.cn/english/index.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No hay evidencia de alg\u00fan tipo de problemas ocasionados a comercios ni comerciantes locales relacionados con este tipo de causas o asuntos. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.comex.go.cr/tratados/china/",
+                    "https://www.comex.go.cr/media/2676/doc_explicativo_china.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "Se aprob\u00f3 un acuerdo entre CR y la RPC para promover y proteger las inversiones entre ambos pa\u00edses, lo que implica efectivamente una relajaci\u00f3n de la normativa para atraer inversi\u00f3n extranjera directa en CR. Adicionalmente, se plante\u00f3 el establecimiento de una Zona Econ\u00f3mica Especial en el pac\u00edfico costarricense. ",
+                "evidence_urls": [
+                    "https://www.comex.go.cr/media/5156/china-ley-7994.pdf",
+                    "https://bit.ly/3Q3DWD2"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "Hasta el momento no hay evidencia de este tipo de situaciones en CR.",
+                "evidence_urls": [
+                    "https://bit.ly/3Mpy7fO"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.telesemana.com/panorama-de-mercado/costa-rica/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "Actualmente, hay una amplia discusi\u00f3n en torno a la 5G en Costa Rica, que no se ha resuelto, en que el Gobierno est\u00e1 intentando recuperar las frecuencias 5G de manos de la empresa estatal ICE, lo que ha implicado que todav\u00eda no se haya dado ning\u00fan contrato, pero que en un futuro muy cercano se podr\u00eda dar, con Huawei como uno de los principales interesados.",
+                "evidence_urls": [
+                    "https://bit.ly/38XBi0S",
+                    "https://bit.ly/3miC0J9",
+                    "https://bit.ly/3titfm4"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "La respuesta es 3, porque la empresa estatal ICE es la principal proveedora de servicios de telecomunicaciones en el pa\u00eds, con una importante participaci\u00f3n en el mercado.",
+                "evidence_urls": [
+                    "https://bit.ly/3titfm4"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/39bYKaH",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-1792"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3thsb1K"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3O1wKW9",
+                    "https://bit.ly/3thsb1K"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cips.com.cn/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "Seg\u00fan datos del Ministerio de Comercio Exterior (Comex) de Costa Rica, la inversi\u00f3n extranjera directa (IED) en el pa\u00eds, proveniente de la RPC fue de un 0,1% para el periodo 2012-2021, y en este \u00faltimo a\u00f1o se registr\u00f3 una inversi\u00f3n de US$1 mill\u00f3n, principalmente orientada en los sectores financiero (62,6%) e inmobiliario (37,4%).",
+                "evidence_urls": [
+                    "https://bit.ly/3NsgmOj"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No se encontr\u00f3 ninguna evidencia o prueba que permitiese afirmar o negar esta pregunta.",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3aCuyWt"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No hay ni contratos ni discusiones al respecto reportadas en Costa Rica respecto a BeiDou. ",
+                "evidence_urls": [
+                    "https://bit.ly/3xnyyD8"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "3",
+                "evidence": "Por lo observado en las p\u00e1ginas de referencia, el grupo denominado Asociaci\u00f3n para la Promoci\u00f3n de la Reunificaci\u00f3n Pac\u00edfica China en Costa Rica mantiene actividades desde hace por lo menos siete a\u00f1os en el pa\u00eds, aunque no haya evidencia de sitios web o en redes sociales de ese grupo.",
+                "evidence_urls": [
+                    "https://bit.ly/3xoNq4l",
+                    "https://bit.ly/3GZEaqr"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "En el enlace proporcionado como observaci\u00f3n adicional se menciona al Sr. Zhou Qiang como jefe para Centroam\u00e9rica; sin embargo, no se encontr\u00f3 menci\u00f3n de esa persona en p\u00e1ginas costarricenses.",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html",
+                    "http://spanish.xinhuanet.com/2020-07/13/c_139209077.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No se encontraron registros de intercambios de este tipo ni visitas oficiales.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existi\u00f3 forma de comprobar a personas vinculadas con el UFWD en Costa Rica, raz\u00f3n por la cual no se logr\u00f3 obtener evidencia suficiente para responder esta pregunta.",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "Por el momento no se encuentra colaboraci\u00f3n cercana ni de otro tipo entre contrapartes de este tipo de asociaciones. El Colegio de Periodistas de Costa Rica (Colper) ha firmado convenios con la embajada de la RPC en CR, y ha existido participaci\u00f3n de artistas costarricentes en la Octava Bienal de Arte de Beijing, en el 2019, tal como lo evidencia el enlace, pero no se registra colaboraci\u00f3n entre contrapartes. De igual forma, ha habido presentaciones de artistas de la RPC en territorio costarricense en el marco de celebraciones como el A\u00f1o Nuevo Lunar, pero no con registro de colaboraci\u00f3n entre contrapartes.",
+                "evidence_urls": [
+                    "https://bit.ly/3MtAjmG"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "Valga enfatizar que ha habido m\u00faltiples donaciones en 15 a\u00f1os, incluyendo las que se tramitan a trav\u00e9s del gobierno, para diversas instituciones.",
+                "evidence_urls": [
+                    "https://www.facebook.com/watch/?v=350181119490334",
+                    "https://bit.ly/3zhA7Uz"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "3",
+                "evidence": "En este enlace se proporcionan declaraciones del expresidente ejecutivo del Sistema Nacional de Radio y Televisi\u00f3n (Sinart) de CR, Boris Ram\u00edrez (2021-2022), sobre los convenios y contenidos televisivos que se trasmitieron a trav\u00e9s del canal oficial, de forma gratuita.",
+                "evidence_urls": [
+                    "https://bit.ly/3xmIflh"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "En este caso, lo que se podr\u00eda decir es que la Embajada de la RPC en Costa Rica promueve concursos de Vlog, que es una publicaci\u00f3n de un video en redes sociales, en este caso para hablar sobre China desde la mirada costarricense.",
+                "evidence_urls": [
+                    "https://bit.ly/3aKTqLV"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "Este no es un tema de inter\u00e9s para las celebridades costarricenses.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "En este caso, lo que se anuncia con regularidad, seg\u00fan vaya sucediendo, son las donaciones de parte de la RPC o convenios de cooperaci\u00f3n que se firman entre ambas naciones. Muy espor\u00e1dicamente ha habido manifestaciones positivas sobre estas relaciones, pero como parte del ejercicio diplom\u00e1tico. La \u00faltima vez que se dieron este tipo de afirmaciones sobre una narrativa af\u00edn a la RPC fue en junio del 2020, cuando se difundi\u00f3 una conversaci\u00f3n entre el entonces presidente de Costa Rica, Carlos Alvarado (2018-2022) y el mandatario de la RPC, Xi Jinping.",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cecr//esp/zgyw/t1786592.htm",
+                    "https://bit.ly/3zqyVyx"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3Q6SmSQ"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3xq4Nl6",
+                    "https://bit.ly/3mnnkIO",
+                    "https://bit.ly/3NCZIvq"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "Costa Rica no es un pa\u00eds productor de armas, como tal, y m\u00e1s bien ha liderado tratados para regular el comercio de armas convencionales. Al contrario, con frecuencia recibe donaciones de equipo para sus fuerzas de seguridad civiles, de parte de gobiernos extranjeros, incluyendo la RPC. Adicionalmente, es necesario enfatizar que Costa Rica, como Estado, elimin\u00f3 el ej\u00e9rcito como instituci\u00f3n permanente desde 1949, entonces lo que tiene son polic\u00edas civiles, tanto a nivel gubernamental como municipal.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "Como se ha indicado, Costa Rica no es un pa\u00eds productor ni desarrollador de equipo militar o de seguridad, por lo que, m\u00e1s bien, suele recibir donaciones de parte de sus socios extranjeros, entre ellos China.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existe evidencia que permita afirmar o negar esta pregunta.",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "Aunque ha existido ayuda humanitaria proveniente de la RPC, no ha tenido participaci\u00f3n del EPL (PLA, por su sigla en ingl\u00e9s), sino de parte del Gobierno y fundaciones privadas, a trav\u00e9s de la embajada de la RPC.",
+                "evidence_urls": [
+                    "https://bit.ly/3Nskaiz",
+                    "https://bit.ly/3aJta4B"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "Para el ingreso de personal militar extranjero o su permanencia en el pa\u00eds, as\u00ed como de naves militares, se requiere la aprobaci\u00f3n de la Asamblea Legislativa. No hay evidencia de este ingreso o permanencia de personal militar chino en Costa Rica.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "Valga reiterar que Costa Rica no posee ej\u00e9rcito y que, en su lugar, podr\u00eda decirse que ha habido cursos, becas de capacitaci\u00f3n y formaci\u00f3n para el personal policial costarricense de parte de la RPC, pero sin que se pueda decir que esa formaci\u00f3n o capacitaci\u00f3n provenga del EPL (PLA). Las relaciones han sido, principalmente, con la contraparte del Ministerio de Seguridad P\u00fablica de Costa Rica, es decir, el Ministerio de Defensa de la RPC.",
+                "evidence_urls": [
+                    "https://www.rree.go.cr/?sec=servicios&cat=prensa&cont=593&id=3269"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No hay evidencia de este tipo de situaciones, pensando principalmente en miembros de las autoridades de la Fuerza P\u00fablica, que son civiles, porque en Costa Rica no hay autoridades ni cuerpos militares.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No se ha encontrado evidencia de este tipo de actividades de parte de oficiales de inteligencia actuales o retirados.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "Tampoco hay evidencia de este tipo de actividades, nuevamente por la tradici\u00f3n de Costa Rica sin ej\u00e9rcito. Las conversaciones se han dado entre autoridades policiales civiles y sus contrapartes de la RPC, en cuanto a colaboraci\u00f3n sobre equipo policial y vigilancia.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No existen evidencias de este tipo de colaboraciones con el ELP (PLA), pues la cooperaci\u00f3n se da principalmente con autoridades estadounidenses en relaci\u00f3n con el combate al narcotr\u00e1fico, y no ejercicios militares, por el hecho de que CR no tiene ej\u00e9rcito ni actividades ni presupuesto militar.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "El \u00fanico tratado de extradici\u00f3n que hab\u00eda era con la Rep\u00fablica de China Taipei, firmado en 1984, y que queda sin efecto una vez se rompen las relaciones bilaterales en el 2007. En el caso del Tratado de Asistencia Legal Mutua en Asuntos Criminales entre la RPC y CR se empez\u00f3 a tramitar en el 2008, pero no se present\u00f3 al Congreso y, por consiguiente, no se ha aprobado.",
+                "evidence_urls": [
+                    "https://bit.ly/3mmD2nu",
+                    "https://bit.ly/3GZHiCH"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No se han firmado a la fecha este tipo de acuerdos de cooperaci\u00f3n espec\u00edficamente sobre terrorismo, pero s\u00ed ha existido la intenci\u00f3n de firmar proyectos de cooperaci\u00f3n, al menos en materia de combate al crimen organizado y el tr\u00e1fico internacional de drogas.",
+                "evidence_urls": [
+                    "https://bit.ly/3NCZIvq"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "Hay evidencia de actos delictivos relacionados con mafias chinas; no obstante, no se ha relacionado espec\u00edficamente con la Triada, sino m\u00e1s bien con mafias locales que, eventualmente, podr\u00edan tener v\u00ednculos con organizaciones m\u00e1s grandes. Uno de esos grupos es denominado Drag\u00f3n Rojo.",
+                "evidence_urls": [
+                    "https://www.bbc.com/mundo/noticias-america-latina-43646440",
+                    "https://observador.cr/exministro-denuncia-que-caso-de-mafia-china-en-el-que-colaboro-con-el-oij-prescribio-y-fiscalia-nunca-acuso/",
+                    "https://www.crhoy.com/nacionales/mafia-china-estaria-detras-de-venta-de-loteria-ilegal-y-piden-la-cabeza-de-greivin-moya/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No fue posible encontrar informaci\u00f3n que permitiese afirmar o negar esta pregunta.",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "1",
+                "evidence": "Este informe revelado en abril del 2022 establece que solamente un 7% de los ciberataques que sufre el Gobierno de Costa Rica y sus instituciones provienen de China. Actualmente, el Gobierno sufre desde mayo una gran oleada de ciberataques que tienen en jaque grandes instituciones, como Hacienda y la Caja Costarricense de Seguro Social (CCSS), a trav\u00e9s del malware Conti, con cabeza en Rusia pero que pueden venir desde una gran cantidad de localizaciones en el mundo.",
+                "evidence_urls": [
+                    "https://delfino.cr/2022/04/informe-internacional-senala-que-gobierno-recibe-cerca-de-1580-ciberataques-semanales",
+                    "https://bit.ly/3GTIkjE"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "1",
+                "evidence": "La presencia de mafia china tiene relaci\u00f3n sobre todo con extorsi\u00f3n a comercios de ciudadanos chinos en el pa\u00eds, pero sobre todo por razones econ\u00f3micas. No se tiene evidencia de que haya presiones o coerci\u00f3n relacionada con asuntos pol\u00edticos o posturas que disientan de los intereses de la RPC.",
+                "evidence_urls": [
+                    "https://bit.ly/3GVtdWO",
+                    "https://bit.ly/3xqkUPC"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "El gobierno present\u00f3 un portafolio de proyectos a autoridades del gobierno chino, con propuestas de inter\u00e9s para el Ministerio de Seguridad de CR, principalmente enfocados en tecnolog\u00eda y monitoreo. Hasta la fecha, solo se report\u00f3 haber recibido donaciones y cooperaci\u00f3n en cuanto a equipo policial y no directamente en este tipo de tecnolog\u00eda.",
+                "evidence_urls": [
+                    "https://bit.ly/3GZjkaY",
+                    "https://bit.ly/3wGuNHA"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "Se han recibido visitas de funcionarios de alto nivel de la RPC, pero no se realizan patrullajes conjuntos con ellos. Hasta la fecha, solamente hay convenios de patrullaje conjunto con EE.UU. para el combate al narcotr\u00e1fico, y con fuerzas policiales de la regi\u00f3n, pero no de la RPC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No se encuentra evidencia de situaciones de este tipo en Costa Rica. Generalmente, las detenciones de extranjeros se reportan por las autoridades, a requerimiento de la Interpol, por conductas delictivas.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No se encontr\u00f3 evidencia de deportaciones de este tipo.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "se encontr\u00f3 evidencia de decisiones de este tipo.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Costa Rica had a GDP per capita of US$12,509 and a total population of 5.13 million people. There is no information available on the Chinese population in the country.",
+    "description-2": "Costa Rica established diplomatic relations with the People's Republic of China in 2007. Costa Rica was ranked 8th in Reporters Without Borders' 2022 World Press Freedom Index, and Free in Freedom House's 2022 Global Freedom Status, with a score of 91/100. "
+}

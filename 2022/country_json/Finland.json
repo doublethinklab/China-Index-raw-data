@@ -1,0 +1,910 @@
+{
+    "name": "Finland",
+    "partner": "Central European Institute of Asian Studies",
+    "year": "2022",
+    "GDP": "$53,982.6",
+    "population": "5.54M",
+    "original": "71/392",
+    "ranking": "72",
+    "overall": "18%",
+    "effect": "9%",
+    "exposure": "22%",
+    "pressure": "19%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.eztv.vip/about/aboutus/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "\"\u8d6b\u5c14\u8f9b\u57fa\u65f6\u62a5\" has been started in Jan. 2021 until now(see the URL2 below). \n No obvious political contents, unlike the English language \u2018China News\u2019 section which has more political contents and mentions \u2018cooperation with People's Daily Online\u2019 but the editor is unreachable despite repeated attempts to inquire about the terms of contract over the past two years.",
+                "evidence_urls": [
+                    "http://www.chinanews.se/web/template/common/about.html",
+                    "https://cn.helsinkitimes.fi/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.helsinkitimes.fi/china-news.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "3",
+                "evidence": "In September 2019, Finland's largest newspaper Helsiging Sanomat (HS) published a frontpage add paid for by the Hong Kong SAR Government amplifying Beijing's propaganda about the HK protests. The editor of HS tried to defend its decision by claiming that social marketing falls under freedom of speech but it was very controversial among HS staff members and concerned segments of the wider public. In July 2021, HS and three other mainstream Nordic newspapers printed on their frontpage a common message of solidarity with Hong Kong's media freedom.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "Mari Manninen, a Finnish journalist Helsingin Sanomat, told me that she and her colleagues' harassment experience was very light compared with other countries.  Her book Kiinalainen juttu has couple of cases mentioned, where she also tells about Finnish researchers and business men declining her interviews out of fear.",
+                "evidence_urls": [
+                    "https://atena.fi/kirjat/kiinalainen-juttu"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "1",
+                "evidence": "In this article, it is suggested that Finnish media may have been promoting Finnish businesses by avoiding to upset the Chinese government but the only supportive reference cited is Mari Manninen's 2019 book",
+                "evidence_urls": [
+                    "https://researchportal.tuni.fi/en/publications/silence-is-golden-finnish-chinese-relations-and-freedom-of-speech"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "A slight case of elite capture in January 2022 during the Winter Olympics boycott when former Finnish Prime Minister Esko Aho (also mentioned in a recent EU report as a case of elite capture by Moscow) was interviewed by CGTN to spread 'positive news' but no explicit doubting or denial of human rights abuses",
+                "evidence_urls": [
+                    "https://news.cgtn.com/news/2022-01-06/Former-Finnish-PM-hopes-for-more-trust-globally-after-Beijing-2022-16BMrXAJW7K/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://yle.fi/uutiset/3-11246365"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://yle.fi/aihe/artikkeli/2020/02/09/kiinalaiset-maksoivat-useita-mika-niikon-matkoja-kansanedustajan-kiina-yhteydet"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://um.fi/documents/35732/48132/finland_s_action_plan_for_southeast_asia"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.europarl.europa.eu/doceo/document/RC-9-2020-0432_FI.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mtvuutiset.fi/artikkeli/suomi-tuomitsee-sanan-ja-lehdistonvapauden-rajoittamisen-hongkongissa/8351384"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://seura.fi/asiat/tutkivat/seura-tutki-kiinan-kannykkajatti-huawei-antaa-miljoonia-suomen-yliopistoille-mita-se-haluaa/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "0",
+                "evidence": "As the article \"Helsinki University closes China-funded Confucius Institute\", Helsinki University terminated the contract with its on-campus Confucius Institute (see the URL below).",
+                "evidence_urls": [
+                    "https://yle.fi/news/3-12500430"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nytimes.com/2012/12/11/technology/huawei-to-open-research-center-in-finland.html",
+                    "https://www.huaweicentral.com/huawei-announced-innovation-lab-in-finland-for-digital-finance-and-security/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Only personal knowledge available",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tutkainlehti.fi/akateemisen-vapauden-portinvartija/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://yle.fi/news/3-12500430"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://belt.china.org.cn/2017-11/15/content_41894135.htm?f=pad&a=false"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.hs.fi/kotimaa/art-2000006221649.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.iltalehti.fi/politiikka/a/18ff9c0f-77ee-45ff-a1d7-641ca1db4044"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eduskunta.fi/FI/tiedotteet/Sivut/Vehvil\u00e4inen-korosti-avointa-ja-ratkaisuhenkista-vuoropuhelua-tavatessaan-Kiinan-kansankongressin-puhemiehen-09122021.aspx"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.hs.fi/politiikka/art-2000008599979.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.demokraatti.fi/vantaan-vihreissa-kuohuu-valtuutettu-lahti-kiina-kohun-jalkeen",
+                    "https://www.storm.mg/article/2446507"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eduskunta.fi/FI/tiedotteet/Sivut/Vehvil\u00e4inen-korosti-avointa-ja-ratkaisuhenkista-vuoropuhelua-tavatessaan-Kiinan-kansankongressin-puhemiehen-09122021.aspx"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://researchportal.tuni.fi/en/publications/silence-is-golden-finnish-chinese-relations-and-freedom-of-speech"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.kauppalehti.fi/uutiset/nokia-syrjayttaa-huawein-suomalaisoperaattoreiden-yhteisessa-mobiiliverkossa-suomen-yhteisverkon-operointi-pois-kiistellylta-kiinalaisyritykselta/7fc42630-8d6e-4584-b67c-a7560840fd3b"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "1",
+                "evidence": "Much collaboration between telecommunication companies and Huawei as well as Nokia and Chinese companies on OPEN RAN, 5G, and patent issues with OPPO, much secrecy surrounds those",
+                "evidence_urls": [
+                    "https://baijiahao.baidu.com/s?id=1705882204850573618&wfr=spider&for=pc"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "Salo city seems to have some partnership on smart city with Huawei but not much recent info",
+                "evidence_urls": [
+                    "http://www.ceatec.org.cn/contents/452/3273.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "3",
+                "evidence": "Tencent made one very large investment in Games Giant Supercell (84% acquired from SoftBank) and more recently fintech app Enfuce as well as earlier on in Finnish sportswear Amer with Chinese sportswear giant Anta",
+                "evidence_urls": [
+                    "https://www.helsinkifintech.fi/news/tencent-bets-on-finnish-fintech-enfuce/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "Huawei on 5G and other areas",
+                "evidence_urls": [
+                    "https://www.huaweicentral.com/huawei-announced-innovation-lab-in-finland-for-digital-finance-and-security/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "TikTok",
+                "evidence_urls": [
+                    "https://www.similarweb.com/apps/top/google/store-rank/fi/social/top-free/",
+                    "https://www.mobileaction.co/top-apps/social-networking-6005/ios/fi"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "3",
+                "evidence": "Finland Association for Promoting Peaceful Reunification of China (FAPPRC) established in 2017, connected to the United Front work department, it organised a counter-demonstration against pro-democracy demonstrations in solidarity with Hong Kong",
+                "evidence_urls": [
+                    "https://www.isdp.eu/content/uploads/2022/08/ISDP-Asia-Paper-Chinese-Influence-Matti-Puranen.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://yle.fi/aihe/artikkeli/2020/03/16/perussuomalainen-kiina-ilmio-kasikirjoitus"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/02/china-finland-beijings-model-relationship-in-europe/",
+                    "https://ulkopolitist.fi/2020/02/23/kiinan-vaikutusoperaatioiden-taika-ase-toimii-myos-suomessa/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://yle.fi/uutiset/3-11819140"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "There were signs of cooperation back in 2012 but more recently relations seem to be at standstill.",
+                "evidence_urls": [
+                    "https://www.armyrecognition.com/october_2012_new_army_military_defence_industry_uk/china_and_finland_want_to_exchange_military_collaboration_in_the_field_of_training_2310121.html",
+                    "https://yle.fi/news/3-1182041"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ess.fi/paakirjoitus-mielipide/4313356"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "3",
+                "evidence": "Uncovered in spring 2013, a large-scale spying of the IT networks at the Finnish Ministry for Foreign Affairs focused on data traffic between Finland and the European Union and is believed to have continued for four years. A more recent large-scale cyberattack targeting the Finnish Parliament with the Finnish Security Intelligence Service (FSIS) revealing for the first time that the attack was of PRC origin.",
+                "evidence_urls": [
+                    "http://yle.fi/uutiset/mtv3_large-scale_network_spying_uncovered_at_mfa/6911394",
+                    "https://yle.fi/news/3-11843748"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Finland had a GDP per capita of US$53,983 and a total population of 5.54 million people.",
+    "description-2": "Finland established diplomatic relations with the People's Republic of China in 1950. Finland was ranked 5th in Reporters Without Borders' 2022 World Press Freedom Index, and Free in Freedom House's 2022 Global Freedom Status, with a score of 100/100."
+}
