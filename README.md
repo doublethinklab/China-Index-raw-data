@@ -8,7 +8,7 @@
 
 3. Layer Effect has now been renamed to Alignment in all the 2024 datasets and the main website.
 
-4. 101 Countries conducted and published by Dec 2024:
+4. 101 countries conducted and published by Dec 2024:
 
 - Afghanistan
 - Albania
