@@ -1,14 +1,14 @@
 # China Index Raw Data
 
-Data for China Index 2024
+## Data for China Index 2024
 
-1. The China Index 2024 introduces updated indicators to better capture the evolving dynamics of PRC influence. This includes 16 new indicators, the merging of 3 indicators, and the relocation of 6 indicators to different domains. Additionally, 32 indicators have been reworded to clarify their definitions. 
+1. The China Index 2024 introduces updated indicators to better capture the evolving dynamics of PRC influence. This includes 16 new indicators, merging 3 indicators, and relocating 6 indicators to different domains. Additionally, 32 indicators have been reworded to clarify their definitions. 
 
-To understand the update and for tracking single indicator with previous data, please refer to the indicator renewal documents and csv. (Coming soon)
+Please refer to the indicator renewal documents and CSV to understand the renewal and track the answer changes with a single indicator. (Coming soon)
 
 2. We have now included most of the json files that we used on the website, also you can find the country code and indicators metadata for mapping or other purposes.
 
-3. Layer Effect has been renamed to Layer Alignment in 2024 dataset.
+3. Layer Effect has been renamed to Layer Alignment in the 2024 dataset.
 
 4. 101 Countries conducted and published by Dec 2024:
 
