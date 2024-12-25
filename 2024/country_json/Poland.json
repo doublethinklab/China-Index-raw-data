@@ -19,8 +19,8 @@
     "ranking": "82",
     "overall": "22.7%",
     "exposure": "25%",
-    "pressure": "8%",
-    "alignment": "23%",
+    "pressure": "10%",
+    "alignment": "21%",
     "answer": {
         "Media": [
             {
@@ -1064,7 +1064,7 @@
             }
         ]
     },
-    "exposure_rank": 81,
-    "pressure_rank": 53,
-    "alignment_rank": 79
+    "exposure_rank": 80,
+    "pressure_rank": 45,
+    "alignment_rank": 78
 }

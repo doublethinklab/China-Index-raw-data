@@ -20,9 +20,9 @@
     "original": "238\/388",
     "ranking": "6",
     "overall": "61.3%",
-    "exposure": "67%",
-    "pressure": "31%",
-    "alignment": "58%",
+    "exposure": "64%",
+    "pressure": "38%",
+    "alignment": "59%",
     "answer": {
         "Media": [
             {
@@ -1114,7 +1114,7 @@
             }
         ]
     },
-    "exposure_rank": 5,
-    "pressure_rank": 19,
-    "alignment_rank": 11
+    "exposure_rank": 7,
+    "pressure_rank": 14,
+    "alignment_rank": 10
 }

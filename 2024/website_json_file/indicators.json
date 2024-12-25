@@ -6031,7 +6031,7 @@
         "number": "51",
         "domain": "Economy",
         "indicator": "In my country, financial institutions use the China Cross-Border Interbank Payment System (CIPS) clearing and settlement services system.",
-        "layer": "Pressure",
+        "layer": "Exposure",
         "grading": "0",
         "counties": [
             [
@@ -8792,7 +8792,7 @@
         "number": "74",
         "domain": "Society",
         "indicator": "In my country, PRC-connected entities are the main shareholders or developers of the top five popular social media\/messaging apps, based on their usage.",
-        "layer": "Alignment",
+        "layer": "Exposure",
         "grading": "0",
         "counties": [
             [
@@ -10934,7 +10934,7 @@
         "number": "92",
         "domain": "Law Enforcement",
         "indicator": "In my country, security services (安保\/保安) offered by private PRC companies are contracted by national or subnational governments.",
-        "layer": "Pressure",
+        "layer": "Exposure",
         "grading": "1",
         "counties": [
             [
@@ -11056,7 +11056,7 @@
         "number": "93",
         "domain": "Law Enforcement",
         "indicator": "In my country, law enforcement and judicial-related training offered by <a href='..\/about\/glossary#PRC-connected-individuals-and-entities' class='glossary-tag'>PRC-connected individuals or entities<\/a> have been accepted by national or subnational governments.",
-        "layer": "Pressure",
+        "layer": "Exposure",
         "grading": "1",
         "counties": [
             [
@@ -11298,7 +11298,7 @@
         "number": "95",
         "domain": "Law Enforcement",
         "indicator": "In my country, there are reports of cyber attacks targeting government, critical infrastructure, or enterprises that were suspected to be initiated from the PRC.",
-        "layer": "Alignment",
+        "layer": "Pressure",
         "grading": "0",
         "counties": [
             [
