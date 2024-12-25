@@ -354,7 +354,7 @@
         "remark": "",
         "grading": "0",
         "evdType": "System",
-        "layer": "Pressure"
+        "layer": "Exposure"
     },
     {
         "52": "My country has been the target of PRC economic coercion (e.g. trade/investment sanctions, boycotts) after the government, private companies, or NGOs made statements or introduced policies deemed unfavorable to the PRC.",
@@ -515,7 +515,7 @@
         "remark": "This indicator measures the \"usage\" of the apps instead of download numbers. However, if the respondent is certain about the usage but can't manage to find public data, then download numbers can be used as supporting evidence.",
         "grading": "0",
         "evdType": "System",
-        "layer": "Alignment"
+        "layer": "Exposure"
     },
     {
         "75": "In my country, there are cultural events, cultural exchange projects, or cultural organizations that are funded by or receive funding from PRC-connected entities, including in sports.",
@@ -641,14 +641,14 @@
         "remark": "",
         "grading": "1",
         "evdType": "System",
-        "layer": "Pressure"
+        "layer": "Exposure"
     },
     {
         "93": "In my country, law enforcement and judicial-related training offered by PRC-connected individuals or entities have been accepted by national or subnational governments.",
         "remark": "",
         "grading": "1",
         "evdType": "System",
-        "layer": "Pressure"
+        "layer": "Exposure"
     },
     {
         "94": "In my country, organized local criminal groups are known to have threatened or used violence to coerce, intimidate, or punish individuals critical of the PRC.",
@@ -662,7 +662,7 @@
         "remark": "",
         "grading": "0",
         "evdType": "Cases/Incidents",
-        "layer": "Alignment"
+        "layer": "Pressure"
     },
     {
         "96": "In my country, PRC-connected individuals or entities have established extra-legal physical premises from which to surveil or detain members of the Chinese diaspora (e.g. overseas police service stations).",

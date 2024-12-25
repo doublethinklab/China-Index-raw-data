@@ -1,6 +1,6 @@
 # China Index Raw Data
 
-Data for China Index 2024
+## Data for China Index 2024
 
 1. The China Index 2024 introduces updated indicators to better capture the evolving dynamics of PRC influence. This includes 16 new indicators, the merging of 3 indicators, and the relocation of 6 indicators to different domains. Additionally, 32 indicators have been reworded to clarify their definitions. 
 
