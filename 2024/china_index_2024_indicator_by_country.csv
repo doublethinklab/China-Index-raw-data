@@ -19,7 +19,7 @@
 01,1,,Venezuela,1,"South America",Exposure
 01,1,,Chile,3,"South America",Exposure
 01,1,,Ecuador,0,"South America",Exposure
-01,1,,Tanzania,3,"Sub-Saharan Africa",Exposure
+01,1,,Colombia,0,"South America",Exposure
 01,1,,Gambia,0,"Sub-Saharan Africa",Exposure
 01,1,,Algeria,0,"North Africa & West Asia",Exposure
 01,1,,France,3,Europe,Exposure
@@ -117,7 +117,7 @@
 02,1,,Venezuela,0,"South America",Exposure
 02,1,,Chile,0,"South America",Exposure
 02,1,,Ecuador,0,"South America",Exposure
-02,1,,Tanzania,1,"Sub-Saharan Africa",Exposure
+02,1,,Colombia,0,"South America",Exposure
 02,1,,Gambia,3,"Sub-Saharan Africa",Exposure
 02,1,,Algeria,2,"North Africa & West Asia",Exposure
 02,1,,France,0,Europe,Exposure
@@ -215,7 +215,7 @@
 03,1,,Venezuela,3,"South America",Exposure
 03,1,,Chile,3,"South America",Exposure
 03,1,,Ecuador,1,"South America",Exposure
-03,1,,Tanzania,2,"Sub-Saharan Africa",Exposure
+03,1,,Colombia,0,"South America",Exposure
 03,1,,Gambia,4,"Sub-Saharan Africa",Exposure
 03,1,,Algeria,4,"North Africa & West Asia",Exposure
 03,1,,France,0,Europe,Exposure
@@ -313,7 +313,7 @@
 04,1,,Venezuela,0,"South America",Exposure
 04,1,,Chile,3,"South America",Exposure
 04,1,,Ecuador,0,"South America",Exposure
-04,1,,Tanzania,2,"Sub-Saharan Africa",Exposure
+04,1,,Colombia,0,"South America",Exposure
 04,1,,Gambia,4,"Sub-Saharan Africa",Exposure
 04,1,,Algeria,3,"North Africa & West Asia",Exposure
 04,1,,France,4,Europe,Exposure
@@ -411,7 +411,7 @@
 05,1,,Venezuela,4,"South America",Exposure
 05,1,,Chile,3,"South America",Exposure
 05,1,,Ecuador,3,"South America",Exposure
-05,1,,Tanzania,2,"Sub-Saharan Africa",Exposure
+05,1,,Colombia,2,"South America",Exposure
 05,1,,Gambia,0,"Sub-Saharan Africa",Exposure
 05,1,,Algeria,3,"North Africa & West Asia",Exposure
 05,1,,France,2,Europe,Exposure
@@ -509,7 +509,7 @@
 06,1,,Venezuela,0,"South America",Exposure
 06,1,,Chile,3,"South America",Exposure
 06,1,,Ecuador,0,"South America",Exposure
-06,1,,Tanzania,1,"Sub-Saharan Africa",Exposure
+06,1,,Colombia,0,"South America",Exposure
 06,1,,Gambia,4,"Sub-Saharan Africa",Exposure
 06,1,,Algeria,0,"North Africa & West Asia",Exposure
 06,1,,France,4,Europe,Exposure
@@ -607,7 +607,7 @@
 07,1,,Venezuela,3,"South America",Exposure
 07,1,,Chile,4,"South America",Exposure
 07,1,,Ecuador,3,"South America",Exposure
-07,1,,Tanzania,2,"Sub-Saharan Africa",Exposure
+07,1,,Colombia,1,"South America",Exposure
 07,1,,Gambia,4,"Sub-Saharan Africa",Exposure
 07,1,,Algeria,0,"North Africa & West Asia",Exposure
 07,1,,France,2,Europe,Exposure
@@ -705,7 +705,7 @@
 08,1,,Venezuela,0,"South America",Exposure
 08,1,,Chile,4,"South America",Exposure
 08,1,,Ecuador,3,"South America",Exposure
-08,1,,Tanzania,2,"Sub-Saharan Africa",Exposure
+08,1,,Colombia,0,"South America",Exposure
 08,1,,Gambia,3,"Sub-Saharan Africa",Exposure
 08,1,,Algeria,2,"North Africa & West Asia",Exposure
 08,1,,France,1,Europe,Exposure
@@ -803,7 +803,7 @@
 09,0,,Venezuela,0,"South America",Pressure
 09,0,,Chile,4,"South America",Pressure
 09,0,,Ecuador,4,"South America",Pressure
-09,0,,Tanzania,0,"Sub-Saharan Africa",Pressure
+09,0,,Colombia,0,"South America",Pressure
 09,0,,Gambia,0,"Sub-Saharan Africa",Pressure
 09,0,,Algeria,0,"North Africa & West Asia",Pressure
 09,0,,France,4,Europe,Pressure
@@ -901,7 +901,7 @@
 10,1,,Venezuela,4,"South America",Alignment
 10,1,,Chile,1,"South America",Alignment
 10,1,,Ecuador,0,"South America",Alignment
-10,1,,Tanzania,1,"Sub-Saharan Africa",Alignment
+10,1,,Colombia,0,"South America",Alignment
 10,1,,Gambia,4,"Sub-Saharan Africa",Alignment
 10,1,,Algeria,4,"North Africa & West Asia",Alignment
 10,1,,France,2,Europe,Alignment
@@ -999,7 +999,7 @@
 11,1,,Venezuela,0,"South America",Alignment
 11,1,,Chile,3,"South America",Alignment
 11,1,,Ecuador,0,"South America",Alignment
-11,1,,Tanzania,0,"Sub-Saharan Africa",Alignment
+11,1,,Colombia,0,"South America",Alignment
 11,1,,Gambia,2,"Sub-Saharan Africa",Alignment
 11,1,,Algeria,4,"North Africa & West Asia",Alignment
 11,1,,France,3,Europe,Alignment
@@ -1097,7 +1097,7 @@
 12,0,,Venezuela,4,"South America",Exposure
 12,0,,Chile,4,"South America",Exposure
 12,0,,Ecuador,4,"South America",Exposure
-12,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+12,0,,Colombia,4,"South America",Exposure
 12,0,,Gambia,4,"Sub-Saharan Africa",Exposure
 12,0,,Algeria,4,"North Africa & West Asia",Exposure
 12,0,,France,4,Europe,Exposure
@@ -1195,7 +1195,7 @@
 13,1,,Venezuela,4,"South America",Exposure
 13,1,,Chile,3,"South America",Exposure
 13,1,,Ecuador,4,"South America",Exposure
-13,1,,Tanzania,4,"Sub-Saharan Africa",Exposure
+13,1,,Colombia,3,"South America",Exposure
 13,1,,Gambia,4,"Sub-Saharan Africa",Exposure
 13,1,,Algeria,1,"North Africa & West Asia",Exposure
 13,1,,France,0,Europe,Exposure
@@ -1293,7 +1293,7 @@
 14,1,,Venezuela,4,"South America",Exposure
 14,1,,Chile,3,"South America",Exposure
 14,1,,Ecuador,4,"South America",Exposure
-14,1,,Tanzania,4,"Sub-Saharan Africa",Exposure
+14,1,,Colombia,0,"South America",Exposure
 14,1,,Gambia,4,"Sub-Saharan Africa",Exposure
 14,1,,Algeria,2,"North Africa & West Asia",Exposure
 14,1,,France,0,Europe,Exposure
@@ -1391,7 +1391,7 @@
 15,0,,Venezuela,0,"South America",Pressure
 15,0,,Chile,0,"South America",Pressure
 15,0,,Ecuador,0,"South America",Pressure
-15,0,,Tanzania,0,"Sub-Saharan Africa",Pressure
+15,0,,Colombia,0,"South America",Pressure
 15,0,,Gambia,0,"Sub-Saharan Africa",Pressure
 15,0,,Algeria,0,"North Africa & West Asia",Pressure
 15,0,,France,0,Europe,Pressure
@@ -1489,7 +1489,7 @@
 16,0,,Venezuela,0,"South America",Pressure
 16,0,,Chile,4,"South America",Pressure
 16,0,,Ecuador,4,"South America",Pressure
-16,0,,Tanzania,0,"Sub-Saharan Africa",Pressure
+16,0,,Colombia,0,"South America",Pressure
 16,0,,Gambia,4,"Sub-Saharan Africa",Pressure
 16,0,,Algeria,NA,"North Africa & West Asia",Pressure
 16,0,,France,0,Europe,Pressure
@@ -1587,7 +1587,7 @@
 17,0,,Venezuela,4,"South America",Alignment
 17,0,,Chile,4,"South America",Alignment
 17,0,,Ecuador,4,"South America",Alignment
-17,0,,Tanzania,4,"Sub-Saharan Africa",Alignment
+17,0,,Colombia,4,"South America",Alignment
 17,0,,Gambia,4,"Sub-Saharan Africa",Alignment
 17,0,,Algeria,4,"North Africa & West Asia",Alignment
 17,0,,France,4,Europe,Alignment
@@ -1685,7 +1685,7 @@
 18,0,,Venezuela,4,"South America",Alignment
 18,0,,Chile,4,"South America",Alignment
 18,0,,Ecuador,4,"South America",Alignment
-18,0,,Tanzania,4,"Sub-Saharan Africa",Alignment
+18,0,,Colombia,4,"South America",Alignment
 18,0,,Gambia,4,"Sub-Saharan Africa",Alignment
 18,0,,Algeria,4,"North Africa & West Asia",Alignment
 18,0,,France,4,Europe,Alignment
@@ -1783,7 +1783,7 @@
 19,1,,Venezuela,4,"South America",Alignment
 19,1,,Chile,2,"South America",Alignment
 19,1,,Ecuador,2,"South America",Alignment
-19,1,,Tanzania,4,"Sub-Saharan Africa",Alignment
+19,1,,Colombia,2,"South America",Alignment
 19,1,,Gambia,4,"Sub-Saharan Africa",Alignment
 19,1,,Algeria,4,"North Africa & West Asia",Alignment
 19,1,,France,0,Europe,Alignment
@@ -1881,7 +1881,7 @@
 20,1,,Venezuela,4,"South America",Alignment
 20,1,,Chile,2,"South America",Alignment
 20,1,,Ecuador,2,"South America",Alignment
-20,1,,Tanzania,4,"Sub-Saharan Africa",Alignment
+20,1,,Colombia,2,"South America",Alignment
 20,1,,Gambia,2,"Sub-Saharan Africa",Alignment
 20,1,,Algeria,4,"North Africa & West Asia",Alignment
 20,1,,France,0,Europe,Alignment
@@ -1979,7 +1979,7 @@
 21,1,,Venezuela,4,"South America",Alignment
 21,1,,Chile,2,"South America",Alignment
 21,1,,Ecuador,2,"South America",Alignment
-21,1,,Tanzania,4,"Sub-Saharan Africa",Alignment
+21,1,,Colombia,2,"South America",Alignment
 21,1,,Gambia,4,"Sub-Saharan Africa",Alignment
 21,1,,Algeria,4,"North Africa & West Asia",Alignment
 21,1,,France,0,Europe,Alignment
@@ -2077,7 +2077,7 @@
 22,1,,Venezuela,4,"South America",Alignment
 22,1,,Chile,2,"South America",Alignment
 22,1,,Ecuador,2,"South America",Alignment
-22,1,,Tanzania,4,"Sub-Saharan Africa",Alignment
+22,1,,Colombia,2,"South America",Alignment
 22,1,,Gambia,4,"Sub-Saharan Africa",Alignment
 22,1,,Algeria,4,"North Africa & West Asia",Alignment
 22,1,,France,0,Europe,Alignment
@@ -2175,7 +2175,7 @@
 23,1,,Venezuela,1,"South America",Exposure
 23,1,,Chile,4,"South America",Exposure
 23,1,,Ecuador,3,"South America",Exposure
-23,1,,Tanzania,4,"Sub-Saharan Africa",Exposure
+23,1,,Colombia,2,"South America",Exposure
 23,1,,Gambia,4,"Sub-Saharan Africa",Exposure
 23,1,,Algeria,4,"North Africa & West Asia",Exposure
 23,1,,France,2,Europe,Exposure
@@ -2273,7 +2273,7 @@
 24,1,,Venezuela,3,"South America",Exposure
 24,1,,Chile,4,"South America",Exposure
 24,1,,Ecuador,4,"South America",Exposure
-24,1,,Tanzania,1,"Sub-Saharan Africa",Exposure
+24,1,,Colombia,2,"South America",Exposure
 24,1,,Gambia,1,"Sub-Saharan Africa",Exposure
 24,1,,Algeria,3,"North Africa & West Asia",Exposure
 24,1,,France,4,Europe,Exposure
@@ -2371,7 +2371,7 @@
 25,0,,Venezuela,0,"South America",Exposure
 25,0,,Chile,4,"South America",Exposure
 25,0,,Ecuador,0,"South America",Exposure
-25,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+25,0,,Colombia,4,"South America",Exposure
 25,0,,Gambia,4,"Sub-Saharan Africa",Exposure
 25,0,,Algeria,0,"North Africa & West Asia",Exposure
 25,0,,France,0,Europe,Exposure
@@ -2469,7 +2469,7 @@
 26,1,,Venezuela,3,"South America",Exposure
 26,1,,Chile,3,"South America",Exposure
 26,1,,Ecuador,0,"South America",Exposure
-26,1,,Tanzania,3,"Sub-Saharan Africa",Exposure
+26,1,,Colombia,0,"South America",Exposure
 26,1,,Gambia,2,"Sub-Saharan Africa",Exposure
 26,1,,Algeria,0,"North Africa & West Asia",Exposure
 26,1,,France,2,Europe,Exposure
@@ -2567,7 +2567,7 @@
 27,1,,Venezuela,3,"South America",Exposure
 27,1,,Chile,4,"South America",Exposure
 27,1,,Ecuador,0,"South America",Exposure
-27,1,,Tanzania,3,"Sub-Saharan Africa",Exposure
+27,1,,Colombia,4,"South America",Exposure
 27,1,,Gambia,3,"Sub-Saharan Africa",Exposure
 27,1,,Algeria,3,"North Africa & West Asia",Exposure
 27,1,,France,3,Europe,Exposure
@@ -2665,7 +2665,7 @@
 28,1,,Venezuela,0,"South America",Exposure
 28,1,,Chile,0,"South America",Exposure
 28,1,,Ecuador,0,"South America",Exposure
-28,1,,Tanzania,2,"Sub-Saharan Africa",Exposure
+28,1,,Colombia,0,"South America",Exposure
 28,1,,Gambia,0,"Sub-Saharan Africa",Exposure
 28,1,,Algeria,3,"North Africa & West Asia",Exposure
 28,1,,France,3,Europe,Exposure
@@ -2763,7 +2763,7 @@
 29,1,,Venezuela,4,"South America",Exposure
 29,1,,Chile,3,"South America",Exposure
 29,1,,Ecuador,4,"South America",Exposure
-29,1,,Tanzania,4,"Sub-Saharan Africa",Exposure
+29,1,,Colombia,1,"South America",Exposure
 29,1,,Gambia,4,"Sub-Saharan Africa",Exposure
 29,1,,Algeria,1,"North Africa & West Asia",Exposure
 29,1,,France,2,Europe,Exposure
@@ -2861,7 +2861,7 @@
 30,1,,Venezuela,0,"South America",Pressure
 30,1,,Chile,0,"South America",Pressure
 30,1,,Ecuador,0,"South America",Pressure
-30,1,,Tanzania,0,"Sub-Saharan Africa",Pressure
+30,1,,Colombia,0,"South America",Pressure
 30,1,,Gambia,0,"Sub-Saharan Africa",Pressure
 30,1,,Algeria,0,"North Africa & West Asia",Pressure
 30,1,,France,2,Europe,Pressure
@@ -2959,7 +2959,7 @@
 31,1,,Venezuela,0,"South America",Pressure
 31,1,,Chile,0,"South America",Pressure
 31,1,,Ecuador,0,"South America",Pressure
-31,1,,Tanzania,0,"Sub-Saharan Africa",Pressure
+31,1,,Colombia,0,"South America",Pressure
 31,1,,Gambia,0,"Sub-Saharan Africa",Pressure
 31,1,,Algeria,0,"North Africa & West Asia",Pressure
 31,1,,France,3,Europe,Pressure
@@ -3057,7 +3057,7 @@
 32,0,,Venezuela,0,"South America",Alignment
 32,0,,Chile,4,"South America",Alignment
 32,0,,Ecuador,4,"South America",Alignment
-32,0,,Tanzania,4,"Sub-Saharan Africa",Alignment
+32,0,,Colombia,0,"South America",Alignment
 32,0,,Gambia,4,"Sub-Saharan Africa",Alignment
 32,0,,Algeria,0,"North Africa & West Asia",Alignment
 32,0,,France,0,Europe,Alignment
@@ -3155,7 +3155,7 @@
 33,1,,Venezuela,0,"South America",Alignment
 33,1,,Chile,1,"South America",Alignment
 33,1,,Ecuador,0,"South America",Alignment
-33,1,,Tanzania,0,"Sub-Saharan Africa",Alignment
+33,1,,Colombia,0,"South America",Alignment
 33,1,,Gambia,0,"Sub-Saharan Africa",Alignment
 33,1,,Algeria,1,"North Africa & West Asia",Alignment
 33,1,,France,3,Europe,Alignment
@@ -3253,7 +3253,7 @@
 34,1,,Venezuela,2,"South America",Exposure
 34,1,,Chile,4,"South America",Exposure
 34,1,,Ecuador,4,"South America",Exposure
-34,1,,Tanzania,0,"Sub-Saharan Africa",Exposure
+34,1,,Colombia,4,"South America",Exposure
 34,1,,Gambia,3,"Sub-Saharan Africa",Exposure
 34,1,,Algeria,2,"North Africa & West Asia",Exposure
 34,1,,France,1,Europe,Exposure
@@ -3351,7 +3351,7 @@
 35,1,,Venezuela,4,"South America",Exposure
 35,1,,Chile,4,"South America",Exposure
 35,1,,Ecuador,4,"South America",Exposure
-35,1,,Tanzania,1,"Sub-Saharan Africa",Exposure
+35,1,,Colombia,1,"South America",Exposure
 35,1,,Gambia,3,"Sub-Saharan Africa",Exposure
 35,1,,Algeria,2,"North Africa & West Asia",Exposure
 35,1,,France,1,Europe,Exposure
@@ -3449,7 +3449,7 @@
 36,1,,Venezuela,0,"South America",Exposure
 36,1,,Chile,4,"South America",Exposure
 36,1,,Ecuador,0,"South America",Exposure
-36,1,,Tanzania,3,"Sub-Saharan Africa",Exposure
+36,1,,Colombia,1,"South America",Exposure
 36,1,,Gambia,4,"Sub-Saharan Africa",Exposure
 36,1,,Algeria,2,"North Africa & West Asia",Exposure
 36,1,,France,0,Europe,Exposure
@@ -3547,7 +3547,7 @@
 37,1,,Venezuela,3,"South America",Exposure
 37,1,,Chile,2,"South America",Exposure
 37,1,,Ecuador,1,"South America",Exposure
-37,1,,Tanzania,4,"Sub-Saharan Africa",Exposure
+37,1,,Colombia,3,"South America",Exposure
 37,1,,Gambia,0,"Sub-Saharan Africa",Exposure
 37,1,,Algeria,2,"North Africa & West Asia",Exposure
 37,1,,France,2,Europe,Exposure
@@ -3645,7 +3645,7 @@
 38,1,,Venezuela,4,"South America",Exposure
 38,1,,Chile,4,"South America",Exposure
 38,1,,Ecuador,0,"South America",Exposure
-38,1,,Tanzania,2,"Sub-Saharan Africa",Exposure
+38,1,,Colombia,0,"South America",Exposure
 38,1,,Gambia,3,"Sub-Saharan Africa",Exposure
 38,1,,Algeria,1,"North Africa & West Asia",Exposure
 38,1,,France,2,Europe,Exposure
@@ -3743,7 +3743,7 @@
 39,1,,Venezuela,0,"South America",Exposure
 39,1,,Chile,0,"South America",Exposure
 39,1,,Ecuador,0,"South America",Exposure
-39,1,,Tanzania,2,"Sub-Saharan Africa",Exposure
+39,1,,Colombia,0,"South America",Exposure
 39,1,,Gambia,0,"Sub-Saharan Africa",Exposure
 39,1,,Algeria,0,"North Africa & West Asia",Exposure
 39,1,,France,0,Europe,Exposure
@@ -3841,7 +3841,7 @@
 40,1,,Venezuela,0,"South America",Pressure
 40,1,,Chile,0,"South America",Pressure
 40,1,,Ecuador,0,"South America",Pressure
-40,1,,Tanzania,0,"Sub-Saharan Africa",Pressure
+40,1,,Colombia,0,"South America",Pressure
 40,1,,Gambia,0,"Sub-Saharan Africa",Pressure
 40,1,,Algeria,0,"North Africa & West Asia",Pressure
 40,1,,France,0,Europe,Pressure
@@ -3939,7 +3939,7 @@
 41,1,,Venezuela,0,"South America",Pressure
 41,1,,Chile,3,"South America",Pressure
 41,1,,Ecuador,0,"South America",Pressure
-41,1,,Tanzania,0,"Sub-Saharan Africa",Pressure
+41,1,,Colombia,0,"South America",Pressure
 41,1,,Gambia,0,"Sub-Saharan Africa",Pressure
 41,1,,Algeria,0,"North Africa & West Asia",Pressure
 41,1,,France,3,Europe,Pressure
@@ -4037,7 +4037,7 @@
 42,1,,Venezuela,3,"South America",Alignment
 42,1,,Chile,4,"South America",Alignment
 42,1,,Ecuador,1,"South America",Alignment
-42,1,,Tanzania,4,"Sub-Saharan Africa",Alignment
+42,1,,Colombia,0,"South America",Alignment
 42,1,,Gambia,3,"Sub-Saharan Africa",Alignment
 42,1,,Algeria,2,"North Africa & West Asia",Alignment
 42,1,,France,3,Europe,Alignment
@@ -4135,7 +4135,7 @@
 43,1,,Venezuela,0,"South America",Alignment
 43,1,,Chile,3,"South America",Alignment
 43,1,,Ecuador,4,"South America",Alignment
-43,1,,Tanzania,0,"Sub-Saharan Africa",Alignment
+43,1,,Colombia,0,"South America",Alignment
 43,1,,Gambia,0,"Sub-Saharan Africa",Alignment
 43,1,,Algeria,0,"North Africa & West Asia",Alignment
 43,1,,France,3,Europe,Alignment
@@ -4233,7 +4233,7 @@
 44,1,,Venezuela,4,"South America",Alignment
 44,1,,Chile,0,"South America",Alignment
 44,1,,Ecuador,0,"South America",Alignment
-44,1,,Tanzania,0,"Sub-Saharan Africa",Alignment
+44,1,,Colombia,0,"South America",Alignment
 44,1,,Gambia,0,"Sub-Saharan Africa",Alignment
 44,1,,Algeria,4,"North Africa & West Asia",Alignment
 44,1,,France,2,Europe,Alignment
@@ -4331,7 +4331,7 @@
 45,0,,Venezuela,4,"South America",Exposure
 45,0,,Chile,4,"South America",Exposure
 45,0,,Ecuador,4,"South America",Exposure
-45,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+45,0,,Colombia,0,"South America",Exposure
 45,0,,Gambia,4,"Sub-Saharan Africa",Exposure
 45,0,,Algeria,4,"North Africa & West Asia",Exposure
 45,0,,France,0,Europe,Exposure
@@ -4429,7 +4429,7 @@
 46,0,,Venezuela,4,"South America",Exposure
 46,0,,Chile,0,"South America",Exposure
 46,0,,Ecuador,4,"South America",Exposure
-46,0,,Tanzania,0,"Sub-Saharan Africa",Exposure
+46,0,,Colombia,NA,"South America",Exposure
 46,0,,Gambia,4,"Sub-Saharan Africa",Exposure
 46,0,,Algeria,0,"North Africa & West Asia",Exposure
 46,0,,France,0,Europe,Exposure
@@ -4527,7 +4527,7 @@
 47,0,,Venezuela,0,"South America",Exposure
 47,0,,Chile,4,"South America",Exposure
 47,0,,Ecuador,0,"South America",Exposure
-47,0,,Tanzania,0,"Sub-Saharan Africa",Exposure
+47,0,,Colombia,0,"South America",Exposure
 47,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 47,0,,Algeria,4,"North Africa & West Asia",Exposure
 47,0,,France,0,Europe,Exposure
@@ -4625,7 +4625,7 @@
 48,0,,Venezuela,4,"South America",Exposure
 48,0,,Chile,4,"South America",Exposure
 48,0,,Ecuador,0,"South America",Exposure
-48,0,,Tanzania,0,"Sub-Saharan Africa",Exposure
+48,0,,Colombia,4,"South America",Exposure
 48,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 48,0,,Algeria,4,"North Africa & West Asia",Exposure
 48,0,,France,4,Europe,Exposure
@@ -4723,7 +4723,7 @@
 49,0,,Venezuela,4,"South America",Exposure
 49,0,,Chile,4,"South America",Exposure
 49,0,,Ecuador,4,"South America",Exposure
-49,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+49,0,,Colombia,0,"South America",Exposure
 49,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 49,0,,Algeria,4,"North Africa & West Asia",Exposure
 49,0,,France,4,Europe,Exposure
@@ -4821,7 +4821,7 @@
 50,0,,Venezuela,0,"South America",Exposure
 50,0,,Chile,0,"South America",Exposure
 50,0,,Ecuador,0,"South America",Exposure
-50,0,,Tanzania,0,"Sub-Saharan Africa",Exposure
+50,0,,Colombia,0,"South America",Exposure
 50,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 50,0,,Algeria,0,"North Africa & West Asia",Exposure
 50,0,,France,0,Europe,Exposure
@@ -4919,7 +4919,7 @@
 51,0,,Venezuela,0,"South America",Exposure
 51,0,,Chile,0,"South America",Exposure
 51,0,,Ecuador,0,"South America",Exposure
-51,0,,Tanzania,0,"Sub-Saharan Africa",Exposure
+51,0,,Colombia,0,"South America",Exposure
 51,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 51,0,,Algeria,NA,"North Africa & West Asia",Exposure
 51,0,,France,0,Europe,Exposure
@@ -5017,7 +5017,7 @@
 52,0,,Venezuela,0,"South America",Pressure
 52,0,,Chile,0,"South America",Pressure
 52,0,,Ecuador,0,"South America",Pressure
-52,0,,Tanzania,0,"Sub-Saharan Africa",Pressure
+52,0,,Colombia,0,"South America",Pressure
 52,0,,Gambia,0,"Sub-Saharan Africa",Pressure
 52,0,,Algeria,0,"North Africa & West Asia",Pressure
 52,0,,France,0,Europe,Pressure
@@ -5115,7 +5115,7 @@
 53,0,,Venezuela,0,"South America",Alignment
 53,0,,Chile,4,"South America",Alignment
 53,0,,Ecuador,4,"South America",Alignment
-53,0,,Tanzania,0,"Sub-Saharan Africa",Alignment
+53,0,,Colombia,0,"South America",Alignment
 53,0,,Gambia,4,"Sub-Saharan Africa",Alignment
 53,0,,Algeria,4,"North Africa & West Asia",Alignment
 53,0,,France,0,Europe,Alignment
@@ -5213,7 +5213,7 @@
 54,0,,Venezuela,4,"South America",Alignment
 54,0,,Chile,0,"South America",Alignment
 54,0,,Ecuador,0,"South America",Alignment
-54,0,,Tanzania,0,"Sub-Saharan Africa",Alignment
+54,0,,Colombia,0,"South America",Alignment
 54,0,,Gambia,4,"Sub-Saharan Africa",Alignment
 54,0,,Algeria,4,"North Africa & West Asia",Alignment
 54,0,,France,0,Europe,Alignment
@@ -5311,7 +5311,7 @@
 55,0,,Venezuela,4,"South America",Alignment
 55,0,,Chile,0,"South America",Alignment
 55,0,,Ecuador,4,"South America",Alignment
-55,0,,Tanzania,0,"Sub-Saharan Africa",Alignment
+55,0,,Colombia,0,"South America",Alignment
 55,0,,Gambia,0,"Sub-Saharan Africa",Alignment
 55,0,,Algeria,0,"North Africa & West Asia",Alignment
 55,0,,France,0,Europe,Alignment
@@ -5409,7 +5409,7 @@
 56,0,,Venezuela,0,"South America",Exposure
 56,0,,Chile,0,"South America",Exposure
 56,0,,Ecuador,0,"South America",Exposure
-56,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+56,0,,Colombia,0,"South America",Exposure
 56,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 56,0,,Algeria,4,"North Africa & West Asia",Exposure
 56,0,,France,0,Europe,Exposure
@@ -5507,7 +5507,7 @@
 57,1,,Venezuela,4,"South America",Exposure
 57,1,,Chile,3,"South America",Exposure
 57,1,,Ecuador,0,"South America",Exposure
-57,1,,Tanzania,4,"Sub-Saharan Africa",Exposure
+57,1,,Colombia,4,"South America",Exposure
 57,1,,Gambia,4,"Sub-Saharan Africa",Exposure
 57,1,,Algeria,3,"North Africa & West Asia",Exposure
 57,1,,France,4,Europe,Exposure
@@ -5605,7 +5605,7 @@
 58,1,,Venezuela,3,"South America",Exposure
 58,1,,Chile,3,"South America",Exposure
 58,1,,Ecuador,1,"South America",Exposure
-58,1,,Tanzania,3,"Sub-Saharan Africa",Exposure
+58,1,,Colombia,4,"South America",Exposure
 58,1,,Gambia,4,"Sub-Saharan Africa",Exposure
 58,1,,Algeria,2,"North Africa & West Asia",Exposure
 58,1,,France,3,Europe,Exposure
@@ -5703,7 +5703,7 @@
 59,0,,Venezuela,0,"South America",Exposure
 59,0,,Chile,4,"South America",Exposure
 59,0,,Ecuador,4,"South America",Exposure
-59,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+59,0,,Colombia,0,"South America",Exposure
 59,0,,Gambia,4,"Sub-Saharan Africa",Exposure
 59,0,,Algeria,4,"North Africa & West Asia",Exposure
 59,0,,France,NA,Europe,Exposure
@@ -5801,7 +5801,7 @@
 60,1,,Venezuela,4,"South America",Exposure
 60,1,,Chile,0,"South America",Exposure
 60,1,,Ecuador,1,"South America",Exposure
-60,1,,Tanzania,0,"Sub-Saharan Africa",Exposure
+60,1,,Colombia,0,"South America",Exposure
 60,1,,Gambia,0,"Sub-Saharan Africa",Exposure
 60,1,,Algeria,2,"North Africa & West Asia",Exposure
 60,1,,France,0,Europe,Exposure
@@ -5899,7 +5899,7 @@
 61,1,,Venezuela,0,"South America",Exposure
 61,1,,Chile,1,"South America",Exposure
 61,1,,Ecuador,0,"South America",Exposure
-61,1,,Tanzania,3,"Sub-Saharan Africa",Exposure
+61,1,,Colombia,3,"South America",Exposure
 61,1,,Gambia,0,"Sub-Saharan Africa",Exposure
 61,1,,Algeria,3,"North Africa & West Asia",Exposure
 61,1,,France,4,Europe,Exposure
@@ -5997,7 +5997,7 @@
 62,0,,Venezuela,0,"South America",Exposure
 62,0,,Chile,4,"South America",Exposure
 62,0,,Ecuador,0,"South America",Exposure
-62,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+62,0,,Colombia,0,"South America",Exposure
 62,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 62,0,,Algeria,4,"North Africa & West Asia",Exposure
 62,0,,France,0,Europe,Exposure
@@ -6095,7 +6095,7 @@
 63,1,,Venezuela,0,"South America",Exposure
 63,1,,Chile,2,"South America",Exposure
 63,1,,Ecuador,0,"South America",Exposure
-63,1,,Tanzania,0,"Sub-Saharan Africa",Exposure
+63,1,,Colombia,NA,"South America",Exposure
 63,1,,Gambia,2,"Sub-Saharan Africa",Exposure
 63,1,,Algeria,2,"North Africa & West Asia",Exposure
 63,1,,France,2,Europe,Exposure
@@ -6193,7 +6193,7 @@
 64,1,,Venezuela,3,"South America",Exposure
 64,1,,Chile,4,"South America",Exposure
 64,1,,Ecuador,0,"South America",Exposure
-64,1,,Tanzania,0,"Sub-Saharan Africa",Exposure
+64,1,,Colombia,0,"South America",Exposure
 64,1,,Gambia,0,"Sub-Saharan Africa",Exposure
 64,1,,Algeria,3,"North Africa & West Asia",Exposure
 64,1,,France,3,Europe,Exposure
@@ -6291,7 +6291,7 @@
 65,0,,Venezuela,4,"South America",Exposure
 65,0,,Chile,4,"South America",Exposure
 65,0,,Ecuador,4,"South America",Exposure
-65,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+65,0,,Colombia,0,"South America",Exposure
 65,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 65,0,,Algeria,4,"North Africa & West Asia",Exposure
 65,0,,France,4,Europe,Exposure
@@ -6389,7 +6389,7 @@
 66,0,,Venezuela,4,"South America",Exposure
 66,0,,Chile,0,"South America",Exposure
 66,0,,Ecuador,4,"South America",Exposure
-66,0,,Tanzania,0,"Sub-Saharan Africa",Exposure
+66,0,,Colombia,NA,"South America",Exposure
 66,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 66,0,,Algeria,4,"North Africa & West Asia",Exposure
 66,0,,France,0,Europe,Exposure
@@ -6487,7 +6487,7 @@
 67,1,,Venezuela,4,"South America",Exposure
 67,1,,Chile,3,"South America",Exposure
 67,1,,Ecuador,1,"South America",Exposure
-67,1,,Tanzania,0,"Sub-Saharan Africa",Exposure
+67,1,,Colombia,0,"South America",Exposure
 67,1,,Gambia,0,"Sub-Saharan Africa",Exposure
 67,1,,Algeria,3,"North Africa & West Asia",Exposure
 67,1,,France,3,Europe,Exposure
@@ -6585,7 +6585,7 @@
 68,0,,Venezuela,4,"South America",Exposure
 68,0,,Chile,4,"South America",Exposure
 68,0,,Ecuador,0,"South America",Exposure
-68,0,,Tanzania,0,"Sub-Saharan Africa",Exposure
+68,0,,Colombia,0,"South America",Exposure
 68,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 68,0,,Algeria,0,"North Africa & West Asia",Exposure
 68,0,,France,4,Europe,Exposure
@@ -6683,7 +6683,7 @@
 69,0,,Venezuela,4,"South America",Exposure
 69,0,,Chile,0,"South America",Exposure
 69,0,,Ecuador,0,"South America",Exposure
-69,0,,Tanzania,0,"Sub-Saharan Africa",Exposure
+69,0,,Colombia,0,"South America",Exposure
 69,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 69,0,,Algeria,0,"North Africa & West Asia",Exposure
 69,0,,France,0,Europe,Exposure
@@ -6781,7 +6781,7 @@
 70,1,,Venezuela,3,"South America",Exposure
 70,1,,Chile,3,"South America",Exposure
 70,1,,Ecuador,3,"South America",Exposure
-70,1,,Tanzania,0,"Sub-Saharan Africa",Exposure
+70,1,,Colombia,3,"South America",Exposure
 70,1,,Gambia,3,"Sub-Saharan Africa",Exposure
 70,1,,Algeria,1,"North Africa & West Asia",Exposure
 70,1,,France,3,Europe,Exposure
@@ -6879,7 +6879,7 @@
 71,1,,Venezuela,3,"South America",Exposure
 71,1,,Chile,4,"South America",Exposure
 71,1,,Ecuador,3,"South America",Exposure
-71,1,,Tanzania,2,"Sub-Saharan Africa",Exposure
+71,1,,Colombia,0,"South America",Exposure
 71,1,,Gambia,0,"Sub-Saharan Africa",Exposure
 71,1,,Algeria,2,"North Africa & West Asia",Exposure
 71,1,,France,2,Europe,Exposure
@@ -6977,7 +6977,7 @@
 72,0,,Venezuela,0,"South America",Exposure
 72,0,,Chile,4,"South America",Exposure
 72,0,,Ecuador,4,"South America",Exposure
-72,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+72,0,,Colombia,0,"South America",Exposure
 72,0,,Gambia,4,"Sub-Saharan Africa",Exposure
 72,0,,Algeria,4,"North Africa & West Asia",Exposure
 72,0,,France,0,Europe,Exposure
@@ -7075,7 +7075,7 @@
 73,1,,Venezuela,3,"South America",Exposure
 73,1,,Chile,1,"South America",Exposure
 73,1,,Ecuador,1,"South America",Exposure
-73,1,,Tanzania,4,"Sub-Saharan Africa",Exposure
+73,1,,Colombia,1,"South America",Exposure
 73,1,,Gambia,4,"Sub-Saharan Africa",Exposure
 73,1,,Algeria,3,"North Africa & West Asia",Exposure
 73,1,,France,0,Europe,Exposure
@@ -7173,7 +7173,7 @@
 74,0,,Venezuela,4,"South America",Exposure
 74,0,,Chile,4,"South America",Exposure
 74,0,,Ecuador,0,"South America",Exposure
-74,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+74,0,,Colombia,4,"South America",Exposure
 74,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 74,0,,Algeria,4,"North Africa & West Asia",Exposure
 74,0,,France,4,Europe,Exposure
@@ -7271,7 +7271,7 @@
 75,1,,Venezuela,3,"South America",Alignment
 75,1,,Chile,3,"South America",Alignment
 75,1,,Ecuador,3,"South America",Alignment
-75,1,,Tanzania,4,"Sub-Saharan Africa",Alignment
+75,1,,Colombia,3,"South America",Alignment
 75,1,,Gambia,2,"Sub-Saharan Africa",Alignment
 75,1,,Algeria,2,"North Africa & West Asia",Alignment
 75,1,,France,2,Europe,Alignment
@@ -7369,7 +7369,7 @@
 76,1,,Venezuela,0,"South America",Alignment
 76,1,,Chile,0,"South America",Alignment
 76,1,,Ecuador,0,"South America",Alignment
-76,1,,Tanzania,0,"Sub-Saharan Africa",Alignment
+76,1,,Colombia,0,"South America",Alignment
 76,1,,Gambia,0,"Sub-Saharan Africa",Alignment
 76,1,,Algeria,0,"North Africa & West Asia",Alignment
 76,1,,France,0,Europe,Alignment
@@ -7467,7 +7467,7 @@
 77,0,,Venezuela,4,"South America",Alignment
 77,0,,Chile,4,"South America",Alignment
 77,0,,Ecuador,NA,"South America",Alignment
-77,0,,Tanzania,4,"Sub-Saharan Africa",Alignment
+77,0,,Colombia,NA,"South America",Alignment
 77,0,,Gambia,0,"Sub-Saharan Africa",Alignment
 77,0,,Algeria,4,"North Africa & West Asia",Alignment
 77,0,,France,0,Europe,Alignment
@@ -7565,7 +7565,7 @@
 78,0,,Venezuela,4,"South America",Exposure
 78,0,,Chile,0,"South America",Exposure
 78,0,,Ecuador,4,"South America",Exposure
-78,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+78,0,,Colombia,0,"South America",Exposure
 78,0,,Gambia,4,"Sub-Saharan Africa",Exposure
 78,0,,Algeria,4,"North Africa & West Asia",Exposure
 78,0,,France,0,Europe,Exposure
@@ -7663,7 +7663,7 @@
 79,0,,Venezuela,4,"South America",Exposure
 79,0,,Chile,0,"South America",Exposure
 79,0,,Ecuador,0,"South America",Exposure
-79,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+79,0,,Colombia,0,"South America",Exposure
 79,0,,Gambia,4,"Sub-Saharan Africa",Exposure
 79,0,,Algeria,4,"North Africa & West Asia",Exposure
 79,0,,France,0,Europe,Exposure
@@ -7761,7 +7761,7 @@
 80,0,,Venezuela,0,"South America",Exposure
 80,0,,Chile,0,"South America",Exposure
 80,0,,Ecuador,0,"South America",Exposure
-80,0,,Tanzania,0,"Sub-Saharan Africa",Exposure
+80,0,,Colombia,0,"South America",Exposure
 80,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 80,0,,Algeria,4,"North Africa & West Asia",Exposure
 80,0,,France,0,Europe,Exposure
@@ -7859,7 +7859,7 @@
 81,0,,Venezuela,0,"South America",Exposure
 81,0,,Chile,0,"South America",Exposure
 81,0,,Ecuador,0,"South America",Exposure
-81,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+81,0,,Colombia,0,"South America",Exposure
 81,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 81,0,,Algeria,0,"North Africa & West Asia",Exposure
 81,0,,France,0,Europe,Exposure
@@ -7957,7 +7957,7 @@
 82,0,,Venezuela,0,"South America",Exposure
 82,0,,Chile,0,"South America",Exposure
 82,0,,Ecuador,0,"South America",Exposure
-82,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+82,0,,Colombia,0,"South America",Exposure
 82,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 82,0,,Algeria,0,"North Africa & West Asia",Exposure
 82,0,,France,0,Europe,Exposure
@@ -8055,7 +8055,7 @@
 83,0,,Venezuela,0,"South America",Exposure
 83,0,,Chile,0,"South America",Exposure
 83,0,,Ecuador,0,"South America",Exposure
-83,0,,Tanzania,0,"Sub-Saharan Africa",Exposure
+83,0,,Colombia,0,"South America",Exposure
 83,0,,Gambia,4,"Sub-Saharan Africa",Exposure
 83,0,,Algeria,0,"North Africa & West Asia",Exposure
 83,0,,France,0,Europe,Exposure
@@ -8153,7 +8153,7 @@
 84,0,,Venezuela,4,"South America",Exposure
 84,0,,Chile,4,"South America",Exposure
 84,0,,Ecuador,4,"South America",Exposure
-84,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+84,0,,Colombia,0,"South America",Exposure
 84,0,,Gambia,4,"Sub-Saharan Africa",Exposure
 84,0,,Algeria,4,"North Africa & West Asia",Exposure
 84,0,,France,0,Europe,Exposure
@@ -8251,7 +8251,7 @@
 85,1,,Venezuela,0,"South America",Exposure
 85,1,,Chile,4,"South America",Exposure
 85,1,,Ecuador,0,"South America",Exposure
-85,1,,Tanzania,4,"Sub-Saharan Africa",Exposure
+85,1,,Colombia,0,"South America",Exposure
 85,1,,Gambia,NA,"Sub-Saharan Africa",Exposure
 85,1,,Algeria,4,"North Africa & West Asia",Exposure
 85,1,,France,4,Europe,Exposure
@@ -8349,7 +8349,7 @@
 86,0,,Venezuela,0,"South America",Exposure
 86,0,,Chile,NA,"South America",Exposure
 86,0,,Ecuador,0,"South America",Exposure
-86,0,,Tanzania,0,"Sub-Saharan Africa",Exposure
+86,0,,Colombia,0,"South America",Exposure
 86,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 86,0,,Algeria,4,"North Africa & West Asia",Exposure
 86,0,,France,0,Europe,Exposure
@@ -8447,7 +8447,7 @@
 87,0,,Venezuela,4,"South America",Alignment
 87,0,,Chile,0,"South America",Alignment
 87,0,,Ecuador,0,"South America",Alignment
-87,0,,Tanzania,0,"Sub-Saharan Africa",Alignment
+87,0,,Colombia,0,"South America",Alignment
 87,0,,Gambia,0,"Sub-Saharan Africa",Alignment
 87,0,,Algeria,4,"North Africa & West Asia",Alignment
 87,0,,France,0,Europe,Alignment
@@ -8545,7 +8545,7 @@
 88,0,,Venezuela,4,"South America",Alignment
 88,0,,Chile,0,"South America",Alignment
 88,0,,Ecuador,0,"South America",Alignment
-88,0,,Tanzania,4,"Sub-Saharan Africa",Alignment
+88,0,,Colombia,0,"South America",Alignment
 88,0,,Gambia,0,"Sub-Saharan Africa",Alignment
 88,0,,Algeria,4,"North Africa & West Asia",Alignment
 88,0,,France,0,Europe,Alignment
@@ -8643,7 +8643,7 @@
 89,0,,Venezuela,4,"South America",Exposure
 89,0,,Chile,4,"South America",Exposure
 89,0,,Ecuador,4,"South America",Exposure
-89,0,,Tanzania,0,"Sub-Saharan Africa",Exposure
+89,0,,Colombia,4,"South America",Exposure
 89,0,,Gambia,4,"Sub-Saharan Africa",Exposure
 89,0,,Algeria,4,"North Africa & West Asia",Exposure
 89,0,,France,4,Europe,Exposure
@@ -8741,7 +8741,7 @@
 90,0,,Venezuela,0,"South America",Exposure
 90,0,,Chile,0,"South America",Exposure
 90,0,,Ecuador,0,"South America",Exposure
-90,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+90,0,,Colombia,0,"South America",Exposure
 90,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 90,0,,Algeria,4,"North Africa & West Asia",Exposure
 90,0,,France,0,Europe,Exposure
@@ -8839,7 +8839,7 @@
 91,0,,Venezuela,0,"South America",Exposure
 91,0,,Chile,4,"South America",Exposure
 91,0,,Ecuador,0,"South America",Exposure
-91,0,,Tanzania,4,"Sub-Saharan Africa",Exposure
+91,0,,Colombia,0,"South America",Exposure
 91,0,,Gambia,0,"Sub-Saharan Africa",Exposure
 91,0,,Algeria,0,"North Africa & West Asia",Exposure
 91,0,,France,4,Europe,Exposure
@@ -8937,7 +8937,7 @@
 92,1,,Venezuela,0,"South America",Exposure
 92,1,,Chile,3,"South America",Exposure
 92,1,,Ecuador,0,"South America",Exposure
-92,1,,Tanzania,0,"Sub-Saharan Africa",Exposure
+92,1,,Colombia,0,"South America",Exposure
 92,1,,Gambia,0,"Sub-Saharan Africa",Exposure
 92,1,,Algeria,3,"North Africa & West Asia",Exposure
 92,1,,France,0,Europe,Exposure
@@ -9035,7 +9035,7 @@
 93,1,,Venezuela,4,"South America",Exposure
 93,1,,Chile,2,"South America",Exposure
 93,1,,Ecuador,3,"South America",Exposure
-93,1,,Tanzania,0,"Sub-Saharan Africa",Exposure
+93,1,,Colombia,0,"South America",Exposure
 93,1,,Gambia,0,"Sub-Saharan Africa",Exposure
 93,1,,Algeria,3,"North Africa & West Asia",Exposure
 93,1,,France,0,Europe,Exposure
@@ -9133,7 +9133,7 @@
 94,1,,Venezuela,0,"South America",Pressure
 94,1,,Chile,0,"South America",Pressure
 94,1,,Ecuador,0,"South America",Pressure
-94,1,,Tanzania,0,"Sub-Saharan Africa",Pressure
+94,1,,Colombia,0,"South America",Pressure
 94,1,,Gambia,0,"Sub-Saharan Africa",Pressure
 94,1,,Algeria,0,"North Africa & West Asia",Pressure
 94,1,,France,0,Europe,Pressure
@@ -9231,7 +9231,7 @@
 95,0,,Venezuela,0,"South America",Pressure
 95,0,,Chile,4,"South America",Pressure
 95,0,,Ecuador,4,"South America",Pressure
-95,0,,Tanzania,4,"Sub-Saharan Africa",Pressure
+95,0,,Colombia,0,"South America",Pressure
 95,0,,Gambia,0,"Sub-Saharan Africa",Pressure
 95,0,,Algeria,4,"North Africa & West Asia",Pressure
 95,0,,France,4,Europe,Pressure
@@ -9329,7 +9329,7 @@
 96,0,,Venezuela,0,"South America",Alignment
 96,0,,Chile,4,"South America",Alignment
 96,0,,Ecuador,0,"South America",Alignment
-96,0,,Tanzania,4,"Sub-Saharan Africa",Alignment
+96,0,,Colombia,NA,"South America",Alignment
 96,0,,Gambia,0,"Sub-Saharan Africa",Alignment
 96,0,,Algeria,0,"North Africa & West Asia",Alignment
 96,0,,France,4,Europe,Alignment
@@ -9427,7 +9427,7 @@
 97,0,,Venezuela,0,"South America",Alignment
 97,0,,Chile,0,"South America",Alignment
 97,0,,Ecuador,0,"South America",Alignment
-97,0,,Tanzania,0,"Sub-Saharan Africa",Alignment
+97,0,,Colombia,0,"South America",Alignment
 97,0,,Gambia,0,"Sub-Saharan Africa",Alignment
 97,0,,Algeria,0,"North Africa & West Asia",Alignment
 97,0,,France,0,Europe,Alignment
@@ -9525,7 +9525,7 @@
 98,0,,Venezuela,0,"South America",Alignment
 98,0,,Chile,0,"South America",Alignment
 98,0,,Ecuador,0,"South America",Alignment
-98,0,,Tanzania,0,"Sub-Saharan Africa",Alignment
+98,0,,Colombia,0,"South America",Alignment
 98,0,,Gambia,0,"Sub-Saharan Africa",Alignment
 98,0,,Algeria,0,"North Africa & West Asia",Alignment
 98,0,,France,0,Europe,Alignment
@@ -9623,7 +9623,7 @@
 99,0,,Venezuela,4,"South America",Alignment
 99,0,,Chile,4,"South America",Alignment
 99,0,,Ecuador,4,"South America",Alignment
-99,0,,Tanzania,0,"Sub-Saharan Africa",Alignment
+99,0,,Colombia,0,"South America",Alignment
 99,0,,Gambia,4,"Sub-Saharan Africa",Alignment
 99,0,,Algeria,4,"North Africa & West Asia",Alignment
 99,0,,France,0,Europe,Alignment
