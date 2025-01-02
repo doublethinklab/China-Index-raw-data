@@ -14,13 +14,13 @@
         "The economy remains a key area of bilateral relations, primarily through large infrastructure projects."
     ],
     "description-1": "In 2023, Montenegro had a GDP per capita of US$12,017 and an estimated total population of 0.62 million people. There are no official or reliable data on the size of the Chinese population.",
-    "description-2": "Montenegro established diplomatic relations with the People\u2019s Republic of China in 2006. Montenegro was ranked 40th in Reporters Without Borders' 2021 World Press Freedom Index, and rated Partly Free in Freedom House\u2018s 2024 Global Freedom Index, with a score of 69\/100.",
-    "original": "32\/396",
-    "ranking": "99",
-    "overall": "8.1%",
+    "description-2": "Montenegro established diplomatic relations with the People\u2019s Republic of China in 2006. Montenegro was ranked 40th in Reporters Without Borders' 2024 World Press Freedom Index, and rated Partly Free in Freedom House\u2018s 2024 Global Freedom Index, with a score of 69\/100.",
+    "original": "33\/396",
+    "ranking": "96",
+    "overall": "8.3%",
     "exposure": "9%",
     "pressure": "0%",
-    "alignment": "10%",
+    "alignment": "11%",
     "answer": {
         "Media": [
             {
@@ -785,7 +785,7 @@
             },
             {
                 "number": "75",
-                "score": "0",
+                "score": "1",
                 "grading": "1",
                 "evidence": "The Republic of Montenegro and the Shanghai Foreign Cultural Exchange Association jointly organized the \u201cBelt and Road\u201d initiative's 10th Anniversary concert in the Capital, Podgorica. Therefore, this Indicator deserves a \u201cFew\u201d rating. However, there were no other such cultural events in Montenegro. Therefore, this indicator deserves an \u201c insignificant\u201d rating.",
                 "evidence_urls": [
@@ -1019,7 +1019,7 @@
             }
         ]
     },
-    "exposure_rank": 98,
-    "pressure_rank": 71,
-    "alignment_rank": 97
+    "exposure_rank": 95,
+    "pressure_rank": 69,
+    "alignment_rank": 94
 }
