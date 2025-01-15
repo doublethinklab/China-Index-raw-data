@@ -1,0 +1,1014 @@
+{
+    "name": "Ecuador",
+    "partner": "Fundaci\u00f3n Andr\u00e9s Bello - Centro de Investigaci\u00f3n Chino Latinoamericano",
+    "year": "2022",
+    "GDP": "$5,934.9",
+    "population": "17.8M",
+    "original": "95/388",
+    "ranking": "58",
+    "overall": "24%",
+    "effect": "19%",
+    "exposure": "30%",
+    "pressure": "12%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://home.ecuaren.com/thread-8891-1-1.html",
+                    "https://www.worldchinesemedia.com/2015/05/12/56/"
+                ],
+                "note": "Se ha encontrado  informaci\u00f3n en el sitio web de World Chinese Media (\u4e16\u754c\u534e\u6587\u5a92\u4f53) que dice que dos de los miembros de la organizaci\u00f3n son de ecuador\u300a \u5384\u74dc\u591a\u5c14\u534e\u4eba\u793e\u533a\u300b,\u300a \u534e\u4eba\u300b\u6708\u520a,\u300a \u534e\u4eba\u300b\u5468\u62a5. Estos dos medios de comunicaci\u00f3n han enviado miembros a participar en la Cumbre Internacional de Medios Chinos; aun as\u00ed no ha sido posible comprobar si dichos medios pertenecen o no a la organizaci\u00f3n World Chinese Media. \n\n",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No existen reportes ni sobre media en tv (link 1), ni en otro medio (link 2). ",
+                "evidence_urls": [
+                    "http://en.videochina.org.cn/2017/0417/4741.shtml",
+                    "http://cn.brnn.com/414904/414908/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://kknews.cc/house/y39mnaa.html",
+                    "http://cn.brnn.com/n3/2019/0924/c414918-9617356.html"
+                ],
+                "note": "No existen registros entre los a\u00f1os 2020 y 2022, a causa de la pandemia. China tampoco ha recibido a periodistas por tema de Pandemia, a excepci\u00f3n de aquellos que viajan a cubrir visitas oficiales. En este periodo no viajaron reporteros invitados y costeados por el Gobierno de la Rep\u00fablica Popular de China, la \u00faltima comitiva estuvo integrada por el presidente de la Republica y ministros de Estado.",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://siau.senescyt.gob.ec/2022/03/30/seminario-para-periodistas-y-oficiales-nacionales-de-informacion-de-los-paises-hispanohablantes-de-america-latina/"
+                ],
+                "note": "No se reporta en el periodo de estudio entrenamiento directo por las instituciones mencionadas; pero si becas entrenamiento en SENESCYT (digital) como el registrado en 2022 (ver link 1), Becas que son otorgadas por el gobierno de PCR. ",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "Los canales chinos est\u00e1n disponibles a trav\u00e9s de operadoras de TV por cable privado y/o suscripciones \"gold\", por lo cual se sugiere que estos medios audiovisuales tienen poco impacto en estratos socioecon\u00f3micos medios y bajos. Otros medios, como Xinhua espa\u00f1ol disponibles en red.",
+                "evidence_urls": [
+                    "https://www.xtrim.com.ec/wp-content/uploads/2021/08/QUITO-PREMIUM-GOLD.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No se reportan datos, ni existen registros sobre que existan medios de comunicaci\u00f3n con propietarios totales o parciales chinos. Existen peque\u00f1os peri\u00f3dicos de asociaciones de amistad, pero son de propiedad conjunta de chinos de ultramar (di\u00e1spora china).",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "No existen registros actuales, los \u00faltimos fueron sobre acuerdos suscritos con el anterior Gobierno ecuatoriano en el a\u00f1o 2016 para la transmisi\u00f3n de telenovelas, series y pel\u00edculas chinas (ver link 1). Por ejemplo \u201cel convenio fue entre Zhi Liming (representante de oficina de comunicaci\u00f3n de China) y \u201cEn el Ojo Films\u201d. Esta \u00faltima es una productora con sede en Quito y tiene m\u00e1s de 10 a\u00f1os de experiencia. En su trayectoria resaltan sus trabajos para la Secretar\u00eda Nacional de Comunicaci\u00f3n (Secom), para la Presidencia de la Rep\u00fablica, as\u00ed como para otras entidades y proyectos promocionales del gobierno\u201d (link1).",
+                "evidence_urls": [
+                    "https://bit.ly/3PTerEj"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No existe dicha pr\u00e1ctica ni son frecuentes en peri\u00f3dicos, redes sociales o noticia online de ecuador (ver enlaces 1 y 2). Tampoco en redes sociales, incluso con p\u00e1ginas relacionadas a intereses chinos se encuentran anuncios de \u201cregular PRC state-media or government advertisements\u201d (ver enlace 2).",
+                "evidence_urls": [
+                    "https://www.primicias.ec/",
+                    "https://www.elcomercio.com/tendencias/entretenimiento/artistas-conciertos-comercio-primera-temporada.html",
+                    "https://www.facebook.com/groups/2393059611008401"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No se registran datos, ni antes, ni durante los a\u00f1os considerados en este cuestionario (ver falta de datos en link 1 y 2 como ejemplo).",
+                "evidence_urls": [
+                    "https://www.google.com/search?q=peridoista+ecuatoriano+explusado+en+china&rlz=1C1CHBD_esEC886EC886&oq=peridoista+ecuatoriano+explusado+en+china&aqs=chrome..69i57j33i10i160.8255j1j4&sourceid=chrome&ie=UTF-8",
+                    "https://www.bing.com/search?q=ecuadorian+journalist+got+denied+visa+in+China&qs=n&form=QBRE&sp=-1&pq=ecuadorian+journalist+got+denied+visa+in+china&sc=0-46&sk=&cvid=3AAEA9AA42EF49B984E57D2F388F374B"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No se han reportado, incluso se puede observar el caso del periodista y hoy asamble\u00edsta Fernando Villavicencio, que no ha sufrido presiones, ni censuras de media outlets pese a fuertes denuncias realizadas.",
+                "evidence_urls": [
+                    "https://bit.ly/3zb6XGC"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No existe discusi\u00f3n p\u00fablica sobre el tema concreto de abuso derechos humanos en China (por ejemplo, ver falta de debate sobre el tema ejemplos link 1y 2; Lo que existe en medios liberales y conservadores es sobre la tem\u00e1tica de derechos humanos en el caso Ecuador lo cual lo hacen sin censura (Ver ejemplo link 3).",
+                "evidence_urls": [
+                    "https://bit.ly/3Mb0X3N",
+                    "https://binged.it/3zdJwg6",
+                    "https://bit.ly/3m2B5fM"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://wilma.ec/grupo-de-interparlamentario-de-amistad-entre-china-y-ecuador/",
+                    "https://twitter.com/panchojimenezs/status/1438556001750462477"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "1",
+                "evidence": "S\u00f3lo se reportan dichas visitas, en el enlace 1 se evidencia que esta fue por temas de cooperaci\u00f3n no de di\u00e1logo pol\u00edtico.",
+                "evidence_urls": [
+                    "https://confirmado.net/2021/12/09/embajada-de-china-intensifica-su-labor-social-en-ecuador/",
+                    "https://twitter.com/panchojimenezs/status/1438556001750462477"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "1",
+                "evidence": "No existen reportes sobre el tema en los a\u00f1os 2020, 2021, 2022, el \u00faltimo y \u00fanico sobre administraci\u00f3n p\u00fablica y gobernanza fue en 2018.",
+                "evidence_urls": [
+                    "https://www.educacionsuperior.gob.ec/china-capacita-a-funcionarios-publicos-en-politica-publica-y-gobernanza/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No se encontraron reportes o datos al respecto. En medios sociales relacionados al perfil aqu\u00ed analizado.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No hay reportes algunos en a\u00f1os anteriores, ni en los a\u00f1os del presente cuestionario.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No existe registro sobre este tema en las minutas(ver link 1) habiendo revisados los docs:  EB149/2021/REC/1 / EB148/2021/REC/1 / EB147/2020/REC/1* / EBSS5/2020/REC/1 /    EB146/2020/REC/1 / WHASS2/2021/REC/1 / WHA74/2021/REC/1  / WHA73/2020/REC/1 ",
+                "evidence_urls": [
+                    "https://apps.who.int/gb/or/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "no existen reportes, a\u00fan en estudios generales sobre relaciones bilaterales de car\u00e1cter cr\u00edtico (ver enlace 1).",
+                "evidence_urls": [
+                    "https://thepeoplesmap.net/country/ecuador/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "El gobierno no se pronuncia sobre el tema (ver ejemplo link 1 y 2). No hay reporte de ning\u00fan tipo de pronunciamiento, Solamente existe muy pocos an\u00e1lisis acad\u00e9micos de la estrategia china en esa regi\u00f3n mar\u00edtima, pero nada oficial (ver enlace 3).",
+                "evidence_urls": [
+                    "https://www.cancilleria.gob.ec/?s=China",
+                    "https://www.cancilleria.gob.ec/china/relacion-bilateral/",
+                    "https://revistas.flacsoandes.edu.ec/urvio/article/view/4381"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "No existe reportes sobre el tema (ejemplo ver link 1). Tambi\u00e9n la poblaci\u00f3n en general y los funcionarios p\u00fablicos tienen muy poco conocimiento sobre la problem\u00e1tica.",
+                "evidence_urls": [
+                    "https://www.cancilleria.gob.ec/?s=China"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "No se reporta ning\u00fan dato relacionado al tema, lo cual ratifica el silencio del gobierno, pero tambi\u00e9n de otros actores pol\u00edticos y medi\u00e1ticos.",
+                "evidence_urls": [
+                    "https://www.cancilleria.gob.ec/?s=China"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "No existe reportes sobre el tema (ejemplo ver link 1). No se reporta pronunciamiento de gobierno ecuatoriano ni a favor ni en contra. ",
+                "evidence_urls": [
+                    "https://www.cancilleria.gob.ec/?s=China"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.epn.edu.ec/dos-estudiantes-politecnicos-viajaran-a-la-sede-de-huawei-en-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.usfq.edu.ec/es/instituto-confucio",
+                    "https://bit.ly/3LeLD5H"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "Existe ense\u00f1anza idioma chino en colegios privados, pero no como pol\u00edtica p\u00fablica, no se reporta subvenci\u00f3n de la RPC.",
+                "evidence_urls": [
+                    "https://revistamundodiners.com/interes-por-chino-crece-ninios-jovenes/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "En la p\u00e1gina web sugerida no se reporta nada para el caso Ecuador, en los otros enlaces se\u00f1alados para esta pregunta, tampoco existen reportes sobre alguna universidad o instituto de Ecuador.",
+                "evidence_urls": [
+                    "http://www.ucmsr.com/route"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.degruyter.com/document/doi/10.1515/sai-2022-0006/pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "No se encuentra reportes sobre estos temas.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cancilleria.gob.ec/china/2021/06/22/convenio-de-becas-entre-ecuador-y-china/"
+                ],
+                "note": "Existen becas de la RPC, pero estas son procesadas por el \u00f3rgano oficial del estado ecuatoriano Secretar\u00eda Nacional de Ciencia y Tecnolog\u00eda de Ecuador (Senescyt), Cabe destacar que, desde que inicio la pandemia, las becas del Estado chino dirigidas a nacionales ecuatorianos son de car\u00e1cter virtual. No obstante, en el convenio bilateral sobre este tema, se deja en evidencia que los gastos de los cursos corren por cuenta por el gobierno del pa\u00eds asi\u00e1tico. ",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existe ning\u00fan reporte de censura de ninguna opini\u00f3n o actividad p\u00fablica o privada en el Ecuador por parte de ninguna instancia p\u00fablica o privada de RPC. Tampoco se ha registrado ninguna organizaci\u00f3n o actividad de asociaciones de estudiantes chinos en Ecuador ",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3wwTCpf"
+                ],
+                "note": "no existen reportes de ning\u00fan nacional ecuatoriano, acad\u00e9mico o periodista que haya sido impedido de viajar a China por cr\u00edticas pol\u00edticas o de otro tipo. No existen tampoco visitas turismo o estad\u00eda corta desde la pandemia. Cabe recordar que para visitas de turismo existe tambi\u00e9n un acuerdo entre dos pa\u00edses sin necesidad de visas formales (ver enlace \u201c1\u201d).",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ecuadorec.com/oferta-academica-senescyt-instituciones-educacion-superior/"
+                ],
+                "note": "No existen programas acad\u00e9micos orientados a la educaci\u00f3n de pregrado o posgrado. Lo que existe es mayormente investigaci\u00f3n e idiomas como ya se ha visto en otros enlaces. Como ejemplo se puede ver el enlace 1, donde se registra los programas acad\u00e9micos aprobados, donde no se reporta programas acerca de los cursos objeto de esta pregunta.",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existe evidencia que justifique esta posibilidad en Ecuador.",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.primicias.ec/noticias/sociedad/solucion-vial-guayasamin-quito-crbc-municipio/"
+                ],
+                "note": "Desde el 2020 (e incluso desde 2017), se firmaron muy pocos acuerdos en los niveles subnacionales del Ecuador, por ejemplo (enlace 1), incluso en el caso del municipio de Quito, tras la salida del alcalde, no ha quedado claro si continuar\u00e1n esta y otras negociaciones. ",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3an2fLS",
+                    "https://revistademanabi.com/tag/ciudades-hermanas/",
+                    "https://bit.ly/3O6J5Zh",
+                    "https://bit.ly/3zdhfGh",
+                    "https://www.wikiwand.com/zh-hant/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%8F%8B%E5%A5%BD%E5%9F%8E%E5%B8%82%E6%88%96%E5%A7%90%E5%A6%B9%E5%9F%8E%E5%B8%82%E5%88%97%E8%A1%A8",
+                    "http://www.gzfao.gov.cn/ztlm/yhcs/content/post_136607.html#:~:text=%E6%AD%A4%E5%A4%96%EF%BC%8C%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%BF%98%E4%B8%8E,%E5%B8%82%E5%BB%BA%E7%AB%8B%E5%8F%8B%E5%A5%BD%E5%9F%8E%E5%B8%82%E5%85%B3%E7%B3%BB%E3%80%82"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eluniverso.com/noticias/politica/presidente-guillermo-lasso-viajara-a-china-con-una-comitiva-de-diez-personas-nota/",
+                    "http://www.ecuadorchequea.com/china-costeara-la-estadia-de-la-comitiva-ecuatoriana-en-visita-oficial/"
+                ],
+                "note": "En 2020, 2021, no se reportan viajes que pudieran ser cercanos a este indicador (por ejemplo, viajes por capacitaci\u00f3n, encuentro acad\u00e9micos o de visita para conocer el sistema econ\u00f3mico pol\u00edtico), debido a la pandemia. Los viajes oficiales han sido costeados por parte del gobierno del Ecuador (ver enlace 1, y enlace 2); aunque se reporta en el enlace 2, una informaci\u00f3n contradictoria, donde el \u00faltimo viaje de presidente ecuatoriano tendr\u00eda tambi\u00e9n alg\u00fan tipo de cobertura del gobierno anfitri\u00f3n (enlace 2).",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eluniverso.com/noticias/politica/presidente-guillermo-lasso-viajara-a-china-con-una-comitiva-de-diez-personas-nota/",
+                    "https://www.elcomercio.com/actualidad/viaje-lasso-china-ecuador-deuda-jueos-olimpicos.html"
+                ],
+                "note": "La visita oficial realizado por el presidente Lasso y su comitiva se reporta haber la principal en 2021-2022 (enlace 1). No se reportan m\u00e1s visitas significativas, pero esta es de alto nivel e incluso orientada a TLC y renegociaci\u00f3n plazo de deuda. (enlace 2).",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/39vGUiR"
+                ],
+                "note": "No existen reportes. Desde hace d\u00e9cadas, y m\u00e1s a\u00fan en los \u00faltimos 4 a\u00f1os, por ejemplo, se ha promovido la cooperaci\u00f3n interhemisf\u00e9rica (ver enlace \u201c1\u201d.",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existe ning\u00fan reporte de financiamiento a ninguna campa\u00f1a, ni para pol\u00edticos, ni partidos pol\u00edticos originado en la PRC.",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No se han identificado grupos reportados con conexiones al UFWD que realicen estas actividades concretas, incluso organizaciones que podr\u00edan estar relacionadas (ejemplo C\u00e1maras de Comercio, Instituto Confucio, etc.) no han realizado esta actividad.",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existe ning\u00fan tipo de reporte sobre este tema, ni del organismo concreto ni ning\u00fan organismo formal e informal de la RPC.",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/38r0eO8"
+                ],
+                "note": "La postura del presidente Lasso se basa en el inter\u00e9s por establecer un Tratado de Libre Comercio entre China y Ecuador.",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existen reportes en este \u00e1mbito, tan solo un caso relacionado a una posici\u00f3n acad\u00e9mica pero no altamente lucrativa.",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3whgtGv"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "El principal socio comercial de Ecuador es Estados Unidos de Am\u00e9rica. ",
+                "evidence_urls": [
+                    "https://ec.usembassy.gov/es/business-es/",
+                    "https://bit.ly/38yN5Cn"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3lf8MdF"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3GRprhs",
+                    "https://bit.ly/3zh01rQ"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiddata.org/publications/banking-on-the-belt-and-road",
+                    "https://thepeoplesmap.net/"
+                ],
+                "note": "A pesar de cr\u00e9ditos y construcci\u00f3n del servicio integrado de seguridad   Ecu911, el manejo del centro y de la informaci\u00f3n es del Estado ecuatoriano (ver link 1). En el caso de la planta el\u00e9ctrica Coca Codo (y otras de menor envergadura), tambi\u00e9n es v\u00eda cr\u00e9dito, pero el control y operaci\u00f3n la tiene el estado ecuatoriano.",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3x36TGt",
+                    "https://www.eluniverso.com/noticias/2019/11/02/nota/7585748/se-formaliza-adhesion-ecuador-banco-asiatico/",
+                    "https://www.cancilleria.gob.ec/china/2021/05/21/ecuador-y-el-banco-asiatico-de-inversion-en-infraestructura-baii-analizan-alternativas-para-apoyar-la-recuperacion-economica-del-pais/"
+                ],
+                "note": "Incluso ya he existido conversaciones sobre cooperaci\u00f3n,  pos-acuerdo ver enlace 3.",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://camarachina.ec/",
+                    "https://srcic.org/silk-road-members/?page=3"
+                ],
+                "note": "No existen reportes sobre el tema ni en la p\u00e1gina de la C\u00e1mara de Comercio China-Ecuador, ni en la p\u00e1gina de la \u201cSilk Road Chamber of International Commerce\u201d.",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.seafoodsource.com/news/supply-trade/china-frees-up-imports-of-one-ecuadorian-shrimp-producer-two-more-expected-to-follow"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existen reportes sobre el tema, especialmente porque no existe en la sociedad civil ni entre empresarios el (re)conocimiento sobre estas tem\u00e1ticas.",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://dialogochino.net/es/comercio-y-inversiones-es/tlc-propuesto-ecuador-china-oportunidades-preocupaciones/",
+                    "http://fta.mofcom.gov.cn/english/fta_qianshu.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3aiqVVD",
+                    "https://bit.ly/3NRDjub"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.primicias.ec/noticias/economia/contratos-petroleros-china-confidenciales-ecuador/",
+                    "https://www.primicias.ec/noticias/economia/china-pone-dificiles-condiciones-para-creditos-ecuador/"
+                ],
+                "note": "Aun cuando los pr\u00e9stamos chinos no han establecido pagos colaterales con espacios de tierras u obras de infraestructura, reportes se\u00f1alan que existen dos mecanismos de pr\u00e9stamos relacionados a petr\u00f3leo, unos los denominados Loans for oil (presente tambi\u00e9n con otros estados), y otros donde se reporta que se han establecido garant\u00edas de pago de cr\u00e9ditos  con petr\u00f3leo. Esta modalidad es aplicada por la RPC, su Banco de Desarrollo y algunas de sus empresas petroleras.",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.airuniversity.af.edu/Portals/10/ASPJ_Spanish/Journals/Volume-30_Issue-4/2018_4_05_ellis_s_eng.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3mfmpde",
+                    "https://www.expreso.ec/actualidad/economia/nokia-desplaza-huawei-desplegar-red-5g-ecuador-100008.html"
+                ],
+                "note": "Ha habido intenciones pero que no se llegaron a concretar, o desarrollar, en el caso del proyecto Yachay sobre 4g con China se hicieron acercamientos desde 2015 (ver enlace 1) pero NO se materializ\u00f3. En 2021, hubo la intenci\u00f3n de desarrollar el 5g con una firma China, pero finalmente \u00e9sta tambi\u00e9n fue cambiada por la intenci\u00f3n de buscar otro socio (ver enlace 2).",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3NPOun2"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/data/",
+                    "https://bit.ly/3zfKacL"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-749",
+                    "https://www.airuniversity.af.edu/Portals/10/JIPA/journals/Volume-01_Issue-1/07-F-Ellis.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-749"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cips.com.cn/",
+                    "https://bit.ly/3zjCZ3A"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3NlmtnR"
+                ],
+                "note": "Didi es la empresa emergente estrella reportada, no se ha registrado otro operando en Ecuador.",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3xbFB0u",
+                    "https://bit.ly/3xt4FR1"
+                ],
+                "note": "No se reportan anuncios p\u00fablicos de desarrollo tecnol\u00f3gico concreto en el campo, existen dos casos que pueden ser mencionados como relacionados indirectamente  1) El memorando de entendimiento de 2018 donde se plantea \u201cel inter\u00e9s  de la Contralor\u00eda de Ecuador - organismo de control- para apoyar el desarrollo de la agenda de la comisi\u00f3n de Big data de la Intosai presidida por China\u201d ( ver link 1), y esfuerzos de intercambio de ciencia y tecnolog\u00eda incluido TICS, firmado en 2014, y operando hasta cambio de gobierno de 2017, con enfasis en appyar especialmente a universidad Yachay de Ecuador , que no prosperaron (ver link 2).",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3ziWkBD"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.beidou.gov.cn/zt/gjhz/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3GW9Pcy",
+                    "https://bit.ly/3xlksSV"
+                ],
+                "note": "En 2010 se reporta ya la Asociaci\u00f3n de Promoci\u00f3n de la Reunificaci\u00f3n Pac\u00edfica de Ecuador y China en el directorio de Asociaciones de Promoci\u00f3n de la Reunificaci\u00f3n Pac\u00edfica Nacionales y Extranjeras (ver link 1), en 2013, se llev\u00f3 a cabo un encuentro en la ciudad de Guayaquil (ver link 2).",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html",
+                    "https://bit.ly/3miFhrH"
+                ],
+                "note": "No se encuentran reportes en el link 1, ni tampoco incluso vinculando el nombre del Pa\u00eds y esa asociaci\u00f3n en lenguaje chino (link 2).",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existen reportes sobre el tema en los \u00faltimos a\u00f1os; varias de las centrales de trabajadores como frente unitario de trabajadores por influencia marxista e incluso mao\u00edsta, plantean que la RPC reproduce un tipo de imperialismo de corte capitalista. Nuevas fracciones sindicales, fundadas en el gobierno de expresidente Correa, pudieron haber estado alineados a las relaciones bilaterales amigables propuestas por ese gobierno, pero no se reportan visitas de este tipo, m\u00e1s a\u00fan despu\u00e9s de 2020.",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existen reportes, y la comunidad di\u00e1spora, seg\u00fan informante calificado chino -ecuatoriano de 3era o cuarta generaci\u00f3n, han comentado que las fiestas tienen un car\u00e1cter cerrado frente a personas que no sean parte reconocidas de las asociaciones o comunidades.  ",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "Existe evidencia sobre actividades realizadas por la Corporaci\u00f3n de Mujeres Ecuatorianas Amigas de la Rep\u00fablica Popular China en el a\u00f1o 2020. Dichas actividades fueron principalmente culturales y fueron rese\u00f1adas en un suplemento publicado por la Embajada de la RPC en Quito (link 2). Tambi\u00e9n fue posible ubicar evidencia que nos permite afirmar que dicha organizaci\u00f3n realiza actividades desde el 2014 (link 1). Sin embargo, \u00e9sta coporaci\u00f3n no es influyente en el pa\u00eds.",
+                "evidence_urls": [
+                    "http://women.fjsen.com/2014-09/25/content_14942782.htm",
+                    "https://issuu.com/suplementosgec/docs/embajada_de_china_2019web"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No se encuentra ning\u00fan tipo de reporte de esta actividad en Ecuador",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existen reportes desde 2017 sobre este tema, cuando Ecuador TV paso a administraci\u00f3n de otro gobierno y no se continu\u00f3 una relaci\u00f3n estrecha, tal como se hab\u00eda realizado antes de 2017 y se\u00f1alado en una pregunta anterior.",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existen productos culturales en este nivel que se orienten a presentar una determinada imagen sobre la RPC, dado el poco conocimiento sobre la realidad de oriente en general y de China en particular, s\u00f3lo algunas revistas de tv ocasionalmente antes de pandemia presentaron alguna imagen de la modernizaci\u00f3n y cultura tradicional de China.",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existen registros de alguna celebridad ecuatoriana que publique o comparta la narrativa oficial de PCR, e incluso no existe celebridades que presenten o tengan intenci\u00f3n manifiesta de hablar sobre China.",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cancilleria.gob.ec/china/2022/02/18/presidente-lasso-informo-sobre-los-importantes-resultados-de-las-reuniones-mantenidas-en-china/",
+                    "https://www.cancilleria.gob.ec/china/2022/02/18/medios-chinos-recogen-las-noticias-mas-importantes-de-la-visita-del-presidente-guillermo-lasso-a-china/"
+                ],
+                "note": "Apenas las relacionadas a intereses comunes como el TLC propuesto por el gobierno de Guillermo Lasso, o sobre la Franja y Ruta.",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/397wfuM",
+                    "https://bit.ly/3tgIJao"
+                ],
+                "note": "No existen reportes sobre medici\u00f3n de percepciones positivas o negativas de los ciudadanos ecuatorianos sobre el gobierno de la RPC; sin embargo, existe una fuerte presencia de cr\u00edticas a la relaci\u00f3n con China, especialmente en prensa y varios sectores pol\u00edticos referentes a: a) la devastaci\u00f3n por pesca en las islas Gal\u00e1pagos; b) la percepci\u00f3n sobre preventa petrolera que ha significado perjuicio y endeudamiento extremo al ecuador, c) una supuesta hipoteca del pa\u00eds por cr\u00e9ditos chinos, d) una acci\u00f3n voraz en el mundo d ellos negocios especialmente mineros, etc. \u00daltimamente ha existido posiciones m\u00e1s amigables por el tema de la cooperaci\u00f3n en vacunas covid-19 y otras medias para la pandemia. (Ejemplos de reportes negativos en estudios y reportajes nacionales e internacionales en link 1 y 2).",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3th5nzv"
+                ],
+                "note": "Desde 2020, no se reporta este tipo de actividad, lo \u00faltimo fueron donaciones en 2016 de 100.000 fusiles tipo AK-47, que incluso estuvieron a punto de ser chatarrizados en 2021, y luego se plante\u00f3 utilizar material para entrenamiento (ver link 1).",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Ecuador no tiene la capacidad de exportaci\u00f3n de armas y menos para un ej\u00e9rcito m\u00e1s sofisticado, como el chino.",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.eluniverso.com/noticias/politica/ecuador-no-hara-chatarra-los-fusiles-donados-por-china-confirmo-el-ministro-de-defensa-nota/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.acnur.org/fileadmin/Documentos/BDL/2008/6716.pdf"
+                ],
+                "note": "No ha existido declaraci\u00f3n sobre ning\u00fan establecimiento de bases, ni siquiera durante el \u00e9xtasis de la relaci\u00f3n bilateral entre 2007-2017. La constituci\u00f3n ecuatoriana (2008) adem\u00e1s proh\u00edbe la presencia de bases extranjeras en territorio ecuatoriano.",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://en.brnn.com/n3/2020/0703/c416050-9706871.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.acnur.org/fileadmin/Documentos/BDL/2008/6716.pdf"
+                ],
+                "note": "No existe reportes, y la constituci\u00f3n no permite este tipo de presencia, ni de bases extranjeras (enlace 1, constituci\u00f3n Art. 5, p. 17: \u201cEl Ecuador es un territorio de paz. No se permitir\u00e1 el establecimiento de bases militares extranjeras ni de instalaciones extranjeras con prop\u00f3sitos militares. Se proh\u00edbe ceder bases militares nacionales a fuerzas armadas o de seguridad extranjeras\u201d. Tambi\u00e9n en: T\u00edtulo VIII Relaciones Internacionales Cap\u00edtulo primero Principios de las relaciones internacionales Art. 416, numeral 4, p. 183.",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://lanacion.com.ec/cooperacion-militar-entre-ecuador-y-china/"
+                ],
+                "note": "S\u00ed, pero no en la actualidad, ya que los reportes pueden ir hasta 2016; en el enlace 1 se habla del caso de 2014, donde la visita de ex ministro de defensa del Ecuador se orient\u00f3 a convenios de \u201cformaci\u00f3n del personal militar ecuatoriano en China, adem\u00e1s de en Ecuador por parte de, por ejemplo, instructores de artes marciales o de profesores de chino para ense\u00f1ar este idioma en la universidad de las Fuerzas Armadas\u201d.",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://confirmado.net/2021/07/29/en-ecuador-se-celebro-el-94-aniversario-de-fundacion-del-ejercito-popular-de-liberacion-de-china-discurso-central-de-tu-fachao/"
+                ],
+                "note": "No reportes sobre entrenamiento, pero si sobre seminarios en contexto de oferta de seminario virtual, como plantea en el link 1, en julio de 2021: \u201cChina presidi\u00f3 el Seminario Virtual de China-Am\u00e9rica Latina sobre las Operaciones de Mantenimiento de Paz de las Naciones Unidad con los 10 pa\u00edses de Am\u00e9rica Latina, donde participan las FF.AA. del Ecuador\u2026\u201d",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Existen rumores sobre adquisici\u00f3n de taladros de Petr\u00f3leo a favor de empresas de servicios petroleras relacionadas al expresidente Lucio Guti\u00e9rrez y su hermano entonces congresista (ambos militares retirados), pero no se ha podido acceder a fuentes oficiales.",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existen reportes de ning\u00fan tipo sobre este tema; existe una tradici\u00f3n hacia la cooperaci\u00f3n hemisf\u00e9rica, con Europa e incluso Israel, que se ha retomado plenamente especialmente en los \u00faltimos a\u00f1os, y en el 2022 por amenazas trasnacionales del crimen organizado.",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No existen este tipo de ejercicios en Ecuador, ni en pa\u00edses vecinos, hasta 2017, y mucho menos despu\u00e9s, donde le Ecuador inicia un proceso de realineamiento a la perspectiva de seguridad hemisf\u00e9rica. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3awxwMp",
+                    "https://bit.ly/3Qfcp1B"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/38RLNCT"
+                ],
+                "note": "No existen acuerdos firmados entre ambos pa\u00edses en materia de lucha contra el terrorismo; la \u00fanica menci\u00f3n establecida es posible encontrarla en el punto 2.3 de la \u201cDECLARACI\u00d3N CONJUNTA ENTRE LA REP\u00daBLICA POPULAR CHINA Y LA REP\u00daBLICA DEL ECUADOR SOBRE EL ESTABLECIMIENTO DE LA ASOCIACI\u00d3N ESTRAT\u00c9GICA\u201d, la cual data del a\u00f1o 2015 (enlace 1). ",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3NmRhod",
+                    "https://bit.ly/38QFwHo"
+                ],
+                "note": "Se reporta hasta 2009 en link 1. Y en 2014 en link 2. A partir de ah\u00ed, y en 2020-2021, no se encuentran reportes sobre la tem\u00e1tica. ",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existen reportes sobre el tema, adicionalmente se debe mencionar que la actividad privada del Ecuador en t\u00e9rminos industriales y tecnol\u00f3gicos es dependiente de pa\u00edses del Norte y de pa\u00edses como China, Jap\u00f3n, etc.",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tcrn.ch/3GTKf83"
+                ],
+                "note": "Aunque no existen reportes directos en el pa\u00eds, pero si la sospecha en medios especializados de acciones sobre varios pa\u00edses incluidos el Ecuador (ver enlace 1). ",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existen reportes sobre amenazas o uso de fuerza sobre disidentes chinos. \n",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://nyti.ms/3tgu3bo"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existen reportes ni ning\u00fan tipo de convenio en el nivel policial de este tipo.",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No existen reportes ni en el periodo 2007-2017, ni en a\u00f1os posteriores. ",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No se ha reportado deportaciones a ciudadanos Taiwaneses a China, ni en medios locales ni internacionales. ",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://bit.ly/3mjkepa"
+                ],
+                "note": "No existen reportes sobre deportaciones desde este tipo; al contrario, existen reportes recientes (2021) de que Ecuador garantiza refugio a ciudadanos chinos (ver enlace 1). ",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Ecuador had a GDP per capita of U $5,935 and a total population of 17.88 million people. There is no information available on the Chinese population in the country.",
+    "description-2": "Ecuador established diplomatic relations with the People's Republic of China in 1980. Ecuador was ranked 68th in Reporters Without Borders' 2022 World Press Freedom Index, and Free in Freedom House's 2022 Global Freedom Status, with a score of 71/100."
+}

@@ -1,0 +1,695 @@
+[
+    {
+        "1": "In my country, there are media organizations that belong to the World Chinese Media (世界华文媒体) network.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "2": "In my country, there are journalists or media organizations which are members of the Belt and Road Media Cooperation Alliance/Union, the Belt and Road News Alliance, or other Belt and Road media networks that connected to PRC (e.g. Belt and Road Media Community, Belt and Road Journalists Network, Belt and Road News Network, or B&R TV Networks).",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "3": "In my country, journalists, media organizations, or online influencers have participated in international travel organized by PRC state-owned media or PRC-connected entities.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "4": "In my country, there are journalists, media organizations or online influencers who have received trainings from PRC state-owned media or PRC-connected entities.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "5": "In my country, PRC state media (including print, radio, and video) is broadcasted or distributed in a local language.",
+        "remark": "This Indicator only refers to PRC state media directly broadcasted or distributed by PRC entities. In other words, it may include YouTube channels in the domestic language run by CGTN (a state media organization) or local TV channels run by CCTV. This Indicator does not cover Chinese state media that is shared indirectly by domestic media outlets (content-sharing agreements). That phenomenon is covered in Media Indicator #7.",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "6": "In my country, there are local media outlets wholly or majority owned by PRC-connected individuals or entities, or media owners who have significant business interests in the PRC.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "7": "In my country, media outlets have delivered content provided by PRC state-funded media, or under content-sharing agreements with PRC state-funded media.",
+        "remark": "This Indicator measures whether local media outlets broadcast news, video clips, or other contents provided by PRC state-fund media (content-sharing agreements). The phenomenon can be observed via footages of content pieces. Therefore, press statement from PRC governmental agencies do not fall into the category of contents provided by PRC state-fund media.",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "8": "In my country, local newspapers, online news websites, content farms, or social media platforms receive economic support by regularly featuring advertisements from PRC-connected entities.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "9": "In my country, there are journalists who have had pressure exerted on them by the PRC, including (but not limited to) public denunciation, revocation of journalist ID, denial of visa, lawsuits, or threat thereof.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "Cases/Incidents",
+        "layer": "Pressure"
+    },
+    {
+        "10": "In my country, there are media organizations that describe relations with the PRC as based on friendship, brotherhood, or otherwise use emotive language that refers to the relationship in familial terms.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Alignment"
+    },
+    {
+        "11": "In my country, there are media personalities (including reporters, journalists or commentators) or celebrities who echo PRC talking points, such as denying the existence of or whitewashing human rights abuses (e.g. a media personality who rejects that there are re-education camps for Uyghurs in Xinjiang).",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Alignment"
+    },
+    {
+        "12": "My country’s legislature has a joint parliamentary friendship group, committee or other forms of sub-organizations with the PRC.",
+        "remark": "Although in some countries, parliamentary structure does not allow for such groups or committees, we still consider this indicator as important. \"Joint parliamentary friendship group\" means joint as PRC and target country representatives.",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "13": "My country receives foreign aid or significant in-kind donations from the PRC.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "14": "The PRC provides training to diplomats or civil servants on governance from my country (such as at 国家行政学院 or 中央党校).",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "15": "Citizens of my country have been detained in the PRC or denied exit for political reasons, a.k.a. “hostage diplomacy.”",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Pressure"
+    },
+    {
+        "16": "In my country, politicians or government officials participate in events or projects affiliated with the China Council for International Cooperation on Environment and Development (CCICED, 中国环境与发展国际合作委员会).",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Pressure"
+    },
+    {
+        "17": "My country has signed an agreement with the PRC to classify their diplomatic relationship as a \"Strategic Partnership\" or beyond.",
+        "remark": "The PRC classifies some of its diplomatic relations with foreign states, based on the strength of diplomatic ties. The \"Strategic Partnership\" classification indicates close bilateral ties; diplomatic relations can be classified by even stronger terms, such as \"Innovative Strategic Partnership\" or \"All-Round Strategic Partnership.\" Bilateral relations classified by stronger terms that \"Strategic Partnership\" apply to this Indicator. See: https://www.emerald.com/insight/content/doi/10.1108/ITPD-05-2019-0004/full/pdf?title=chinas-emerging-partnership-network-what-who-where-when-and-wh-y",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Alignment"
+    },
+    {
+        "18": "My country unquestionably uses PRC’s \"One China Principle\" which articulates that Taiwan is an inalienable part of China, rather than my country's own \"One China Policy.\"",
+        "remark": "\"The \"\"One China principle\"\" is the position held by the PRC and the CCP that there is only one sovereign state under the name China, with the PRC serving as the sole legitimate government of that China, and Taiwan is an inalienable part of China. Under its \"\"one China policy\"\", the U.S. acknowledges the PRC position on Taiwan, but does not take a stance on its validity. Here \"\"my country's own 'one China policy'\"\" is used as an umbrella term for foreign policy formulations similar to the U.S. one China policy that differ from the PRC's one China principle.   https://www.us-taiwan.org/resources/faq-the-united-states-one-china-policy-is-not-the-same-as-the-prc-one-china-principle-/",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Alignment"
+    },
+    {
+        "19": "My government has supported, remained silent about, or opposed the PRC's territorial claims (such as on the South China Sea arbitration ruling issued by the UNCLOS Arbitral Tribunal in July 2016); except claims over Taiwan, which are indirectly covered in indicator 7.",
+        "remark": "https://carnegieendowment.org/2023/02/09/many-one-chinas-multiple-approaches-to-taiwan-and-china-pub-89003-",
+        "grading": "2",
+        "evdType": "Diplomatic Position",
+        "layer": "Alignment"
+    },
+    {
+        "20": "My government has supported, remained silent about, or opposed the PRC's treatment, governance, or policy towards the Uyghur population in Xinjiang.",
+        "remark": "",
+        "grading": "2",
+        "evdType": "Diplomatic Position",
+        "layer": "Alignment"
+    },
+    {
+        "21": "My government has supported, remained silent about, or opposed the PRC's treatment, governance, or policy toward the Tibet population.",
+        "remark": "",
+        "grading": "2",
+        "evdType": "Diplomatic Position",
+        "layer": "Alignment"
+    },
+    {
+        "22": "My government has supported, remained silent about, or opposed the PRC's ongoing repression in Hong Kong, such as the imposition of the National Security Law or other actions to persecute Hong Kong protestors or activists.",
+        "remark": "",
+        "grading": "2",
+        "evdType": "Diplomatic Position",
+        "layer": "Alignment"
+    },
+    {
+        "23": "In my country, universities have established research partnerships with PRC-connected entities. (e.g. Huawei, Tencent or Alibaba)",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "24": "In my country, there are Confucius Institutes/Classrooms or other PRC-affiliated Chinese language centers based at universities.",
+        "remark": "In recent years, some Confucius Institutes have been renamed or rebranded, but still maintain connections with the CCP. This Indicator includes Chinese language centers that operate in the same manner as Confucius Institutes. It does not include Chinese language centers that merely offer exchanges to PRC-based language institutes (language exchanges). See this report: https://www.universityworldnews.com/post.php?story=2022063015261078-3",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "25": "My country plans to include, or does include, Chinese as a foreign language in K-12 or primary education, and receives free or subsidized (e.g. offered below market price) educational books and teachers from the PRC.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "26": "In my country, one or more think tanks and academic research centers belong to PRC-affiliated networks/associations (such as: the Silk Road Think Tank Association, Silk Road Think Tank Network [SiLKS], Belt and Road Studies Network, University Alliance of the Silk Road, University Consortium of the 21st Century Maritime Silk Road).",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "27": "In my country, think tanks and academic research centers have received financial benefits from PRC-connected individuals or entities, such as through grants, donations, sponsored exchange programs, or fellowship programs at PRC institutions.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "28": "In my country, experts participate in PRC talent recruitment programs such as the Thousand Talents Program or Changjiang Scholars program.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "29": "In my country, scholars have taken trips to the PRC or to other countries organized or run by PRC-connected individuals or entities.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "30": "In my country, organized PRC-connected student groups, such as Chinese Students and Scholars Associations (CSSAs), are involved in attempts to censor staff or students (e.g. by harassing students protesting human rights abuses in the PRC, or formally complaining about the identification of Taiwan as a country in lecture slides).",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Pressure"
+    },
+    {
+        "31": "In my country, scholars or academics have been pressured after expressing opinions or producing scholarship that is critical of the PRC, including via visa denials for PRC travel, workplace censure, lawsuits, legal challenges, or threats thereof.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Pressure"
+    },
+    {
+        "32": "In my country, PRC-connected entities have been involved in school or university curriculum design, such as courses about East Asian history, modern politics, etc.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Alignment"
+    },
+    {
+        "33": "In my country, scholars have published articles that echo PRC talking points, such as denying the existence of or whitewashing human rights abuses (e.g. an academic who rejects that there are re-education camps for Uyghurs in Xinjiang).",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Alignment"
+    },
+    {
+        "34": "In my country, politicians or government employees at the sub-national level are signing agreements with the PRC government or state-owned enterprises.",
+        "remark": "This indicator is to measure the sub-national or city level partnership, if an agreements is signed at the national level on behalf of the local government, the answer to this indicator should be positive.",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "35": "In my country, local municipalities or provinces have sister-city or sister-province ties (友好城市) with municipalities or provinces in the PRC.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "36": "In my country, politicians or government employees have taken trips to the PRC paid for by PRC-connected individuals or entities.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "37": "In my country, politicians or government employees at the local (non-national) level visit the PRC and meet with PRC officials and think tanks.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "38": "Representatives of a political party in my country’s national legislature have been invited to visit the PRC or attended events hosted by the International Department of the Chinese Communist Party (中共中央对外联络部), including World Political Parties Summits, CPC in Dialogue with World Political Parties High-Level Meetings, BRICS Political Parties Dialogues, Think Tanks and Civil Society Organizations Fora, etc.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "39": "In my country, there are reports of politicians or political parties receiving campaign finance or significant in-kind donations from PRC-connected entities or individuals.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "40": "In my country, groups with reported links to the United Front Work Department (UFWD) have hosted fundraisings or have provided other forms of support for government employees, politicians or parties.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Pressure"
+    },
+    {
+        "41": "PRC officials or PRC state media have criticized, harassed, or threatened local politicians, local government officials, or political parties in my country due to their activities, statements or policy advocacy.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Pressure"
+    },
+    {
+        "42": "In my country, politicians or government employees have publicly echoed PRC talking points (e.g. denying PRC human rights issues, arguing that the PRC’s one-party political system could be beneficial for my country’s economic growth).",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Alignment"
+    },
+    {
+        "43": "In my country, politicians or government employees have received direct or deferred benefits from PRC-connected individuals or entities openly or covertly (e.g. have been appointed to lucrative positions as board members or consultants with PRC-invested firms, casinos, energy companies, etc.) during or in retirement from public office.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Alignment"
+    },
+    {
+        "44": "In my country, officials, political parties, and political elites try to suppress criticism of the PRC.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Alignment"
+    },
+    {
+        "45": "The PRC is my country's number one trading partner (for trade in goods only).",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "46": "PRC-connected entities own more than 25% of my country’s bilateral sovereign debt.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "47": "The PRC is the top customer for my country’s extractive industries.",
+        "remark": "We do not include \"agroindustry with transgenic seed\" in the definition of extractive industries. We consider extractive industries as different activities that lead to the extraction of raw materials from the earth (such as oil, metals, mineral and aggregates).",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "48": "In my country, PRC-related entities own, operate or substantially control critical infrastructure (e.g. ports, power plants, digital data centers, etc) or sensitive sectors (biotech, raw materials, etc.)",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "49": "My country joined (or applied to join) the Asian Infrastructure Investment Bank (AIIB).",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "50": "In my country, major businesses are members of the Silk Road Chamber of International Commerce, or of the Belt and Road Industrial and Commercial Alliance, or of the Belt and Road General Chamber of Commerce.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "51": "In my country, financial institutions use the China Cross-Border Interbank Payment System (CIPS) clearing and settlement services system.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "52": "My country has been the target of PRC economic coercion (e.g. trade/investment sanctions, boycotts) after the government, private companies, or NGOs made statements or introduced policies deemed unfavorable to the PRC.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Pressure"
+    },
+    {
+        "53": "My country has free-trade agreement(s) with the PRC (either bilateral or as part of regional agreement(s)) that primarily deals with trade in goods or services, including digital goods or services.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Alignment"
+    },
+    {
+        "54": "In my country, central or local governments have relaxed or removed regulatory restrictions, or have established special economic zones (or free trade zones, industrial parks, etc.) to attract investments or economic participation from the PRC.",
+        "remark": "If the country only has intention to build special economic zones to attract investment from the PRC and not yet formalize, the answer to this indicator remains \"NO\". We can update the answer in next year to see how it changes. But it will be great to put supplementary notes to further indicate the situation in the country.",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Alignment"
+    },
+    {
+        "55": "My country has undergone a default or restructuring of a public debt arrangement with PRC-affiliated financial entities, which may have involved the transfer of my country's land or infrastructure in exchange for debt forgiveness.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "Cases/Incidents",
+        "layer": "Alignment"
+    },
+    {
+        "56": "In my country, PRC-connected entities (such as China Mobile, China Unicom or China Telecom) or their subsidiaries provide telecom services.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "57": "In my country, telecoms have signed agreements to adopt hardwares or technical specifications of 4G or 5G cellular networks that are produced or developed by Huawei, ZTE or other PRC enterprises.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "58": "In my country, internet service providers have signed agreements to adopt hardware or technical specifications for Wi-Fi or fiber optic/broadband networks that are produced or developed by PRC enterprises.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "59": "In my country, PRC-connected entities are authorized to supply tech-related equipment for critical infrastructure (such as airports, public transport, government IT networks, ports etc.).",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "60": "In my country, the central or local government has signed agreements to adopt biometric surveillance technology (such as facial, voice, DNA or gait recognition) produced by PRC-connected entities.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "61": "In my country, one or more cities have procured, or have signed contracts with PRC-connected entities to establish “smart city” systems.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "62": "My country is directly served by a subsea or land-based major fiber optic internet cable built by a PRC-connected entity, or has greenlit plans for one to be built in the future.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "63": "In my country, PRC-affiliated venture capital, financial firms or PRC government entities invest in local technology start-ups.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "64": "In my country, companies have publicly announced that they had signed MOUs to collaborate on technological development (such as collaborations in A.I., Blockchain, Cloud Computing, Big Data) with PRC-connected entities.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "65": "My country has signed space cooperation agreements or memorandums of understanding, or formed space cooperation mechanisms with PRC-connected entities.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "66": "In my country, the central or local government(s) has collaborated with the PRC on endorsing the use of BeiDou satellite navigation system.",
+        "remark": "If there is ongoing discussion of Beidou satellite navigation system with no closed contract, the answer remains \"NO\". We can update the answer in next year to see how it changes. But it will be great to put supplementary notes to further indicate the situation in the country.",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "67": "In my country, there are local groups or organizations with words like “Promotion of Peaceful Reunification” in their name, and they regularly publicize their views on Taiwan, Hong Kong, Tibet and Xinjiang issues.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "68": "In my country, there are members and member organizations of United World Chinese Association (世界华人协会).",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "69": "In my country, labor unions have engaged with the All-China Federation of Trade Unions (ACFTU) through exchanges or official visits, received material or financial donations, or participated in training sessions offered by the ACFTU on subjects like collective bargaining.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "70": "In my country, there are Chinese diaspora community events and activities (e.g. Lunar New Year events, Dragon Boat Festival tournaments, etc) hosted or sponsored by organizations or personnel linked to the UFWD, or by PRC diplomats.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "71": "In my country, there are PRC-connected professional associations, such as the All-China Journalists Association (中华全国新闻工作者协会), China Artists Association (中国艺术家协会), China Writers Association (中国作家协会) or All-China Women Federation (全国妇联), that are closely engaged with their local counterparts through exchanges or official visits, providing material or financial donations, or hosting training sessions.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "72": "In my country, PRC-connected individuals or entities donate money or provide other types of support to religious communities and charities.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "73": "In my country, the PRC government or PRC-connected entities distribute entertainment products (including: drama and TV shows) or related hardwares (e.g. OTT streaming players hosting PRC media channels) freely or at a cheap price.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "74": "In my country, PRC-connected entities are the main shareholders or developers of the top five popular social media/messaging apps, based on their usage.",
+        "remark": "This indicator measures the \"usage\" of the apps instead of download numbers. However, if the respondent is certain about the usage but can't manage to find public data, then download numbers can be used as supporting evidence.",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "75": "In my country, there are cultural events, cultural exchange projects, or cultural organizations that are funded by or receive funding from PRC-connected entities, including in sports.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Alignment"
+    },
+    {
+        "76": "In my country, gamers, gaming communities, or game developers/publishers have been involved in freedom of speech controversies related to the PRC.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Alignment"
+    },
+    {
+        "77": "In my country, polling data or opinion surveys indicate that a majority of citizens hold favorable views toward the PRC government.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Alignment"
+    },
+    {
+        "78": "My country currently imports (or receives in-kind donation of) military or law-enforcement equipment or components of equipment from the PRC.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "79": "My country’s government has participated in one or more multilateral security dialogues organized by the PRC (e.g. China-Africa Peace and Security Forum; the Conference on Interaction & Confidence Building Measures in Asia).",
+        "remark": "",
+        "grading": "0",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "80": "My country co-develops or co-produces military or law-enforcement equipment with the PRC (including arrangements where PLA-affiliated professionals work in domestic labs researching dual-use technologies).",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "81": "In my country, there are reports that the PRC has expressed intentions or has taken actions to establish bases.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "82": "In my country, the People’s Liberation Army (PLA) has participated in a humanitarian relief/disaster assistance (HADR) effort.",
+        "remark": "If there are vaccine donations or other forms of donations from PRC in the country, the answer can be \"YES\" when these donations are related to the PLA after investigation.",
+        "grading": "0",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "83": "In my country, People’s Liberation Army (PLA) military personnel are permanently or rotationally deployed (excluding defense attaches and peacekeepers).",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "84": "In my country, military professionals have participated in military education or training programs provided by the PRC.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "85": "In my country, senior military or civilian defense leaders have participated in bilateral meetings with PLA officers at or above the one-star rank.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "86": "In my country, high-ranking retired or current military and/or intelligence officers have received direct or deferred benefits from PRC-connected individuals or entities openly or covertly (e.g. have been appointed to lucrative positions as board members or consultants with PRC-invested firms, casinos, energy companies, etc.) during or in retirement from public service.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "87": "In my country, high-ranking retired or current military and/or intelligence officials publicly advocate for friendly foreign policy or military cooperation with the PRC.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "Cases/Incidents",
+        "layer": "Alignment"
+    },
+    {
+        "88": "My country cooperates with the People’s Liberation Army (PLA) on military exchange exercises, including drills and war games.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Alignment"
+    },
+    {
+        "89": "My country currently maintains an extradition treaty, legal mutual assistance or other similar arrangements with the PRC.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "90": "In my country, law enforcement authorities have signed cooperation agreements with the PRC on combating terrorism.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "91": "In my country, PRC-connected gangs (such as Triad, 三合会) are known to be operating in my country.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "Cases/Incidents",
+        "layer": "Exposure"
+    },
+    {
+        "92": "In my country, security services (安保/保安) offered by private PRC companies are contracted by national or subnational governments.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "93": "In my country, law enforcement and judicial-related training offered by PRC-connected individuals or entities have been accepted by national or subnational governments.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "System",
+        "layer": "Exposure"
+    },
+    {
+        "94": "In my country, organized local criminal groups are known to have threatened or used violence to coerce, intimidate, or punish individuals critical of the PRC.",
+        "remark": "",
+        "grading": "1",
+        "evdType": "Cases/Incidents",
+        "layer": "Pressure"
+    },
+    {
+        "95": "In my country, there are reports of cyber attacks targeting government, critical infrastructure, or enterprises that were suspected to be initiated from the PRC.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "Cases/Incidents",
+        "layer": "Pressure"
+    },
+    {
+        "96": "In my country, PRC-connected individuals or entities have established extra-legal physical premises from which to surveil or detain members of the Chinese diaspora (e.g. overseas police service stations).",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Alignment"
+    },
+    {
+        "97": "My government has arbitrarily detained people at the behest of the PRC, such as those who engage in political activism or those who are members of minority groups.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "Cases/Incidents",
+        "layer": "Alignment"
+    },
+    {
+        "98": "My country has extradited or deported individuals to the PRC despite criticism from politicians, government employees, or NGOs.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "Cases/Incidents",
+        "layer": "Alignment"
+    },
+    {
+        "99": "My country has deployed video or internet surveillance systems from the PRC for law enforcement.",
+        "remark": "",
+        "grading": "0",
+        "evdType": "System",
+        "layer": "Alignment"
+    }
+]

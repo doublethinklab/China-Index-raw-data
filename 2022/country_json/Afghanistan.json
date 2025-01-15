@@ -1,0 +1,982 @@
+{
+    "name": "Afghanistan",
+    "partner": "Tsz Yan Yau",
+    "year": "2022",
+    "GDP": "$516.7",
+    "population": "39.8M",
+    "original": "136/396",
+    "ranking": "38",
+    "overall": "34%",
+    "effect": "43%",
+    "exposure": "36%",
+    "pressure": "12%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "No World Chinese Media affiliated organization in Afghanistan - the country is too unstable for the Chinese diaspora community to grow, the Chinese expat community reportedly ranged from 20 to 60 depending on stability in the country during that period. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "Most local journalists in Afghanistan work for foreign medias, there are only a handful of local independent medias but they lack resources and capacity. Also, they tend to be medias supported by the former Afghan government. None of them were found to have joined any Chinese media groups/networks.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "Ministry of Commerce of the People\u2019s Republic of China arranged the 20-day media management seminar in Beijing, all expenses paid by the PRC.\n\nThis is a program involving both training and tour to different parts of the PRC. The 30 member group came from former Afghan government medias and independent medias supported by the former Afghan government. This shows that the PRC was attempting to engage with the former Afghan government. But rated insignificant because since Taliban took over Afghanistan, the former Afghan government lost power entirely and by extension all entities that was associated/ created by the former Afghan government such as those medias. Thus PRC engagement with those medias now have little significance. ",
+                "evidence_urls": [
+                    "https://bakhtarnews.af/en/training-seminar-held-for-afghan-journalists-in-beijing/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "2",
+                "evidence": "Afghan journalists conducted training visit to China, these are journalists from Afghans medias which were run under the former Afghan government. PRC has no cooperation with Taliban media. Rated insignificant because since Taliban took over Afghanistan, the former Afghan government lost power entirely and by extension all entities that was associated/ created by the former Afghan government such as those medias. Thus PRC engagement with those medias now have little significance. \n",
+                "evidence_urls": [
+                    "https://bit.ly/3MDvQyG ",
+                    "http://www.cipg.org.cn/m/2017-04/14/content_40873027.html",
+                    "http://www.cuc.edu.cn/2017/0428/c1761a162016/pagem.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "The CRI Online media outlet is broadcasting in Pashto language but less influential, public is not exposed to the media. By contract, Western medias are also broadcasting in Pashto and have way better coverage due to programs that installed radios in remote parts of Afghanistan. Thus rated 1 due to comparison. \n\n",
+                "evidence_urls": [
+                    "https://pushtu.cri.cn/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "No local media presence in Afghanistan wholly run by PRC. The Chinese expat community reportedly ranged from 20 to 60 depending on stability in the country during that period, and none of them established a local media.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "A local media called Shamshad TV is broadcasting 15 minutes China\u2019s related news and it is portrayed as enhancing cultural and social relations between China and Afghanistan. But the media is not popular at all.\n",
+                "evidence_urls": [
+                    "https://afghanistanchina.wordpress.com/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "This was not observed at all locally. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "There have been significant pressure placed on Afghan journalists that worked for Western medias but they were exerted not by PRC but by the Taliban, detained and tortured. \n",
+                "evidence_urls": [
+                    "https://www.reuters.com/world/asia-pacific/afghan-journalists-beaten-taliban-detention-editor-says-2021-09-09/ ",
+                    "https://edition.cnn.com/2021/09/12/asia/afghanistan-journalists-beaten-by-taliban-intl/index.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "So far no such public censoring of voices because there is lack of views critical of PRC/ views about the PRC in general. Medias in Afghanistan are very much concentrated on reporting about conflicts and since the PRC has very low presence in the country it is not reported much. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "It is locally observed that certain commentators regards Chinese violation of human rights as western anti-China\u2019s propaganda. But this is unpopular voice. \n\nSome senior officials from the Republic regime were also pushing PRC lines on Xinjiang, but they have been overthrown so insignificant. \n",
+                "evidence_urls": [
+                    "http://af.china-embassy.gov.cn/sgxw/202102/t20210204_1114527.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "There is a joint friendship group, Afghan members are all former key officials. It's not strictly a parliamentary friendship group.",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/ceaf/chn/zagx/t1630806.htm",
+                    "http://af.china-embassy.gov.cn/zagx/202105/t20210520_8912957.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "The PRC has kept up with meetings with both the members of Taliban and the Afghan government during the days which these two sides are in power. \n\n\n",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cegv//eng/zgyw/t1895950.htm",
+                    "https://www.rfi.fr/cn/\u56fd\u9645/20220324-\u738b\u6bc5\u9996\u8bbf\u5854\u5229\u73ed\u6267\u638c\u4e0b\u7684\u963f\u5bcc\u6c57",
+                    "https://www.fmprc.gov.cn/web/wjbz_673089/zyhd_673091/201601/t20160126_7575975.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "2",
+                "evidence": "Many. PRC provided a lot of training programs, a variety of topics, to the members of former Afghan government in effort to induce some degree of stability in Afghanistan. But since Taliban came to power in August 2021 all of this efforts evaporated because the former government is ousted. \n\n\n\n\n\n\n\n\n\n\n",
+                "evidence_urls": [
+                    "https://www.shzu.edu.cn/2019/0531/c2a129355/page.htm",
+                    "http://wsbm.shzu.edu.cn/2019/1030/c1257a135008/page.htm",
+                    "http://www.fecc.agri.cn/fzyz/201901/t20190108_334971.html",
+                    "http://www.gov.cn/gzdt/2007-12/28/content_846435.htm",
+                    "http://www.chengdu.cgs.gov.cn/tpxw_4937/201811/t20181109_471040.html",
+                    "https://www.court.gov.cn/zixun-xiangqing-125781.html",
+                    "http://news.cufe.edu.cn/info/1002/43598.htm",
+                    "https://case.iprcc.org.cn/Home/Index/skip/cid/5328.html",
+                    "http://politics.people.com.cn/n/2014/0812/c70731-25450931.html",
+                    "https://www.nau.edu.cn/2019/0618/c5812a56007/page.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "3",
+                "evidence": "PRC has little visible political influence compared to US, Pakistan, India in Afghanistan. However, the idea of obtaining Chinese investment to back its regime has been a powerful tool for both the Taliban and the Republic regime. One year after the Taliban secured Afghanistan, it's clear that the Chinese side uses the opportunity of investment as a pressure point. \n\n",
+                "evidence_urls": [
+                    "http://af.china-embassy.gov.cn/sgxw/202102/t20210204_1114527.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "Both Taliban and Afghan government supported PRC claims on South China Sea\n\n",
+                "evidence_urls": [
+                    "http://news.cctv.com/2016/05/18/ARTI9KgcaW64KNMKgw9bKAwe160518.shtml",
+                    "https://big5.sputniknews.cn/20160517/1019298865.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "evidence": "Both Taliban and Afghan government supported PRC claims on PRC\u2019s policy in Xinjiang.  \n\n\n",
+                "evidence_urls": [
+                    "https://mil.news.sina.com.cn/2021-07-10/doc-ikqciyzk4706700.shtml",
+                    "https://www.bbc.com/zhongwen/trad/world/2014/10/141028_china_afghanistan"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "Both the former republic Afghan government and currently Taliban observe a cautious silence over human plight of Tibet.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "Sino-Afghan bilateral relations are characterised by undeclared policy of non-interference in each others internal affairs which Chinese policy of Hong Kong is no exception. \n",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/10/which-countries-support-china-on-hong-kongs-national-security-law/ ",
+                    "http://af.china-embassy.gov.cn/zagx/202006/t20200603_1167051.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "There is little research capacity in Afghanistan in general. PRC has a dedicated research center on Afghanistan based at the Lanzhou university that does a lot of events and work with local scholars and the Chinese embassy in Kabul. CASS also work with Kabul University. Within China itself there are some Chinese researchers who dedicate their entire career in researching politics of Afghanistan. \nCertain Chinese academic institutions stepped up in building partnership or offering scholarship to Afghan students and academics including Kabul University.\nWestern countries and Japan contribute more towards education for Afghans.\n\nSome Chinese companies have also worked with DAFA in Kabul to support cultural activities. \n\n\n\n",
+                "evidence_urls": [
+                    "https://www.universityworldnews.com/post.php?story=20091204094855824 ",
+                    "http://afuhan.org",
+                    "https://news.lzu.edu.cn/c/202007/71563.html",
+                    "https://isrs.nwu.edu.cn/info/1039/2995.htmL"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "There is one official Confucius Institute and one Chinese school in Kabul, but there are also other influential Western schools too. Chinese language and literature department was established by the financial aid of Chinese embassy, in 2008 in Kabul University. \n\n",
+                "evidence_urls": [
+                    "https://ciee.tyut.edu.cn/info/1089/3894.htm",
+                    "https://twitter.com/nivayau/status/1323233399931170816",
+                    "https://afghanistanchinablog.wordpress.com/2017/11/26/321-students-graduated-from-chinese-department-yet/",
+                    "https://www.dailyweesa.com/?p=8092",
+                    "https://news.cgtn.com/news/2020-02-19/Students-teachers-at-Confucius-Institute-in-Kabul-encourage-China-Od519oXDS8/index.html",
+                    "https://news.cgtn.com/news/3d3d674d3255544e34457a6333566d54/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "Chinese language is not the most popular foreign language in Afghanistan and it is not included in school education system as a foreign language. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "Certain academic institutions and individuals received support either in the form of capacity building or research grants. (personal knowledge)",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "3",
+                "evidence": "PRC offers scholarship to Afghan students and academics in different areas. \n\n",
+                "evidence_urls": [
+                    "https://www.globaltimes.cn/page/202204/1259139.shtml ",
+                    "https://afghanistanchinablog.wordpress.com/2017/11/21/afghan-students-afghan-government-should-be-increasing-academic-relation-with-china/ ",
+                    "https://www.fltrp.com/c/2018-09-25/492016.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "There are no Chinese students in Afghanistan  ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No such cases revealed except the latest Corona-related restriction where Afghan students were stranded in Afghanistan following their vocations to home or newly selected students on the waiting for visas. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "Afghanistan is in general occupied by domestic issues to spare thought on its neighbors, particularly China. Also, due to China\u2019s little involvement in Afghanistan over the last 20 years, professors and teachers are uninterested/less interested to discuss about the sensitive political issues related to China. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "0",
+                "evidence": "local municipalities in Afghanistan are limited to local task and relatively less functional to reach to PRC arrange sister-city ties.  ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "2",
+                "evidence": "During the Republic regime, the PRC has invited many officials for training programs to the PRC. See below 4 & 5 for more evidence. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "Both the members of Taliban and Afghan government have visited PRC for meetings. Including younger members. Chinese officials/experts have been going since before 9/11. Various stages to the engagement. Pre-9/11, then silence for a while, then low level contacts throughout 2005 onwards, surge in 2012, flatlining again after 2014, then gradual pick up over the past few years. Worth noting the Chinese engaged with the former Republic government a lot as well. Ghani came to power pushing heavily for the relationship with China.\n\n\n\n\n",
+                "evidence_urls": [
+                    "http://www.china.com.cn/opinion2020/2021-08/03/content_77669426.shtml",
+                    "https://www.mfa.gov.cn/ce/cejo//chn/zgyw/t1079269.htm",
+                    "https://www.bbc.com/zhongwen/simp/china/2016/07/160730_taliban_china",
+                    "https://www.fltrp.com/c/2018-09-25/492016.shtml",
+                    "https://www.daily-sun.com/post/571980/China-intends-to-increase-its-political-influence-in-Afghanistan:-Dissident "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "4",
+                "evidence": "PRC presents itself as a peaceful security provider and focuses on non-controversial training topics, such as anti-drug trafficking, counter-terrorism, customs law enforcement. Even though these trainings were towards those who worked for the former Afghan government, it is rated significant because some of the law enforcement forces are still in Afghanistan and could be integrated with the new leadership. \n\n\n\n\n\n",
+                "evidence_urls": [
+                    "http://vienna.china-mission.gov.cn/chn/drugandcrime/201512/t20151215_8867261.htm",
+                    "http://www.ppsuc.edu.cn/info/1058/1809.htm",
+                    "http://www.amgx.org/webadm/news-7439.html",
+                    "http://news.uibe.edu.cn/info/1608/20469.htm",
+                    "http://peixun.court.gov.cn/index.php?m=content&c=index&a=show&catid=7&id=532"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "4",
+                "evidence": "PRC is politically engaged in Afghanistan on all fronts, focusing on building relations with all parties in Afghanistan. Any senior Chinese visit to Kabul involved touching base with the Palace, the Karzai camp, the Abdullah camp and discretely the armed opposition (or Hekmatyar or whoever was up and down at any moment). So rather than not engage, they engage everybody.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No UFWD in Afghanistan, the Chinese expat community reportedly ranged from 20 to 60 depending on stability in the country during that period. Post-Taliban capture, the Chinese expat community grew with the arrival of petty traders, but no signs of UFWD yet. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No UFWD in Afghanistan, the Chinese expat community reportedly ranged from 20 to 60 depending on stability in the country during that period. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "Both Taliban and the former Afghan government politicians and employee hold positive views toward PRC government\n\n\n\n\n\n",
+                "evidence_urls": [
+                    "https://insiderpaper.com/china-belt-and-road-afghanistan-us-forces-leave/ ",
+                    "https://www.bbc.com/pashto/afghanistan-39200850 ",
+                    "https://bit.ly/3lbRHkI ",
+                    "https://bit.ly/3NkJAyr ",
+                    "https://bit.ly/39oYN2u "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No clear evidence ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "3",
+                "evidence": "China has given non-lethal security equipment (see Nuctech at Kabul airport), as well as mountain forces in Badakhshan. There are also reports that over the years they have given military aid to the Taliban, but not clear how substantial. In 2011, the UK and US complained formally to the Chinese about the volumes of Taliban with new Chinese military hardware they were finding.",
+                "evidence_urls": [
+                    "https://jp.reuters.com/article/us-afghanistan-security/kabul-security-gates-in-storage-as-afghan-officials-trade-accusations-idUSKBN14330G",
+                    "https://www.ariananews.af/china-to-create-mountain-brigade-for-afghan-army-in-badakhshan/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "PRC is the third, after Pakistan and Iran. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "PRC does not issue loans to Afghanistan due to instability.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "Extractive industries in Afghanistan have been paused due to instability. Though PRC is likely eyeing Afghanistan\u2019s mining resources but waiting for security guarantee. \n\nAccording to report from the Chinese Embassy in Kabul, Iran and Pakistan are the largest trading partner with Afghanistan. Only 13-17% of total Afghan export goes to China between 2015 and 2020, and the Embassy report says that the main Afghan export to China is agricultural products. \n\nEven there is some evidence of Chinese extractive projects in Afghanistan, it is extremely unclear to what capacity they are working and how the raw materials are being exported. I would be highly cautious to say that there are Chinese extractive projects going on.  \n\n",
+                "evidence_urls": [
+                    "https://www.china-briefing.com/news/china-and-afghanistan-bilateral-trade-relationship-and-future-outlook/",
+                    "http://www.mofcom.gov.cn/dl/gbdqzn/upload/afuhan.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "The PRC has expressed interests and have stakes in mining sector of Afghanistan but these deals never materialised/ started due to instability.\n\nGiven local context, it's extremely unclear what \"ownership\" here means due to absence of normal business environment, because even if there was an agreement, it's already ineffective because it was likely signed with individuals from the Afghan Republic. And if the Afghan side is the Taliban, this also poses serious question.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Since 2017.\n\n",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "Beijing has been talking (for a few years) about linking Afghanistan up to CPEC. They had even put some specific proposals on the table, but disputes between Afghanistan and Pakistan stalled them. This discussion has been re-started of late.\n\nHowever, it is likely that Beijing never saw Afghanistan as a real viable route of transit. As of 2020 \u201ccompared to most of the 63 economies participating in the BRI, China still does not seem to consider Afghanistan as an integral part of the project (BRI) and as an effective contributor country.\u201d\n\n",
+                "evidence_urls": [
+                    "https://asiapowerwatch.com/chinas-economic-influence-in-afghanistan-in-a-belt-road-context/ ",
+                    "https://srcic.org/silk-road-members/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "PRC does not impose any economic coercion on Afghanistan, it is unable to do so due to prevailed political uncertainty.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "Local businesses in Afghanistan are uninterested in China\u2019s sensitive matters. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "Though PRC grants tax free preferential treatment to Chinese businesses who imports from Afghanistan, but it\u2019s limited, Afghan exports to PRC is still less than 1% of its total export. \n\n",
+                "evidence_urls": [
+                    "http://www.mofcom.gov.cn/dl/gbdqzn/upload/afuhan.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "It depends how the Afghanistan gain regional trust in making such efforts, particularly in the current political uncertainty under the Taliban-controlled government. \n\n",
+                "evidence_urls": [
+                    "https://www.china-briefing.com/news/china-and-afghanistan-bilateral-trade-relationship-and-future-outlook/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "In the sense of basic infrastructure, national fibre optics that allows telecom services.\n\n\n\n",
+                "evidence_urls": [
+                    "https://asiapowerwatch.com/chinas-economic-influence-in-afghanistan-in-a-belt-road-context/ ",
+                    "http://www.sasac.gov.cn/n2588025/n2588124/c8183197/content.html",
+                    "https://news.ifeng.com/c/88oID8a1cXS",
+                    "http://www.mofcom.gov.cn/dl/gbdqzn/upload/afuhan.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "ZTE provided GSM and 3G to Afghanistan in 2012. Not many foreign companies are willing to work in Afghanistan due to the instability so Chinese presence is significant. \n\n\n",
+                "evidence_urls": [
+                    "https://mcit.gov.af/en/minister-communications-and-information-technology-meets-ambassador-china-kabul ",
+                    "https://it.sohu.com/20121123/n358475075.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "ZTE provided GSM and 3G to Afghanistan in 2012. Not many foreign companies are willing to work in Afghanistan due to the instability so Chinese presence is significant. \n\n",
+                "evidence_urls": [
+                    "https://it.sohu.com/20121123/n358475075.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "Huawei supplied demining tech to Afghanistan as donation from the PRC government. Huawei technology company is providing Digital Telephone switches and CDMA WLL equipment in 12 provinces and the total subscriber lines in this project are 113,000 CDMA and Fixed lines. Both Huawei and ZTE have been players in Afghanistan since before 9/11. They were part of early agreement between PRC and the previous Taliban leadership. \n\n\n\n",
+                "evidence_urls": [
+                    "https://www.mcit.gov.af/index.php/en/node/6943 ",
+                    "https://mcit.gov.af/en/annual-mcit-provincial-directors-coordination-conference ",
+                    "http://www.gov.cn/xinwen/2014-04/28/content_2668254.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "Very unlikely. But there are reports on collaboration of information sharing. \n\n",
+                "evidence_urls": [
+                    "https://www.afghanistantimes.af/afghanistan-china-sign-agreement-on-customs-cooperation/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No smart city agreement signed with the PRC. Afghanistan is behind in basic infrastructure thus no at a stage to have smart city.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "Afghanistan uses the SWIFT service system though it is currently struggling to do so due to sanction on Taliban.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "3",
+                "evidence": "PRC built a fibre optic cable through the Wakhan Corridor \u2013 was an IMF project implemented by Chinese firms, part of a larger attempt to connect up the entire region. ",
+                "evidence_urls": [
+                    "https://tolonews.com/business/afghanistan-china-connect-through-fiber-optic-network",
+                    "http://www.sasac.gov.cn/n2588025/n2588124/c8183197/content.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "This report provides a glimpse of social media usage in Afghanistan. Report of Heinrich Boel Stiftung. \n\n\n",
+                "evidence_urls": [
+                    "https://www.boell.de/en/2018/02/07/you-are-what-you-share-how-social-media-changing-afghan-society ",
+                    "https://gs.statcounter.com/social-media-stats/all/afghanistan "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "The Chinese expat community reportedly ranged from 20 to 60 depending on stability in the country during that period",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No members from Afghanistan to the UWCA",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No UFWD in Afghanistan, the Chinese expat community reportedly ranged from 20 to 60 depending on stability in the country during that period. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "No PRC associations that engaged with these organizations, but the All-China Women Federation organized several events for Afghan organizations.\n\n",
+                "evidence_urls": [
+                    "http://af.china-embassy.gov.cn/sgxw/201909/t20190904_1113192.htm",
+                    "http://www.cwu.edu.cn/xww/jlhz/31975.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "PRC embassy often facilitates Chinese Red Cross donation to Afghanistan. \n\n\n",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/chn/pds/wjdt/zwbd/t410290.htm",
+                    "http://af.china-embassy.gov.cn/sgxw/202203/t20220317_10652437.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "evidence": "China is portrayed either positive or there is relatively an indifference. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "Generally celebrities (films, sports, or other) are indifferent about China. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "Sino-Afghan bilateral relations is characterised as non-interference that leaves a positive impression over general public. But also depends on the level of understanding of the subject matters. The general public desires access to the Chinese market, Yiwu used to be a hub for Afghan petty traders to buy cheap Chinese products and bring back to sell in Afghanistan. \n\n",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/ceaf//eng/zagx/t1566687.htm "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "During the former Afghan republic government China had provided military equipment and military training in certain aspects.  Following Taliban\u2019s takeover of Kabul the support is more related humanitarian assistance and health related initially, but started training towards law enforcement as well. \n",
+                "evidence_urls": [
+                    "https://ariananews.af/china-to-provide-military-aid-to-afghanistan/ ",
+                    "https://www.voanews.com/a/china-military-aid-afghanistan/3402178.html ",
+                    "http://af.mofcom.gov.cn/article/jmxw/202206/20220603320399.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "Afghanistan at the moments does not have the capacity to either produce or export military equipment to PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "At the moments neither such level of capacity nor any agreement of co-production of military equipment with China. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "There were rumours but no evidence. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "PRC military jets delivered aid to new Taliban regime recently \n\n",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/china/diplomacy/article/3183827/chinese-plas-biggest-y-20-warplanes-boost-aid-delivery-quake "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No such attempts or plans from either side. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "Reports of military training of Afghan troops in China during the former Afghan government. \n\n\n",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-china-afghanistan-idUSKCN1LM1MR ",
+                    "https://www.bbc.com/pashto/afghanistan/2014/02/140222_hh-china-fm-visitst-kabul "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "So far no such news/information have been revealed. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "There is no or very limited military to military joint coordination with China. Though there is the China-led SCO-Afghanistan Contact group (which was mostly MFA), but also the Quadrilateral Cooperation and Coordination Mechanism (QCCM) which brought together military staffs from Afghanistan, Pakistan, China and Tajikistan.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No mutual exchange exercises. But unconfirmed reports of PLA patrolling near Wakhan Corridor of Afghanistan bordering Xinjiang aimed at counter-terrorism activities. \n",
+                "evidence_urls": [
+                    "https://asiatimes.com/2018/09/is-china-deploying-pla-troops-in-afghanistan/ ",
+                    "https://www.militarytimes.com/news/pentagon-congress/2017/03/05/chinese-troops-appear-to-be-operating-in-afghanistan-and-the-pentagon-is-ok-with-it/ "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "Yes since 2017\n",
+                "evidence_urls": [
+                    "http://www.gd.jcy.gov.cn/jcyw/sfxz/flfgytyxd/201812/t20181212_2440091.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "Not bilateral but trilateral agreement to combat terrorism between PRC Pakistan and Afghanistan. \n\n",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/chn//pds/wjb/wjbz/xghd/t1522137.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "1",
+                "evidence": "Hackers known to affiliate with PRC hacked security council email network of the former Republic regime. Insignificant because of new regime. \n\n",
+                "evidence_urls": [
+                    "https://www.voanews.com/a/east-asia-pacific_voa-news-china_chinese-hackers-attacked-afghan-council-network-cybersecurity/6207719.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "There is fear of being targeted or psychological fear within the Uighur dissidents in Afghanistan but it comes from the former Afghan government/ Taliban who cooperates with the PRC.\n\nThough the Uyghur militants in Afghanistan have expressed readiness against PRC  \n",
+                "evidence_urls": [
+                    "https://www.newsy-today.com/uyghur-muslims-in-afghanistan-frightened-sirajlive-com/",
+                    "https://www.fdd.org/analysis/2022/06/16/turkistan-islamic-party-leader-celebrates-eid/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "It is said in the report named \"China delivered security equipment to Afghanistan\" that,China had provided explosive-detective equipment and security scanners that could detect and destroy explosive materials. \n\n",
+                "evidence_urls": [
+                    "https://www.bbc.com/pashto/afghanistan/2016/07/160710_gn_china_400_military_equipments_to_kabul_police"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "4",
+                "evidence": "Reports of joint counter terrorism operations of Chinese and Afghan troops. \n\n\n",
+                "evidence_urls": [
+                    "https://www.aninews.in/news/world/business/china-confirms-039joint-counter-terrorism039-operations-with-afghanistan-but-039not-with-military/ ",
+                    "https://thediplomat.com/2017/02/are-chinese-forces-conducting-patrols-in-afghanistan/ ",
+                    "http://www.islamedianalysis.info/chinese-forces-in-afghanistan-beijing-confirms-joint-counter-terrorism-operations-with-kabul/?cn-reloaded=1+"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "4",
+                "evidence": "The former Afghan republic arrested and handed over Muslim Uighur to China to aimed to persuade Chinese government over Pakistan in facilitating Afghan government and Taliban\u2019s negotiations.  \n\n\nThe Republic government was very willing to cooperate with the Chinese \u2013 in part as they hoped it would help gain leverage with regards Pakistan, but also frankly as they saw the Uyghurs fighting in Afghanistan as their enemies (given they were fighting alongside the Taliban).\n",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-afghanistan-taliban-china-idUSKBN0LO18020150220 ",
+                    "https://thediplomat.com/2015/02/afghanistan-transfers-captured-uyghur-militants-to-china/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.aljazeera.com/features/2015/2/18/china-to-neighbours-send-us-your-uighurs"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2020, Afghanistan had a GDP per capital of US$517, and a total population of 39.83 million (World Bank, 2021). There are roughly 2,000 to 3,000 Uyghurs in Afghanistan, a population that the PRC perceives as \u201ccross-border people\" (\u8de8\u754c\u6c11\u65cf/\u8de8\u5883\u6c11\u65cf), with their origin in the PRC territories.",
+    "description-2": "Afghanistan established diplomatic relations with the People\u2019s Republic of China in 1955. In 2022, Afghanistan was ranked 156th in Reporters Without Borders\u2019 World Press Freedom Index, and rated Not Free in Freedom House's 2022 Global Freedom Index, with a score of 10/100. "
+}

@@ -1,0 +1,1025 @@
+{
+    "name": "Slovakia",
+    "partner": "Central European Institute of Asian Studies (CEIAS)",
+    "year": "Oct 2024",
+    "population": 5.52,
+    "GDP": "24,470.24",
+    "freemap": 90,
+    "freemap_status": "Free",
+    "freedom_index": 29,
+    "date_prc": "7-Jan-93",
+    "takeaway": [
+        "Siginificant Chinese acitivy seems to be localized in the Academia domain, potentially posing risks of intellectual property misappropriation, information manipulation and other forms of interference.",
+        "Risks related to use of Chinese technologies appear to be underappreaciated, given the presence of Chinese tech products in sensitive settings, or various forms of cooperation with Chinese technology companies.",
+        "Current exposure to China's impacts on domestic and foreign policy remain minimal, despite the rhetorically pro-China stances of the current Slovak government. This may change, as at the time of data collection the current governmanent of Slovakia was in office for less than one year."
+    ],
+    "description-1": "In 2023, Slovakia had a GDP per capita of US$24,470 and a total population of 5.52 million people.",
+    "description-2": "Slovakia established full diplomatic relations with the People's Republic of China in 1993. Slovakia was ranked 29th in Reporters Without Borders\u2018 2024 World Press Freedom Index, and rated Free in Freedom House\u2018s 2024 Global Freedom Index, with a score of 90\/100.",
+    "original": "118\/392",
+    "ranking": "62",
+    "overall": "30.1%",
+    "exposure": "33%",
+    "pressure": "10%",
+    "alignment": "30%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "grading": "1",
+                "evidence": "According to World Chinese Media website two Chinese language media operate in Slovakia: Slovak-Chinese Business News (\u65af\u4e2d\u5546\u62a5), and Central European Chinese Newspaper (\u4e2d\u6b27\u534e\u62a5).",
+                "evidence_urls": [
+                    "https:\/\/www.gcmcu.com\/static\/content\/OZ\/2020-06-03\/717766769053540352.html",
+                    "https:\/\/www.gcmcu.com\/static\/content\/OZ\/2020-06-03\/717766869968494592.html",
+                    "https:\/\/archive.ph\/NvOXS",
+                    "https:\/\/baike.baidu.hk\/item\/%E4%B8%96%E7%95%8C%E8%8F%AF%E6%96%87%E5%82%B3%E5%AA%92%E8%AB%96%E5%A3%87\/4742612"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "grading": "1",
+                "evidence": "In May 2024, editor-in-chief of Zem&Vek, an \"alternative media\" platform known for spreading of disinformation, participated on a junket trip organized by Chinese government. ",
+                "evidence_urls": [
+                    "https:\/\/visegradinsight.eu\/slovakias-disinformer-in-chief-gets-cozy-with-beijing\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "grading": "1",
+                "evidence": "CGTN maintains presence in Slovakia in the local language. However, this presence is limited to Slovak-language Facebok profile with limited reach. ",
+                "evidence_urls": [
+                    "https:\/\/www.facebook.com\/profile.php?id=100063606926343"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Czech financial conglomerate PPF owns TV Mark\u00edza, one of the largest and most influantial TV stations in Slovakia. At the same time, PPF has substantial business interests in China, especially in financial sector (regulated market).",
+                "evidence_urls": [
+                    "https:\/\/www.datocms-assets.com\/40359\/1691072411-ppf-vz-2022-cz-webv2.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "grading": "1",
+                "evidence": "The public press agency TASR maintains cooperation and content-sharing agreements with Xinhua and China Media Group.",
+                "evidence_urls": [
+                    "https:\/\/www.tasr.sk\/download\/233\/projektgr2017.pdf",
+                    "https:\/\/www.cctv.com\/2024\/11\/05\/ARTI06GTEKvcS7i59Byl6lIb241105.shtml"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "10",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Various \"alternative media\" that are known to spread disinformation are among the most vocal sources of narratives on China. They often portray China as alternative to relations with Western countries",
+                "evidence_urls": [
+                    "https:\/\/ceias.eu\/2023-china-on-the-slovak-social-media-anti-system-voices-prevail\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "11",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Various \"alternative media\" that are known to spread disinformation at times comment on human rights abuses in China, and discuss them in a relativist manner, often amploying whataboutism or other strategies to diminish the seriousness of abuses. ",
+                "evidence_urls": [
+                    "https:\/\/ceias.eu\/2023-china-on-the-slovak-social-media-anti-system-voices-prevail\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "skip",
+                "evidence": "In the past, National Council of Slovakia has had a friendship group with PRC through multiple consecutive parliamentary terms. However, since the September 2023 parliamentary elections, the National Council website has not released an update on the creation of any friendship groups, including the friendship group with PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "13",
+                "score": "0",
+                "grading": "1",
+                "evidence": "Though the current government of Slovakia led by PM Robert Fico has a largely cordial approach to China, there is no indication that the government would be moving to recognizing \"One China Principle\". Despite cordial ties to China, engagements with Taiwa",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "grading": "0",
+                "evidence": "China and Slovakia elevated their ties to the 'Strategic Partnership' level during a state visit by Prime Minister Robert Fico to China from October 31 to November 5, 2024.",
+                "evidence_urls": [
+                    "https:\/\/www.vlada.gov.sk\/tlacove-spravy\/robert-fico-navsteva-ciny-je-cestou-roka-2024-1\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "grading": "0",
+                "evidence": "The Slovak government maintains its own 'One China Policy' and does not refer to the 'One China Principle.' However, the interpretation of the 'One China Policy' varies over time and with changing governments.\n\nThe current government, led by Prime Minister Robert Fico (since November 2024), is pursuing a One China Policy that aligns more closely with China\u2019s position compared to previous governments. The 2024 Strategic Partnership agreement articulates this stance on the One China Policy and Taiwan as follows:\n\n'The participants reaffirmed their commitment to respecting each other's sovereignty and territorial integrity. Slovakia reaffirmed its firm commitment to the One China Policy, acknowledging that there is but one China in the world and that the Government of the People\u2019s Republic of China is the sole legal government representing the whole of China. Slovakia opposes any attempts to interfere in China\u2019s internal affairs, sovereignty, and territorial integrity, including Taiwan.'\n\nDespite these cordial ties with China, Slovakia continues to engage with Taiwan, particularly on economic and academic topics.",
+                "evidence_urls": [
+                    "https:\/\/www.vlada.gov.sk\/tlacove-spravy\/robert-fico-navsteva-ciny-je-cestou-roka-2024-1\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "grading": "2",
+                "evidence": "No evidence can be found of current Slovak government taking a definitive position on this issue. Therefore, it has remained silent on this issue. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "grading": "2",
+                "evidence": "No evidence can be found of current Slovak government taking a definitive position on this issue. Therefore, it has remained silent on this issue. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "grading": "2",
+                "evidence": "No evidence can be found of current Slovak government taking a definitive position on this issue. Therefore, it has remained silent on this issue. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "grading": "2",
+                "evidence": "No evidence can be found of current Slovak government taking a definitive position on this issue. Therefore, it has remained silent on this issue. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Huawei made substantial contracts with several tech universities, possibly resulting in IP transfers. Overall, Slovak unis and research center maintain approx. 140 different relations with Chinese entities, including those linked to military.",
+                "evidence_urls": [
+                    "https:\/\/academytracker.ceias.eu\/map\/eu#new_tab",
+                    "https:\/\/ceias.eu\/wp-content\/uploads\/2020\/12\/universities-paper.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Currently, three Confucius Institutes operate in Slovakia - at Comenius University, Slovak University of Technology and Matej Bel University. They also maintain partnerships ouside of their immediate host institutions, often being the sole providers of Chinese language education at Slovak universities.",
+                "evidence_urls": [
+                    "https:\/\/academytracker.ceias.eu\/map\/eu#new_tab",
+                    "https:\/\/ceias.eu\/wp-content\/uploads\/2020\/12\/universities-paper.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "grading": "0",
+                "evidence": "In both elementary and secondary schools but still an exception and not scaled up.",
+                "evidence_urls": [
+                    "https:\/\/ceias.eu\/wp-content\/uploads\/2020\/12\/universities-paper.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "27",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Several academic instutions received financial support for research proejcts conducted in partnership with Chinese entities.",
+                "evidence_urls": [
+                    "https:\/\/academytracker.ceias.eu\/map\/eu#new_tab",
+                    "https:\/\/ceias.eu\/wp-content\/uploads\/2020\/12\/universities-paper.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "28",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Students from major universities regularly participate in Huawei Seed for the Future program",
+                "evidence_urls": [
+                    "https:\/\/www.tasr.sk\/ots\/ots-ukoncili-sme-dalsi-uspesny-r\/31866-clanok.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "29",
+                "score": "2",
+                "grading": "1",
+                "evidence": "As part of extablished academic collaborations with Chinese universities, scholard have been travelling to China on various occasions.",
+                "evidence_urls": [
+                    "https:\/\/academytracker.ceias.eu\/map\/eu#new_tab",
+                    "https:\/\/ceias.eu\/wp-content\/uploads\/2020\/12\/universities-paper.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Several local and regional governments maintain paradiplomatic ties to Chinese subnational actors. Most significant is the existing partnership between Bratislava Self-governing Region and Shanghai. ",
+                "evidence_urls": [
+                    "https:\/\/ceias.eu\/under-the-radar\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Several local and regional governments maintain paradiplomatic ties to Chinese subnational actors. Most significant is the existing partnership between Bratislava Self-governing Region and Shanghai. ",
+                "evidence_urls": [
+                    "http:\/\/sk.china-embassy.gov.cn\/slo\/sgxx\/xwdt\/202004\/t20200424_3369422.htm",
+                    "https:\/\/ceias.eu\/under-the-radar\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No such trips on record in the current government term. They have been known to occur in the past. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "37",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Local level officials, especially from towns maintaining formal cooperation with Chinese cities frequently visit China. While this trend was disrupted during COVID-19 pandemic, it has since resumed. Examples of such trips inclused 2023 visit by governor Droba of Bratislava Region that maintains partnership with Shanghai. ",
+                "evidence_urls": [
+                    "https:\/\/sk.china-embassy.gov.cn\/chn\/zsjw\/202306\/t20230606_11090599.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No MP trips to China are recorded yet in the current electoral term, though it is still early within the term and visits are expected to happen at a later stage. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No known cases since 2022. Few cases recorded in previous periods. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "42",
+                "score": "3",
+                "grading": "1",
+                "evidence": "China has been rarely point of political discourse, but on those few occasions, positive statements were made by high ranking officials, including Prime Minister and ministers, and MPs. At the same time, political voices raising criticisms of China also exists, though they tend to have lesser impact on public discourse. In the current electoral term, most notable are claims by coalition politicians (e.g. Lubos Blaha) that participation of oppossition MPs at innauguration of Lai Ching-te damages Slovak national interests and is an \"aggressive gesture against Chinese territorial integrity)",
+                "evidence_urls": [
+                    "https:\/\/ceias.eu\/2023-china-on-the-slovak-social-media-anti-system-voices-prevail\/",
+                    "https:\/\/www.hlavnydennik.sk\/2024\/05\/25\/lubos-blaha-valasek-a-dostal-na-taiwane-nemali-co-robit"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [
+                    "https:\/\/atlas.cid.harvard.edu\/explore?country=206&queryLevel=location&product=undefined&year=2021&tradeDirection=import&productClass=HS&target=Partner&partner=undefined&startYear=undefined"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Chinese ownership is present in several sensitive sectors, such as banking and financial services, media, EV and battery production.",
+                "evidence_urls": [
+                    "https:\/\/ceias.eu\/chinese-corrosive-capital-sk-cz\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Most cellular network operators use Chinese tech for 4G network infrastructure. In case of 5G, some have experimented with Chinese tech, but in the end all major providers opted to use alternative providers of 5G technology. In 2020, Slovakia also signed a \"Clean Networks\" memorandum with USA aimed at preventing use of Chinese technology in the 5G network.\nZTE Corporation and Slovakian Mobile Operator SWAN Mobile have jointly conducted the country\u2019s first 5G video call.",
+                "evidence_urls": [
+                    "https:\/\/www.zte.com.cn\/global\/about\/news\/20190712e1.html",
+                    "https:\/\/fontech.startitup.sk\/slovensko-podpisalo-dohodu-s-usa-o-5g-sietach-dostanu-u-nas-cinske-technologie-stopku\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "grading": "0",
+                "evidence": "There are several instances on record, when Chinese tech equipment was used, e.g. in security services closed circuit surveillance system (Hikvision cameras).",
+                "evidence_urls": [
+                    "https:\/\/dennikn.sk\/2149583\/problem-hikvision-ako-slovensko-pusta-rizikovu-cinsku-firmu-do-bezpecnostnej-infrastruktury\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "grading": "0",
+                "evidence": "TEA 3 land based cable from Frankfurt to Hong Kong passes via Bratislava, Slovakia. ",
+                "evidence_urls": [
+                    "https:\/\/globalresources.cmi.chinamobile.com\/#\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "63",
+                "score": "3",
+                "grading": "1",
+                "evidence": "In 2023, Chinese battery produces Gotion announced purchase of local battery start up InoBat and construction of joint battery production facility.",
+                "evidence_urls": [
+                    "https:\/\/www.inobat.eu\/newsroom\/the-battery-gigafactory-is-one-step-closer-gotion-high-tech-and-inobat-will-build-it-together\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "grading": "1",
+                "evidence": "In 2019, a China-CEEC Blockchain Center of Excellence has been established. Its goal is to increase the number of private-public partnerships (PPP) aimed at developing blockchain technology. The establishment of the center",
+                "evidence_urls": [
+                    "https:\/\/mapinfluence.eu\/wp-content\/uploads\/2020\/09\/Chinas-Sticks-and-Carrots-in-Central-Europe_policy-paper_A4_-interaktivni_03-1.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Several UFWD organizations operate in Slovakia (at least 17), though they are not very active.",
+                "evidence_urls": [
+                    "http:\/\/sk.china-embassy.gov.cn\/chn\/sgxx\/dongtai1\/202208\/t20220804_10734677.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Slovak Chinese Youth Chamber of Commerce operates in Slovakia. ",
+                "evidence_urls": [
+                    "https:\/\/www.rmzxb.com.cn\/c\/2017-06-20\/1603851.shtml?n2m=1"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "70",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Chinese embassy regularly hosts, supports, or otherwise participates in diaspora activities related to major Chinese holidays.",
+                "evidence_urls": [
+                    "https:\/\/www.facebook.com\/ChinaEmbSVK\/posts\/pfbid02FpRUzYctEaxiabxnDiGvPSyxHERzoPZDh7AVTMtdnXGDhQFAmMQSggFg29CTa7HDl"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There are singular events on record, such as establishment of Slovak-Chinese Writers Association in 2019. ",
+                "evidence_urls": [
+                    "https:\/\/kknews.cc\/zh-sg\/culture\/83az994.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "grading": "0",
+                "evidence": "In 2022, Chinese Embassy made a donation to Emauzy, a maternal and child shelter in Horic. In the past (prior to 2022) such events were also sporadically happening. ",
+                "evidence_urls": [
+                    "http:\/\/sk.china-embassy.gov.cn\/chn\/sgxx\/dongtai1\/202212\/t20221221_10992816.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "grading": "0",
+                "evidence": "With 0.9 million users, TikTok is the 4th most popular social network in Slovakia. ",
+                "evidence_urls": [
+                    "https:\/\/www.linkedin.com\/pulse\/4-novinky-zo-soci%25C3%25A1lnych-siet%25C3%25AD-ko%25C4%25BEko-slov%25C3%25A1kov-je-na-sie%25C5%25A5ach-pite%25C4%25BE-xk4df\/?trackingId=AQbQxiA4SEmkQwaRqv0eaA%3D%3D"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Less then 1\/3 of Slovaks have positive views of China, per 2020 survey by CEIAS. Per 2024 Globsec Trends report, 16% of Slovaks would consider China to be a strategic partner for Slovakia. ",
+                "evidence_urls": [
+                    "https:\/\/ceias.eu\/wp-content\/uploads\/2020\/11\/SK-poll-report_FINAL.pdf",
+                    "https:\/\/www.globsec.org\/sites\/default\/files\/2024-05\/GLOBSEC%20TRENDS%202024.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "grading": "0",
+                "evidence": "In 2023, Slovakia imported \"arms and ammunition, parts and accessories\" worth 3.71 million USD. Of those, 2.47 million USD are imports of \"bombs, grenades, torpedoes, mines, missiles and similar munitions of war\".",
+                "evidence_urls": [
+                    "https:\/\/tradingeconomics.com\/slovakia\/imports\/china\/arms-ammunition-parts-accessories"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "grading": "0",
+                "evidence": "While there is no specific agreement on this, law enforcement has been engaging in cooperation with China law enforcement on crime preventions, including terrorism. Representatives of Police participated on anti-terrorism trainings in PRC. (Per Interior Ministry response to FOIA request filed by CEIAS in 2020)",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "93",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Supreme Court justices traveled to China on several occasions. Trainings on low enforcement and anti-terrorism occurred as well. (based on FOIA request responses by Ministry of Interior and Ministry of Justice to CEIAS in 2020). Judicial exchanges and trainings were also topic of discussion in June 2024 meeting between Chinese Ambassador and President of Slovak Supreme Court",
+                "evidence_urls": [
+                    "http:\/\/sk.china-embassy.gov.cn\/chn\/sgxx\/dongtai1\/202406\/t20240606_11377794.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "grading": "0",
+                "evidence": "MEP Miriam Lexmann was targetted by cyberattacks linked to Chinese government. ",
+                "evidence_urls": [
+                    "https:\/\/www.politico.eu\/article\/china-targeted-european-lawmakers-cyberattacks-washington-says\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "96",
+                "score": "4",
+                "grading": "0",
+                "evidence": "China operates an illegal, extra-territorial police station in Slovakia. ",
+                "evidence_urls": [
+                    "https:\/\/dennikn.sk\/3077694\/cinska-policia-nema-hranice-nezakonnu-stanicu-ma-aj-na-slovensku\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Hikvision cameras have been used in border patrol, as well as prison monitoring systems. ",
+                "evidence_urls": [
+                    "https:\/\/dennikn.sk\/2149583\/problem-hikvision-ako-slovensko-pusta-rizikovu-cinsku-firmu-do-bezpecnostnej-infrastruktury\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ]
+    },
+    "exposure_rank": 57,
+    "pressure_rank": 44,
+    "alignment_rank": 59
+}

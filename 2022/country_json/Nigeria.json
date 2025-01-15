@@ -1,0 +1,958 @@
+{
+    "name": "Nigeria",
+    "partner": "Code for Africa",
+    "year": "2022",
+    "GDP": "$2,085.0",
+    "population": "211.4M",
+    "original": "178/396",
+    "ranking": "14",
+    "overall": "45%",
+    "effect": "31%",
+    "exposure": "54%",
+    "pressure": "31%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "3",
+                "evidence": "Pg 29 includes further evidence on this: https://core.ac.uk/download/pdf/145054408.pdf",
+                "evidence_urls": [
+                    "https://advanced-television.com/2019/06/28/star-times-nigerian-investment-tops-200m/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://thediplomat.com/2019/10/what-is-the-belt-and-road-news-network/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "Paid media tours have been ongoing since 2017.",
+                "evidence_urls": [
+                    "https://www.vanguardngr.com/2017/07/nge-delegation-departs-china-tour-media-outfits/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://mediacareerng.org/2016/02/16/the-sun-editor-bags-chinese-media-fellowship/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "evidence": "Opera is a popular online publication with wide reach and many local staff.: https://en.wikipedia.org/wiki/Opera_(company)#:~:text=Opera%20is%20a%20China%2Downed,380%20million%20monthly%20active%20users.",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/Opera_(company)#:~:text=Opera%20is%20a%20China%2Downed,380%20million%20monthly%20active%20users."
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "China\u2019s official Xinhua News Agency has signed content exchange agreements with local news services.",
+                "evidence_urls": [
+                    "https://www.ned.org/wp-content/uploads/2021/02/Chinas-Global-Media-Footprint-Democratic-Responses-to-Expanding-Authoritarian-Influence-Cook-Feb-2021.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "This is a disputed case as a number of journalists said it was censorship and faced retrenchments, however it could also be interpreted as a case of violating the terms and conditions of a company's editorial policy without government pressure.\n",
+                "evidence_urls": [
+                    "https://techpoint.africa/2020/01/09/opera-news-censorship/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "3",
+                "evidence": "Despite the report offering significant evidence, no NGO or government interventions have taken place, which may indicate a level of intimidation from PRC-linked companies.",
+                "evidence_urls": [
+                    "https://www.theafricareport.com/39952/nigeria-spotlight-on-abuse-of-local-workers-after-public-allegations/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "No evidence ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=rtky6WQPLMI"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2019-08/23/c_138332469.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=rSEvMIRUdQs"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=06W8FdHsNNE"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "Relevant quote: \"China affirms and greatly appreciates Nigeria\u2019s support for the \u2018one China\u2019 principle,\u201d Chinese Foreign Ministry spokesman Lu Kang told a regular news briefing in Beijing.\"",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-taiwan-nigeria-idUSKBN14W0IX"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "General notes: It was observed that China compelled Nigeria not to regard Taiwan as a Sovereign state and that went all the way to displacing them of their seat at the UN. They have strong interest in Nigeria and a number of African Countries, given them loans with classified agreements (not open to the citizens ) and they are also the contractors to execute projects running on these loans.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "0",
+                "evidence": "No clear evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://unizik.edu.ng/chinese-confucius-institute-ci",
+                    "https://confuciusinstituteunilag.com/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.premiumtimesng.com/news/100493-stakeholders-divided-on-planned-intrhttps://www.premiumtimesng.com/news/100493-stakeholders-divided-on-planned-introduction-of-chinese-language.htmloduction-of-chinese-language.html",
+                    "https://www.chinadaily.com.cn/a/201810/23/WS5bceb0b2a310eff303284049.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "However, there have been discussions to have a university of chemical technology.\nhttps://www.nigerianbulletin.com/tags/china-shenyang-university-of-chemical-technology/",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://cseaafrica.org/chinese-think-tanks-with-chinese-characteristics-some-lessons-for-african-think-tanks/",
+                    "https://www.universityworldnews.com/post.php?story=20180919094339266"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "evidence": "The PDF is linked to page 6",
+                "evidence_urls": [
+                    "https://pdfs.semanticscholar.org/4db1/fc624699485b1ba8a4b20018b1042cafb5b4.pdf ",
+                    "https://tribuneonlineng.com/scholars-embrace-chinese-curriculum-to-revamp-technical-vocational-education-in-nigeria/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "General note: https://theconversation.com/why-maltreatment-of-nigerians-in-china-may-not-end-soon-137828",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.cta.int/en/article/nigeria-cross-river-signs-trade-agreement-with-china-sid033c4e953-e2d6-43d7-80b4-0653b36275d2",
+                    "https://www.premiumtimesng.com/news/top-news/446873-lagos-govt-chinese-firm-sign-agreement-to-produce-brand-new-cars.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "0",
+                "evidence": "No sister municipalities",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.files.ethz.ch/isn/32303/Political%20Warfare%20Sub-Saharah.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.premiumtimesng.com/news/140206-nigeria-china-to-discuss-bilateral-cooperation-during-jonathans-visit.html",
+                    "http://ng.china-embassy.gov.cn/eng/zt/buharivisit/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "3",
+                "evidence": "See page 7 for exact quotes",
+                "evidence_urls": [
+                    "https://www.unodc.org/documents/evaluation/Independent_Project_Evaluations/2017/NGAV18_Final_UNODC_Evaluation_Report_November_2017.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "In the link provided, the ballot papers for Nigeria election was printed in China, but there is no indication that it was donated. The printing was for the electoral commission, not politicians or parties. The Constitution does not allow for foreign funding of parties.",
+                "evidence_urls": [
+                    "https://www.voanews.com/africa/nigeria-closes-borders-tightens-security-presidential-vote"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "1",
+                "evidence": "A few, but very much in the minority",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=RROVrBqQuYA"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.trade.gov/country-commercial-guides/nigeria-market-overview",
+                    "https://www.statista.com/statistics/1193493/main-import-trading-partners-of-nigeria/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=TIvyNP1Zh1Y",
+                    "https://www.dmo.gov.ng/facts-about-chinese-loans-to-nigeria"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.premiumtimesng.com/news/headlines/362155-two-thirds-of-nigerias-mineral-export-in-2017-went-to-china-neiti.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "The answer is no, but China has granted loans to build some infrastructure, but they don't own, operate or control critical infrastructure.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.nigerianewsdigest.com/nigeria-to-access-membership-of-asia-infrastructure-bank/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.srcic.com/commerce-and-trade-committee/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://qz.com/africa/883767/after-a-visit-from-chinas-foreign-minister-nigeria-has-ordered-taiwans-unofficial-embassy-to-move-out-of-its-capital/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "This is a grey answer - there are some reports, but it does seem to be aimed at specific citizens rather than specific businesses.",
+                "evidence_urls": [
+                    "https://www.lindaikejisblog.com/2020/8/whistleblower-uncovers-horrific-abuse-chinese-company-in-aba-allegedly-subject-their-nigerian-staff-to-photos.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "Quote from the link: Nigeria does have a separate free trade agreement with China, but that has been viewed as less than positive as Chinese manufacturers began dumping cheap and poorly made products on the Nigerian market after its signing in 2010.",
+                "evidence_urls": [
+                    "https://www.china-briefing.com/news/china-set-cash-new-african-free-trade-agreement/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mondaq.com/nigeria/investment-strategy/789338/doing-business-in-nigeria-some-of-the-incentives-available-to-investors",
+                    "https://web.archive.org/web/20210429221958/http://www.xinhuanet.com/english/2019-11/28/c_138589452.htm",
+                    "https://research.hktdc.com/en/article/MzE0NzgyOTM3"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "Currently, China has not taken over the running of key infrastructures due to debt failure but the clause is there in the contract and should be reviewed closely. ",
+                "evidence_urls": [
+                    "https://africacheck.org/fact-checks/factsheets/factsheet-unravelling-nigerias-debt-china"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "No evidence to include.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.dmo.gov.ng/facts-about-chinese-loans-to-nigeria",
+                    "https://www.ide.go.jp/English/Data/Africa_file/Manualreport/cia_09.html",
+                    "https://www.proshareng.com/news/Products---Services/Nigeria-Gives-Huawei-a-Place-to-Prove-Itself-/14931"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://guardian.ng/technology/nigerian-chinese-firms-to-site-phone-assembly-plant-in-south-east/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://core.ac.uk/download/pdf/154475575.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aspistrategist.org.au/chinas-ai-deployment-in-africa-poses-risks-to-security-and-sovereignty/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.lightreading.com/huawei-wins-nigeria-deal/d/d-id/612434",
+                    "https://www.itsinternational.com/news/chinese-companies-invest-nigerian-smart-city"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://techcabal.com/2020/09/17/china-is-pushing-its-currency-into-africa-through-fintech-partnerships/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://techcrunch.com/2019/11/17/operas-africa-fintech-startup-opay-gains-120m-from-chinese-investors/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://english.cas.cn/newsroom/news/202207/t20220706_307905.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "TikTok has grown significantly in Nigeria and ranks in the five top social media sites currently.",
+                "evidence_urls": [
+                    "https://theconversation.com/young-nigerians-are-flocking-to-tiktok-why-its-a-double-edged-sword-171504"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.unoosa.org/documents/pdf/psa/activities/2015/RussiaGNSS/Presentations/5.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://ng.china-embassy.org/eng/zt/ChinaNigeria40/t792194.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.sunnewsonline.com/chinas-obor-initiative-new-platform-for-nigerias-development/",
+                    "https://businessday.ng/uncategorized/article/association-wants-media-promote-china-nigeria-relations/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://guardian.ng/news/china-pledges-to-support-nigeria-with-funds-medical-supplies/",
+                    "https://www.thisdaylive.com/index.php/2020/04/26/covid-19-chinese-community-donates-n10m-food-items-to-lagos/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "3",
+                "evidence": "It is worthy to note that that StarTimes satellite tv has the cheapest subscription package in Nigeria. ",
+                "evidence_urls": [
+                    "https://nairametrics.com/2020/08/13/pay-as-you-view-startimes-multichoice-in-a-tussle-for-the-nigerian-market/",
+                    "https://punchng.com/mtn-startimes-offer-subscribers-special-bundle/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "There is not a majority positive views, but also not significantly negative.\n\nSee a video of Nigerian Citizens and government officers learning Chinese language (from 1:00) https://www.youtube.com/watch?v=zgxVZXo4QXk",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ft.com/content/ef8dbc30-a7c6-11da-85bc-0000779e2340 ",
+                    "https://www.defenceweb.co.za/featured/nigerian-military-receives-tanks-artillery-from-china/",
+                    "https://www.africaintelligence.com/central-and-west-africa_business/2020/06/24/how-china-s-norinco-has-been-kitting-out-nigerian-army,109240125-eve"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=rtky6WQPLMI&t=184s"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://dailytrust.com/amp/nigerian-chinese-journalists-partner-on-information-exchange"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.orfonline.org/expert-speak/chinas-growing-security-activism-in-africa/",
+                    "http://www.cdsndu.org/Uploads/file/20210526/3b1a79d24eddc53d7065a5d08e67ab9d.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.cdsndu.org/Uploads/file/20210526/3b1a79d24eddc53d7065a5d08e67ab9d.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "This link verifies a Chinese security contractor in Africa particularly Nigeria, they carry out trainings for security agencies: https://carnegietsinghua.org/2020/10/08/chinese-security-contractors-in-africa-pub-82916",
+                "evidence_urls": [
+                    "http://www.cdsndu.org/Uploads/file/20210526/3b1a79d24eddc53d7065a5d08e67ab9d.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://alternativeafrica.com/2020/12/02/nigeria-signs-mou-with-china-on-military-aid-to-combat-terrorism/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No evidence to include",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://theconversation.com/fifty-years-five-problems-and-how-nigeria-can-work-with-china-in-future-157254"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://techpoint.africa/2020/01/08/cctv-cameras-in-nigeria"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Nigeria had a GDP per capita of US$2,085 and a total population of 211.4 million people, with the Chinese population comprising 20,000 people, or 0.009% of the total population.",
+    "description-2": "Nigeria established diplomatic relations with the People's Republic of China in 1971. Nigeria ranked 129th in Reporters Without Borders' 2022 World Press Freedom Index, and Partly Free in Freedom House's 2022 Global Freedom Status, with a score of 43/100. "
+}

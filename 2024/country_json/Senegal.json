@@ -1,0 +1,1008 @@
+{
+    "name": "Senegal",
+    "partner": "Code for Africa",
+    "year": "Sep 2024",
+    "population": 17.87,
+    "GDP": "1,745.97",
+    "freemap": 67,
+    "freemap_status": "Partly Free",
+    "freedom_index": 94,
+    "date_prc": "25-Oct-05",
+    "takeaway": [
+        "Senegal is largely independent from Chinese influence in the Law Enforcement Domain. Aside from a treaty of mutual assistance signed in 2016 that allowed for extradition to China, all other Indicators were negative.",
+        "The Economy is China's most important influence point in Senegal, with the PRC owining a significant portion of Senegal's public debt and consistent effort being made to forge closer ties, including upgrading relations from mutually beneficial to strategic partnership.",
+        "The Media is an important point for Chinese influence efforts in Senegal. Chinese state media, as well as Senegalese journalist associations, have partnerships, some of which have been renewed and upgraded recently."
+    ],
+    "description-1": "In 2023, Senegal had a GDP per capita of US$1,746 and a total population of 17.87 million people.",
+    "description-2": "Senegal established full diplomatic relations with the People's Republic of China in 2005. Senegal was ranked 94th in Reporters Without Borders\u2018 2024 World Press Freedom Index, and rated Partly Free in Freedom House\u2018s 2024 Global Freedom Index, with a score of 67\/100.",
+    "original": "69\/380",
+    "ranking": "86",
+    "overall": "18.2%",
+    "exposure": "20%",
+    "pressure": "0%",
+    "alignment": "18%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "2",
+                "grading": "1",
+                "evidence": "According to the World Chinese Media Network website, no Senegalese media are listed.\n",
+                "evidence_urls": [
+                    "https:\/\/francais.cgtn.com\/search?keyword=senegal",
+                    "https:\/\/web.archive.org\/web\/20240519072158\/https:\/\/www.rcisenegal.com\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no proof that any Senegalese journalist is a member, therefore this indicator deserves a 'No' rating.",
+                "evidence_urls": [
+                    "https:\/\/greenfdc.org\/countries-of-the-belt-and-road-initiative-bri\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No evidence for the current timeframe, but it has been noted by the Freedom House in their 2022 report that the state-owned Le Soleil also has an agreement with the Chinese government to fund journalists to travel to China",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/fr\/country\/senegal\/beijings-global-media-influence\/2022"
+                ],
+                "note": "Freedom House in their 2022 Beijing's Global Media Influence report for Senegal, that covers 2019-2021, so the report falls outside the timeframe of this review.\nhttps:\/\/freedomhouse.org\/fr\/country\/senegal\/beijings-global-media-influence\/2022",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No evidence for 2023. But it happened before.",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/fr\/country\/senegal\/beijings-global-media-influence\/2022"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "05",
+                "score": "3",
+                "grading": "1",
+                "evidence": "CGTN (China Global Television Network) has a correspondent in Senegal covering news from the country [1], the RCI (China National Radio) is also installed in Senegal [2]. Therefore this indicator deserves a few, significant rating.",
+                "evidence_urls": [
+                    "https:\/\/francais.cgtn.com\/search?keyword=senegal",
+                    "https:\/\/rcisenegal.com"
+                ],
+                "note": "Freedom House in their 2022 Beijing's Global Media Influence report for Senegal noted, \"The French-speaking branches of China Global Television Network (CGTN) and Radio Chine Internationale (RCI) have offices or correspondents who provide them with a physical presence in the country, as do Xinhua and China Central Television (CCTV). CGTN French and CCTV Chinese are available via the satellite television offering from Chinese StarTimes.\" As the 2022 report covers 2019-2021, so the report falls outside the timeframe of this review.\nhttps:\/\/freedomhouse.org\/fr\/country\/senegal\/beijings-global-media-influence\/2022",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "grading": "1",
+                "evidence": "The Senegalese Press Agency (APS) has an agreement with Xinhua. APS has been cooperating with Xinhua since 1978. The agreement has been renewed on two occasions: 1986 and 2019. Xinhua's Africa director has visited Senegal and met with APS officials. Therefore, this indicator warrants a significant rating.",
+                "evidence_urls": [
+                    "https:\/\/aps.sn\/vers-une-convention-renforcee-entre-la-sn-aps-et-xinhua-chine-nouvelle\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "08",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by , and has been reviewed by "
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "grading": "0",
+                "evidence": "No information available online to corroborate this fact.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "10",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Some prominent local and international media describe the bilateral relationship between China and Senegal as friendly. Le Quotian, a large daily newspaper, published an article discussing the two countries growing relationship.  Jean Afrique, one of the most widely-read Pan African magazines, published partner content expressing Senegal-Chinese friendship, There fore this indicator deserves a few and significant rating.",
+                "evidence_urls": [
+                    "https:\/\/www.jeuneafrique.com\/brandcontent\/1445202\/relations-chine-afrique-7e-gala-jeunesse-x-la-grande-muraille\/",
+                    "https:\/\/lequotidien.sn\/xiao-han-ambassadeur-de-chine-au-senegal-en-2021-les-echanges-commerciaux-entre-la-chine-et-le-senegal-ont-connu-une-hausse-de-3175\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "13",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Foreign aid levels from China to Senegal are limited for the year only educational funding was found [1].  However, Senegal attracts loans and investment for infrastructure projects such as the renovation of the L\u00e9opold S\u00e9dar Senghor Stadium, and technological development initiatives like the establishment of a state-of-the-art data center to enhance digital independence.  There is evidence of previous aid to the country.",
+                "evidence_urls": [
+                    "http:\/\/sn.china-embassy.gov.cn\/fra\/sgdt\/202201\/t20220127_10634717.htm#:~:text=Dans%20le%20cadre%20de%20la,les%20fili\u00e8res%20propos\u00e9es%20par%20les",
+                    "https:\/\/www.scmp.com\/news\/china\/diplomacy\/article\/3186308\/china-sends-food-aid-drought-stricken-horn-africa-accusations"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "grading": "0",
+                "evidence": "President Macky Sall's acknowledgment of the Chinese President's ambition to strengthen cooperation between the two countries, as reported in an article from the Presidency of Senegal, reflects a significant level of diplomatic engagement. Additionally, the characterization of the Senegal-China relationship as a \"strategic cooperation\" in a report by BBC Afrique further underscores the depth and importance of the partnership. These examples provide clear indications of an agreement between Senegal and the People's Republic of China to elevate their diplomatic ties to a strategic level or beyond.",
+                "evidence_urls": [
+                    "https:\/\/www.presidence.sn\/actualites\/le-president-macky-sall-salue-lambition-du-president-chinois-de-raffermir-la-cooperation-entre-les-deux-pays_334",
+                    "https:\/\/www.bbc.com\/afrique\/44910866"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "grading": "2",
+                "evidence": "South China Sea: Senegal advocates dialogue between the countries concerned since 2016",
+                "evidence_urls": [
+                    "http:\/\/french.xinhuanet.com\/2016-07\/08\/c_135499165.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "grading": "2",
+                "evidence": "Senegal is one of the countries that voted against holding a debate on Beijing's exactions against the Uyghur population.",
+                "evidence_urls": [
+                    "https:\/\/www.senenews.com\/actualites\/exaction-des-ouighoursle-senegal-etouffe-les-crimes-de-pekin_420037.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "grading": "2",
+                "evidence": "I couldn't find any information online about Senegal's position on the subject.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "grading": "2",
+                "evidence": "I couldn't find any information online about Senegal's position on the subject.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Huawei Senegal has signed a Memorandum of Understanding with universities and is helping to integrate young people into the workforce, while the agreement involves the largest university in the country (Cheikh Anta Diop University or UCAD but also the Multinational Higher School of Telecommunications (ESMT) and the Higher Institute of Computer Science (ISI).  the partnership is limited to three years and provides students internship opportunities. For this reason, this indicator deserves a few rating (only impacting three universities) and insignificant as it is essentially an internship programme and does not even guarantee the number of students to be placed.",
+                "evidence_urls": [
+                    "https:\/\/www.agenceecofin.com\/formation\/0206-98278-huawei-senegal-signe-un-memorandum-dentente-avec-des-universites-et-participe-a-l-insertion-professionnelle-des-jeunes"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "grading": "1",
+                "evidence": "There's a Confucius Institute at Cheikh Anta Diop University, the country's leading national university. ",
+                "evidence_urls": [
+                    "https:\/\/campusen.sn\/index.php\/a-p-s\/583-l-institut-confucius-de-l-ucad-pour-la-promotion-de-l-amitie-sino-senegalaise",
+                    "https:\/\/www.facebook.com\/watch\/?v=2896421187298579"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No evidence was found of scholars visiting China in this period.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "grading": "0",
+                "evidence": "No evidence of Chinese involvement in school or university curriculum design could be found.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No sub-national level government agreements could be found, except for sister cities under another indicator.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "grading": "1",
+                "evidence": "There is evidence of sister-city relationships (\u53cb\u597d\u57ce\u5e02) between local municipalities and their counterparts in the People's Republic of China. Specifically:\n\nOuakam (Senegal) has a sister-city relationship with Weihai (China).\nDakar (Senegal) has a sister-city relationship with Guangzhou (China).\n\nThe two sister-city relationships between Senegal and China, aligns with a \"\"Few\"\" rating. However, Dakar and Guangzhou are both major cities in their respective countries, therefore this indicator deserves a significant rating.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "37",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "38",
+                "score": "1",
+                "grading": "1",
+                "evidence": "The International Department of the CPC Central Committee held an online training course for over 20 middle and senior cadres from the Senegalese Alliance for the Republic (APR), the ruling party of Senegal. This four-day event focused on epidemic prevention, economic development, and China-Africa cooperation. Therefore, this indicator deserves a \"Few\" rating as it involves a single event with a limited number of participants. However, it merits a \"Significant\" rating because it included middle and senior party officials and covered important topics relevant to Senegal's governance and China-Africa relations.",
+                "evidence_urls": [
+                    "http:\/\/www.xinhuanet.com\/world\/2020-06\/16\/c_1126122475.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "42",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "grading": "0",
+                "evidence": "China is Senegal's 2nd largest trading partner and the leading investor in the country.",
+                "evidence_urls": [
+                    "https:\/\/afrique.latribune.fr\/afrique-de-l-ouest\/senegal\/2019-05-08\/senegal-chine-les-echanges-commerciaux-et-les-ide-maintiennent-leurs-tendances-haussieres-816488.html#:~:text=La%20Chine%20est%20le%202%C3%A8me,de%2030%20millions%20de%20dollars."
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "46",
+                "score": "4",
+                "grading": "0",
+                "evidence": "China owns about 50% of Senegal's bilateral debt. However, bilateral debt consists of a small portion of the country's overall debt stocks. ",
+                "evidence_urls": [
+                    "https:\/\/www.orfonline.org\/research\/debt-diplomacy-in-action-an-overview-of-china-s-loans-and-investments-in-west-africa"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Mali is the greatest customer for Senegalese extractives.",
+                "evidence_urls": [
+                    "https:\/\/oec.world\/en\/profile\/bilateral-country\/sen\/partner\/chn?redirect=true&productSectionSelector=sectionID5"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Senegalese data is almost all on Chinese servers, including all government data. Therefore this indicator deserves a \"Yes\" response.",
+                "evidence_urls": [
+                    "https:\/\/www.firstpost.com\/opinion\/chinas-growing-bonhomie-with-senegal-why-the-world-should-take-notice-12729252",
+                    "https:\/\/www.dw.com\/fr\/le-s%C3%A9n%C3%A9gal-un-pays-prometteur-pour-la-chine\/a-44767715",
+                    "https:\/\/www.francetvinfo.fr\/monde\/afrique\/senegal\/le-senegal-se-tourne-vers-la-chine-pour-son-independance-numerique_4675259.html",
+                    "https:\/\/www.jeuneafrique.com\/284741\/economie-entreprises\/senegal-chine-apporte-300-millions-deuros-lautoroute-aibd-mbour-thies\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Senegal recently joined AIIB, alongside Croatia. Therefore this indicator deserves a \"Yes\" response.",
+                "evidence_urls": [
+                    "https:\/\/www.aiib.org\/en\/news-events\/news\/2019\/AIIB-Welcomes-Two-New-Prospective-Members.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "grading": "0",
+                "evidence": "No record of such agreements could be found.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "54",
+                "score": "skip",
+                "evidence": "Senegal has established special economic zones to attract foreign investment, including from China. Senegal is working to improve its overall business environment and has a new public-private partnership framework to accelerate major investments. While not specifically targeting Chinese investment, this demonstrates Senegal's efforts to attract foreign investment more broadly. This indicator is skipped because China does not attract greater benefits compared with other trading partners based on the information that is available.",
+                "evidence_urls": [
+                    "https:\/\/invest221.sn\/pourquoi-investir-au-senegal\/",
+                    "https:\/\/www.seneweb.com\/news\/Societe\/partenariat-entre-l-rsquo-apix-et-e-road_n_427080.html"
+                ],
+                "note": "",
+                "answerer": "Answered by , and has been reviewed by "
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Huawei has offices in Senegal and their technologies are used in many Senegalese projects. Therefore this indicator deserves a few, significant rating.",
+                "evidence_urls": [
+                    "https:\/\/www.hwstore.co\/",
+                    "https:\/\/www.socialnetlink.org\/2022\/07\/05\/huawei-accompagne-sonatel-pour-louverture-du-premier-orange-5g-lab-en-afrique\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "grading": "1",
+                "evidence": "The SHARE Cable project, a major internet infrastructure project in Senegal, is built in partnership with HMN Tech, a subsea cable vendor associated with China. It is part of the larger \"\"Smart Senegal\"\" program, which is \"contracted by the Senegalese Government with China and is conducted by ADIE with its selected partner Huawei Technologies.\"\n\nTherefore, this indicator deserves a \"\"Few, Significant\"\" rating.  \"Few\" because while there is clear evidence of adoption and \"Significant\" because the involvement includes major infrastructure projects and widespread adoption of hardware from PRC enterprises by operators.",
+                "evidence_urls": [
+                    "https:\/\/www.capacitymedia.com\/article\/29tfk3f73sbnizlf81tkx\/interviews\/adies-share-cable-ushers-in-a-new-age-of-connectivity"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "59",
+                "score": "skip",
+                "evidence": "An article from Reuters dated June 2021 expresses an intention by the Senegalese government to move all government data and digital platforms to a new national data center. However, this was not announced as implemented during 2022.",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/article\/technology\/senegal-aims-for-digital-sovereignty-with-new-china-backed-data-centre-idUSL5N2O44D3\/"
+                ],
+                "note": "",
+                "answerer": "Answered by , and has been reviewed by "
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "grading": "1",
+                "evidence": "There is evidence of at least one city, Diamniadio, pursuing a smart city project with PRC involvement. While this represents a concrete example, it appears to be limited to a single city rather than widespread adoption across Senegal. The Diamniadio smart city project is substantial and strategically important. It is mentioned on the website of the Ministry of Commerce of the PRC, indicating official Chinese involvement. Therefore this rating deserves a few and significant rating.",
+                "evidence_urls": [
+                    "http:\/\/senegal.mofcom.gov.cn\/article\/jmxw\/202110\/20211003208815.shtml",
+                    "https:\/\/keurcity.com\/smart-city-senegal\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No observation of close engagement in 2022.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Tik Tok, which was created by a Chinese tech company, and is one of the most used social media platforms is banned in Senegal.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "75",
+                "score": "1",
+                "grading": "1",
+                "evidence": "China and Senegal collaborated in 2022 to host the exhibition of paintings, titled \"Glances Across the Oceans - The China in the eyes of African artists\", at the Museum of Black Civilizations in Dakar. The exhibition highlighted 39 paintings created by twenty African artists from around ten countries made during their stay in China.",
+                "evidence_urls": [
+                    "https:\/\/french.news.cn\/20230518\/e8f74bc0603a4f3e8fcb5f28fbbe2da3\/c.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "77",
+                "score": "skip",
+                "evidence": "There are separate opinion surveys which provide conflicting results on Senegalese citizen's views about the PRC. Therefore, a definite answer to this Indicator cannot be provided.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by , and has been reviewed by "
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "grading": "0",
+                "evidence": "According to a 2022 Africa Intelligence investigation, China is involved in a murky arms purchase contract signed between the Senegalese government and an arms trafficker from Niger nicknamed \"Petit Boub\u00e9.\"",
+                "evidence_urls": [
+                    "https:\/\/projetafriquechine.com\/2022\/12\/20\/le-chinois-norinco-va-armer-les-gardes-forestiers-senegalais\/",
+                    "https:\/\/www.pressafrik.com\/Senegal-Armement-le-geant-chinois-Norinco-s-implante-et-s-apprete-a-signer-un-contrat-de-plus-de-27-milliards-FCFA_a261389.html"
+                ],
+                "note": "A Chinese arms sales company recently set up in Senegal. Therefore this indicator deserves a \"Yes\" response.\n\nhttps:\/\/projetafriquechine.com\/2023\/08\/09\/le-fournisseur-darmes-chinois-norinco-sinstalle-au-senegal\/",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "79",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Senegalese Minister of Forces, Me Sidiki and his delegation which included Senegalese ambassador to China, Ibrahima Sory Sylla and senior officers from the army and the National Gendarmerie attended the China-Africa Peace and Security Forum in 2023.",
+                "evidence_urls": [
+                    "https:\/\/www.chine-magazine.com\/ouverture-du-iiieme-forum-sino-africain-pour-la-paix-et-la-securite\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Senegal sends 10 participants to China each year for training with the Central Military Commission.",
+                "evidence_urls": [
+                    "https:\/\/merics.org\/en\/report\/chinas-growing-peace-and-security-role-africa",
+                    "https:\/\/africacenter.org\/fr\/spotlight\/le-travail-politique-militaire-de-la-chine-et-la-formation-militaire-professionnelle-en-afrique\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "grading": "0",
+                "evidence": "In Africa, Senegal is one of six countries that have signed extradition treaties with the PRC. Senegal and China begun discussions in 2016 for the treaty which included extradition, the transfer of convicted persons and mutual legal assistance in criminal matters. The treaty has not been ratified, therefore this indicator deserves a no rating.",
+                "evidence_urls": [
+                    "https:\/\/www.seneplus.com\/economie\/dakar-et-pekin-negocient-des-traites-sur-le-phenomene",
+                    "https:\/\/safeguarddefenders.com\/en\/blog\/china-expands-system-extradition-treaties",
+                    "https:\/\/www.faapa.info\/en\/le-senegal-et-chine-consolident-leur-cooperation-par-la-signature-de-plusieurs-accords-bilateraux-a-dakar\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ]
+    },
+    "exposure_rank": 86,
+    "pressure_rank": 68,
+    "alignment_rank": 81
+}

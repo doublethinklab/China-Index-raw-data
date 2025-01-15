@@ -1,0 +1,957 @@
+{
+    "name": "Greece",
+    "partner": "BIRN Ltd",
+    "year": "2022",
+    "GDP": "$20,276.5",
+    "population": "10.6M",
+    "original": "73/364",
+    "ranking": "69",
+    "overall": "20%",
+    "effect": "18%",
+    "exposure": "26%",
+    "pressure": "0%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://china.greekreporter.com/",
+                    "https://www.cgw.gr/"
+                ],
+                "note": "Some online media (websites and Facebook groups) have been identified which may be Chinese media in Greece and which appear to belong to the World Chinese Media network. These include: \u300a\u5e0c\u534e\u65f6\u8baf\u300b and \u300a\u5e0c\u4e2d\u7f51\u300b\uff08see URL above\uff09. However, it is not entirely clear whether these media really exist in Greece, or whether they are obscure websites based in China. For this reason, we have decided to skip this question. ",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://chinaandgreece.com/dr-tzogopoulos-a-delegate-in-the-second-brf/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "3",
+                "evidence": "The Athens Macedonian News Agency (AMNA) has had a cooperation agreement with Xinhua since May 2016. Furthermore, in December 2017 AMNA signed a memorandum of understanding (MoU) with the China Economic Information Service (CEIS), an affiliate of Xinhua, for the establishment of a Belt and Road Economic and Financial Information Service. One of the significant daily newspapers in Greece, Kathimerini, signed a cooperation agreement with Xinhua in April 2017. A study produced by the Institute of International Economic Relations in Athens finds that in 2020 the English edition of the newspaper carried 66 Xinhua stories on its website, i.e. one every fifth day. Xinhua content is occasionally broadcast by Greek state TV (ERT), on the basis of an MoU with China\u2019s National Radio and Television Administration. The MoU was signed in November 2019, during President Xi\u2019s state visit to Greece.\n",
+                "evidence_urls": [
+                    "http://media.gov.gr/symfonia-synergasias-metaksy-ton-ethnikon-praktoreion-elladas-kai-kinas-ape-mpe-kai-xinhua-ypegrafi-simera-sti-ngee/",
+                    "https://www.amna.gr/en/article/210631/ANA-and-Xinhua-sign-MoU-on-Belt%E2%80%94Road-Financial-Information-Partnership",
+                    "https://www.ekathimerini.com/economy/217828/greek-chinese-news-cooperation/",
+                    "https://idos.gr/wp-content/uploads/2021/03/Sino-Greek-Relations_in_Media_18-3-2021.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "There is a Chinese newspaper, China Greece Times, which is owned by the Chinese community in Greece. It has a Facebook page, \u300aChina Greece Times\u300b\uff08see URL below\uff09. \nHaving said that, no Greek media outlets are owned by PRC citizens or corporations.\n",
+                "evidence_urls": [
+                    "https://www.facebook.com/China-Greece-Times-1480319618714126/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "One of the significant daily newspapers in Greece, Kathimerini, signed a cooperation agreement with Xinhua in April 2017. A study produced by the Institute of International Economic Relations in Athens finds that in 2020 the English edition of the newspaper carried 66 Xinhua stories on its website, i.e. one every fifth day.\nSocial media outlets have also delivered such content, such as:\n- the Facebook page of Greece-China Radio (see URL3 below).\n- the Facebook page of China Radio International(see URL4 below).\nor the website of CRI-Greece(see URL5 below)\n",
+                "evidence_urls": [
+                    "https://www.ekathimerini.com/economy/217828/greek-chinese-news-cooperation/",
+                    "https://idos.gr/wp-content/uploads/2021/03/Sino-Greek-Relations_in_Media_18-3-2021.pdf",
+                    "https://www.facebook.com/greecechinaradio",
+                    "https://www.facebook.com/profile.php?id=100068848134907&ref=aymt_homepage_panel",
+                    "https://greek.cri.cn/index.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [],
+                "note": "There are no such known cases. The Greek service of China Radio International has a Facebook page with a significant following (more than 140,000 followers as of March 2021), but these are most probably Chinese followers: https://www.facebook.com/profile.php?id=100068848134907&ref=aymt_homepage_panel ",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No such incidents have been reported. ",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "While human rights abuses in Xinjiang are reported by the media, there is no public debate about this issue.",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "There is a Greece-China Friendship Group in parliament, bringing together 27 MPs (out of a total of 300) from all the political parties.\nThe latest activity of this group reported on the parliament\u2019s website relates to a meeting with a delegation from Sichuan province in October 2019 (see below URL2).\n",
+                "evidence_urls": [
+                    "https://www.hellenicparliament.gr/Diethneis-Drastiriotites/Diethnes-Perivallon/Omades-Filias-All/?countryId=47396220-bd10-4e34-aa16-f651cb703dca&pageNo=1",
+                    "https://www.hellenicparliament.gr/Enimerosi/Deltia-Typou/?press=cbe94ec9-8876-431f-91e7-aaed00ff3ac9."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "1",
+                "evidence": "As an example, a member of parliament from the New Democracy party has posted on Facebook pictures from his visit to China in November 2019 at the invitation of the CCP (see beolw URL1).\nNo further evidence of this visit is publicly available.\n\nIn addition, in May 2022 there was an online meeting between the speaker of the Greek parliament and the chairman of the National People's Congress (NPC) Standing Committee (see beolw URL2).\nIt was covered by the Greek media as well, e.g. \"\u03a4\u03b7\u03bb\u03b5\u03b4\u03b9\u03ac\u03c3\u03ba\u03b5\u03c8\u03b7 \u03a4\u03b1\u03c3\u03bf\u03cd\u03bb\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03a0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf \u03c4\u03bf\u03c5 \u039b\u03b1\u03ca\u03ba\u03bf\u03cd \u039a\u03bf\u03b3\u03ba\u03c1\u03ad\u03c3\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039a\u03af\u03bd\u03b1\u03c2: \u00ab\u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03bb\u03ae\u03be\u03b5\u03b9 \u03ac\u03bc\u03b5\u03c3\u03b1 \u03bf \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf\u03c2 \u03c3\u03c4\u03b7\u03bd \u039f\u03c5\u03ba\u03c1\u03b1\u03bd\u03af\u03b1\u00bb\" (see beolw URL3).\n\n",
+                "evidence_urls": [
+                    "https://www.facebook.com/photo/?fbid=286527472305442&set=a.109284620029729",
+                    "http://www.chinatoday.com.cn/ctenglish/2018/zdtj/202205/t20220525_800295173.html",
+                    "https://www.newsbeast.gr/politiki/arthro/8640723/tilediaskepsi-tasoula-me-ton-proedro-tou-laikou-kogkresou-tis-kinas-prepei-na-lixei-amesa-o-polemos-stin-oukrania"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.theguardian.com/world/2017/jun/18/greece-eu-criticism-un-china-human-rights-record"
+                ],
+                "note": "No related incidents reported. Having said that, in the past Greece has supported China on its human rights record. In 2017, Greece blocked the release of an EU statement on human rights abuses in China. It is not clear whether this came about under PRC pressure or was a gesture of goodwill by the then government of Greece, which was anti-western and anti-European in its stance.\n",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "But neither has Greece supported proposals for Taiwan\u2019s accession to WHO.Greece is firmly committed to the One-China policy and is extremely cautious not to cause any stir in relation to China\u2019s sensitivities about Taiwan.",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "In 2016, Greece effectively supported PRC\u2019s claim over the South China Sea, by dismissing the ruling of the international tribunal in The Hague. Greece was one of the three EU member states to challenge the ruling (see the URL below).",
+                "evidence_urls": [
+                    "https://www.euractiv.com/section/global-europe/news/eu-unable-to-adopt-statement-upholding-south-china-sea-ruling/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Greece has been consistently silent on Xinjiang and has abstained from statements at UN level critical of China.",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Greece has been consistently silent on Tibet.",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Greece has not distanced itself from EU statements on Honk Kong. However, on several occasions over the past few years, Greece opted for abstaining from statements critical of China on Hong Kong at UN level.",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "In July 2021, the University of the Peloponnese annouced its cooperation with the Huawei ICT Academy (see URL1 below).\nIn December 2021, the University of Western Macedonia announced a cooperation agreement with the Huawei ICT Academy (see URL2 below).\nIn May 2022, the Aristotle University of Thessaloniki (AUTh) signed an agreement with Huawei for cooperation with the Huawei ICT Academy on the following subjects taught at AUTh: \u0391\u0399;  \u0399\u03bf\u03a4; Cloud Computing; Big Data; Wireless Networks; Security of IT Systems; 5G Technologies; Data Communications, Routing and Switching (see URL3 below).\nAgain in May 2022, Huawei granted 27 Seeds for the Future scholarships to students from 8 Greek universities: The Aristotle University of Thessaloniki, the National Polytechnic University, the Athens University of Economics and Business, the University of Thessaly, the University of Crete, the University of Macedonia (Thessaloniki), the University of Patras and the University of Piraeus (see URL4 below).\n",
+                "evidence_urls": [
+                    "https://www.epixeiro.gr/article/284363",
+                    "https://www.uowm.gr/epikairotita/deltia-typoy/synergasia-toy-panepistimioy-dytikis-makedonias-me-tin-polyethniki-etaireia-huawei/",
+                    "https://m.naftemporiki.gr/story/1860883/huawei-kai-apth-upegrapsan-mnimonio-sunergasias-gia-ti-diasundesi-tou-panepistimiou-me-tin-agora-ergasias",
+                    "https://www.uom.gr/11765-ypotrofies-se-27-spoydastes-apo-8-ellhnika-aei-sto-plaisio-toy-programmatos-ypotrofion-ths-huawei-seeds-for-the-future"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "There are Confucius institutes at:\n- the Athens University of Economics and Business, \n- the Aristotle University of Thessaloniki,\n- the University of Thessaly.\n",
+                "evidence_urls": [
+                    "https://www.confucius.aueb.gr/",
+                    "http://confucius-institute.web.auth.gr/el/",
+                    "https://confucius.uth.gr/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://idis.gr/chinese-studies-seminar/"
+                ],
+                "note": "There have been various activities jointly organized by Greek institutions and the PRC embassy in Athens or the Chinese Academy of Social Sciences (CASS) (see the URL above). While financial details have not been publicised, it seems likely that financial support has been recieved from PRC entities, but there is no evidence to back this up. ",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "One example, which is likely not isolated, is Mr George Tzogopoulos, founder of the China and Greece blog, and senior researcher at the Hellenic Foundation for Foreign and European Policy (ELIAMEP) was invited to the second Belt and Road Forum in Beijing in 2019 (see the URL below).",
+                "evidence_urls": [
+                    "http://chinaandgreece.com/dr-tzogopoulos-a-delegate-in-the-second-brf/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "One reservation regarding this question is that twinning agreements are not always reported and their content often remains obscure.",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "1",
+                "evidence": "Some 20 twinning agreements between Greek and Chinese local authorities are recorded, though the validity of these agreements is not easy to verify. Sometimes, twinning agreements between local authorities (e.g. Athens and Beijing) extend to hospitals. ",
+                "evidence_urls": [
+                    "https://dimoschalkideon.gr/en/twinning-agreement-paves-way-cooperation-chalkida-wuhan/",
+                    "https://greekherald.com.au/news/athens-and-beijing-children-s-hospitals-sign-twinning-agreement/",
+                    "https://news-ta.gr/%CF%80%CF%81%CE%BF%CF%89%CE%B8%CE%B5%CE%AF-%CE%B1%CE%B4%CE%B5%CE%BB%CF%86%CE%BF%CF%80%CE%BF%CE%B9%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%B4%CE%AE%CE%BC%CF%89%CE%BD-%CE%BC%CE%B5-%CF%84%CE%B7%CF%82-%CE%BA/",
+                    "https://www.ekathimerini.com/multimedia/images/257530/attica-twins-with-china-s-sichuan-region/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://kede.gr/synantisi-g-patouli-me-to-proedreio-tis-enosis-filias-tis-kinas-me-laous-xenon-choron/"
+                ],
+                "note": "No related details are reported, but it is not inconceivable that politicians, e.g. from local authorities, would avail themselves of invitations and paid-for travel to China. For instance, the president of the Greek Union of Local Authorities visited China in 2017, though it is not clear who covered his travel and accommodation expenses (see the URL above).",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "Greek and Chinese officials have signed two three-year Action Plans (2017-2019 and 2020-2022), the Chinese counterpart being NDRC. These plans have not made any difference and appear to be more of a political statement. The Greek coordinator for the implementation of these plans is a deputy minister of foreign affairs, with the title Deputy Minister for Economic Diplomacy and Openness\nIn addition, in March 2022 Greece and China signed an Action Plan for cooperation in the area of tourism over a three-year period (2022-24).\n",
+                "evidence_urls": [
+                    "https://news.gtp.gr/2022/03/15/greece-china-agree-tourism-action-plan-2022-2024-period/",
+                    "https://global.chinadaily.com.cn/a/202203/15/WS62300190a310cdd39bc8ca92.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No media reports on such a form of cooperation.",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No media reports on such links.",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No such links have been reported.",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No such links have been reported.",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ekathimerini.com/economy/253464/greece-committed-to-further-strengthening-ties-with-china-says-georgiadis/",
+                    "https://www.tovima.gr/2021/10/27/international/mitsotakis-chinese-foreign-minister-meeting-to-expand-investment-relations-between-the-two-countries/"
+                ],
+                "note": "For the sake of clarification, there are regularly positive statements by public officials about Sino-Greek relations and China as an economic powerhouse. Positive statements about China\u2019s political system are rare, mostly from left-leaning politicians \u2013 and, in general, in opposition to what they see as western neoliberal domination in Europe.",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No such links have been reported.",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No such links have been reported.",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/CountryProfile/en/Country/GRC/Year/2019/TradeFlow/EXPIMP/Partner/by-country#:~:text=Greece%20trade%20balance%2C%20exports%20and%20imports%20by%20country&text=In%202019%2C%20Greece%20major%20trading,Italy%2C%20Russian%20Federation%20and%20China"
+                ],
+                "note": "Greek main trading partners are in Europe. In 2019, China was not among the top export markets for Greece, and was the fifth biggest importer into the Greek market.\n",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.esm.europa.eu/blog/euronomics-fresh-look-greek-debt-sustainability"
+                ],
+                "note": "Some 55% of Greece\u2019s cumulative debt is held by the European Stability Mechanism (ESM). China is not among the major creditors of Greece.",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "While there are other extractive industries as well, the main products that Greece exported to China are refined petroleum and marble. Some 60 percent of all exportable raw Greek marble is absorbed by China.",
+                "evidence_urls": [
+                    "https://oec.world/en/profile/bilateral-country/chn/partner/grc"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "A Chinese state-owned enterprise, COSCO, owns 67% of the stock of the Piraeus Port Authority (see URL1 below).\nIn addition, State Grid, another Chinese state-owned giant, holds a 24% stake in the operator of the high-voltage electricity grid of Greece (see URL2 below).\nChinese companies are also involved in power generation - specifically wind - and rolling out fast internet provision. \n\n",
+                "evidence_urls": [
+                    "https://www.porttechnology.org/news/cosco-increases-piraeus-stake-to-67/",
+                    "https://www.naftemporiki.gr/printStory/1175365",
+                    "https://www.reuters.com/article/greece-shenhua-group-copelouzos-idAFL8N1N83BE",
+                    "http://kpzg.people.com.cn/BIG5/n1/2017/0516/c404389-29279229.html",
+                    "https://carnegieendowment.org/2021/10/13/china-s-influence-in-southeastern-central-and-eastern-europe-vulnerabilities-and-resilience-in-four-countries-pub-85415"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tvxs.gr/news/ellada/i-ellada-melos-tis-asiatikis-trapezas-ependyseon-kai-ypodomon"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "The EU has no FTA with China and it would not be feasible for Greece to strike a bilateral deal with China.",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ec.europa.eu/competition/state_aid/cases/245376/245376_1659473_211_2.pdf"
+                ],
+                "note": "It is still worth noting that there was an occasion in the past (2015), when the European Commission challenged some tax exemption clauses in favor of COSCO in the port of Piraeus. The money was retrieved by the Greek state (see the URL above) ;\nIn the past, Greece has supported (along with EU countries such as Sweden and the Netherlands) loosening existing FDI screening mechanisms, but the goal of this was not specifically to make it easier for PRC capital to enter Greece, but FDI in general. \n",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "Until 2020, Huawei made significant inroads into the Greek telecoms market (see URL1 below). Since 2020, Huawei has been eased out of the core of 5G networks in Greece (see URL2 below).\nZTE routers are widely used in Greece (see URL3 below).\n",
+                "evidence_urls": [
+                    "https://technode.com/2020/12/09/how-huawei-hooked-greek-telcos/",
+                    "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Greece-joins-anti-Huawei-camp-as-US-seals-stronger-ties",
+                    "https://www.skroutz.gr/c/775/adsl-modem/m/4834/ZTE.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "Up to 2020, Huawei made significant inroads into the Greek telecoms market (see URL1 below). Since 2020, Huawei has been eased out of the core of 5G networks in Greece (see URL2 below).ZTE routers are widely used in Greece (see URL3 below).\n",
+                "evidence_urls": [
+                    "https://technode.com/2020/12/09/how-huawei-hooked-greek-telcos/",
+                    "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Greece-joins-anti-Huawei-camp-as-US-seals-stronger-ties",
+                    "https://www.skroutz.gr/c/775/adsl-modem/m/4834/ZTE.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No reports about PRC companies supplying equipment or services to government, military and security services. However, Huawei or Xiami mobile phones may very well be used by staff in these services.",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "While there is evidence that a Chinese company and a Greek University have signed an MoU on developing smart city technologies, there is nothing to suggest that these MoUs have actually been implemented, let alone that contracts between Greek cities and PRC entities have been signed to set up smart cities. \n\n",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No relevant reports. In addition, Greece would not be allowed to use CIPS due to its membership in the European banking union.",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.trendingtopics.eu/greek-fintech-provider-viva-wallet-raises-80m-from-tencent-ebrd-to-expand-its-sme-centric-neobank/"
+                ],
+                "note": "There are few other reports of PRC-connected venture capital investing in tech startups in Greece. ",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "evidence": "During Greek prime minister Alexis Tsipras\u2019 trip to China in July 2016 and his visit to the ZTE\u2019s R&D center, the corporation signed a Cooperation Agreement with the Greek company Forthnet for the development of a next-generation network (NGN). \nPacific Century CyberWorks (PCCW Global) is a subsidiary of Hong Kong Telecom (HKT), which is active in the areas of telecommunications equipment, network management, mobile telephony and big data management. The PCCW Global has bought off the Greek start-up company Crypteia Networks, which specializes in security-as-a-service.\n",
+                "evidence_urls": [
+                    "https://www.reporter.gr/Eidhseis/Epicheirhseis/Telecommunication-Equipment-Applications/295147-Synergasia-metaxy-Forthnet-kai-ths-ZTE-ypegrafh-sthn-Kina",
+                    "https://www.linkedin.com/company/crypteia-networks/about/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.kathimerini.gr/society/1071570/oi-dimofileis-efarmoges-tis-karantinas/"
+                ],
+                "note": "Notably, in March 2020 TikTok appeared as the most \u201cdownloaded\u201d app in Greece, but evidence as to its use is not readily available (see URL above).",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cegr//chn/xwdt/t208592.htm",
+                    "https://www.tellerreport.com/amp/2021-01-22-%0A---greece-china-peaceful-reunification-promotion-association-holds-online-re-election-ceremony%0A--.HkwwNCnDku.html"
+                ],
+                "note": "While there is evidence of the existance of groups such as the Greece-China Peaceful Reunification Promotion Association, there are reservations about their actual existence, i.e. whether they really exist and/or are operational beyond Chinese government outlets and propaganda. ",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://2008.sohu.com/20080403/n256094177.shtml"
+                ],
+                "note": "While there is some evidence of such organizations having existed in the past (see URL above), it dates back to 2008 and it is in any case unclear whether they actually existed, or were a product of PRC propaganda. ",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.kanep-gsee.gr/nea-anakoinoseis/-/%CF%83%CF%85%CE%BD%CE%AC%CE%BD%CF%84%CE%B7%CF%83%CE%B7-%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%CF%82-%CF%84%CE%BF%CF%85-%CE%BA%CE%B1%CE%BD%CE%B5%CF%80-%CE%BC%CE%B5-%CE%B5%CE%BA%CF%80%CF%81%CE%BF-2/"
+                ],
+                "note": "While there is no evidence of such cooperation or visists, there have been some contacts with PRC entities. There is one available media report about a visit of a delegation from Shaanxi province to the Centre for the Development of Educational Policies of the Greek Labor Confederation (KANEP-GSEE) in 2014. The Chinese delegation was comprised of \u201csocial partners and research institutions\u201d (see URL above).\n",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://chinaobservers.eu/the-chinese-golden-visa-rush-in-greece/"
+                ],
+                "note": "It should be noted that there is a growing Chinese community in Greece, not least because of the Golden Visa programme which attracts primarily Chinese citizens. It cannot be precluded that UFWD staff may be part of this community (see the URL above).   One individual identified as being the supposed head of the Chines diaspora group in Greece seems to be the deputy minister of  UNFW of \u5927\u5173 county/\u4e91\u5357 province, hence we have decided to skip this indicator. \n\n",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.facebook.com/people/%E9%9B%85%E5%85%B8%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83-China-Cultural-Center-in-Athens/100063915798354/"
+                ],
+                "note": "However, the associations \"China Cultural Center in Athens\" in question may be linked to the China Cultural Centre in Athens(see the URL above).",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "Big Chinese SOES (Huawei, COSCO, State Grid) donated masks to various state bodies and non-governmental groups in 2020: see chapter on Greece in the 2020 ETNC report (see URL1 below).\nIn addition, COSCO operating in the sea port of Piraeus has made donations to the local community, e.g. a playground (see URL2 below).",
+                "evidence_urls": [
+                    "https://www.ifri.org/sites/default/files/atoms/files/etnc_special_report_covid-19_china_europe_2020.pdf",
+                    "https://www.olp.gr/en/news/press-releases/item/12267-ppa-s-a-cosco-shipping-creates-a-new-modern-playground-park-and-a-bike-lane-for-the-municipality-of-piraeus",
+                    "http://cn.brnn.com/n3/2020/0618/c414912-9701674.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://global.chinadaily.com.cn/a/201905/06/WS5ccf9c26a3104842260b9fe7_3.html"
+                ],
+                "note": "While there is some evidence on the distribution of such content, such as the above-referenced film festival, the distribution of such entertainment content is very limited. As mentioned in the section on Media, there are intergovernmental agreements for the exchange of content. However, this is primarily related to the domain of news and current affairs. ",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=x468Vbdrc_k",
+                    "https://www.youtube.com/watch?v=z50YbAwO1ps",
+                    "https://greekcitytimes.com/2022/04/01/vassilisxiros/",
+                    "https://www.neaptolemaidas.gr/2019/11/blog-post_6353.html"
+                ],
+                "note": "While there are some very positive media reports like \"\u03a3\u03c4\u03b7\u03bd \u039a\u03af\u03bd\u03b1 \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u0395\u03a1\u03a4 \u03cc\u03c0\u03bf\u03c5 \u03cc\u03bb\u03bf\u03b9 \u03b3\u03bd\u03c9\u03c1\u03af\u03b6\u03bf\u03c5\u03bd \u03ac\u03c0\u03c4\u03b1\u03b9\u03c3\u03c4\u03b1 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\n\" (see URL1 above), there are also very critical ones like \"\u03a3\u03bf\u03ba\u03ac\u03c1\u03bf\u03c5\u03bd \u03bf\u03b9 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b1 \"\u03a3\u03c4\u03c1\u03b1\u03c4\u03cc\u03c0\u03b5\u03b4\u03b1 \u039a\u03b1\u03c1\u03b1\u03bd\u03c4\u03af\u03bd\u03b1\u03c2\" \u03c3\u03c4\u03b7\u03bd \u039a\u03af\u03bd\u03b1 | 15/1/22| \u0395\u03a1\u03a4\" (see URL2 above).\nA Greek diplomat, who served as the consul general in Shanghai between 2015 and 2019, has produced a film about the city(see URL3 above).\nThere have been reports about intergovernmental discussions about Sino-Greek cooperation in film production (see URL4 above). \n",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "1",
+                "evidence": "The Greek state news agency AMNA and Xinhua have a cooperation agreement, which occasionally leads to joint reports or exchange of content, e.g. this artical \"\u03a4\u03bf \u03a0\u03b5\u03ba\u03af\u03bd\u03bf \u03b8\u03ad\u03bb\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03bd\u03b9\u03c3\u03c7\u03cd\u03c3\u03b5\u03b9 \u03c0\u03b5\u03c1\u03b1\u03b9\u03c4\u03ad\u03c1\u03c9 \u03c4\u03b7\u03bd \u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c4\u03bf\u03c5 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2-\u03bc\u03ad\u03bb\u03b7 \u03c4\u03bf\u03c5 ASEAN\n\" (see URL below).",
+                "evidence_urls": [
+                    "https://www.amna.gr/anaxinhua/article/467482/To-Pekino-thelei-na-enischusei-peraitero-tin-sunergasia-tou-me-tis-chores-meli-tou-ASEAN"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "While the answer is yes, there have been developments lately. While Greece has traditionally been among the \u201cChina-friendly\u201d countries in the EU, the mood has changed for the worse lately, particularly after the outburst of the pandemic.\n\n",
+                "evidence_urls": [
+                    "https://idos.gr/wp-content/uploads/2018/10/China-Image-in-Greece_9-10-2018.pdf",
+                    "https://idos.gr/wp-content/uploads/2021/03/Sino-Greek-Relations_in_Media_18-3-2021.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "It would be almost impossible for a NATO member such as Greece to even consider such an option. ",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://greekcitytimes.com/2017/07/28/greece-china-joint-military-exercises/",
+                    "https://www.ekathimerini.com/news/1158090/chinese-defense-minister-in-athens-to-promote-defence-cooperation/"
+                ],
+                "note": "Some cooperation was discussed in the mid-2010s in the area of training. There has been one case, in 2017, of one-day joint naval drills off the coast of Athens. It was deemed highly symbolic, of little practical value. \nSince then, military cooperation between the two countries has been nil. This may have been one of the reasons for the visit of the PRC Defence Minister to Greece in 2021.\nNotably, the subject of military contacts between Greece and China is not covered at length by the media.\n",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "While an extradition treaty between the two countries was signed during Xi Jiping\u2019s state visit to Greece in 2019, the treaty has not been ratified by the Greek parliament. \n",
+                "evidence_urls": [
+                    "https://www.scmp.com/news/china/diplomacy/article/3037250/xi-jinping-hails-greece-deals-model-chinese-cooperation-europe",
+                    "https://chinaobservers.eu/xis-visit-to-greece-four-questions-waiting-to-be-answered/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/uk-china-beltandroad-piraeus-exclusive-idUKKBN1HR2LL"
+                ],
+                "note": "Based on the Reuters report above, it seems there are suspicions that PRC-connected gangs are active in Greece, though it has not been proven conclusively.  ",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No reported activities relating to economic espionage. In addition, Greece is not a highly advanced country in terms of technology and does not compare to some other EU member states that excel in this respect.",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://blog.talosintelligence.com/2022/05/mustang-panda-targets-europe.html",
+                    "https://www.welivesecurity.com/2022/03/23/mustang-panda-hodur-old-tricks-new-korplug-variant/"
+                ],
+                "note": "The Chinese hacker group \"Mustang Panda\" has attacked many countries around the world in 2022, including Greece. Mustang Panda has attacked not only governments but also NGO and other private sectors. It is not clear whether it was the Greek government or some other organization that was attacked. ",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No reports of related activities. At the same time, it should be noted that the Greek state and media do not have insights into the Chinese communities in the country. ",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.skroutz.gr/c/688/kameres-parakolouthisis/f/917397/Wi-Fi.html",
+                    "https://www.skroutz.gr/c/688/kameres-parakolouthisis/f/917398/exoterikou-chorou.html"
+                ],
+                "note": "No reports about state services using Chinese surveillance equipment. At the same time, Chinese cameras are widely available on the market and are purchased by private customers.\n",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "At the same time, given that Greece targets the huge pool of outgoing Chinese tourists, such a prospect may be on the cards in the future, as is the case in Italy or Serbia.",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.politico.eu/article/greek-police-arrest-activists-olympic-ceremony-disruption-beijing-tibet-protest/",
+                    "https://www.dw.com/en/beijing-winter-games-flame-lit-in-greece-amid-protests/a-59536701"
+                ],
+                "note": "However, there was a couple of incidents in October 2021, ahead of the 2022 Beijing Winter Olympic Games. Several pro-Tibet activists were arrested for disrupting the flame-lighting ceremony in ancient Olympia. They all had foreign passports (see the URLs above).",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Greece had a GDP per capita of US$20,277 and a total estimated population of 10.66 million people. Data relating to foreigners, including Chinese citizens, living in Greece have yet to be released. Since 2013, Greece has run a Golden Visa programme and, as of January 2022, there were 19,354 Golden Visa holders. ",
+    "description-2": "Greece established diplomatic relations with the People\u2019s Republic of China in 1972. Greece was ranked 108th in Reporters Without Borders 2021 World Press Freedom Index, and listed as Free in Freedom House\u2019s 2021 Global Freedom Status, with a score of 87/100."
+}

@@ -1,0 +1,946 @@
+{
+    "name": "Zambia",
+    "partner": "Emmanuel Matambo",
+    "year": "2022",
+    "GDP": "$1,120.6",
+    "population": "18.9M",
+    "original": "113/376",
+    "ranking": "46",
+    "overall": "30%",
+    "effect": "27%",
+    "exposure": "34%",
+    "pressure": "21%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "While China has some media presence in Zambia, this is does not translate into Zambian media organizations being in the Wolrd Chinese Media orbit",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "2",
+                "evidence": "According to a 31-year-old Zambian youth, who has worked on a Chinese project and has informal ties with the youth of the Patriotic Front in Zambia, sections of Zambian media were indeed captive to Chinese media organizations. The respondent argued that during the PF, reportage on China by government media houses was favorable. As an example, he cited the article in a Zambian paper that was published in Chinese. It could be assessed in URL 1.\nHowever, upon verification, this seems not to be the case. Zambian journalists are not affiliated with media organizations which are members of the Belt and Road Media Cooperation Alliance/Union, the Belt and Road News Alliance, or other Belt and Road media networks that connected to PRC. In fact occasionally they have been very critical as can be deduced from URL 2.",
+                "evidence_urls": [
+                    "https://www.africanews.com/2018/10/04/zambian-govt-newspaper-publishes-in-chinese-mandarin-the-morning-call//",
+                    "https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1070&context=sajpd "
+                ],
+                "note": "Some journalists choose to remain mum on this topic, but evidence was there especially during the tenure of the Patrioic Front government ",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "Journalists such as Chibale Silwizya who works for the state-owned Daily Mail was invited to China by the China Africa Press Centre programme. Her story can be verified from her own writing in the below URL.",
+                "evidence_urls": [
+                    "http://www.daily-mail.co.zm/zambian-journalists-journey-to-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "This was verified as China has been doing so for a long time, and now does it through the Beijing Television (TV) Dramas and Movies Broadcasting Season in Africa. In the specific case of Zambia, the government fully supported the airing of Chinese stories. Matambo, Mr Mwale (who works for Lady M Guest House) and lives in the Copperbelt (where China's mining interests are palpable) and another Zambian youth and community activist all converged on this fact and the verifiers' report drew from the below URL.",
+                "evidence_urls": [
+                    "http://www.daily-mail.co.zm/china-offers-more-than-just-kung-fu/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "English is the main medium",
+                "evidence_urls": [],
+                "note": "Here upon further probing, a person who resides on the Copperbelt and works for Lady M Guest House noted the majestic advertisements about the Bank of China and Huawei, that do not only appear newspapaer, but have also been mounted at the Kenneth Kaunda International Airport, and splashed on wall fences alogn Lusaka. The reviewers noted that while advrtising in newspapers has not been very prominent, private Chinese enterprises usually insert their advertisement in Zambian publications. Mwale referred to the following pictures cum advertisements: https://www.theguardian.com/global-development/2019/dec/11/china-steps-in-as-zambia-runs-out-of-loan-options",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "Through agencies such as TopStar, China is involved in the distribution of media signals. There were indications that this migth extend to influence content",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2021-01/14/c_139668394.htm"
+                ],
+                "note": "This was not always done by government media, but by government itself discouraging negative disclosures about Chian. In a way this was self-censoring from the government and it was done even against people withing government who exposed China. More could be gleaned from this: https://diggers.news/local/2020/05/27/stick-to-your-lane-banda-warns-sampa-for-closing-chinese-businesses/",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "skip",
+                "evidence": "This was espeially common under the Patriotic Front government. Reports of China wanting to twin its cities with Zambian cities came from China",
+                "evidence_urls": [],
+                "note": "Mr Kangwa did not provide persuasive support for this, choosing only to rely on informal discussions with his Patroti Front- affiliated friends whose only denial about possible human rights violations in China was that other countries are interfering with China's internal affairs",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "4",
+                "evidence": "This is very common in Zambia. Some shopping malls, including institutions such as airports have advertisements written in Chinese",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cezm/eng/sgzxdthxx/t1793536.htm",
+                    "https://www.lusakatimes.com/2016/03/01/114195/"
+                ],
+                "note": "Previous Ambassador to Zambia, Li Jie presided over events at which the Communist Party of China presented the Patriotic Front with the Epidemic Prevention and Control Materials Aid. More information was posted on the website of the Chinese Embassy: https://www.mfa.gov.cn/ce/cezm/eng/sgzxdthxx/t1793536.htm        Members of the Patriotic Front youth had met with Chinese officials at the Chinese Embassy to raise concerns about the then opposition party in Zambia the United Party for National Development. https://www.lusakatimes.com/2016/03/01/114195/",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "Pressure was usually put on government which in turn pressured journalists in state-owned media houses",
+                "evidence_urls": [
+                    "http://www.focac.org/eng/zfzs_1/202110/t20211020_10405469.htm"
+                ],
+                "note": "This has mainly been through Zambia's affirmation of China as the representative of all Chinese, and all research participants agreed on this. For example, Zambia's current Minister of Foreign Affairs, Stanley Kakubo has recently reaffirmed the PRC as the only recognizable China, an oblique prevention of Taiwan from international recognition. More: http://www.focac.org/eng/zfzs_1/202110/t20211020_10405469.htm",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "1",
+                "evidence": "This was the case among state-owned media outlets. We are yet to see if this continues after Zambia changed government in 2021",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "2",
+                "evidence": "This is usually done by what is called \"whataboutism\", which simply means those accusing China are mostly the West who have a lot of issues such as racism, xenophobia and anti-immigration to deal with",
+                "evidence_urls": [
+                    "https://pdf.usaid.gov/pdf_docs/PA00XHZX.pdf",
+                    "https://www.dandc.eu/en/article/chinese-run-education-programmes-strengthen-economic-cooperation-zambia"
+                ],
+                "note": "What happens at the University of Zambia (UNZA) through the Confucius Institute, in terms of language learning has also been replicated in some secondary schools in Zamibia. Partnerships at UNZA have been struck by Hanban and the Hebei University of Economics and Business. For more: https://pdf.usaid.gov/pdf_docs/PA00XHZX.pdf it is also noteworthy that there seems to be a connection, informal but patent, that language learning at the Confucius Institue helps one to get influential positions in Chinese-owned enterprises such as Zhongyang Eco-Agriculture Industry Park and Hongsen Company. https://www.dandc.eu/en/article/chinese-run-education-programmes-strengthen-economic-cooperation-zambia",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "It should be said, though, that members of parliament in the previous regime took trips to China ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "Actually, members of the Chinese government even attended a party conference of the Patriotic Front (PF) at the time when the PF was in power. However, the socialist party invited the Cuban Ambassador to their conference, the PF government was angered. The PF government actually expelled the Cuban Ambassador",
+                "evidence_urls": [
+                    "https://www.africanews.com/2018/04/02/zambia-expels-cuban-ambassador-for-backing-new-opposition-party/",
+                    "https://www.mfa.gov.cn/ce/cezm/eng/sgzxdthxx/t1793536.htm",
+                    " https://www.lusakatimes.com/2016/03/01/114195/"
+                ],
+                "note": "Previous Ambassador to Zambia, Li Jie presided over events at which the Communist Party of China presented the Patriotic Front with the Epidemic Prevention and Control Materials Aid. More information was posted on the website of the Chinese Embassy: https://www.mfa.gov.cn/ce/cezm/eng/sgzxdthxx/t1793536.htm        Members of the Patriotic Front youth had met with Chinese officials at the Chinese Embassy to raise concerns about the then opposition party in Zambia the United Party for National Development. https://www.lusakatimes.com/2016/03/01/114195/",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "There is simply no evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "4",
+                "evidence": "Miles Sampa, who was at the time saving as Mayor of Zambia's capital city was told to halt his uninvited inspections at Chinese-run firms where he found evidence of labour abuse. The government led attacks on their own member, all in an effort not to offend China",
+                "evidence_urls": [
+                    "https://www.lusakatimes.com/2020/05/27/milesmiles-unreservedly-apologises-to-the-chinese-community-and-government-leaders/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "Citizens and students based in China steer clear of politics. Zambian politicians in China tend to tow the Zambian government's line of non-interference in the internal affairs of partner states",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "evidence": "When the PF was an opposition party, it had described Taiwan as a country. It changed its tone after coming to power. Leading up to 2006 general elections in Zambia, China said it would have nothing to do with Zambia if the PF won because of its description of Taiwan as a country ",
+                "evidence_urls": [
+                    "https://www.chinadaily.com.cn/china/2006-09/05/content_682036.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "1",
+                "evidence": "Usually this is done as support for the developing world leaders",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "This is usually characterised as showing support for China's territorial integrity",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "There has been silence on this matter",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "On this score as well, Zambia has remained silent and it has never invited the Dalai Lama",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "There has been silence on this, too",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "This is actually done under the Confucius Institute and other initiatives in agriculture and medicine - inter alia",
+                "evidence_urls": [
+                    "http://www.chinafrica.cn/Homepage/202006/t20200618_800210441.html",
+                    "https://pdf.usaid.gov/pdf_docs/PA00XHZX.pdf",
+                    "https://www.dandc.eu/en/article/chinese-run-education-programmes-strengthen-economic-cooperation-zambia"
+                ],
+                "note": "What happens at the University of Zambia (UNZA) through the Confucius Institute, in terms of language learning has also been replicated in some secondary schools in Zamibia. Partnerships at UNZA have been struck by Hanban and the Hebei University of Economics and Business. For more: https://pdf.usaid.gov/pdf_docs/PA00XHZX.pdf it is also noteworthy that there seems to be a connection, informal but patent, that language learning at the Confucius Institue helps one to get influential positions in Chinese-owned enterprises such as Zhongyang Eco-Agriculture Industry Park and Hongsen Company. https://www.dandc.eu/en/article/chinese-run-education-programmes-strengthen-economic-cooperation-zambia",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "The Confucius Institute at the University of Zambia is a very visible structure, and it stands out due to its imposing and attractive physical state, compared to the rest of the University. It is also a hub of learning Mandarin in Zambia, thought it should be noted that the first Chinese school in Zambia was opened in 2009, with donations from the Chinese Embassy and the Chinese Ministry of Commerce. The Confucius Institute was opened a year later in 2010",
+                "evidence_urls": [
+                    "https://www.unza.zm/confucius/about/introduction"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "Mandarin has grown in prominence in Zambia, and it was more so during the tenures of the MMD and PF governments. In 2018, the Times of Zambia, a state-owned newspaper published an article in Mandarin, sparking derision and horror among Zambians. The country has numerous languages, many of which have never had the distinction of finding their way into national papers.  ",
+                "evidence_urls": [
+                    "http://www.daily-mail.co.zm/chinese-mandarin-language-in-zambian-schools/",
+                    "https://www.africanews.com/2018/10/02/zambia-state-owned-media-publishes-article-in-chinese//#:~:text=On%20Tuesday%20morning%2C%20patrons%20of,language%20for%20all%20of%20China."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "There is not evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "1",
+                "evidence": "People have even been given scholarships for learnership programmes. This has been facilitated through the Chinese Embassy and the Chinese government scholarship programme",
+                "evidence_urls": [
+                    "http://www.chinafrica.cn/Homepage/202108/t20210816_800255613.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "skip",
+                "evidence": "While these programmes are not many, they receive a lot of publicity from the Chinese Embassy in Zambia. Some competitions, such as the Bridge Competition, usually happen in concert with the Confucius Institute",
+                "evidence_urls": [
+                    "http://www.focac.org/eng/zfzs_1/202110/t20211020_10405469.htm",
+                    "http://www.focac.org/eng/zfzs_1/202110/t20211020_10405469.htm"
+                ],
+                "note": "This has mainly been through Zambia's affirmation of China as the representative of all Chinese, and all research participants agreed on this. For example, Zambia's current Minister of Foreign Affairs, Stanley Kakubo has recently reaffirmed the PRC as the only recognizable China, an oblique prevention of Taiwan from international recognition. More: http://www.focac.org/eng/zfzs_1/202110/t20211020_10405469.htm",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "This has happened to a modest degree among established Zambian scholars, but students pursuing undergraduate and postgraduate studies have received the biggest share",
+                "evidence_urls": [
+                    " https://www.unza.zm/confucius/featured/educational-delegation-to-china"
+                ],
+                "note": "On this score, Emmanuel Matambo and a Zambian national educated in China and currently works for Plastic for Change can personally testify that they have taken trips to China sponsored by the Chinese government. Matambo went for a short course, while the other participant did an entire academic programme in China. In addition High School principals and officials of Zambia's Ministrty of Education have taken trips to China under the auspices of Chinese entities. https://www.unza.zm/confucius/featured/educational-delegation-to-china ",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "There are institutes with tenuous support from China, but they are not involved in censoring other students and this is due to the fact that membership to such groups almost always entails a favourable stance on the PRC",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "Such scholars and journalists abound in Zambia, but have expressed little known interest to travel to China",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "This is mostly done through additional initiatives to education at the Confucius Institute. While the Institute should be expressly tailored toward teaching Mandarin, more is done by way of promoting Zambia-China political relations, with a favourable interpretation of China's history, Japanese historical occupation and aggression, and China's claims on Hong Kong and Taiwan",
+                "evidence_urls": [],
+                "note": "This response was mostly tailored to the Confucius Institute's monopoly over designing Mandarin classes. It does not design other curricula at universities or high schools, and Zambia's curriculum of history and politics is more West-facing",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "Unless you are at the Confucius Institute, China does not feature much in Zambia's academic discourse. That initiative has been taken up by ordinary Zambian citizens, workers and journalists who have been unnerved by some troubling aspects of China's presence in Zambia. ",
+                "evidence_urls": [
+                    "https://pdf.usaid.gov/pdf_docs/PA00XHZX.pdf",
+                    " https://www.dandc.eu/en/article/chinese-run-education-programmes-strengthen-economic-cooperation-zambia"
+                ],
+                "note": "There is a dearth of academic discussion, especially in the curricula about internal Chinese politics and so two reviewers, a worker at Lady M Guest House and a youth community activist argued that there is no need to avoid a topic that does not even come for discussion. For this reason the response is revised to 0=NO",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "1",
+                "evidence": "During the tenure of the PF, this was prevalent during the reign of the Patriotic Front. We are yet to see whether the current officials will be doing the same",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com//english/2017-02/10/c_136044806.htm",
+                    "https://www.lusakatimes.com/2017/07/29/twinning-lusaka-province-sichuan-province-transform-livelihoods-veep/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "The response to the previous question somewhat applies here",
+                "evidence_urls": [
+                    "https://www.lusakatimes.com/2017/07/29/twinning-lusaka-province-sichuan-province-transform-livelihoods-veep/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "skip",
+                "evidence": "While this does not receive widespread attention, it is noteworthy that within Zambia itself, politicians are usually feted by Chinese individuals and entities and plied with gifts. This is usually done as a subtle way of China extracting positive responses in situations when Chinese individuals and entities have to vie for tenders with competitors",
+                "evidence_urls": [],
+                "note": "This has been done for politicians in the ruling party. For example, when Bowman Lusambo was Minister of Lusaka Province he went to China for the 3rd Western China Public Procurement Conference during the 17th Western China International Fair being held in Chengdu, Sichuan Province. For more: https://www.lusakatimes.com/2018/10/07/lusambo-wants-a-china-town-where-all-chinese-nationals-will-conduct-their-businesses-in-lusaka/",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "This is a very usual occurence. Even Michael Sata, Zambia's fifth president who was not known for constant travel was invited for a week to visit China. Usually, government officials meet a variety of Chinese players in both the public service and the private sector.",
+                "evidence_urls": [
+                    "http://sydney.china-consulate.gov.cn/eng/zgxw/202203/t20220320_10653587.htm",
+                    "http://www.xinhuanet.com/english/2021-02/23/c_139759645.htm",
+                    "https://www.mfa.gov.cn/ce/cezm/eng/sgzxdthxx/t1026791.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "This has happened to a marginal but dramatic degree as when Chinese nationals. In 2017, the Zambian government provoked an uproar when eight Chinese reservists were commissioned as part of Zambia's Police Service. This came in the same year when a judgement had ruled that police personnel are not allowed to have dual citizenship and to get married to foreign spouses. The Zambian government promptly reversed this move, due to pressure",
+                "evidence_urls": [
+                    "https://www.bbc.com/news/world-africa-42413330"
+                ],
+                "note": "The answer was later revised to 0=No because Matambo, a worker at Lady M and a youth community activist had mistaken illegal activities of a Chinese national who gave a small group of Zambians elementary military training. Regarding judicial training, China has never done such in Zambia.",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "4",
+                "evidence": "The PF party, during one of its last conventions as a ruling party even invited a Chinese citizen. ",
+                "evidence_urls": [],
+                "note": "A little more than a year to the crucial 2021 election, in July 2020 the then ruling party in Zambia, the Patriotic Front received thousands of face masks from China, to fight COVID-19. This, as argued by a community activist who has connections with the youth ranks in the PF, was used by the PF as cover to hold campaign rallies under the pretext of distributing face masks.",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "This has been the case in the past",
+                "evidence_urls": [],
+                "note": "Support has been rendered to political parties and individuals such as local leaders in Mungule Area, but they do not belong to the United Front Workers so this could also be revised to 0=No if belonging to the United Front Workers is the sine qua non",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "3",
+                "evidence": "This has mostly been done in subtle ways, such as in 2006 when Chine threatened to cut ties with Zambia if Michael Sata had won the election",
+                "evidence_urls": [
+                    "https://www.ft.com/content/d6d5d176-3d0a-11db-8239-0000779e2340"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "This is more than common. It is actually predictable that everytime Zambian politicians in the ruling party meet with their Chinese counterparts, they usually make references to the \"all-weather\" friendship that the countries share. References is also usually made to China's contribution towards the construction of the Tanzania-Zambia Railway (TAZARA). ",
+                "evidence_urls": [
+                    "https://www.globaltimes.cn/page/202107/1228521.shtml",
+                    "http://za.china-embassy.gov.cn/eng/zfgxss/201707/t20170712_6137769.htm",
+                    "http://english.scio.gov.cn/internationalexchanges/2020-12/29/content_77060192.htm",
+                    "https://www.lusakatimes.com/2016/03/20/president-lungu-hails-china-zambia-relations/",
+                    "https://www.lusakatimes.com/2018/09/22/china-is-an-all-weather-friend-lusambo/",
+                    "http://web.sabc.co.za/sabc/home/channelafrica/economy/details?id=d67c88e3-930d-487f-8aed-7ec5ec976558&title=China%20Railway%20to%20visit%20Zambia%20over%20planned%20train%20system"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "skip",
+                "evidence": "This has happened in plenty Chinese facilities, especially in Chinese casinos, restaurants and shopping marts that have become a major feature of Zambia's infrastructure",
+                "evidence_urls": [
+                    "tps://diggers.news/local/2022/04/18/kakubo-and-the-cement-story-public-reacts-after-minister-receives-gift-from-chinese/"
+                ],
+                "note": "Gladys and Kangwa could not offer persuasive evidence of this. There was an incident when Zambian Foreign Minister Stanley Kakubo was seen accepting what appeared to be be a gift from the Chinese running Sinoma mine. It was that which swayed the reviewers, but hardly counts as watertight. For more: https://diggers.news/local/2022/04/18/kakubo-and-the-cement-story-public-reacts-after-minister-receives-gift-from-chinese/",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "Mostly to train locals. There have been cases of illegal military training, outside of the laws of Zambia",
+                "evidence_urls": [
+                    "https://www.africanews.com/2018/10/06/kenya-zambia-arrest-chinese-threats-to-national-security//"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "The PRC is one of Zambia's biggest trade partners in goods, but not the biggest. It should be noted that China claims attention because of general economic ties and investment in Zambia",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/CountryProfile/en/Country/ZMB/Year/2019/TradeFlow/EXPIMP/Partner/by-country#:~:text=In%202019%2C%20Zambia%20major%20trading,%2C%20India%20and%20Congo%2C%20Dem."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "4",
+                "evidence": "The silence and secrecy emanating from this makes it clear that Zambia's debt to China is indeed dangerously high",
+                "evidence_urls": [
+                    "https://www.sciencedirect.com/science/article/pii/S259029112100084X",
+                    "https://www.reuters.com/article/zambia-debt-idUSKBN2HA2L5",
+                    "https://thediplomat.com/2021/10/what-zambias-new-debt-reveal-tells-us-about-the-china-debt-trap-theory/",
+                    "https://www.reuters.com/world/africa/zambias-chinese-debt-nearly-twice-official-estimate-study-finds-2021-09-28/",
+                    "https://www.news24.com/citypress/business/china-offers-to-step-in-to-assist-zambias-173bn-debt-restructuring-20220506"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "It is noteworthy, though, that China comes second only to Switzerland ",
+                "evidence_urls": [
+                    "https://oec.world/en/profile/bilateral-product/raw-copper/reporter/zmb#:~:text=The%20main%20destination%20of%20Raw,%2C%20and%20Namibia%20(%24105M)."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "Chambishi Copper Mine is owned by the Non-Ferrous Company\u2013Africa (NFCA), and is the biggest Chinese-owned mining company in Zambia. Historically, South Africa, Canadian and European companies have dominated copper mining in Zambia. We now see China as an ambitious new player on the market, involved in copper and other minerals and sectors, including agriculture",
+                "evidence_urls": [
+                    "https://www.hrw.org/news/2011/11/03/zambia-workers-detail-abuse-chinese-owned-mines"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "No, Zambia has not joined the AIIB",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/news-events/news/2020/AIIBs-Membership-in-Africa-Grows-as-Liberia-Joins-the-Bank.html"
+                ],
+                "note": "Zambia is not even listed as a prospective member",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "The absence of this is probably because Zambia is a landlocked country",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "This happens even in the tender-awarding processes. The country is also flooded with Chinese-made goods, some of them which were a preserve of the Zambian manufacturers such as traditional clothing",
+                "evidence_urls": [],
+                "note": "No. Initially, the participants speculated on the 2006 threat by Li Baodong to the MMD government that if the PF won that year's elections, then China would cut ties with Zambia, which was going to be devastating because China is one of Zambia's trade partners",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "Usually businesses do not get involved in China's territorial affairs and the treatment of minorities",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "There have been numerous agreements signed. It is not easy to pick out free trade ones",
+                "evidence_urls": [
+                    "https://agritrade.cta.int/Agriculture/Topics/Market-access/Increase-in-Zambian-duty-free-access-to-the-Chinese-market-announced.html"
+                ],
+                "note": "The reviewers could not come up with enough evidence to put this beyond doubt. Please refer to the following, which also includes a FOCAC perspective: https://agritrade.cta.int/Agriculture/Topics/Market-access/Increase-in-Zambian-duty-free-access-to-the-Chinese-market-announced.html",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "Zambia played a pioneering role in hosting Economic Zones on the African continent",
+                "evidence_urls": [
+                    "https://www.wider.unu.edu/publication/special-economic-zones-zambia-and-south-africa",
+                    "https://documents1.worldbank.org/curated/en/720981495115586647/pdf/115143-WP-PUBLIC-Feb-2016-GTCCS-ZambiaMFEZ.pdf",
+                    "https://core.ac.uk/outputs/302956070"
+                ],
+                "note": "SEZ have been established in Zambia, by the PRC, and it is noteworthy that when then Chinese president Hu Jintao visited Zambia in 2007 he was supposed to open an special economic zone in Chambishi on the Copperbelt Province. He later changed his schedule when fear surfaced that local residents might protest: for more: https://core.ac.uk/outputs/302956070 further information could be gleaned from: https://documents1.worldbank.org/curated/en/720981495115586647/pdf/115143-WP-PUBLIC-Feb-2016-GTCCS-ZambiaMFEZ.pdf",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "There were false rumours about it in 2018",
+                "evidence_urls": [
+                    "https://www.africanliberty.org/2018/09/10/china-is-taking-over-zambia-national-assets-but-the-nightmare-is-just-starting-for-africa/",
+                    "https://www.theafricareport.com/156470/china-wont-seize-assets-from-african-countries-but-wont-forget-the-debts/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "A lot of entities are highly visible in Zambia",
+                "evidence_urls": [
+                    "https://www.networkworld.com/article/2884554/huawei-faces-outcry-over-telecom-towers-in-zambia.html"
+                ],
+                "note": "The piece of evidence provided directly accords with what a worker at Lady M and the Chinese-educated founder of Plastic for Change asserted",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "Huawei has actually been involved in constructing communication towers, drawing masssive backlash from Zambia",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/africa/2021-03/04/c_139783992.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "Our national broadcaster, the Zambia National Broadcasting Corporation (ZNBC) is using TopStar from China to navigate from analog to digital television. ",
+                "evidence_urls": [],
+                "note": "The link provided for by Double Think Tank somewhat justifies the positive reading even though the reviewers and the respondent did not entirely agree on the issue",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "Huawei has been in the forefront of this ",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/africa/2021-03/04/c_139783992.htm",
+                    "https://e.huawei.com/za/publications/global/ict_insights/201806041630/success/201808170846"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "There is hardly evidence of this, and Zambia is highly centralised",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "1",
+                "evidence": "There is a road towards China-sponsored smart cities. For now there are building blocks toward it, such as the Smart Zambia Initiative",
+                "evidence_urls": [
+                    "https://www.bloomberg.com/news/features/2019-01-10/china-s-digital-silk-road-is-looking-more-like-an-iron-curtain#xj4y7vzkg",
+                    "https://chinatechmap.aspi.org.au/#/data"
+                ],
+                "note": "Huawei is part of the Smart Zambia initiative, initiated during the presidency of Edgar Lungu. https://chinatechmap.aspi.org.au/#/data/",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "This facility is open to Zambians doing business in China. It is also notable that Chinese currency can be used for transactions in Zambia",
+                "evidence_urls": [
+                    "https://www.cips.com.cn/en/about_us/about_cips/direct_participants_list/index.html"
+                ],
+                "note": "Please refer to the URL for an illustration of the positive response",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "The information was hard to come by all participants ",
+                "evidence_urls": [],
+                "note": "A worker at Lady M, based on the Copperbelt Province had based this on a rumour that start ups, especially those involved in transport (such as Ulendo) were supported by Chinese venture-capital interests. Further verification did not establish this as fact. Final answer: No",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "This has been done between PRC-connected entities and companies that are neither Zambian nor Chinese",
+                "evidence_urls": [],
+                "note": "The answer given by a worker at Lady M was verified by the founder of Plastic For Change and a youth community activist, but does not provide evidence and hence has to be revised to 0",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "There are Zambians who use Wechat and Beidou, but these are mostly people who have started in China and others who have business interests and/or family members in China",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "Beidou is used but not at the urging of local governments",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "Local groups in Zambia stay clear and some are ignorant of China's affairs, except China's presence in Zambia",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "This is absent in Zambia",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "The labour union movement in Zambia has actually clashed with Chinese employers in the past. This is mainly due to poor working conditions in Chinese-run firms, and the inclination by Chinese employers to hire casual labour. On other occasions, workers' union have not endorsed Chinese employment. They have merely argued that almost all big investors and employers in Zambia flout labour laws every now and then ",
+                "evidence_urls": [
+                    "https://www.lusakatimes.com/2011/11/05/mineworkers-union-zambia-refuse-blame-chineseowned-mining-firms-flouting-labour-laws/",
+                    "https://www.reuters.com/article/zambia-mining/zambias-chinese-owned-copper-plant-workers-strike-idINLDE72O0NI20110325"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "This has not happened. Students at the Confucius Institute usually attend, rather than local groups",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "skip",
+                "evidence": "Through the Embassy, organisations from China have in the past donated to women initiatives in Zambia, including the foundation of Esther Lungu, the former First Lady of Zambia",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cezm/eng/sgzxdthxx/t1797881.htm",
+                    "https://www.lusakatimes.com/2017/04/07/wynter-kabimba-challenges-chinese-embassy-k200000-cash-donation-esther-lungu-foundation/"
+                ],
+                "note": "None of the reviewers was in a position to offer concrete evidence. All they had were hunches and speculations",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "Please refer to the responses in question 5. This has happened quite frequently, but the people who are targeted are usually people of political influence.  ",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/webSkipping.htm",
+                    "https://www.znbc.co.zm/news/chinese-community-donates/",
+                    "http://en.people.cn/n/2014/0601/c90883-8735458.html"
+                ],
+                "note": "On this score, the URL on my side has been working properly. Chinese organisations have donated mainly to orphanages rather than religious institutions or causes. Kabwata orphanage, which is one of the most vibrant in Lusaka has been a beneficiary For more, please consult:  http://en.people.cn/n/2014/0601/c90883-8735458.html",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "4",
+                "evidence": "in 2016 Zambia launched a Chinese-funded digital television project catering for 500 villages. The project was part of the Access to Satellite TV for 10,000 African Villages. This was the initiative StarTimes Group.",
+                "evidence_urls": [
+                    "http://en.cidca.gov.cn/2018-06/26/c_261135.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "There is no evidence of this on television or social media. In fact, many young people in Zambia take an alarmist perception of China ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "If celebrities did this, they would incur the ire of many Zambians, on whom they depend for their fame. Those in government usually curry favour with China, but not those who are outside government ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "There has been a change of government in Zambia since August 2021, so we are yet to see how the new local government officials will treat China. Historically, such officials sold China's propaganda",
+                "evidence_urls": [],
+                "note": "The answer for this was No as there is no evidence to support such",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "Zambia is beset by a lot of problems, that range from unemployment, poverty and inequality. The Zambian government has also incurred a lot of debt that has reduced the government's capacity to provide public goods such as education, basic healthcare and electricity. China is usually blamed for some of these factors and so the majority of Zambian do not have a positive view of China. There are some who welcome Chinese employment and goods, and these are typically Zambians who work in Chinese firms, and without this low-paying opportunity might otherwise be unemployed. Thus, their attitude toward China is that of resignation rather than convincing endorsement of PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "Russia and Israel have dominated this sphere of imports ",
+                "evidence_urls": [
+                    "https://tradingeconomics.com/zambia/imports/russia/arms-ammunition-parts-accessories"
+                ],
+                "note": "There was some debate among participants on this matter because if rumours are that China is involved in training some security personnel in Zambia, then maybe it also exports some military or law-enforcement equipment ",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "Zambia has no capacity to produce and export military or law-enforcement equipment or components of equipment to the PRC",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "This does not happen",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "This has not happened, at least thus far",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "It should be noted, however, that Chinese communities and businesses in Zambia have been involved in disaster relief initiatives ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "This has not happened. It is a result of Zambia's general stability from armed conflict, and the country's vast geographic distance from China",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "There have been rumours of Chinese personnel training Zambians in Zambia. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "At the moment, Zambian peacekeeping personnel are usually trained under the auspices of the United Nations and the African Union",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "This is not happening, but it might change. It should be noted that in a country where the political space is not dominated by the military, there is little incentive for China to coddle retired military officers from Zambia. In Zambia, China targets influential politicians",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "The response to the previous question applies here, too",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "This, again, is not the case. ",
+                "evidence_urls": [],
+                "note": "Zambia is not a militarized country, and hence there is little justification for such",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "There is not extradition treaty between Zambia and China ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "This is mostly done at the SADC or AU level",
+                "evidence_urls": [],
+                "note": "Things might change in the future is the risk of terrorism emerges in Zambia. Zambia has been mute on China's internal terrorism concerns, thereby eliminating the basis for agreements to combat it",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "Individual Chinese immigrants/employers do cause some havoc, but to a marginal degree",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "There is not persuasive evidence. It should be noted rather, that Chinese entities have benefited from lucrative contracts in Zambia, but the funding for such contracts came from China in the first place",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "The PRC has usually clung to the mantra that it will be close to any Zambian government",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "If there are Chinese in Zambia, then they have not been vocal about their opposition to the Chinese government ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "While the answer is negative this needs qualification because of the proximity that entities such as Huawei have with the Chinese government. From this background, if Huawei technology has been used in Zambia, it would not be farfetched to suspect that the Chinese government can benefit or have access to it ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "But there have been speculation about Chinese police training Zambian police ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "Zambia is against people who meddle in China's internal affairs but the government has never had to be compelled to arrest such individuals. In any case, Zambia is mostly worried about anti-Chinese sentiment among Zambians rather minority groups from China. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "It is noteworthy that this has happened due to misbehaviours of Chinese individuals. They actually broke Zambian laws, and it was the initiative of the government to deport them. China might not have been happy with the Zambian government. ",
+                "evidence_urls": [
+                    "https://www.africanews.com/2017/06/07/zambia-deports-31-chinese-illegal-miners-after-diplomatic-protest/"
+                ],
+                "note": "There has been no evidence on this and hence the answer remains NO",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Zambia had a GDP per capita of US$1,121 and a total population of 18.92 million people, with the Chinese population comprising 20,000 people or 0.1% of the total population.",
+    "description-2": "Zambia and China established formal relations on 29 October 1964, five days after Northern Rhodesia gained independence from Britain and was christened the Republic of Zambia. The latest report of the latest Reporters Without Borders Index puts Zambia at 109 out 180 countries studied. However, the report further states that Hakainde Hichilema\u2019s election as president in August 2021 has improved the situation for the media after some difficult years even though the legislative framework still needs improving and Zambia\u2019s economic problems continue to hold back journalistic independence. Freedom House\u2019s Global Freedom Status categorises Zambia as partly free. This, again was based on the restrictive nature of governance under the Patriotic Front."
+}

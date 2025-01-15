@@ -1,0 +1,979 @@
+{
+    "name": "Uzbekistan",
+    "partner": "Civic IDEA",
+    "year": "2022",
+    "GDP": "$1,983.1",
+    "population": "34.9M",
+    "original": "150/380",
+    "ranking": "24",
+    "overall": "39%",
+    "effect": "51%",
+    "exposure": "41%",
+    "pressure": "10%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "No evidence found regarding the issue.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No direct evidence found.\n",
+                "evidence_urls": [],
+                "note": "\u201cThis text offers a brief evaluation of how dynamism of China-Uzbekistan bilateral relationship may be transformed to synergy necessary for the success of the BRI initiative. This will be done in three parts. First part briefly underlines the overlap between New Strategy of Development of Uzbekistan and the BRI of China. \nThe Belt and Road Initiative and Uzbekistan\u2019s New Strategy of Development: Sustainability of mutual relevance and positive dynamics, available at: https://www.researchgate.net/publication/324560481_The_Belt_and_Road_Initiative_and_Uzbekistan's_New_Strategy_of_Development_Sustainability_of_mutual_relevance_and_positive_dynamics \n\n\u201cThe Uzbek regime has been very actively engaged in Internet censorship, closing down and threatening local websites and blocking certain external sites. Though their ability to block outside websites doesn\u2019t seem to be nearly as comprehensive as China\u2019s, it would be beneficial for groups that have taken an interest in providing advice on avoiding the censors in China to add Uzbekistan as a focus country.\u201d https://www.crisisgroup.org/europe-central-asia/central-asia/uzbekistan/media-development-challenging-environments-uzbekistan-after-andijan \n",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "A delegation of high-level media representatives from Uzbekistan visited China- http://uz.chineseembassy.org/rus/zwgxzxdt/201712/t20171206_1827313.htm ",
+                "evidence_urls": [
+                    "http://uz.chineseembassy.org/rus/zwgxzxdt/201712/t20171206_1827313.htm"
+                ],
+                "note": "According to expert's knowledge, such kind of accidents have taken place, but the evidence is not publicly available. ",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "No public evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "Supporting evidence can not be found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "No direct evidence found. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "Tashkent, Uzbekistan (UzDaily.com) -- The Xinhua news agency published an article on the participation of the President of the Republic of Uzbekistan Shavkat Mirziyoyev in the opening ceremony of the Winter Olympic Games in Beijing on 4-5 February. https://www.uzdaily.uz/en/post/71332 ",
+                "evidence_urls": [
+                    "https://www.uzdaily.uz/en/post/71332"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "2",
+                "evidence": "Chinese President Xi Jinping published a signed article on leading Uzbek newspaper Narodnoye Slove under the title of \"A Glorious New Chapter in China-Uzbekistan Friendship\" on June 21, ahead of his state visit to the Central Asian country-  http://www.scio.gov.cn/32618/Document/1481211/1481211.htm\n\n\"Podrobno.uz\" - News of Uzbekistan: Politics, economics, society, incidents, technologies, tourism, culture, sports ( has published the article- Uzbekistan and China: keys to the future)-https://podrobno.uz/cat/uzbekistan-i-kitay-klyuchi-ot-budushchego/\n\nKUN.UZ is one of the most active online publications in Uzbekistan. Uzbekistan has resumed gas exports to China, which were suspended at the beginning of the year to meet domestic demand- https://kun.uz/ru/news/2022/05/24/smi-uzbekistan-vozobnovil-eksport-gaza-v-kitay",
+                "evidence_urls": [
+                    "http://www.scio.gov.cn/32618/Document/1481211/1481211.htm",
+                    "https://podrobno.uz/cat/uzbekistan-i-kitay-klyuchi-ot-budushchego/",
+                    "https://kun.uz/ru/news/2022/05/24/smi-uzbekistan-vozobnovil-eksport-gaza-v-kitay"
+                ],
+                "note": "The official Xinhua News Agency, the English-language newspaper China Daily and the English website of China Global Television Network (CGTN) are placing multiple spots daily on Facebook and Twitter to share Beijing's take on the news. CGTN runs a special Facebook account for its European audience plus another for the Americas.\n",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No evidence found. ",
+                "evidence_urls": [],
+                "note": "The regime's approach to the internet is no different from its approach toward TV, radio and newspapers. It is deeply paranoid about free media, and its efforts to strangle free speech online are extensive, using both threats and coercive action against journalists and activists who try to work within the country, and blocking many websites hosted abroad. https://www.crisisgroup.org/europe-central-asia/central-asia/uzbekistan/internet-censorship-uzbekistan \n\n",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "https://www.trend.az/casia/uzbekistan/1935082.html Uzbekistan and China signed a memorandum on inter-parliamentary cooperation ",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "Chinese President Xi Jinping on Saturday met with Uzbek President Shavkat Mirziyoyev, calling on both sides to seize opportunities to consolidate and strengthen bilateral comprehensive cooperation and bring more benefits to the two peoples. https://english.news.cn/20220205/9590f7fccc2c4ca6a6df29a935530cf2/c.html \n\nFrom 8 to 10 September, President Xi Jinping paid a state visit to Uzbekistan. He held talks with Uzbek President Islam Karimov and visited the historical and cultural city of Samarkand with President Karimov's company. The two presidents signed and issued the Joint Declaration Between the People's Republic of China and the Republic of Uzbekistan on Further Developing and Deepening the Strategic Partnership and signed the Treaty on Friendship and Cooperation Between the People's Republic of China and the Republic of Uzbekistan. https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/dozys_664276/gjlb_664280/3255_664392/ \n\nLi Keqiang Arrives in Tashkent to Attend the 18th Meeting of the Shanghai Cooperation Organization (SCO) Council of Heads of Government and Pay an Official Visit to Uzbekistan https://www.mfa.gov.cn/ce/cebn//eng/zgxw/t1713366.htm \n\nShavkat Mirziyaev has arrived in China to pay his first official visit to that country as Uzbekistan's president. https://www.rferl.org/a/uzbekistan-president-china-visit/28480763.html \n\nChina welcomed the Uzbek president, Islam Karimov, to a summit meeting yesterday, saying the two countries stood united against terrorism. https://www.theguardian.com/world/2005/may/26/china \n\nOn May 12, the second China+Central Asia (C+C5) Foreign Ministers\u2019 Meeting was held in Xi\u2019an City, a capital of Shaanxi Province, located in northwest China. The discussion focused on the pandemic and related matters, economic cooperation as well as regional security with an emphasis on the case of Afghanistan. https://warsawinstitute.org/chinacentral-asia-cc5-meeting/\n\nMeeting with the Minister of Foreign Affairs of the People's Republic of China- https://sng.today/tashkent/17001-diplomaty-uzbekistana-i-kitaja-obsudili-perspektivy-razvitija-vsestoronnih-otnoshenij.html  \n\n",
+                "evidence_urls": [
+                    "https://english.news.cn/20220205/9590f7fccc2c4ca6a6df29a935530cf2/c.html ",
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/dozys_664276/gjlb_664280/3255_664392/ ",
+                    "https://www.mfa.gov.cn/ce/cebn//eng/zgxw/t1713366.htm ",
+                    "https://www.rferl.org/a/uzbekistan-president-china-visit/28480763.html ",
+                    "https://www.theguardian.com/world/2005/may/26/china ",
+                    "https://warsawinstitute.org/chinacentral-asia-cc5-meeting/ ",
+                    "https://sng.today/tashkent/17001-diplomaty-uzbekistana-i-kitaja-obsudili-perspektivy-razvitija-vsestoronnih-otnoshenij.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No direct evidence found.",
+                "evidence_urls": [],
+                "note": "2021- Diplomats of Uzbekistan and China discussed prospects for the development of comprehensive relations- https://sng.today/tashkent/17001-diplomaty-uzbekistana-i-kitaja-obsudili-perspektivy-razvitija-vsestoronnih-otnoshenij.html\n\nhttps://sng.today/tashkent/17001-diplomaty-uzbekistana-i-kitaja-obsudili-perspektivy-razvitija-vsestoronnih-otnoshenij.html ",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No evidence found in that regard.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "An ethnic Uzbek who was detained in northwest China\u2019s Xinjiang Uyghur Autonomous Region (XUAR) in 2018 and whose case was the subject of a recent United Nations inquiry was sentenced to 15 years in prison last month, according to official sources. Aezimet Enver was detained in April 2018 after returning from Turkey the previous year, allegedly for having studied in the nation\u2014one of several blacklisted by Chinese officials for Uyghurs to travel to, citing the threat of alleged religious extremism.- https://www.rfa.org/english/news/uyghur/uzbek-06182020161918.html ",
+                "evidence_urls": [
+                    "https://www.rfa.org/english/news/uyghur/uzbek-06182020161918.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No direct evidence found.",
+                "evidence_urls": [],
+                "note": "2 November 2019, Tashkent, Uzbekistan - FAO and the Shanghai Cooperation Organisation today agreed to boost joint efforts aimed at providing food security and sustainable development for present and future generations, in the context of the 2030 Agenda and the Sustainable Development Goals- https://www.fao.org/news/story/en/item/1244545/icode/\n\nhttps://www.fao.org/3/ca5658en/ca5658en.pdf",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "Uzbekistan supports China's great cause of national reunification and its principles and stance on Taiwan, Tibet as well as other issues. Uzbekistan is willing to deepen cooperation with China in such fields as economy and trade, people's livelihood, people-to-people and cultural exchanges, security and infrastructure. Uzbekistan appreciates China's positive role in international affairs, and stands ready to strengthen communication and coordination in major international and regional issues and conduct close cooperation within the framework of Shanghai Cooperation Organization (SCO) with China.- https://www.mfa.gov.cn/ce/cezm//eng/zgxw/t1375048.htm",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cezm//eng/zgxw/t1375048.htm"
+                ],
+                "note": "Karimov rewarded China's loyalty to his government over the Andijon massacre by supporting China's territorial claims to Taiwan and strengthening counterterrorism cooperation with Beijing. https://www.rferl.org/a/qishloq-ovozi-uzbekistan-china-relations-change-karimov-death/27982369.html \n\n",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "And it does not help that the Uzbek government has long showed signs of reluctance to even acknowledge its Uighur minority. Khodjayev tells a tale from the mid-1990s when the late President Islam Karimov met with then-Chinese Prime Minister Li Peng. Eurasianet has been unable to independently confirm that the incident occurred as told, although the persistence of the story speaks volumes about the anxiety Uzbek Uighurs have felt about the authorities. https://eurasianet.org/uzbekistans-invisible-uighurs \n\nIt should be borne in mind that Uzbeks are ethno-culturally the closest Uighurs among the Central Asian peoples. In fact, the modern Uzbek language originates in the Turkic language, which had strong elements borrowed from the Uighur language. Uzbeks and Uighurs are very similar in their way of life, culture and customs. Therefore, the fate of modern Uighurs should provoke a response from the Uzbeks, reflect on their moods and attitudes toward China. In practice, however, this does not happen. Paradoxically, the current oppression of Uighurs and Muslims in general in China is much more responsive and resonant in Kazakhstan and Kyrgyzstan than in Uzbekistan. Apparently, cultural ties with Uighurs have not been felt in Uzbekistan for a long time- https://cacds.org.ua/%d0%ba%d0%b8%d1%82%d0%b0%d0%b9%d1%81%d0%ba%d0%be-%d1%83%d0%b7%d0%b1%d0%b5%d0%ba%d1%81%d0%ba%d0%b8%d0%b5-%d0%be%d1%82%d0%bd%d0%be%d1%88%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b2-%d0%be%d0%b6%d0%b8%d0%b4%d0%b0/   ",
+                "evidence_urls": [
+                    "https://eurasianet.org/uzbekistans-invisible-uighurs ",
+                    "https://cacds.org.ua/%d0%ba%d0%b8%d1%82%d0%b0%d0%b9%d1%81%d0%ba%d0%be-%d1%83%d0%b7%d0%b1%d0%b5%d0%ba%d1%81%d0%ba%d0%b8%d0%b5-%d0%be%d1%82%d0%bd%d0%be%d1%88%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b2-%d0%be%d0%b6%d0%b8%d0%b4%d0%b0/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "4",
+                "evidence": "The state media of Uzbekistan, publishes the articles highlighting the narratives such as: Over the past 70 years, the Chinese central government has invested a total of 1.6 trillion yuan (about $253 billion) in the development of Tibet. These massive investments have contributed to improving the quality of infrastructure construction and improving the living standards of the people in ( The article is published by- Uzbekistan, Tashkent - Academy of Sciences Podrobno.uz. - https://podrobno.uz/cat/uzbekistan-i-kitay-klyuchi-ot-budushchego/na-vershine-mira-kak-podnebesnaya-prevratila-tibet-v-protsvetayushchiy-region-/ (The articles describe the Chinese contributions in Tibet region and nothing is mentioned regarding the violation of human rights)\n\nUzbekistan supports China's great cause of national reunification and its principles and stance on Taiwan, Tibet as well as other issues. Uzbekistan is willing to deepen cooperation with China in such fields as economy and trade, people's livelihood, people-to-people and cultural exchanges, security and infrastructure. Uzbekistan appreciates China's positive role in international affairs, and stands ready to strengthen communication and coordination in major international and regional issues and conduct close cooperation within the framework of Shanghai Cooperation Organization (SCO) with China.- https://www.mfa.gov.cn/ce/cezm//eng/zgxw/t1375048.htm",
+                "evidence_urls": [
+                    "https://podrobno.uz/cat/uzbekistan-i-kitay-klyuchi-ot-budushchego/na-vershine-mira-kak-podnebesnaya-prevratila-tibet-v-protsvetayushchiy-region-/ ",
+                    "https://www.mfa.gov.cn/ce/cezm//eng/zgxw/t1375048.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "The full list of countries supporting the Hong Kong national security law: China, Antigua and Barbuda, Bahrain, Belarus, Burundi, Cambodia, Cameroon, Central African Republic, Comoros, Congo-Brazzaville, Cuba, Djibouti, Dominica, Egypt, Equatorial Guinea, Eritrea, Gabon, Gambia, Guinea, Guinea-Bissau, Iran, Iraq, Kuwait, Laos, Lebanon, Lesotho, Mauritania, Morocco, Mozambique, Myanmar, Nepal, Nicaragua, Niger, North Korea, Oman, Pakistan, Palestine, Papua New Guinea, Saudi Arabia,  Sierra Leone, Somalia, South Sudan, Sri Lanka, Sudan, Suriname, Syria, Tajikistan, Togo, UAE, Venezuela, Yemen, Zambia, and Zimbabwe. (Uzbekistan is not in the list,, thus, it has not officially supported the act) - https://thediplomat.com/2020/07/which-countries-support-the-new-hong-kong-national-security-law/ \n\nThe criticism towards the act has been expressed from western countries, but nothing has been expressed from the Uzbekistan side- https://www.swp-berlin.org/publications/products/comments/2020C56_HongKongNationalSecurityLaw.pdf \n",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/07/which-countries-support-the-new-hong-kong-national-security-law/ ",
+                    "https://www.swp-berlin.org/publications/products/comments/2020C56_HongKongNationalSecurityLaw.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "\u201cIn 2019, Huawei signed a memorandum of understanding with the University of Journalism and Mass Communications of Uzbekistan, which indicates cooperation and mutual interest in implementing cooperation in the training of ICT journalists.\u201d https://www.uzjoku.uz/ru/news/huawei-jurnalistika-va-ommaviy-kommunikatsiyalar-universiteti-bilan-birgalikda-ozbekistonning-akt-sharhlovchisi-tanlovini-otkazadi \n\n\u201cHuawei, together with the Tashkent University of Information Technology, announces the launch of a new scientific and educational project HAINA (Huawei Authorized Information and Network Academy), which will play the role of the Huawei Information and Network Technology Academy. In this regard, the company and TUIT decided to sign a memorandum of understanding for the further implementation of this project.\u201d https://www.uzdaily.uz/ru/post/28649 \n\n2017 \u2013 \u201cZTE has created Smart Classroom at Tashkent University of Information Technologies.\u201d https://www.uzdaily.uz/ru/post/31991 \n\n2017 - ZTE Corporation, a major international provider of telecommunications solutions, corporate and consumer technology solutions for mobile Internet, held a presentation on the internship at the representative office of ZTE Uzbekistan for students of the Tashkent University of Information Technology (TUIT). https://www.gazeta.uz/ru/2017/11/22/zte/ \n",
+                "evidence_urls": [
+                    "https://www.uzjoku.uz/ru/news/huawei-jurnalistika-va-ommaviy-kommunikatsiyalar-universiteti-bilan-birgalikda-ozbekistonning-akt-sharhlovchisi-tanlovini-otkazadi ",
+                    "https://www.uzdaily.uz/ru/post/28649 ",
+                    "https://www.uzdaily.uz/ru/post/31991 ",
+                    "https://www.gazeta.uz/ru/2017/11/22/zte/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "\u201cINFORMATION ON THE ACTIVITIES OF THE UZBEK-CHINESE CONFUCIUS INSTITUTE UNDER THE TASHKENT STATE UNIVERSITY OF ORIENTAL STUDIES\u201d https://tsuos.uz/ru/konfutsiy-nomidagi-ozbek-xitoy-instituti/ \n\n\u201cIt is the Uzbek-Chinese Confucius Institute at the Tashkent State Institute of Oriental Studies that is considered the first Confucius Institute in the world\u2026\nConfucius Institutes at the Tashkent State Institute of Oriental Studies (TashGIV) and the Samarkand State Institute of Foreign Languages have become key points for the study of Chinese culture and language. The first was opened back in 2005, and the second - at the end of 2014.\u201d https://www.podrobno.uz/cat/uzbekistan-i-kitay-klyuchi-ot-budushchego/radi-obshcheniya-mezhdu-lyudmi-kak-instituty-konfutsiya-v-uzbekistane-stali-vazhneyshim-mestom-dlya-/  \n",
+                "evidence_urls": [
+                    "https://tsuos.uz/ru/konfutsiy-nomidagi-ozbek-xitoy-instituti/ ",
+                    "https://www.podrobno.uz/cat/uzbekistan-i-kitay-klyuchi-ot-budushchego/radi-obshcheniya-mezhdu-lyudmi-kak-instituty-konfutsiya-v-uzbekistane-stali-vazhneyshim-mestom-dlya-/  "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "No direct evidence found to state that.",
+                "evidence_urls": [
+                    "https://www.americancouncils.org/sites/default/files/FLE-report-June17.pdf "
+                ],
+                "note": "Navruz was celebrated in the Tashkent kindergarten with in-depth study of the Chinese language.  https://podrobno.uz/cat/uzbekistan-i-kitay-klyuchi-ot-budushchego/v-tashkentskom-detsko/ ",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "2",
+                "evidence": "Tashkent Pharmaceutical Institute and Samarkand state university are members of the University Alliance of the Silk Road- http://uasr.xjtu.edu.cn/About_UASR/Members.htm",
+                "evidence_urls": [
+                    "http://uasr.xjtu.edu.cn/About_UASR/Members.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "skip",
+                "evidence": "According to the expert's knowledge some of the think tanks have recieved financial support from PRC, but the direct evidence is not available. \n",
+                "evidence_urls": [],
+                "note": "Scientists in China and Uzbekistan have achieved considerable success in cooperation in the study and conservation of biodiversity- http://russian.news.cn/2021-10/08/c_1310231772.htm\n\nIn Tashkent, experts and scientists discussed the state and prospects of the school of Sinology- https://cabar.asia/ru/v-tashkente-eksperty-i-uchenye-obsudili-sostoyanie-i-perspektivy-shkoly-sinologii\n\nUlugbek Azizov, rector of the Uzbekistan State University of World Languages, made the remarks as the five Central Asian countries, including Uzbekistan, are celebrating the 30th anniversary of the establishment of diplomatic relations with China this year, which is a \"landmark event and has a key importance in the history of the countries in this region.\"\nSpeaking specifically on Uzbekistan-China relations, Azizov said that thanks to joint efforts, the two countries have managed to lay a solid foundation for practical cooperation and have upgraded ties to a comprehensive strategic partnership.\nAlong with a significant contribution to the socio-economic development of Uzbekistan, he said China has also provided crucial assistance in developing science, education and personnel training, including for Chinese language studies.- http://www.xinhuanet.com/english/20220329/5c5cba904a234190bf48479647e5fb97/c.html",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "skip",
+                "evidence": "No direct evidence found. ",
+                "evidence_urls": [
+                    "https://www.huawei.com/uz/news/uz/press_release_seeds_for_the_future ",
+                    "https://www.uzjoku.uz/ru/news/huawei-jurnalistika-va-ommaviy-kommunikatsiyalar-universiteti-bilan-birgalikda-ozbekistonning-akt-sharhlovchisi-tanlovini-otkazadi "
+                ],
+                "note": "2019 - \u201cSeeds for Future\u201d project launched by HUAWEI. \n\u201cHuawei, together with the Tashkent University of Information Technologies named after Muhammad al-Khwarizmi (TUIT), held an awards ceremony for participants in the annual Seeds for the Future project, under which students from Uzbekistan are sent for an internship in China. For five years, Huawei has been initiating this project in Uzbekistan, and every year TUIT students take part in trainings at Huawei headquarters.\u201d https://www.huawei.com/uz/news/uz/press_release_seeds_for_the_future \n\n\u201cAs part of the memorandum, Huawei and the University of Journalism and Mass Communications of Uzbekistan announce the launch of the national competition \"ICT Observer of Uzbekistan\", in which both established and novice journalists (students) who are interested in and profile on the topic of telecommunications and IT industries as well as IT professionals who love to write about digital technologies participate.\u201d https://www.uzjoku.uz/ru/news/huawei-jurnalistika-va-ommaviy-kommunikatsiyalar-universiteti-bilan-birgalikda-ozbekistonning-akt-sharhlovchisi-tanlovini-otkazadi ",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "Scientists from China and Uzbekistan discussed forms of public self-government. Today (July 9) in Beijing at the Chinese Academy of Social Sciences, scientists and specialists of the two countries discussed the forms of social self-government. Representatives of Uzbekistan introduced the Chinese colleagues to the concept of mahalla. In the Islamic world, this is the name of a local community (quarter or microdistrict), whose inhabitants exercise local self-government.- http://cctv.cntv.cn/2014/07/14/VIDE1405317243064162.shtml (the meeting was held in Beijing)\n\n",
+                "evidence_urls": [
+                    "http://cctv.cntv.cn/2014/07/14/VIDE1405317243064162.shtml"
+                ],
+                "note": "From the experts knowledge such trips take place quite ofthen, but the public data is not available.  ",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "The direct evidence can to be provided.",
+                "evidence_urls": [],
+                "note": "How the Tashkent school opens the world of China to young Uzbeks-\nIn addition, the Ministry of Public Education, with a grant from the Chinese government, purchased ten computers, two projectors, an interactive whiteboard, a TV and a DVD player for the school, and the diplomatic mission of the Celestial Empire in Uzbekistan, together with Huawei, equipped the educational institution with a language, available at: https://podrobno.uz/cat/uzbekistan-i-kitay-klyuchi-ot-budushchego/neznakomyy-alfavit-kak-tashkentskaya-shkola-otkryvaet-yunym-uzbekistantsam-mir-podnebesnoy/\n\nBeijing really considers Uzbek youth as an important target audience. Some respondents quote billboards and television commercials,\nencouraging Uzbek youth to study in China. The number of Uzbek students in China increased from 74 in 2002 to over 4,000 in 2017 (external\nChinese policy, 2002\u20132017). An increasing number Uzbek students also receive scholarships for Chinese governments to subsidize education.153 For example, only for the period from 2010 to 2018 the Chinese government has provided 1,000 scholarships for students from Uzbekistan (website Embassy of China in Uzbekistan). However, the participants surveys indicate that students can choose to study in China even without a scholarship, because for them it is an opportunity study in English at an affordable price and get internationally recognized diploma and work in Chinese companies.- https://docs.aiddata.org/ad4/pdfs/Silk_Road_Diplomacy_Report_RUSSIAN.pdf ",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "According to expert's knowledge such accidents have taken place, but there is not a public evidence indicating the avoidance of the discussions.",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "2",
+                "evidence": "AGREEMENT BETWEEN THE GOVERNMENT OF THE PEOPLE\u2019S REPUBLIC OF CHINA AND THE GOVERNMENT OF THE REPUBLIC OF UZBEKISTAN FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON lNCOME- http://www.chinatax.gov.cn/n810341/n810770/c1153533/5027037/files/c97a6134e42846119a8bcef885816ba9.pdf \n\nPresident Xi Jinping and his Uzbek counterpart, Islam Karimov, signed agreements worth US$15 billion in key sectors, including the exploitation of oil, gas and uranium fields in the Central Asian state.- https://www.scmp.com/news/china/article/1307127/china-uzbekistan-sign-agreements-worth-us15-billion \n\nCurrently, Uzbekistan and China are in the most-favored-nation treatment, which facilitates higher mutual trade. According to the Goskomstat of the Republic, the volume of Uzbekistan-China trade turnover in 2019 amounted to $ 7.6 billion, or 18.1% of Uzbekistan\u2019s total foreign trade, and in the first quarter of 2020 reached 1 billion 364 million 300 thousand dollars, of which Uzbekistan\u2019s exports to China amounted to 400.8 million dollars, while imports from China totaled 963.5 million dollars- https://cabar.asia/en/uzbekistan-china-relations-during-the-covid-19-pandemic \n1994, March 27- Agreement between the Government of the Republic of Uzbekistan and the Government of the People\u2019s Republic of China on the Encouragement and Reciprocal Protection of Investments ;\n2011- Agreement between the Government of the Republic of Uzbekistan and the Government of the People\u2019s Republic of China on the Promotion and Protection of Investments\nhttps://invest.gov.uz/investor/russkij-dvustoronnie-dogovora/ \n\nFollowing talks, the two heads of state jointly signed the Treaty between the People's Republic of China and the Republic of Uzbekistan on Friendly Cooperative Partnership and attended the signing ceremony of over 10 documents including China-Uzbekistan Economic and Technical Cooperation Agreement and China-Uzbekistan Mutual Help on Customs Agreement- https://www.mfa.gov.cn/ce/ceee//eng/dtxw/t197953.htm\n\n\n",
+                "evidence_urls": [
+                    "http://www.chinatax.gov.cn/n810341/n810770/c1153533/5027037/files/c97a6134e42846119a8bcef885816ba9.pdf ",
+                    "https://www.scmp.com/news/china/article/1307127/china-uzbekistan-sign-agreements-worth-us15-billion ",
+                    "https://cabar.asia/en/uzbekistan-china-relations-during-the-covid-19-pandemic ",
+                    "https://www.mfa.gov.cn/ce/ceee//eng/dtxw/t197953.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "Samarkand & Tashkent cities have ties with Xian & Shanghai -  https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Asia#Uzbekistan",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Asia#Uzbekistan"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "No direct evidence found. \n\n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "The Xinhua news agency published an article on the participation of the President of the Republic of Uzbekistan Shavkat Mirziyoyev in the opening ceremony of the Winter Olympic Games in Beijing on 4-5 February. \nThanks to the personal relationship between the leaders of the two countries, favorable conditions have been created for promoting multifaceted long-term cooperation between Uzbekistan and China, the material emphasizes. https://www.uzdaily.uz/en/post/71332 \n\nChinese President Xi Jinping and his Uzbek counterpart Islam Karimov shake hands during a June 22 meeting. In his speech to the Uzbek parliament on the same day, Karimov said that he had heard the truth that extended a hand in difficult times, although he did not specify which meetings in Beijing would help each point. - https://russian.eurasianet.org/node/63196\n\nNotice on Press Coverage for Prime Minister of The Republic of Uzbekistan Abdulla Aripov's Visit to China-http://ipc.fmprc.gov.cn/eng/gdxw/201908/t20190821_736994.htm",
+                "evidence_urls": [
+                    "https://www.uzdaily.uz/en/post/71332 ",
+                    "https://russian.eurasianet.org/node/63196",
+                    "http://ipc.fmprc.gov.cn/eng/gdxw/201908/t20190821_736994.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "2",
+                "evidence": "Meiya Pico (\u5ec8\u9580\u5e02\u7f8e\u4e9e\u67cf\u79d1\u4fe1\u606f\u80a1\u4efd\u6709\u9650\u516c\u53f8) from Xiamen city provide training for the local police. \nhttps://chinatechmap.aspi.org.au/#/map/marker-2195\nhttps://chinatechmap.aspi.org.au/#/map/marker-2172\nhttps://chinatechmap.aspi.org.au/#/map/marker-2171",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-2195",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-2172",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-2171"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "Public evidence is not available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No public evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "At present, Uzbekistan-China relations have made great progress in the context of the pandemic, and bilateral trade and investment have grown rapidly, he said. The Uzbek president thanked China for providing timely support to Uzbekistan in fighting the pandemic. Mirziyoyev said his country is willing to take the opportunity of celebrating the 30th anniversary of the establishment of diplomatic relations between the two countries to formulate a new five-year cooperation plan with China to inject new impetus into bilateral cooperation.- http://www.xinhuanet.com/english/asiapacific/2021-07/16/c_1310065247.htm\n\nChina-Uzbek relations began to pick up speed with the appointment of President Shavkat Mirziyoyev in 2016. The significant market liberalization and economic reforms implemented by the new president have made the country one of the five fastest growing in the world, giving a boost to bilateral ties as China\u2019s goals for regional development align with Uzbekistan\u2019s economic ambitions. It has also made the country increasingly investor-friendly and more welcoming of Chinese investment than some of its neighbors.\nIn 2020, Uzbekistan upped the number of visa-free days Chinese citizens could enjoy in the country from five to seven to facilitate travel and tourism in the country. The two countries have also deepened cultural exchange. Uzbekistan was the first country in the world to open a Confucius Institute, a Chinese language and cultural institution, and centers for the study of Uzbek language and culture have been set up in Chinese universities.-https://www.china-briefing.com/news/china-uzbekistan-bilateral-trade-and-future-outlook/",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/asiapacific/2021-07/16/c_1310065247.htm",
+                    "https://www.china-briefing.com/news/china-uzbekistan-bilateral-trade-and-future-outlook/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "evidence": "Smuggler from China through Kyrgyzstan was sent to Uzbekistan, to the Abu Sahiy market, through which almost all imports passed during the time of President Islam Karimov. The market under Karimov was owned by his son-in-law Timur Tillyaev. After the death of the first president, Tillyaev lost high patronage and sold the market in 2018, getting rid of one of the last major assets in Uzbekistan. Who really owns the market now is unknown. https://www.occrp.org/ru/plunder-and-patronage/the-700-million-dollar-man",
+                "evidence_urls": [
+                    "https://www.occrp.org/ru/plunder-and-patronage/the-700-million-dollar-man"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "China remained a major importer and exporter of goods despite the pandemic and there was little disruption to ongoing and emerging projects. She noted that China ranked first in imports of Uzbek natural gas, followed by textile products, and its fifth largest import was agricultural products. Indeed, according to the Observatory of Economic Complexity, in 2019, China\u2019s top three import categories from Uzbekistan were natural gas (47.9 percent of all exports from Uzbekistan to China), textile products (20.9 percent), and  raw cotton (7.4 percent). https://thediplomat.com/2021/05/official-hints-at-challenges-for-chinese-businesses-in-uzbekistan/ \n\nChina has consistently remained the country\u2019s largest trading partner. In 2021, China\u2019s share in Uzbekistan\u2019s foreign trade turnover amounted to 17.7%. This is slightly more than the share of Russia. https://cabar.asia/en/china-and-uzbekistan-investments-projects-and-areas-of-cooperation \n\n\nCurrently, Uzbekistan and China are in the most-favored-nation treatment, which facilitates higher mutual trade. According to the Goskomstat of the Republic, the volume of Uzbekistan-China trade turnover in 2019 amounted to $ 7.6 billion, or 18.1% of Uzbekistan\u2019s total foreign trade, and in the first quarter of 2020 reached 1 billion 364 million 300 thousand dollars, of which Uzbekistan\u2019s exports to China amounted to 400.8 million dollars, while imports from China totaled 963.5 million dollars- https://cabar.asia/en/uzbekistan-china-relations-during-the-covid-19-pandemic \n\n1994, March 27- Agreement between the Government of the Republic of Uzbekistan and the Government of the People\u2019s Republic of China on the Encouragement and Reciprocal Protection of Investments ;\n2011- Agreement between the Government of the Republic of Uzbekistan and the Government of the People\u2019s Republic of China on the Promotion and Protection of Investments\nhttps://invest.gov.uz/investor/russkij-dvustoronnie-dogovora/ \n\n\u201cIn recent years, China has been a leading trade and economic partner of Uzbekistan. Chinese companies are widely represented in various sectors of the Uzbek economy, such as telecommunications, agriculture, and the production of high-tech goods, the Agency emphasizes.\nUzbekistan, together with Chinese partners, launched multimodal transportation along the China-Kyrgyzstan-Uzbekistan route. The launch of a regular international freight train route between the two countries helped confirm the role of the Republic of Uzbekistan as a transport hub in the region, the Chinese news agency concludes.\u201d\n https://www.uzdaily.uz/en/post/71332 \n",
+                "evidence_urls": [
+                    "https://thediplomat.com/2021/05/official-hints-at-challenges-for-chinese-businesses-in-uzbekistan/ ",
+                    "https://cabar.asia/en/china-and-uzbekistan-investments-projects-and-areas-of-cooperation ",
+                    "https://cabar.asia/en/uzbekistan-china-relations-during-the-covid-19-pandemic ",
+                    "https://invest.gov.uz/investor/russkij-dvustoronnie-dogovora/ ",
+                    "https://www.uzdaily.uz/en/post/71332 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "Uzbekistan owns the debts from China but we can state that the number is not 50%.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "The main areas of investment are processing and manufacturing (26%), real estate (10.4%), mineral extraction (10.2%), warehousing and logistics (7.2%), trade (3.8%), and education (2.8%). https://www.china-briefing.com/news/china-uzbekistan-bilateral-trade-and-future-outlook/ ",
+                "evidence_urls": [
+                    "https://www.china-briefing.com/news/china-uzbekistan-bilateral-trade-and-future-outlook/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "In November 2016 https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html\n\nAIIB Approves $100-M Loan to Uzbekistan for Healthcare Emergency Response- https://www.aiib.org/en/news-events/news/2020/AIIB-Approves-100-M-Loan-to-Uzbekistan-for-Healthcare-Emergency-Response.html \n\n",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html",
+                    "https://www.aiib.org/en/news-events/news/2020/AIIB-Approves-100-M-Loan-to-Uzbekistan-for-Healthcare-Emergency-Response.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "The participation of Uzbekistan companies is not listed on the following websites: \nhttps://srcic.org/silk-road-members/?page=1\nhttps://www.bricaistanbul.com/overview/brica-members/\nhttps://www.beltandroadglobalforum.com/en/member/forumfull \n",
+                "evidence_urls": [
+                    "https://srcic.org/silk-road-members/?page=1",
+                    "https://www.bricaistanbul.com/overview/brica-members/",
+                    "https://www.beltandroadglobalforum.com/en/member/forumfull "
+                ],
+                "note": "However, in recent years strategic partnership agreements within the framework of the Belt and Road Initiative (BRI)\u2014in particular, the Joint Declaration on Further Developing and Deepening the Strategic Partnership of 2013 and the Comprehensive Strategic Partnership of 2016\u2014have given fresh impetus to expanding bilateral relations. While historical linkages related to the old Silk Road are often presented as a bedrock for political and economic relations between the two countries, it is Uzbekistan\u2019s energy and mineral resources, strategic location, and the market for Chinese goods that draws Chinese interest today. - https://thepeoplesmap.net/country/uzbekistan/ \n\nUzbekistan \u2013 China: Active Development of Bilateral Cooperation under the Framework of the Belt and Road - https://srcic.org/news/uzbekistan-china-bri-cooperation-development/ ",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "The public evidence is not available. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "In 2005, China and Uzbekistan signed the \u201cChina-Uzbek Treaty of Friendship and Cooperation\u201d, a bilateral treaty containing several initiatives, including cooperation on the economy, trade, counterterrorism, and anti-drug trafficking, among other measures.- https://www.china-briefing.com/news/china-uzbekistan-bilateral-trade-and-future-outlook/#:~:text=China%2DUzbekistan%20relations,-China%20and%20Uzbekistan&text=In%202005%2C%20China%20and%20Uzbekistan,drug%20trafficking%2C%20among%20other%20measures. \n\nAgreement between the Government of the Republic of Uzbekistan and the Government of the People\u2019s Republic of China on the Encouragement and Reciprocal Protection of Investments-https://invest.gov.uz/investor/russkij-dvustoronnie-dogovora/ ",
+                "evidence_urls": [
+                    "https://www.china-briefing.com/news/china-uzbekistan-bilateral-trade-and-future-outlook/#:~:text=China%2DUzbekistan%20relations,-China%20and%20Uzbekistan&text=In%202005%2C%20China%20and%20Uzbekistan,drug%20trafficking%2C%20among%20other%20measures. ",
+                    "https://invest.gov.uz/investor/russkij-dvustoronnie-dogovora/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "China-Uzbek relations began to pick up speed with the appointment of President Shavkat Mirziyoyev in 2016. The significant market liberalization and economic reforms implemented by the new president have made the country one of the five fastest growing in the world, giving a boost to bilateral ties as China\u2019s goals for regional development align with Uzbekistan\u2019s economic ambitions. It has also made the country increasingly investor-friendly and more welcoming of Chinese investment than some of its neighbors- https://www.china-briefing.com/news/china-uzbekistan-bilateral-trade-and-future-outlook/\n\nCreates a new special economic zone and expands the existing one\nOn 13 September 2019, a Presidential Decree established the Chirokchi Special Economic Zone in the Kashkadarya region for 30 years with the aim to promoting modern production facilities for the production of high value-added products and increasing agricultural production and exports. Investors in the new zone will be subject to special tax, customs and currency regimes- https://investmentpolicy.unctad.org/investment-policy-monitor/measures/3451/uzbekistan-creates-a-new-special-economic-zone-and-expands-the-existing-one",
+                "evidence_urls": [
+                    "https://www.china-briefing.com/news/china-uzbekistan-bilateral-trade-and-future-outlook/",
+                    "https://investmentpolicy.unctad.org/investment-policy-monitor/measures/3451/uzbekistan-creates-a-new-special-economic-zone-and-expands-the-existing-one"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "According to a number of Chinese online news sites China Mobile is considering buying a stake in Uzbektelecom. Executives from the Chinese telco are reported to have visited Uzbekistan last month for meetings with the local regulator and government officials. Last year the Uzbekistan government revealed plans to sell between 49% and 64.2% of the national PTO to overseas investors; Russia\u2019s Golden Telecom, Korea Telecom and the Israel\u2019s Solan Communications have also expressed an interest, the latter having valued the stake at USD50 million. (officially, it has not been approved)-https://www.commsupdate.com/articles/2005/08/10/china-mobile-considers-uzbeki-investment/",
+                "evidence_urls": [
+                    "https://www.commsupdate.com/articles/2005/08/10/china-mobile-considers-uzbeki-investment/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "In Central Asia, China\u2019s investments into digital networks are overlooked, with the focus on large-scale infrastructure projects, such as roads, bridges, and pipelines. But China\u2019s 5G investments in Uzbekistan, Kazakhstan, and Tajikistan are turning into a major infrastructure development component led by Beijing in the region. China\u2019s largest telecommunications company, Huawei, is leading digital infrastructure engagement in the region.\n\nUzbek President Shavkat Mirziyoyev visited Huawei\u2019s Innovation Center while in China for the Belt and Road Forum in April 2019. He supported the introduction of 5G into his country, and since then digital cooperation between the countries has accelerated. All three state-operated Uzbek cell phone companies deepened 5G cooperation with Huawei. Two of the companies, Uzmobile and Ucell tested the 5G networks in 2019 to roll out the service commercially in 2020. The third cell phone company, UMS, agreed with Huawei to invest in new technology. In 2019, Huawei announced that its technology enables the communication of more than half of the population of Uzbekistan and celebrated its 19th year in Uzbekistan\u2019s market.- https://thediplomat.com/2020/02/before-and-beyond-5g-central-asias-huawei-connections/\n\n\nIn Uzbekistan, ZTE has been operating since 2004 in the form of a representative office, and since 2008 in the form of a foreign limited liability company - FE LLC ZTE Investment. The development of information and communication technologies (ICT) is one of the priority areas for Uzbekistan. As is known, the attention of foreign investors and companies in the field of ICT contributes to market liberalization and increased competition. As a result of attracting foreign investment, various joint ventures and projects are operating. One of such projects is the launch of a technological line for the production of DSLAM equipment and ADSL modems in the Navoi Free Industrial Economic Zone. The project was the result of cooperation between Uzbektelecom and ZTE- http://zte.ru/company/zte-in-uzbekistan/",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/02/before-and-beyond-5g-central-asias-huawei-connections/",
+                    "http://zte.ru/company/zte-in-uzbekistan/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "Uzbek President Shavkat Mirziyoyev visited Huawei\u2019s Innovation Center while in China for the Belt and Road Forum in April 2019. He supported the introduction of 5G into his country, and since then digital cooperation between the countries has accelerated. All three state-operated Uzbek cell phone companies deepened 5G cooperation with Huawei. Two of the companies, Uzmobile and Ucell tested the 5G networks in 2019 to roll out the service commercially in 2020. The third cell phone company, UMS, agreed with Huawei to invest in new technology. In 2019, Huawei announced that its technology enables the communication of more than half of the population of Uzbekistan and celebrated its 19th year in Uzbekistan\u2019s market- https://thediplomat.com/2020/02/before-and-beyond-5g-central-asias-huawei-connections/ \n\nThe state-owned telecommunications company, Uztelecom, has used loans from the Japanese government and the China Development Bank to improve mainline services. The completion of conversion to digital exchanges was in 2010. Mobile services are growing rapidly, with the subscriber base reaching 25 million in 2011-https://en.wikipedia.org/wiki/Telecommunications_in_Uzbekistan \n\nChina Mobile will follow the capitalization of Uzbekistan Telecom, and will visit the country again later this year, the Economic and Commercial Counsellor's Office of the Chinese Embassy in Uzbekistan said.\nLast year(2004) Uzbekistan regulators announced plans to sell a 49 to 64.2 per cent stake of Uzbekistan Telecom to foreign investors-http://www.china.org.cn/english/BAT/137912.htm \n\nAn investigation by EurasiaNet.org focusing on ZTE and Huawei\u2019s penetration of the Central Asian telecoms sector shows that the companies, with Chinese government backing, have secured contracts in Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan-https://eurasianet.org/central-asia-are-chinese-telecoms-acting-as-the-ears-for-central-asian-authoritarians\n\n",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/02/before-and-beyond-5g-central-asias-huawei-connections/",
+                    "http://www.china.org.cn/english/BAT/137912.htm",
+                    "https://eurasianet.org/central-asia-are-chinese-telecoms-acting-as-the-ears-for-central-asian-authoritarians",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-1761"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Public information is not available regarding the issue.",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No direct evidence found.",
+                "evidence_urls": [],
+                "note": "The Fifth Meeting of the Sub-Committee on Science and Technology Cooperation of the China-Uzbekistan Intergovernmental Cooperation Committee Successfully Held; At the meeting, the two sides exchanged information on their domestic policies in the field of science, technology and innovation and latest science and technology development plans; reviewed the R&D cooperation and agreed to select a new round of jointly funded intergovernmental R&D projects; briefed each other on the progress of cooperation in combating COVID-19 as well as the building of cooperation platforms including joint laboratories and joint R&D centers; and agreed to further strengthen the coordination and cooperation within the framework of the Shanghai Cooperation Organization.- http://en.most.gov.cn/pressroom/202107/t20210719_175961.htm \n",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "2",
+                "evidence": "TECHNOLOGIES OF \u201cSMART CITY\u201d IN THE REPUBLIC OF UZBEKISTAN- https://ejmcm.com/article_3752_49278cf27a90b7d3bb3b6a89c01e9489.pdf \n\nOn June 21, Uzbekistan\u2019s Ministry of Development of Information Technologies and Communications and China\u2019s CITIC Group and Henan Costar Group signed an agreement on the implementation of Uzbekistan\u2019s \u201cSafe City\u201d project. The project will take Uzbekistan\u2019s surveillance capabilities to a new level and have long-term implications. The announced investment is a part of a $1 billion agreement President Shavkat Mirziyoyev signed during his trip to China in late April to participate in the second Belt and Road Forum. Tashkent entered into an agreement with Huawei and CITIC Guoan Information Technology to develop Uzbekistan\u2019s digital infrastructure by way of the \u201cSafe City\u201d and \u201cSmart City\u201d projects. - https://thediplomat.com/2019/06/china-dominates-digital-infrastructure-in-uzbekistan/ \n",
+                "evidence_urls": [
+                    "https://ejmcm.com/article_3752_49278cf27a90b7d3bb3b6a89c01e9489.pdf ",
+                    "https://thediplomat.com/2019/06/china-dominates-digital-infrastructure-in-uzbekistan/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No evidence found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "With the assistance of entrepreneurs of China in Uzbekistan, production of electrical products, mobile phones, construction equipment has been established. Huawei has implemented 20 projects for development of telecommunication networks in the city of Tashkent and regions of Uzbekistan. Modems, smartphones and other equipment produced jointly with ZTE Corporation are in high demand in the domestic and international markets. - https://invest.gov.uz/investor_for/kitaj-2/ ",
+                "evidence_urls": [
+                    "https://invest.gov.uz/investor_for/kitaj-2/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "3",
+                "evidence": "IT Park Uzbekistan and TUZ Ventures signed a partnership agreement to stimulate the development of technology sector startups. The focus to be set on FinTech, logistics, e-commerce and artificial intelligence.  Within the scope of this agreement, the partners to develop an analytical report on the current state belonging to the startup market in the Republic of Uzbekistan.\n\nIT Park is a complex of facilities, buildings and structures designed to ensure the launch and rollout of promising start-up projects on the market, an extraterritorial free economic zone for IT companies, including those via integration with scientific and educational organizations. A place where active and gifted people in the IT sector will have a best chance to transform their ideas into real business projects through accounting, legal, marketing and educational support.\n\nhttps://it-park.uz/index.php/en/itpark/news/it-park-and-tuz-ventures-to-create-a-report-on-uzbekistan-startup-market \n",
+                "evidence_urls": [
+                    "https://it-park.uz/index.php/en/itpark/news/it-park-and-tuz-ventures-to-create-a-report-on-uzbekistan-startup-market "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "According to the website https://www.similarweb.com/apps/top/apple/store-rank/uz/all/top-free/iphone/, TikTok is on the 4th place, in top five apps.",
+                "evidence_urls": [
+                    "https://www.similarweb.com/apps/top/apple/store-rank/uz/all/top-free/iphone/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "On the China-Central Asia Cooperation Forum held in Nanning, agreements had been reached between China and central Asian countries in boosting the research and application of the BeiDou system in areas such as transport, precision agriculture and disaster relief, CGTN reports.\n\u201cWe are actively promoting cooperation between Uzbekistan and China on the Global Navigation Satellite System. I think China\u2019s BeiDou has good prospects in sectors such as transport, railway management, agriculture and digital communication,\u201d said Sakhob Mamasadikov, Deputy Director of State Unitary Enterprise in Uzbekistan- https://kun.uz/en/75348248?q=%2Fen%2F75348248\n\nChina-Central Asia Beidou navigation forum opens in NW China,Representatives from China and Central Asian countries including Turkmenistan, Uzbekistan and Kazakhstan, as well as international organizations, attended the forum online or offline- https://www.uzdaily.uz/en/post/68817",
+                "evidence_urls": [
+                    "https://kun.uz/en/75348248?q=%2Fen%2F75348248",
+                    "https://www.uzdaily.uz/en/post/68817"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No evidence found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No evidence found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "4",
+                "evidence": "The Uzbek trade unions have had contacts with 40 trade unions around the world and have regular exchanges with the unions of the CIS. The FTUU has not had relations with the World Federation of Trade Unions (the international trade union centre covering trade unions in former communist countries) for the last four years, and have withdrawn from membership of the GCTU. The FTUU is interested in contacts with Western countries because of the changes in its economic structures and investments by multinational companies. It maintains close links with the ACFTU in China and has contacts with the CGT, France, CGIL, Italy, Turk-Is and Hak-Is in Turkey and Histadrut in Israel.- https://publications.parliament.uk/pa/cm199899/cmselect/cmfaff/349/349ap15.htm",
+                "evidence_urls": [
+                    "https://publications.parliament.uk/pa/cm199899/cmselect/cmfaff/349/349ap15.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No public evidance is available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No direct evidence can be found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "evidence": "According to the expert's knowledge, It's acommon practice that Uzbek tv persons visit China and then they record videos to promote Chinese culture. Usually they promote Chinese thinkers like - Confucius.",
+                "evidence_urls": [
+                    "https://www.youtube.com/watch?v=2YFdN7cw_cU"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence can be indicated in that regard.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No direct evidence found.",
+                "evidence_urls": [],
+                "note": "Xi Jinping Holds Talks with President Shavkat Mirziyoyev of Uzbekistan The Two Heads of State Agree to Carry Forward China-Uzbekistan Friendship from Generation to Generation and Promote China-Uzbekistan Relations to Inherit the Past and Usher in the Future-https://www.mfa.gov.cn/ce/ceus//eng/zgyw/t1464000.htm\n\nAs in the Karimov era, \u201cmultivectorism\u201d remains a mantra in Tashkent, but Mirziyoyev recognises China\u2019s role in the future of Central Asia. It was the fourth country he visited during his rst year\u2019s urry of international  diplomacy, and in 2019, Uzbekistan\u2019s Prime Minister referred to China as Uzbekistan\u2019s \u201cclosest and most reliable partner\u201d. According to the Uzbek Ministry of Finance\u2019s \u201cBudget for Citizens\u201d, the state\u2019s external debt to China amounted to $1.9 billion at the start of 2019, making Beijing Uzbekistan\u2019s largest creditor \u2013 ahead of Japan, which owns $1.5 billion of Uzbekistan\u2019s debt. The Ministry paper predicts a rise to $3 billion in 2020, but Uzbekistan, underleveraged and with growth potential, is not in too precarious a position- http://aei.pitt.edu/103197/1/ST-DA_Asia_Policy_Brief_Chinas_Footprint_in_Central_Asia.pdf ",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "Uzbekistan\u2019s hardest-working students see China as a promising alternative to America and Europe. They often learn about opportunities on social media- https://eurasianet.org/for-coveted-spots-in-china-uzbek-students-study-like-crazy \n\nYet even in Uzbekistan the good vibes appear to be waning. Whereas 65 percent of Uzbeks said they \u201cstrongly support\u201d Chinese energy and infrastructure development last year, now only 48 percent do. Those who count themselves \u201cstrongly opposed\u201d grew from 2 percent to 10 percent. \nIndeed, for each question where two years of data were available, Uzbeks grew more skeptical toward China in 2020- \nhttps://eurasianet.org/poll-shows-uzbeks-like-neighbors-growing-leery-of-chinese-investments \n \n\n",
+                "evidence_urls": [
+                    "https://eurasianet.org/for-coveted-spots-in-china-uzbek-students-study-like-crazy ",
+                    "https://eurasianet.org/poll-shows-uzbeks-like-neighbors-growing-leery-of-chinese-investments "
+                ],
+                "note": "It might be concluded  that the majority of people positively portray PRC. However, it appears that people became a little more skeptical towards the Chinese investments. Whereas 65 percent of Uzbeks said they \u201cstrongly support\u201d Chinese energy and infrastructure development last year, now only 48 percent do. Those who count themselves \u201cstrongly opposed\u201d grew from 2 percent to 10 percent. \nOne of the reasonings can be the experience of other countries' in the region and moreover, loans from Beijing only started to flood in after the death of isolationist President Islam Karimov in 2016. And unlike Kazakhstan and Kyrgyzstan, Uzbekistan does not share a border with the PRC. It ca be assumed that people are more warned and cautious about the Chinese Investments than before.\n\nMain Source: https://eurasianet.org/poll-shows-uzbeks-like-neighbors-growing-leery-of-chinese-investments\n",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "\u201cChina has reportedly provided both Turkmenistan and Uzbekistan with sophisticated air defense systems (HQ-9 air defense system), which would represent the largest Chinese military equipment deal thus far in Central Asia.\u201d https://eurasianet.org/has-china-made-its-first-big-military-sale-in-central-asia \n\n\"In November 2019, Uzbekistan\u2019s Air Defense Force successfully tested China\u2019s FD-2000 medium-range air-defense system on a target drone\u2026\nUzbekistan (2014) has purchased a number of Wing Loongs from China.\" https://www.wilsoncenter.org/publication/kennan-cable-no-52-russias-shadow-chinas-rising-security-presence-central-asia \n\n2021. August 19. Interfax \u2013 \u201cThe State Committee for the Defense Industry of Uzbekistan intends to develop cooperation with China in the field of armaments, military equipment and technology, the press service of the department said on Thursday.\n       According to her, a delegation of the Main Directorate for the Development of Arms and Military Equipment of the Central Military Council of China arrived in Tashkent. \"During the visit, the officials of Uzbekistan and China will discuss existing and future cooperation projects in the field of armaments, military equipment and technologies, the timing of their implementation and the systematic development of cooperation,\" the report says.\n       The Chinese delegation was introduced to military and dual-use products manufactured by enterprises of the military-industrial complex of Uzbekistan.\n       Earlier, under the program of modernization and equipping of units of the Ministry of Defense of Uzbekistan, the troops received new specialized military equipment and weapons from China.\u201d https://www.militarynews.ru/story.asp?rid=1&nid=555468&lang=RU \n",
+                "evidence_urls": [
+                    "https://eurasianet.org/has-china-made-its-first-big-military-sale-in-central-asia ",
+                    "https://www.wilsoncenter.org/publication/kennan-cable-no-52-russias-shadow-chinas-rising-security-presence-central-asia ",
+                    "https://www.militarynews.ru/story.asp?rid=1&nid=555468&lang=RU "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "evidence": "\"The State Committee for the Defense Industry of Uzbekistan intends to involve Chinese technologies in joint projects, the press service of the department said.\nA delegation of the Main Directorate for the Development of Arms and Military Equipment of the Central Military Council of the People's Republic of China is currently in Tashkent.\nDuring the visit, Uzbek and Chinese officials will discuss existing and future cooperation projects in the field of weapons, military equipment and technologies, the timing of their implementation and the systematic development of cooperation, the report said.\nThe Chinese delegation has already been presented with military and dual-use products manufactured by enterprises of the military-industrial complex of Uzbekistan.\" https://www.gazeta.uz/ru/2021/08/19/china/ \n\n\nUzbekistan and China are planning joint projects in the production of industrial equipment- https://www.militarynews.ru/story.asp?rid=1&nid=555468&lang=RU\n",
+                "evidence_urls": [
+                    "https://www.gazeta.uz/ru/2021/08/19/china/ ",
+                    "https://www.militarynews.ru/story.asp?rid=1&nid=555468&lang=RU"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No direct evidence found.",
+                "evidence_urls": [],
+                "note": "China, in the meantime, is increasingly focusing on its security equities in Central Asia. Stories of Chinese private security emerging in the region sit alongside more overt displays of strength through the building of bases, the conduct of joint training exercises and the provision of equipment for Tajik forces along the Chinese border with Afghanistan. Already this year, there have been reports of joint training exercises with Tajik, Kyrgyz, and Uzbek forces ( China, officially, has not espressed that intention)- https://theglobalobservatory.org/2019/11/chinas-complicated-relationship-central-asia/",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "http://russian.news.cn/2020-04/20/c_138992602.htm ",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "2018 - \"A delegation of the Armed Forces of Uzbekistan visited the National Defense University of China. Then the representatives of the countries decided to establish cooperation between the military universities of the two states.\" https://uz.sputniknews.ru/20190515/Kitaytsy-perenimayut-opyt-obucheniya-uzbekskikh-voennykh-11507720.html \n\n2021 - \"In the past decade, Chinese universities have been inviting mid- and senior-level military officers from Central Asia and other countries in Eurasia. Chinese military education programs are especially attractive to officers from Uzbekistan and Turkmenistan, which have limited access to Russian military training\u2026\nAs Beijing seeks to increase the enrollment of foreign students, universities have begun to actively recruit Central Asian military officers for Chinese programs. Turkmenistan, Uzbekistan, and Kazakhstan now have senior military officials who have been educated in Chinese universities\u2026\nThe university builds direct relations with leading military academies in Central Asia as well. The PLA NDU and the Armed Forces Academy of Uzbekistan are cooperating on educational exchanges. Some governments have carefully balanced enrollment among these three directions (Russia, China, and Western countries) to avoid tilting toward any one in particular. Chinese universities offer dozens of slots for students from Uzbekistan, but Tashkent only takes one-third of them. Students and staff of the Military-Technical Institute of the National Guard of Uzbekistan take Chinese-language classes to build proficiency in case they have an opportunity to study in China. https://www.ponarseurasia.org/chinas-expanding-military-education-diplomacy-in-central-asia/ \n",
+                "evidence_urls": [
+                    "https://www.ponarseurasia.org/chinas-expanding-military-education-diplomacy-in-central-asia/ ",
+                    "https://uz.sputniknews.ru/20190515/Kitaytsy-perenimayut-opyt-obucheniya-uzbekskikh-voennykh-11507720.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "4",
+                "evidence": "The Shanghai Cooperation Organisation (SCO) was proclaimed on June 15, 2001 in Shanghai (China) by the Republic of Kazakhstan, the People's Republic of China, the Kyrgyz Republic, the Russian Federation, the Republic of Tajikistan and the Republic of Uzbekistan. Currently, eight countries enjoy the status of the SCO full members: India, Kazakhstan, China, Kyrgyzstan, Russia, Pakistan, Tajikistan and Uzbekistan;\nThe Executive Committee of the Regional Anti-Terrorist Structure (RATS) of the Shanghai Cooperation Organisation (SCO) is the permanent body of the SCO RATS based in Tashkent, the capital of Uzbekistan.\nAvailable at: http://eng.sectsco.org/docs/about/faq.html ",
+                "evidence_urls": [
+                    "http://eng.sectsco.org/docs/about/faq.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "Public evidence is not available.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "\"China has also begun expanding its military ties with the region, conducting bilateral military exercises with the Central Asian countries bordering Afghanistan and forming the Shanghai Cooperation Organization (SCO) in 2001, a Beijing-led security bloc that also includes Kazakhstan and Kyrgyzstan, India , Pakistan, Russia, Tajikistan and Uzbekistan.\" https://rus.azattyq.org/a/tajikistan-china-war-on-terror-afghan/31512961.html \n\n\u201cAll of the Chinese military's 17 teams with weapons and equipment have arrived at their venues in Russia, Belarus, Uzbekistan and Iran on Tuesday for the upcoming International Army Games 2021.\nMore than 700 Chinese troops from the ground, naval and air forces as well as the strategic support force and the joint logistics support force will participate in 17 competitions in the four countries.\u201d http://www.xinhuanet.com/english/asiapacific/2021-08/17/c_1310132883.htm \n",
+                "evidence_urls": [
+                    "https://rus.azattyq.org/a/tajikistan-china-war-on-terror-afghan/31512961.html ",
+                    "http://www.xinhuanet.com/english/asiapacific/2021-08/17/c_1310132883.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "\u201cUzbekistan\u2019s Academy of the Ministry of Interior Affairs (MIA) and the People\u2019s Public Security University of China, run by China\u2019s powerful Ministry of Public Security, have been official partners since May 2017.[38] Since then, China has hosted 213 Uzbek MIA employees over the course of 38 meetings for security briefings on counterterrorism and drug trafficking.\u201d https://www.wilsoncenter.org/publication/kennan-cable-no-52-russias-shadow-chinas-rising-security-presence-central-asia ",
+                "evidence_urls": [
+                    "https://www.wilsoncenter.org/publication/kennan-cable-no-52-russias-shadow-chinas-rising-security-presence-central-asia ",
+                    "https://en.wikipedia.org/wiki/Extradition_law_in_China http://www.gd.jcy.gov.cn/jcyw/sfxz/flfgytyxd/201812/t20181212_2440091.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "\u201cUzbekistan\u2019s Academy of the Ministry of Interior Affairs (MIA) and the People\u2019s Public Security University of China, run by China\u2019s powerful Ministry of Public Security, have been official partners since May 2017.[38] Since then, China has hosted 213 Uzbek MIA employees over the course of 38 meetings for security briefings on counterterrorism and drug trafficking.\u201d https://www.wilsoncenter.org/publication/kennan-cable-no-52-russias-shadow-chinas-rising-security-presence-central-asia \n\n\"The Uzbekistan National Guard and the Chinese People\u2019s Armed Police (PAP) held their largest bilateral exercise in the \u201cForish\u201d training ground in Uzbekistan in mid-May. The two conducted counterterrorism exercises focused on a mission eliminating terrorists from a multi-story residential building and freeing hostages. The multi-day exercise involved other public order exercises as well... \nChina\u2019s earlier cooperation with the guard started with the Ministry of Interior of Uzbekistan in 2016, when it was still a part of the ministry. Beijing and Tashkent hosted several meetings with focus on counterterrorism and maintaining public order. Tashkent\u2019s concerns regarding domestic terrorism were prominent when, in the summer of 2018, various Uzbek forces, including the National Guard, held massive joint counterterrorism exercises in the country\u2019s large cities.\" https://thediplomat.com/2019/05/uzbekistan-leans-on-china-for-public-security-cooperation/ \n\nThe Executive Committee of the Regional Anti-Terrorist Structure (RATS) of the Shanghai Cooperation Organisation (SCO) is the permanent body of the SCO RATS based in Tashkent, the capital of Uzbekistan.\nThe Regional Anti-Terrorist Structure operates in accordance with the SCO Charter, the Shanghai Convention on Combating Terrorism, Separatism and Extremism, the Agreement among the SCO member states on the Regional Anti-Terrorist Structure, as well as documents and decisions adopted in the SCO framework.- http://eng.sectsco.org/docs/about/faq.html\n",
+                "evidence_urls": [
+                    "https://www.wilsoncenter.org/publication/kennan-cable-no-52-russias-shadow-chinas-rising-security-presence-central-asia ",
+                    "https://thediplomat.com/2019/05/uzbekistan-leans-on-china-for-public-security-cooperation/ ",
+                    "http://eng.sectsco.org/docs/about/faq.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "1",
+                "evidence": "Check Point Research (CPR) detects an ongoing cyber espionage operation targeting the Afghan government. Attributed to a Chinese-speaking hacker group, the threat actors impersonated the Office of the President of Afghanistan to infiltrate the Afghan National Security Council (NSC) and used Dropbox to mask their activities. CPR believes that this is the latest in a longer-running operation that dates as far back as 2014, where Kyrgyzstan and Uzbekistan are also victims- https://blog.checkpoint.com/2021/07/01/cyber-espionage-on-afghanistan-kyrgyzstan-and-uzbekistan-by-chinese-speaking-hacker-group/\n\n\nThe governments of Afghanistan, Kyrgyzstan and Uzbekistan have all been targeted by a Chinese-state-backed advanced persistent threat (APT) group, dubbed IndigoZebra, according to intelligence produced by Check Point Research (CPR)- https://www.computerweekly.com/news/252503401/Cyber-espionage-campaign-targeted-central-Asian-states\n",
+                "evidence_urls": [
+                    "https://blog.checkpoint.com/2021/07/01/cyber-espionage-on-afghanistan-kyrgyzstan-and-uzbekistan-by-chinese-speaking-hacker-group/",
+                    "https://www.computerweekly.com/news/252503401/Cyber-espionage-campaign-targeted-central-Asian-states"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "\"In 2009, the two countries signed a new agreement whereby Beijing provides $3.7 million to the Uzbek authorities to equip its border crossings with mobile scanning systems.\" https://jamestown.org/program/military-cooperation-between-china-and-central-asia-breakthrough-limits-and-prospects/ ",
+                "evidence_urls": [
+                    "https://jamestown.org/program/military-cooperation-between-china-and-central-asia-breakthrough-limits-and-prospects/ ",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-2479"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "4",
+                "evidence": "\u201cOne important trend in recent years has been the launch of \u201cCooperation 2019,\u201d a series of drills allowing China to enhance the interoperability of local paramilitary units with its own People\u2019s Armed Police (PAP). Kyrgyzstan, Uzbekistan, and Tajikistan all took part in 2019, marking the first time their national guard units had trained with China on counterterrorism.\u201d https://www.wilsoncenter.org/publication/kennan-cable-no-52-russias-shadow-chinas-rising-security-presence-central-asia \n\n\"The Uzbekistan National Guard and the Chinese People\u2019s Armed Police (PAP) held their largest bilateral exercise in the \u201cForish\u201d training ground in Uzbekistan in mid-May. The two conducted counterterrorism exercises focused on a mission eliminating terrorists from a multi-story residential building and freeing hostages. The multi-day exercise involved other public order exercises as well. \" https://thediplomat.com/2019/05/uzbekistan-leans-on-china-for-public-security-cooperation/ \n",
+                "evidence_urls": [
+                    "https://www.wilsoncenter.org/publication/kennan-cable-no-52-russias-shadow-chinas-rising-security-presence-central-asia ",
+                    "https://thediplomat.com/2019/05/uzbekistan-leans-on-china-for-public-security-cooperation/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "4",
+                "evidence": "Human rights activists are urging Uzbekistan to deny a Chinese extradition request for an ethnic Kazakh citizen of China who is now stuck in the Central Asian nation\u2019s main air terminal\n\u201cUzbekistan has a legal obligation under international law not to send a person to any country where he or she could face torture or the death penalty, even if that person is technically in a \u2018transit zone\u2019 of the airport,\u201d Swerdlow said.\nUzbekistan\u2019s Foreign Ministry said it was unaware of Xiaheman\u2019s case. China\u2019s Foreign Ministry had no immediate comment.\nhttps://www.reuters.com/article/us-uzbekistan-china-businessman-idUSKCN1PX1H1 \n\nThe Mysterious Case of the Missing Kazakh-Chinese Refugee; A Chinese-born Kazakh was fighting deportation in Uzbekistan. Now no one is sure where he is-https://thediplomat.com/2019/02/the-mysterious-case-of-the-missing-kazakh-refugee/ ",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-uzbekistan-china-businessman-idUSKCN1PX1H1",
+                    "https://thediplomat.com/2019/02/the-mysterious-case-of-the-missing-kazakh-refugee/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://oxussociety.org/projects/transnational-repression/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Uzbekistan had a GDP per capita of US$1,983.10 and a total population of 34.91 million people, with the Chinese population comprising 61,900, or 0,17% of the total",
+    "description-2": "Uzbekistan established diplomatic relations with the People's Republic of China in 1992. Uzbekistan was ranked 133rd in Reporters Without Borders' 2022 World Press Freedom Index, and Not Free in Freedom House's 2022 Global Freedom Status, with a score of 11/100."
+}

@@ -1,0 +1,1080 @@
+{
+    "name": "France",
+    "partner": "Global Voices",
+    "year": "Sep 2024",
+    "population": 66.38,
+    "GDP": "44,460.82",
+    "freemap": 89,
+    "freemap_status": "Free",
+    "freedom_index": 21,
+    "date_prc": "27-Jan-64",
+    "takeaway": [
+        "The Media Domain is likey to see a significant expansion of PRC influence versus the China Index 2022, with BMF TV a notable vector for this in France. CGTN French and French-speaking influencers are observed to echo PRC propaganda, with repercussions across the Francophone world.",
+        "Academia remains a target of significant influence activities and has yet to erect adequate safeguards, presenting a difficult environment for would-be-critical voices.",
+        "In the Society Domain, evidence includes a French Senate-commissioned report showing that infiltration of the Chinese diaspora in France is a growing concern, though Society remains the least influenced Domain in the \"Ideology\" cluster, which also includes Academia and Media.",
+        "The PRC\u2019s lack of influence in the Economy Domain remains remarkable, and contrasts with that observed in Germany, though there is some Technology Domain evidence of PRC firms making inroads into France\u2019s telecoms sector.",
+        "There is only very limited influence in the Law Enforcement, Military and Foreign Policy Domains, which make up the \u201cRulemaking\u201d cluster, though France does support the PRC\u2019s position that Taiwan is a part of its territory."
+    ],
+    "description-1": "In 2023, France had a GDP per capita of US$44,461 and a total population of 66.38 million people.",
+    "description-2": "France established full diplomatic relations with the People's Republic of China in 1964. France was ranked 21st in Reporters Without Borders\u2018 2024 World Press Freedom Index, and rated Free in Freedom House\u2018s 2024 Global Freedom Index, with a score of 89\/100.",
+    "original": "144\/392",
+    "ranking": "45",
+    "overall": "36.7%",
+    "exposure": "38%",
+    "pressure": "40%",
+    "alignment": "30%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "3",
+                "grading": "1",
+                "evidence": "The situation is more of very strong influence , mostly via the Nouvelles d\u2019Europe (\u6b27\u6d32\u65f6\u62a5), France's oldest sinophone media, which now belongs to a company contorled by the United Front   ",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/fr\/country\/france\/beijings-global-media-influence\/2022"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "grading": "1",
+                "evidence": "The Vision Chine magazine is very close to those groups but it is notn possible to proove they are members of those groups ",
+                "evidence_urls": [
+                    "https:\/\/abonnement-magazine.fnac.com\/magazine-vision-chine.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "04",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Not sure if this questions excludes or includes Chinese influencers who operate in French for French audiences. In any case, this should be mentioned as it is very relevant in the case of France as sopme have over 1 million viewers as explained in the links provided including ",
+                "evidence_urls": [
+                    "https:\/\/www.irsem.fr\/rapport.html",
+                    "https:\/\/www.intelligenceonline.fr\/renseignement-d-etat\/2022\/07\/07\/la-liste-d-influenceurs-de-l-ambassade-de-chine-en-france,109797656-art"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "05",
+                "score": "2",
+                "grading": "1",
+                "evidence": "The main one is CGTN French which of course aims mostly francophone Africa but is also availble in France and does cover France; China Radio International also broadc sts in French, again mostly for Africa,; and there is a print magazine that relays Beijing's messages to French audiences \n",
+                "evidence_urls": [
+                    "https:\/\/francais.cgtn.com\/francophone",
+                    "http:\/\/www.dialoguechinefrance.com\/",
+                    "https:\/\/francais.cgtn.com\/home"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "06",
+                "score": "4",
+                "grading": "1",
+                "evidence": "In fact most of the diasporic media that are based in france but consumed throughout Euope, including \u6b27\u6d32\u65f6\u62a5, but also the bilingual TV channel \u6b27\u89c6 \/\u6cd5\u56fd\u534e\u4eba\u536b\u89c6, and \u6b27\u6d32\u534e\u8bed\u5e7f\u64ad\u7535\u53f0 ",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/fr\/country\/france\/beijings-global-media-influence\/2022#footnote61_yimogtt"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "07",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Chine-eco is co-produced on number one info TV channel BMF with content provided by China Radio International",
+                "evidence_urls": [
+                    "https:\/\/www.bfmtv.com\/economie\/operations\/chine-eco\/",
+                    "https:\/\/freedomhouse.org\/fr\/country\/france\/beijings-global-media-influence\/2022#footnote61_yimogtt"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "08",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Not regularly but from time to time and in major media outlets such as Le Monde, Le Figaro ",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/fr\/country\/france\/beijings-global-media-influence\/2022#footnote61_yimogtt"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "grading": "0",
+                "evidence": "A few personal atatcks on people lbased in France, and some journalists explused from the PRC ",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/fr\/country\/france\/beijings-global-media-influence\/2022#footnote61_yimogtt"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "10",
+                "score": "2",
+                "grading": "1",
+                "evidence": "BFM TV channel gives space to politicians who support Beijign agaisnt Taiwan, such as Jean-Luc M\u00e9lenchon ",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/fr\/country\/france\/beijings-global-media-influence\/2022#footnote61_yimogtt"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "11",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Maxime Vivas is the most notorious one and has support from a publisher Les routes de la soie, run by  Sonia Bressler who acts as a go-between with the CCP . Vivas has published several books and has a considerable following and just publshed a book alleging Reporters without Borders (RSF) is an agent of the CIA ",
+                "evidence_urls": [
+                    "https:\/\/twitter.com\/GRAZIANILaetiza\/status\/1757834091360039364",
+                    "https:\/\/www.globaltimes.cn\/page\/202206\/1268915.shtml"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "grading": "0",
+                "evidence": "The French Senate has one that is very active. There is also a French-Cambodian-Chinese former MP (who lsot in 2022) Buon Tan who acts as a relay between China and France to support pro-Beijing narratives and whose brother owns pro-Beijign media. ",
+                "evidence_urls": [
+                    "https:\/\/fr.wikipedia.org\/wiki\/Buon_Tan",
+                    "https:\/\/www.senat.fr\/groupe-interparlementaire-amitie\/ami_584.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "13",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "grading": "0",
+                "evidence": "But a Chinese man married to a French man is currently imprisoned in China ",
+                "evidence_urls": [
+                    "https:\/\/www.lemonde.fr\/international\/article\/2023\/12\/14\/un-chinois-marie-a-un-francais-purge-onze-ans-de-prison-pres-de-pekin_6205796_3210.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "grading": "0",
+                "evidence": "France declares its partnership with China as strategic according to its govermental website ",
+                "evidence_urls": [
+                    "https:\/\/www.diplomatie.gouv.fr\/fr\/dossiers-pays\/chine\/relations-bilaterales\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "18",
+                "score": "4",
+                "grading": "0",
+                "evidence": "While France has a rep office in Taiwan, and Taiwan has 2 in France, France's governemnt position is that \"Taiwan is part of the PRC\"",
+                "evidence_urls": [
+                    "https:\/\/www.vie-publique.fr\/discours\/133004-communique-conjoint-franco-chinois-en-date-du-12-janvier-1994-sur-le-r"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "grading": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https:\/\/www.courrierinternational.com\/article\/vu-de-hong-kong-paris-defie-pekin-avec-une-patrouille-militaire-en-mer-de-chine-meridionale"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "grading": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https:\/\/www.france24.com\/fr\/info-en-continu\/20220120-france-l-assembl%C3%A9e-nationale-adopte-une-r%C3%A9solution-d%C3%A9non%C3%A7ant-le-g%C3%A9nocide-des-ou%C3%AFghours-par-la-chine"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "grading": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https:\/\/www.senat.fr\/questions\/base\/2009\/qSEQ090207517.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "grading": "2",
+                "evidence": "https:\/\/cn.ambafrance.org\/Loi-sur-la-securite-nationale-a-Hong-Kong",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Still limited to enginnering schools",
+                "evidence_urls": [
+                    "https:\/\/www.usinenouvelle.com\/article\/comment-huawei-s-infiltre-dans-les-ecoles-d-ingenieurs-francaises.N1080024"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Chinese is taught in French public schools and Chinese culture is highly regarded in France ",
+                "evidence_urls": [
+                    "https:\/\/www.institutconfucius.fr\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Chinese is taught in public schools but textbooks are not necessarily offered by the PRC ",
+                "evidence_urls": [
+                    "https:\/\/www.lemonde.fr\/education\/article\/2013\/04\/23\/l-enseignement-du-chinois-en-plein-boom-en-france_3164677_1473685.html#:~:text=Le%20chinois%20est%20de%20plus,vingt%2Dtreize%20coll%C3%A8ges%20et%20lyc%C3%A9es.",
+                    "https:\/\/www.ensino.fr\/chinois-ecole-primaire-atout-pour-enfants\/#:~:text=Les%20chiffres%20parlent%20d'eux,primaires%20sur%20le%20territoire%20national."
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "26",
+                "score": "2",
+                "grading": "1",
+                "evidence": "France is not the prime target compared to other countries in Europe ",
+                "evidence_urls": [
+                    "https:\/\/www.lepoint.fr\/monde\/think-tanks-desinformation-le-tentaculaire-reseau-d-influence-de-la-chine-20-09-2021-2443888_24.php#11"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "grading": "1",
+                "evidence": "The French security services are taking it seriously and intervene in a number of cases  ",
+                "evidence_urls": [
+                    "https:\/\/corporateeurope.org\/en\/2019\/04\/follow-new-silk-road-chinas-growing-trail-think-tanks-and-lobbyists-europe",
+                    "https:\/\/www.ege.fr\/infoguerre\/loffensive-cognitive-chinoise-dans-les-universites"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "28",
+                "score": "3",
+                "grading": "1",
+                "evidence": " The Chinese side keeps it as low peofile as it can, aware of the sensitivity ",
+                "evidence_urls": [
+                    "https:\/\/www.portail-ie.fr\/univers\/enjeux-de-puissances-et-geoeconomie\/2021\/programme-mille-talents-captation-de-savoirs-et-intelligence-technologique-quand-la-chine-part-a-la-conquete-des-cerveaux\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "29",
+                "score": "2",
+                "grading": "1",
+                "evidence": "COVID has of course put a hold for a long time on those exchanges ",
+                "evidence_urls": [
+                    "https:\/\/www.sorbonne-universite.fr\/en\/sino-french-institute-renmin-university-china"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "30",
+                "score": "2",
+                "grading": "1",
+                "evidence": "China has nearly 50,000 students in France ",
+                "evidence_urls": [
+                    "https:\/\/www.lemonde.fr\/education\/article\/2021\/10\/05\/47-500-etudiants-chinois-en-france-un-fer-de-lance-pour-pekin_6097227_1473685.html#:~:text=Car%20selon%20Campus%20France%2C%20il,%2C%20indique%2Dt%2Dil.",
+                    "https:\/\/www.liberation.fr\/idees-et-debats\/editorial\/la-chine-dans-les-universites-francaises-un-pouvoir-pas-tres-soft-20210726_KIC5J36ZJVBNXHPMCHNMONGWWQ\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "31",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Given the presence of wolf-warrior Chinese Ambassador Lu Shaye in Paris ",
+                "evidence_urls": [
+                    "https:\/\/www.lejdd.fr\/International\/le-chercheur-antoine-bondaz-insulte-par-lambassade-chinoise-a-paris-pekin-nous-fait-passer-un-test-4033182"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https:\/\/www.liberation.fr\/international\/asie-pacifique\/dans-les-facs-francaises-des-travaux-diriges-par-pekin-20210726_SXMOA4LHSBFZJAE2HNWSWRHEVE\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "33",
+                "score": "3",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https:\/\/www.liberation.fr\/international\/asie-pacifique\/dans-les-facs-francaises-des-travaux-diriges-par-pekin-20210726_SXMOA4LHSBFZJAE2HNWSWRHEVE\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Here not sure how far should we go in the past? ",
+                "evidence_urls": [
+                    "https:\/\/www.iledefrance.fr\/toutes-les-actualites\/les-2-accords-de-cooperation-de-la-region-ile-de-france-avec-la-municipalite-de-pekin-et-la-province-du-zhejiang"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "35",
+                "score": "1",
+                "grading": "1",
+                "evidence": "All together 29 cities of various sizes but including major ones in France ",
+                "evidence_urls": [
+                    "https:\/\/www.annuaire-mairie.fr\/jumelage-chine.html",
+                    "https:\/\/www.orleans-metropole.fr\/decouvrir-la-metropole-orleanaise\/relations-internationales\/partenariat-orleans-yangzhou"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Mostly to attract tourists before the Covid pandemic, or for major investors in industry but also vineyards ",
+                "evidence_urls": [
+                    "https:\/\/www.francebleu.fr\/infos\/economie-social\/la-chine-cet-empire-du-milieu-que-nice-veut-draguer-1564764953"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "38",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Mostly members of the French Communist Party ",
+                "evidence_urls": [
+                    "https:\/\/french.cri.cn\/interview\/list\/714\/20190730\/323522.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "41",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Europarliament MP Raphael Glucksmann is a regular target because of his outspoken work for Uyghurs  ",
+                "evidence_urls": [
+                    "https:\/\/en.wikipedia.org\/wiki\/Rapha%C3%ABl_Glucksmann",
+                    "https:\/\/www.nouvelobs.com\/monde\/20210322.OBS41740\/ouigours-la-chine-sanctionne-raphael-glucksmann.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "42",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Mostly on the issue of Taiwan as being part of the PRC ",
+                "evidence_urls": [
+                    "https:\/\/www.valeursactuelles.com\/politique\/propos-sur-taiwan-jean-luc-melenchon-donne-raison-a-emmanuel-macron"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Mostly former Minister Jean-Pierre Raffarin via his think tank Prospective et Innovation and in his title as special envoy to China for France\n",
+                "evidence_urls": [
+                    "https:\/\/prospective-innovation.org\/en\/history\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "44",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Mostly former Minister Jean-Pierre Raffarin via his think tank  Prospective et Innovation and in his title as special envoy to China for France ",
+                "evidence_urls": [
+                    "https:\/\/prospective-innovation.org\/en\/history\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "grading": "0",
+                "evidence": "But China is number 2 for imports ",
+                "evidence_urls": [
+                    "https:\/\/www.diplomatie.gouv.fr\/fr\/politique-etrangere-de-la-france\/diplomatie-economique-et-commerce-exterieur\/la-france-et-ses-partenaires-economiques-pays-par-pays\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https:\/\/www.bfmtv.com\/economie\/economie-social\/finances-publiques\/qui-detient-la-dette-francaise_AV-202309290064.html#:~:text=D'apr%C3%A8s%20les%20donn%C3%A9es%20de,deux%20tiers%20d'entre%20eux."
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Mostly ports",
+                "evidence_urls": [
+                    "https:\/\/lepetitjournal.com\/hong-kong\/ports-francais-controles-par-entreprises-chinoises-351414"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https:\/\/www.aiib.org\/en\/about-aiib\/governance\/members-of-bank\/index.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There were in the past but they went bankrupt ",
+                "evidence_urls": [
+                    "https:\/\/www.magcentre.fr\/247082-chateauroux-quand-la-chine-plie-bagage\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "grading": "1",
+                "evidence": "At the same time Huawei office was raided in France in February 2024 ",
+                "evidence_urls": [
+                    "https:\/\/www.scmp.com\/tech\/big-tech\/article\/3251475\/chinese-telecoms-giant-huawei-raided-france-financial-prosecutors"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "grading": "1",
+                "evidence": "China Telecom and France's numbe one operator Orange are collaborating ",
+                "evidence_urls": [
+                    "https:\/\/www.orange-business.com\/fr\/presse\/china-telecom-et-orange-business-services-etendent-leur-partenariat-strategique-pour-offrir",
+                    "https:\/\/next.ink\/27158\/83979-china-telecom-fait-ses-premiers-pas-en-france-sur-reseau-dorange\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "59",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Did not find specific proof",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "grading": "1",
+                "evidence": "But France is considering using facial recognition during the summer 2024 Paris Olympic Games ",
+                "evidence_urls": [
+                    "https:\/\/www.publicsenat.fr\/actualites\/politique\/reconnaissance-faciale-le-senat-adopte-une-proposition-de-loi-pour-experimenter-cette-technologie"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "61",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Many cities are developping SmartCity models and one (Valenciennes)  has received free cameras from Huawei France and used them",
+                "evidence_urls": [
+                    "https:\/\/www.tactis.fr\/smart-city-exemples-france\/",
+                    "https:\/\/www.ege.fr\/infoguerre\/loffensive-chinoise-avec-les-villes-numeriques"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "63",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Cathay Group was founded by a French and Chinese investor Cai Mingpo. Hard to say if there is an affiliation to PRC government ",
+                "evidence_urls": [
+                    "https:\/\/www.cathaycapital.com\/the-next-tech-battle-france-the-global-ai-race\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "64",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Also French President Macron visited China in 2024 and announced more business cooperation ",
+                "evidence_urls": [
+                    "https:\/\/www.aa.com.tr\/fr\/monde\/macron-en-chine-plusieurs-contrats-et-accords-sign%C3%A9s-par-les-entreprises-francaises\/2865894",
+                    "https:\/\/www.capital.fr\/entreprises-marches\/nucleaire-ia-contrats-et-cooperation-en-vue-entre-la-france-et-la-chine-1354340"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Cooperation started as early as 2014 ",
+                "evidence_urls": [
+                    "https:\/\/www.latribune.fr\/entreprises-finance\/industrie\/aeronautique-defense\/la-france-et-la-chine-renforcent-leur-cooperation-dans-le-spatial-764055.html#:~:text=Une%20coop%C3%A9ration%20ancienne%20entre%20P%C3%A9kin%20et%20Paris&text=Elle%20est%20entr%C3%A9e%20dans%20un,majeurs%20pour%20les%20deux%20pays.",
+                    "https:\/\/www.francetvinfo.fr\/sciences\/espace\/reportage-espace-la-france-et-la-chine-assemblent-un-satellite-commun-pour-observer-les-sursauts-gamma_5803325.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "3",
+                "grading": "1",
+                "evidence": "There is even a French NGO registered in French Polynesia openly advocating for it ",
+                "evidence_urls": [
+                    "https:\/\/repertoiredesassociations.fr\/france\/collectivites-d-outre-mer\/polynesie\/papeete\/association-pour-la-promotion-de-la-reunification-pacifique-de-la-chine-polynesie-francaise-aprpcpf-\/w9p1009291.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "grading": "0",
+                "evidence": "France has representatives officially listed on PRC websites ",
+                "evidence_urls": [
+                    "http:\/\/www.uwca.net\/member.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "70",
+                "score": "3",
+                "grading": "1",
+                "evidence": "The French Senate commissioned a report showing that infiltration of the Chinese diaspora is a growing concern",
+                "evidence_urls": [
+                    "https:\/\/www.lepoint.fr\/monde\/comment-la-chine-nous-espionne-21-09-2023-2536302_24.php",
+                    "https:\/\/www.assemblee-nationale.fr\/dyn\/16\/rapports\/ceingeren\/l16b1311-t1_rapport-enquete#_Toc256000029",
+                    "https:\/\/www.intelligenceonline.fr\/renseignement-d-etat\/2020\/09\/28\/le-front-uni-etend-de-nouveau-sa-presence-a-paris,109609386-art"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "71",
+                "score": "2",
+                "grading": "1",
+                "evidence": "The remain on the periphery and work mostly with the Chinese diaspora but not with mainstream French partners ",
+                "evidence_urls": [
+                    "https:\/\/www.chinanews.com.cn\/hr\/2022\/03-09\/9696684.shtml"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "grading": "1",
+                "evidence": "But PRC series are available on Netflix ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "grading": "0",
+                "evidence": "TikTok is number 5 ",
+                "evidence_urls": [
+                    "https:\/\/www.awitec.fr\/blog\/reseaux-sociaux-en-france-en-usages-chiffres-cles-et-tendances\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "75",
+                "score": "2",
+                "grading": "1",
+                "evidence": "More is expected in 2024 marking the 60th anniversary of Sino-French diplomatic relations",
+                "evidence_urls": [
+                    "https:\/\/cefc-paris.fr\/relations-franco-chinoises\/",
+                    "https:\/\/www.ladepeche.fr\/2023\/10\/04\/reportage-plongee-dans-les-coulisses-du-deuxieme-festival-des-lanternes-de-montauban-11496159.php"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Over 60 percent has a negative view ",
+                "evidence_urls": [
+                    "https:\/\/fr.statista.com\/infographie\/29256\/part-de-la-population-considerant-que-la-chine-a-une-influence-positive-ou-negative-dans-les-affaires-mondiales\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "grading": "0",
+                "evidence": "But noting that France has territories in the Pacific with a certain degree of autonomy and local leaders are developing contatcs with the PRC, not always with the approval or support of Paris ",
+                "evidence_urls": [
+                    "https:\/\/theconversation.com\/france-chine-60-ans-dambivalence-220412"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "85",
+                "score": "4",
+                "grading": "1",
+                "evidence": "France and China maintain a regular Strategic Dialogue in several areas, including in military affairs  ",
+                "evidence_urls": [
+                    "https:\/\/french.news.cn\/20231031\/a3438bc78a424770b5648b0b811b571f\/c.html",
+                    "https:\/\/www.defense.gouv.fr\/dgris\/actualites\/dialogue-questions-strategiques-franco-chinois-28-juin-2023"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Signed in 2007",
+                "evidence_urls": [
+                    "https:\/\/www.senat.fr\/leg\/pjl11-529-conv.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Mostly related to drug and human trafficking ",
+                "evidence_urls": [
+                    "https:\/\/www.europe1.fr\/international\/info-europe-1-le-renseignement-francais-a-perce-les-derniers-secrets-de-la-mafia-chinoise-4162833"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "grading": "1",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "grading": "0",
+                "evidence": "The number presumably linked to China is growing ",
+                "evidence_urls": [
+                    "https:\/\/www.numerama.com\/cyberguerre\/1247800-cyberespionnage-la-chine-est-tres-active-contre-la-france.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "96",
+                "score": "4",
+                "grading": "0",
+                "evidence": "At least 4 ",
+                "evidence_urls": [
+                    "https:\/\/www.senat.fr\/questions\/base\/2022\/qSEQ22120153G.html#:~:text=En%20France%2C%20ce%20sont%20pour,politique%20de%20la%20diaspora%2C%20etc."
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ]
+    },
+    "exposure_rank": 42,
+    "pressure_rank": 12,
+    "alignment_rank": 59
+}

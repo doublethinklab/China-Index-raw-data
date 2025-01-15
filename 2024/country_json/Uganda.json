@@ -1,0 +1,1145 @@
+{
+    "name": "Uganda",
+    "partner": "Doublethink Lab",
+    "year": "Jul 2024",
+    "population": 47.98,
+    "GDP": "1,014.21",
+    "freemap": 34,
+    "freemap_status": "Not Free",
+    "freedom_index": 128,
+    "date_prc": "18-Oct-62",
+    "takeaway": [
+        "After a slump in the amount and intensity of exchanges, particularly people-to-people exchanges, due to the COVID-19 pandemic, there's been a fast uptake in trips to China, training courses, and scholarships. This is quite noticeable in the Domains of Academia and Domestic Politics.",
+        "In the area of media and telecommunications, state-owned and CCP-connected entities enjoy a very comfortable position in the market, covering a range of sectors, from entertaintment, to news to mobile communications. This has been the case for almost a decade now.",
+        "The PRC enjoys widespread support among the political and economic elites connected to the status quo in Uganda and this translated in a generally positive view of the general public towards China, as as indicated by public opinions polls. There are very few public cases of anti-Chinese sentiment voiced either through the press or in political life."
+    ],
+    "description-1": "In 2023, Uganda had a GDP per capita of US$1,014 and a total population of 47.98 million people.",
+    "description-2": "Uganda established full diplomatic relations with the People's Republic of China in 1962. Uganda was ranked 128th in Reporters Without Borders\u2018 2024 World Press Freedom Index, and rated Not Free in Freedom House\u2018s 2024 Global Freedom Index, with a score of 34\/100.",
+    "original": "178\/384",
+    "ranking": "23",
+    "overall": "46.4%",
+    "exposure": "44%",
+    "pressure": "10%",
+    "alignment": "62%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "02",
+                "score": "skip",
+                "evidence": "There is no evidence of any Ugandan media organisation belonging to these network, but it cannot be ruled out that there might be some that do belong. Therefore, this question is skipped.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "grading": "1",
+                "evidence": "There seems to be a fair number of cases of Ugandan journalists visiting China at the expense of PRC-connected entities. While there was a pause of these types of trips because of COVID-19, there's evidence of these trips having restarted in recent months. ",
+                "evidence_urls": [
+                    "http:\/\/en.brnn.com\/n3\/2023\/0628\/c415019-20036912.html",
+                    "https:\/\/www.newvision.co.ug\/category\/news\/living-my-china-dream-141169",
+                    "https:\/\/analystliberiaonline.com\/2022-cipcc-program-opens-in-beijing-china-hosts-73-journalists-from-developing-countries\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "04",
+                "score": "3",
+                "grading": "1",
+                "evidence": "A good number of journalists visiting China do so to attend training. One such example, are trainings organised by the China Publica Diplomacy Association (CPDA) like \"China International Press Communication Center\". While these are presented as \"exchanges\", they moslty involved foreign journalists visiting China, rather than Chinese journalists visiting other countries. ",
+                "evidence_urls": [
+                    "http:\/\/en.brnn.com\/n3\/2023\/0628\/c415019-20036912.html",
+                    "https:\/\/www.newvision.co.ug\/category\/news\/living-my-china-dream-141169",
+                    "https:\/\/analystliberiaonline.com\/2022-cipcc-program-opens-in-beijing-china-hosts-73-journalists-from-developing-countries\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "05",
+                "score": "4",
+                "grading": "1",
+                "evidence": "PRC state media are available in English and Swahili, both of which are official languages in Uganda. CGTN Africa is available on some satellite platforms and digital terrestrial TV (and also online). CRI has an FM radio station in Kampala and in Zinga, and broadcasts in both English and Swahili. Xinhua and People's Daily publish content in Swahili online as well.",
+                "evidence_urls": [
+                    "https:\/\/chinaplus.cri.cn\/radio\/program-schedule\/737823",
+                    "https:\/\/www.lyngsat.com\/packages\/StarTimes-TV-Uganda_lcn.html",
+                    "http:\/\/www.swahili.people.cn\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "07",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Many news outlets in Uganda carry content produced by PRC state-funded media, particulalry Xinhua. There's only long running and ongoing collaboration between CGTN and Uganda's national broadcaster UBC.",
+                "evidence_urls": [
+                    "https:\/\/www.newvision.co.ug\/category\/news\/fruitful-cooperation-in-2022-as-china-uganda-NV_150622",
+                    "https:\/\/news.cgtn.com\/news\/3d3d414f316b7a4d78457a6333566d54\/share_p.html",
+                    "https:\/\/www.independent.co.ug\/xinhuas-top-10-world-news-events-in-2023\/",
+                    "https:\/\/www.pmldaily.com\/news\/world\/2022\/05\/globalink-xinjiang-my-home-a-community-official-devoted-to-improving-wellbeing-of-locals.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There's no public evidence of this, but there might have been cases where journalists have been pressured to retract stories, but this isn't evidenced.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "10",
+                "score": "4",
+                "grading": "1",
+                "evidence": "It is common for Uganda-China relations to be referred to in terms of friendship and in connection to a long standing history of Chinese support to Uganda. Some of this content is produced by PRC affiliated media. There's also examples of local commentators using this language.",
+                "evidence_urls": [
+                    "https:\/\/www.newvision.co.ug\/category\/blogs\/diplomacy-and-development-a-citizens-perspect-NV_163647",
+                    "https:\/\/ubc.go.ug\/2023\/12\/14\/china-donates-vehicles-to-uganda-for-nam-and-g77-summits-in-january-2024\/",
+                    "https:\/\/www.pmldaily.com\/news\/world\/2023\/11\/uganda-china-parliaments-commit-continued-cooperation.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There are some instances of commentary an opinion pieces that repeat PRC-favored narratives, even though issues such as human rights in Xinjiang or pro-democracy protests in Hong Kong were not very prevalent in news coverage.",
+                "evidence_urls": [
+                    "https:\/\/news.cgtn.com\/news\/2021-10-22\/Islam-in-Xinjiang-in-the-eyes-of-a-Ugandan-Muslim-14xTtq0qdcQ\/index.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "grading": "0",
+                "evidence": "There have been a number of visits and contacts between the Parliament of Uganda and the PRC counterpart. In November 2023, the Deputy Speaker of the Parliament of Uganda noted than an MP had been assigned to head a \"Uganda-China Parliamentary Friendship Group\"",
+                "evidence_urls": [
+                    "https:\/\/www.parliament.go.ug\/news\/7044\/uganda-china-legislatures-pledge-continued-cooperation"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Uganda receives aid from China in a range of domains, including health, infrastructrure and others. That said, Western donors remain, for the most part, the main source of foreign aid into the country.",
+                "evidence_urls": [
+                    "https:\/\/chinaglobalsouth.com\/2022\/04\/18\/rare-20-million-chinese-aid-grant-to-uganda\/",
+                    "http:\/\/www.news.cn\/english\/2021-10\/12\/c_1310240049.htm",
+                    "https:\/\/www.monitor.co.ug\/uganda\/news\/national\/ugandans-laud-china-aid-call-for-better-loan-terms-4318572",
+                    "https:\/\/www.newvision.co.ug\/category\/blogs\/heart-to-heart-cooperation-chinese-medical-te-153247"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "14",
+                "score": "3",
+                "grading": "1",
+                "evidence": "There's evidence that training for Uganda diplomats has taken place in recent years, although the number of training opportunities might have been reduced in the post-COVID period.",
+                "evidence_urls": [
+                    "https:\/\/beijing.mofa.go.ug\/media\/uganda-embassy-staff-china-enhance-skills-through-capacity-building-training-18-21-november",
+                    "https:\/\/www.kas.de\/documents\/285576\/0\/Ties+that+Bind+-+China%27s+Party-to-Party+Diplomacy+in+Africa.pdf\/50ff72dd-355d-e490-44e0-03db12614c1b?version=1.0&t=1636992694665"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "grading": "0",
+                "evidence": "There's evidence of Ugandan politicians and government officials participating in events by CCICED. Also, in 2021, Uganda hosted one event linked to the group.",
+                "evidence_urls": [
+                    "https:\/\/cciced.eco\/events\/regional-climate-weeks-2021-ministerial-session-for-asia-and-the-pacific\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "grading": "0",
+                "evidence": "China-Uganda relations enjoy the second highest level, \"comprehensive strategic partnership\" status.",
+                "evidence_urls": [
+                    "https:\/\/www.uscc.gov\/sites\/default\/files\/Nantulya_Testimony.pdf",
+                    "https:\/\/orcasia.org\/allfiles\/China's_Partnerships.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "18",
+                "score": "4",
+                "grading": "0",
+                "evidence": "A range of Ugandan of elected officials has repeatedly expressed their support to the PRC's own \"one China principle\".",
+                "evidence_urls": [
+                    "https:\/\/english.news.cn\/africa\/20220806\/c826e89e47ae4363a3525bec52d5f2cb\/c.html",
+                    "http:\/\/en.npc.gov.cn.cdurl.cn\/2023-11\/30\/c_943643.htm",
+                    "http:\/\/ag.china-embassy.gov.cn\/eng\/zgxw\/202102\/t20210222_9753875.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "grading": "2",
+                "evidence": "In a 2016 interview with Xinhua, Uganda's Foreign Minister is quoted as supporting China's position on the South China Sea. Therefore, Uganda has adhered to the PRC\u2019s territorial claim and the Indicator warrants a 4 score.",
+                "evidence_urls": [
+                    "http:\/\/www.china.org.cn\/world\/Off_the_Wire\/2016-05\/30\/content_38566392.htm",
+                    "http:\/\/www.xinhuanet.com\/\/english\/2016-06\/06\/c_135417134.htm",
+                    "http:\/\/paper.people.com.cn\/rmrbhwb\/html\/2016-05\/31\/content_1683735.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "grading": "2",
+                "evidence": "The Ugandan government has voted alongside China in different multilateral fora on issues related to Xinjiang. Ugandan officials have also been quoted in PRC affiliated media as supporting China's \"justified stance on Xinjiang-related topics\". In light of this, it can be said that Uganda has adhered to the PRC\u2019s treatment of Uyghur's in Xinjiang. ",
+                "evidence_urls": [
+                    "https:\/\/www.globaltimes.cn\/page\/202302\/1284766.shtml",
+                    "http:\/\/geneva.china-mission.gov.cn\/eng\/dbdt\/202106\/t20210624_9103595.htm",
+                    "https:\/\/thediplomat.com\/2020\/10\/2020-edition-which-countries-are-for-or-against-chinas-xinjiang-policies\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "21",
+                "score": "4",
+                "grading": "2",
+                "evidence": "In 2021, Uganda was a signatory with 60+ other countries of a joint statement at the UN in Geneva in which it  showed support of China's position on Tibet-related matters, thus warranting a 4 score for this indicator.",
+                "evidence_urls": [
+                    "http:\/\/geneva.china-mission.gov.cn\/eng\/dbdt\/202106\/t20210624_9103595.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "grading": "2",
+                "evidence": "In 2019, the Ugandan government released a letter of support of China in its handling of pro-democracy protests in Hong Kong. Therefore, a score of 4 is justified for this indicator.",
+                "evidence_urls": [
+                    "https:\/\/chinaglobalsouth.com\/analysis\/why-would-uganda-write-a-letter-to-support-chinas-position-in-hong-kong\/",
+                    "https:\/\/www.voanews.com\/a\/6177287.html",
+                    "https:\/\/thediplomat.com\/2020\/10\/which-countries-support-china-on-hong-kongs-national-security-law\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "grading": "1",
+                "evidence": "In June 2023, Makerere University and Huawei signed an agreement to establish and ICT Academy at the university. In announcing the detail, Huawei representatives said that similar agreements might happen across the country.",
+                "evidence_urls": [
+                    "https:\/\/africa.cgtn.com\/huawei-to-set-up-ict-academy-in-uganda\/",
+                    "http:\/\/www.xinhuanet.com\/english\/2019-05\/15\/c_138060968.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "grading": "1",
+                "evidence": "There's only one Confucius Instittute in Uganda based at Makerere University, which is regarded as the university in the country. There's also a Confucius Classroom at Luyanzi Institute of Technology.",
+                "evidence_urls": [
+                    "http:\/\/www.news.cn\/english\/2021-11\/03\/c_1310288025.htm",
+                    "https:\/\/chuss.mak.ac.ug\/news\/mak-confucius-institute-officially-inaugurated",
+                    "https:\/\/www.newvision.co.ug\/category\/education\/china-to-continue-supporting-teaching-of-chin-NV_158826",
+                    "https:\/\/english.news.cn\/20220925\/f77a8e2babcf4ea3a6d2eb48ab9ed943\/c.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "grading": "0",
+                "evidence": "According to reports by Xinhua, Uganda's ministry of education \"has included Chinese language learning in the lower secondary school curriculum. Some secondary schools in the country are already teaching their students the Chinese language.\"",
+                "evidence_urls": [
+                    "http:\/\/www.xinhuanet.com\/english\/2021-01\/11\/c_139659170.htm",
+                    "https:\/\/www.monitor.co.ug\/uganda\/news\/national\/china-pledges-more-scholarships-through-language-teaching-4313746",
+                    "https:\/\/english.news.cn\/20220925\/f77a8e2babcf4ea3a6d2eb48ab9ed943\/c.html",
+                    "https:\/\/www.newvision.co.ug\/category\/education\/china-to-continue-supporting-teaching-of-chin-NV_158826"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "27",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "28",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There's an essay writing competition running in New Vision, which is one of the main newspapers in the country, that is organised in cooperation with the Chinese Embassy. This competition is known as \"My China Story Essay Competition\".  ",
+                "evidence_urls": [
+                    "https:\/\/www.chinadaily.com.cn\/culture\/2016-12\/05\/content_27566206.htm",
+                    "https:\/\/www.newvision.co.ug\/category\/news\/my-china-story-essay-competition-winners-safa-149895"
+                ],
+                "note": "There's evidence of Ugandans participating in these programs, but not in recent years.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "grading": "1",
+                "evidence": "PRC has offered scholarships to Ugandan scholars especially at Makerere University. On 26th July 2022, it was reported on Makerere Website that 24 scholarships had been offered by the Chinese embassy. ",
+                "evidence_urls": [
+                    "https:\/\/ias.gdufs.edu.cn\/info\/1677\/1804.htm",
+                    "https:\/\/news.mak.ac.ug\/2022\/07\/chinese-ambassador-awards-24-scholarships-to-mak-students\/"
+                ],
+                "note": "There's evidence of such trips, but not in the period under research.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "grading": "0",
+                "evidence": "In Uganda, there's only one university degree in Chinese and Asian studies in the country, but there's no indication that PRC-connected entiites in the design of the curriculum, even though it is a possibilty given that a Confucius Institue is present at Makerere University where the BA is taught. Confucius Institute teachers have been involved in developing local Chinese language teaching materials.",
+                "evidence_urls": [
+                    "http:\/\/www.xinhuanet.com\/english\/2019-11\/24\/c_138579821.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "1",
+                "grading": "1",
+                "evidence": "China Railway 18 Bureau Group Co Ltd, has agreed with Kitgum Municipal Council to undertake the construction of 2.89 kms of roads funded by the World Bank.",
+                "evidence_urls": [
+                    "https:\/\/ugandaradionetwork.net\/story\/chinese-firm-contracted-to-rehabilitate-usmid-roads-in-kitgum-muncipality-",
+                    "https:\/\/www.bignewsnetwork.com\/news\/273128963\/chinese-contractor-seeks-additional-time-to-complete-world-bank-funded-roads-in-uganda",
+                    "https:\/\/english.news.cn\/20220913\/8a8afa7222614ed9afad9557b692e818\/c.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Entebbe and Changsha are sister-city with ties, respectively in Uganda and China. The two minicipalities recently held a business conference in Entebbe, organised with the aim of bolstering bilateral co-operation between Uganda and China, specifically the sister-sister relations of the respective cities. Jinja has also twined with Shenyang, capital of China\u2019s northeast Liaoning province. ",
+                "evidence_urls": [
+                    "https:\/\/www.newvision.co.ug\/category\/news\/china-uganda-relationship-in-its-best-shape-a-NV_158999",
+                    "https:\/\/nilepost.co.ug\/2020\/10\/27\/jinja-city-twins-with-shenyang-city-in-china\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "36",
+                "score": "skip",
+                "evidence": "Among many others, Kitgum Municipality, for instance, has sent people from the political wing to the PRC. However, details of such trips have been kept confidential and out of the public domain.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "grading": "1",
+                "evidence": "The delegation was led by Mr. Li Mingxiang, the Vice Minister for the International Department of the Central Committee of the Communist Party of China (IDCPC). A group of ruling National Resistance Movement (NRM) party leaders welcomed a high-powered delegation from the Communist Party of China this evening, following their arrival at Entebbe International Airport.",
+                "evidence_urls": [
+                    "https:\/\/nrm.ug\/news\/communist-party-china-delegation-received-ugandas-national-resistance-movement-party-leaders"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "38",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Uganda's National Resistance Movement (NRM)- the ruling party leaders have, from time to time visited China, under the invitation of the CCP. Also, CCP leaders jabe visited Uganda at the invitation of the NRM",
+                "evidence_urls": [
+                    "http:\/\/www.focac.org\/eng\/zfgx_4\/rwjl\/201908\/t20190819_8090228.htm",
+                    "https:\/\/nrm.ug\/news\/communist-party-china-delegation-received-ugandas-national-resistance-movement-party-leaders"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no evidence",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "42",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Uganda's president Yoweri Museveni has for several times praised \"Chinese-style\" of leadership and said it is better than the West's. ",
+                "evidence_urls": [
+                    "https:\/\/news.cgtn.com\/news\/2022-03-18\/China-style-diplomacy-better-than-West-s-says-Ugandan-president-18vnlPAq7p6\/index.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "43",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Though, it should be noted that Uganda's former foreign minister, Sam Kutesa has been acused of taking a $500,000 bribe to secure a luicratic deal for a Chinese oil firm.",
+                "evidence_urls": [
+                    "https:\/\/www.theeastafrican.co.ke\/tea\/news\/east-africa\/uganda-s-foreign-minister-accused-of-taking-500-000-bribe--1378152"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "44",
+                "score": "1",
+                "grading": "1",
+                "evidence": "The COSASE leader has recieved death threats from government officials over probing government parastatals, some involving China's investments.He led the committee that investigated several projects including the Airport expansion project, Isimba dam project, among others, backed by China.",
+                "evidence_urls": [
+                    "https:\/\/www.monitor.co.ug\/uganda\/news\/national\/cosase-boss-files-death-threat-case-3921116"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "grading": "0",
+                "evidence": "China is not Uganda's leading trading partner, the UAE is.",
+                "evidence_urls": [
+                    "https:\/\/www.lloydsbanktrade.com\/en\/market-potential\/uganda\/trade-profile#:~:text=Uganda's%20main%20trading%20partners%20are,Republic%20of%20Congo%2C%20and%20Italy.",
+                    "https:\/\/oec.world\/en\/profile\/country\/uga"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "46",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Through Exim bank, China owns 75% of Uganda's bitlateral sovereign debt. Therefore, this Indicator deserves a \"Yes\" response.",
+                "evidence_urls": [
+                    "https:\/\/www.independent.co.ug\/national-debt-ugandas-30-foreign-lenders\/",
+                    "https:\/\/mepd.finance.go.ug\/documents\/DSA\/DSA-FY202122.pdf",
+                    "https:\/\/apnews.com\/article\/62ab13badad04dd7b38a69b69eac61d1"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "grading": "0",
+                "evidence": "UAE is Uganda's top customer of Ugandas extractive industry.",
+                "evidence_urls": [
+                    "https:\/\/oec.world\/en\/profile\/country\/uga"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "grading": "0",
+                "evidence": "While it's absolutely true that the Isimba and Karuma power plants, the Entebbe's international airport, and the Kampala-Entebbe express way, among many others, are mostly financed and built by Chinese entities, the ownership belongs to the Ugandan government\/state is responsible for repaying the debt.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [
+                    "https:\/\/www.aiib.org\/en\/about-aiib\/governance\/members-of-bank\/index.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "grading": "0",
+                "evidence": "The \ufe0fChina Communications Construction Co. Limited (Uganda) (CCCC) is a major member of the Belt and Road Industrial and Commercial alliance. However, CCCC should not be counted as a major business, given that it is a Chinese firm. I'm inclined to conclude the answer here would be \"No\".",
+                "evidence_urls": [
+                    "https:\/\/srcic.org\/srcic-profile\/",
+                    "https:\/\/tusiad.org\/en\/tusiad\/about"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Uganda financial institutions use SWIFT.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There's no evidence of economic coercicion.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "grading": "0",
+                "evidence": "China accepts tax free goods from about 11 countries in Africa, Uganda inclusive. Therefore this indicator deserves a \"Yes\" response.",
+                "evidence_urls": [
+                    "https:\/\/research.hktdc.com\/en\/article\/MTIyNjk5MDI0OA#:~:text=China%20has%20announced%20that%20it,%2C%20Tanzania%2C%20Uganda%20and%20Zambia."
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Almost the entire Mbale industrial park was given to a PRC investment group.",
+                "evidence_urls": [
+                    "https:\/\/www.ugandainvest.go.ug\/uganda-investment-authority-kickstarts-key-infrastructure-development-in-mbale-industrial-park\/",
+                    "https:\/\/www.theigc.org\/sites\/default\/files\/2022\/09\/Asiimwe_Impacts-of-special-economic-zones-on-Ugandas-economic-performance.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is none, only that there was a rumour of PRC through Exim bank taking control of entebbe airport which is not true. However the terms of contracting gave alot of control over the airport to exim bank.",
+                "evidence_urls": [
+                    "https:\/\/www.theeastafrican.co.ke\/tea\/news\/east-africa\/chinese-entebbe-loan-deal-is-binding-3739346"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [
+                    "https:\/\/www.chinadaily.com.cn\/a\/202309\/16\/WS65051545a310d2dce4bb615e.html",
+                    "https:\/\/www.telecomtrainer.com\/list-of-mobile-operators-in-uganda\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "grading": "1",
+                "evidence": "MTN and HIMA launched first 5G industrial use case courtesy of HUAWEI in 2023.",
+                "evidence_urls": [
+                    "https:\/\/www.huawei.com\/en\/news\/2023\/4\/5g-commercial-launch-uganda",
+                    "https:\/\/www.zte.com.cn\/global\/about\/news\/20200121e1.html"
+                ],
+                "note": "While not so many agreements exist support or supply such technology the local companies have many joint digital development projects in Uganda. To enhance digital transformatio in many parts of the country. The absence of agreements with Airtel which is the 2nd largest telcom company here ould be informed by the india china relationship and the lack of trust towards chinese companies over secuirty issues.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "grading": "1",
+                "evidence": "MTN signed a 5 year partnership deal with Huwawei aimed at modernising its network towards a cloud 5G capable coe network. Uganda signed a pact with PRC to boost devt, cooperatio and digital transformation.",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/country\/uganda\/freedom-net\/2023",
+                    "https:\/\/dig.watch\/updates\/uganda-and-china-sign-pact-to-boost-internet-acess",
+                    "https:\/\/archive.is\/eODuG#selection-3693.0-3728.0",
+                    "https:\/\/web.archive.org\/web\/20190319014449\/https:\/\/www.balancingact-africa.com\/news\/telecoms-en\/17798\/audit-faults-huawei-ministry-on-ugandan-internet-project"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "grading": "0",
+                "evidence": "The CCCC which is the chinese company is the one constructing the expansion and upgrading of the entebbe international airport.",
+                "evidence_urls": [
+                    "http:\/\/english.news.cn\/africa\/20220319\/400a758d7d024265a2fee9881f8691\/c.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "60",
+                "score": "2",
+                "grading": "1",
+                "evidence": "In 2019 govt procured $126 million worth of closed-circuit CCTV survellience from Huawei. these are along major highways with kampala and other cities",
+                "evidence_urls": [
+                    "https:\/\/privacyinternational.org\/case-study\/3969\/huawei-infiltration-uganda",
+                    "https:\/\/www.monitor.co.ug\/uganda\/news\/national\/scrap-new-surveillance-system-hrw-tells-govt-4433210"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "grading": "1",
+                "evidence": "The contract to establish smart city systems by KCCA was given to Technology Associates which is not a PRC company. The only lead city in the pursuit of a smart city so far.",
+                "evidence_urls": [
+                    "https:\/\/www.monitor.co.ug\/uganda\/business\/prosper\/turning-kampala-into-a-smart-city--1826684"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Agreements have been signed in this area that seem to suggest that PRC-linked companies will be involved in laying our fiber optic internet cable in the country.",
+                "evidence_urls": [
+                    "https:\/\/www.newvision.co.ug\/category\/business\/last-phase-of-backbone-infrastructure-develop-NV_156010",
+                    "https:\/\/ugbusiness.com\/2023\/11\/politics-policy\/uganda-seeks-146mn-chinese-loan-for-national-fibre-optic-project",
+                    "https:\/\/www.zdnet.com\/home-and-office\/networking\/uganda-orders-probe-into-huaweis-fiber-project\/",
+                    "https:\/\/web.archive.org\/web\/20190319014449\/https:\/\/www.balancingact-africa.com\/news\/telecoms-en\/17798\/audit-faults-huawei-ministry-on-ugandan-internet-project"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "grading": "1",
+                "evidence": "While PRC invests in large national infrastructure projects theres no evidence of it investing in tech start ups in Uganda.",
+                "evidence_urls": [
+                    "https:\/\/shizune.co\/investors\/financial-services-investors-uganda#financial-services-investors-uganda-person-tidjane-deme"
+                ],
+                "note": "Uganda also participates in the China-Africa Investment Summit.But the purpose of this investment meeting is to connect Chinese investors with African green start-ups.\nhttp:\/\/fc-ssc.org\/en\/events\/detail\/108\nhttps:\/\/english.news.cn\/20231110\/c46203359e914f3784538883e4a49145\/c.html\nhttps:\/\/www.wwfkenya.org\/",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "grading": "1",
+                "evidence": "Uganda govt is the one that entered into an MOU with such developers, unfortunately they are not PRC companies. these include Sunbird AI, cargoX",
+                "evidence_urls": [
+                    "https:\/\/africa.businessinsider.com\/local\/lifestyle\/ugandas-bold-digital-leap-integrating-blockchain-into-international-trade\/sm68vs5"
+                ],
+                "note": "Nonetheless,\u00a0an\u00a0MOU\u00a0for\u00a0nuclear\u00a0energy\u00a0development\u00a0was\u00a0inked\u00a0by\u00a0the\u00a0Ugandan\u00a0government\u00a0and\u00a0the\u00a0China\u00a0National\u00a0Nuclear\u00a0Corporation\u00a0(CNNC).\nhttp:\/\/news.afrindex.com\/zixun\/article10842.html\nhttps:\/\/www.cnnpn.cn\/article\/35622.html",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "grading": "0",
+                "evidence": "there's no such a cooperation agreement.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Government of Uganda has gone a head to purchase this ystem and use its projects",
+                "evidence_urls": [
+                    "https:\/\/www.gpsworld.com\/comnav-helps-bring-gnss-benefits-to-africa\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "3",
+                "grading": "1",
+                "evidence": "An organization called \"\"\u4e4c\u5e72\u8fbe\u4e2d\u56fd\u548c\u5e73\u7edf\u4e00\u4fc3\u8fdb\u4f1a\"\" exists.\nIt's the Chinese Association for the Promotion of Peaceful Reunification in Uganda.",
+                "evidence_urls": [
+                    "http:\/\/www.zhongguotongcuhui.org.cn\/hnwtchdt\/202307\/t20230713_12550180.html",
+                    "http:\/\/ug.china-embassy.gov.cn\/lqfw\/lqdtyts\/202006\/t20200605_7270206.htm",
+                    "http:\/\/www.zhongguotongcuhui.org.cn\/zt\/tch9hwhzh\/bwbd\/xgzl\/201211\/t20121107_3356648.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There's no evidence of such however there were reports in 2009 over some labour unions working with COFT to strengthen the labour movement",
+                "evidence_urls": [
+                    "https:\/\/www.newvision.co.ug\/news\/1244642\/trade-unions-chinese-support"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "70",
+                "score": "1",
+                "grading": "1",
+                "evidence": "In June 2023 the Chinese People 's Association for friendship with foreign countries and the China Africa Friendship Association of Uganda hosted the Dragon Boat Festival on lake victoria. There was the China-uganda cultural dayorganised by embassy of china.",
+                "evidence_urls": [
+                    "https:\/\/english.news.cn\/africa\/20240130\/60a9b2df264f49c68b8e301920d6efd5\/c.html",
+                    "https:\/\/www.thestar.com.my\/news\/world\/2024\/01\/30\/roundup-cultural-exchanges-highlighted-at-chinese-new-year-celebration-in-uganda",
+                    "https:\/\/beijing.mofa.go.ug\/media\/uganda-embassy-beijing-holds-uganda-china-cultural-day"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "grading": "1",
+                "evidence": "The All-China Women Federation has done some activities in Uganda, therefore the score for this indicator is 1.",
+                "evidence_urls": [
+                    "https:\/\/finance.sina.cn\/2023-08-23\/detail-imzicunm9049041.d.html?vt=4&cid=76729&node_id=76729",
+                    "http:\/\/www.hnwu.edu.cn\/html\/906\/2023-08-24\/content-12931.html",
+                    "http:\/\/ug.china-embassy.gov.cn\/zwgx\/zzwl\/201312\/t20131203_7267964.htm",
+                    "http:\/\/ug.china-embassy.gov.cn\/chn\/sgxw\/201111\/t20111107_6857322.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "grading": "0",
+                "evidence": "The Chinese redcross constantly donates to Uganda Redcross, though mostly it donates directly to victims as opposed to going through an intermediary. the Zhejiang Chinese association also does such a job. China National Offshore Oil Corporation (CNOOC) Uganda Limited, in collaboration with China National Petroleum Corporation (CNPC) and China State Construction Engineering Corporation (CSCEC), made a  donation to Entebbe Children Welfare School in Uganda.",
+                "evidence_urls": [
+                    "https:\/\/www.monitor.co.ug\/uganda\/news\/national\/china-boosts-uganda-s-humanitarian-efforts-1697480",
+                    "https:\/\/www.reachoutmbuya.org\/chinese-community-donates-to-sustain-orphans-in-school\/",
+                    "https:\/\/news.cgtn.com\/news\/2023-06-18\/Chinese-enterprises-in-Uganda-make-donation-to-local-education-1kJQGKpaXxm\/index.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "73",
+                "score": "4",
+                "grading": "1",
+                "evidence": "China's StarTimes the largest Pay-TV operator in Uganda. Its the cheapest and most accessible. StarTimes also offers the hardware to distribute satellite and cable content. The StarTimes platform has many many Chinese shows, includig soap operas. Therefore, this indicator deserves a \"Significant\" rating.",
+                "evidence_urls": [
+                    "https:\/\/africanews.space\/china-aided-satellite-tv-project-connects-rural-uganda\/",
+                    "http:\/\/ug.mofcom.gov.cn\/article\/todayheader\/202109\/20210903196267.shtml",
+                    "https:\/\/www.globaltimes.cn\/page\/202210\/1277232.shtml"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Facebook, Youtube, Twitter remain the most dominant while PRC's tiktok is popular it is just emerging.",
+                "evidence_urls": [
+                    "https:\/\/www.similarweb.com\/top-apps\/apple\/uganda\/",
+                    "https:\/\/appfigures.com\/top-apps\/ios-app-store\/uganda\/iphone\/top-overall"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "75",
+                "score": "3",
+                "grading": "1",
+                "evidence": "The Chinese Confuscious institute always provides such scholarships and opportunities",
+                "evidence_urls": [
+                    "https:\/\/www.monitor.co.ug\/uganda\/news\/national\/china-pledges-more-scholarships-through-language-teaching-4313746",
+                    "http:\/\/ug.china-embassy.gov.cn\/sgxw\/202310\/t20231017_11162060.htm",
+                    "http:\/\/ug.china-embassy.gov.cn\/sgxw\/202307\/t20230725_11117574.htm",
+                    "http:\/\/ug.china-embassy.gov.cn\/sgxw\/202304\/t20230419_11061848.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Ugandans especially young people who form the large majority of the population are positive about China and its govt.",
+                "evidence_urls": [
+                    "https:\/\/democracyinafrica.org\/how-popular-is-china-in-africa-and-how-do-people-think-about-its-role\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Chinese companies have long been supplying the Uganda People\u2019s Defence Forces (UPDF) with military\/law enforcement equipment. ",
+                "evidence_urls": [
+                    "https:\/\/africachinareporting.com\/uganda-buys-chinese-arms-for-war-on-the-adf-rebel-group-in-the-drc\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "79",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Uganda sent officials to the third China-Africa Peace and Security Forum taking place in Beijing. On the sidelines of the forum, State Councilor and Minister of National Defense Li Shangfu met with security and defense leaders from the African Union and 10 African countries, including Uganda.",
+                "evidence_urls": [
+                    "https:\/\/global.chinadaily.com.cn\/a\/202308\/30\/WS64ee23e1a31035260b81edf9.html"
+                ],
+                "note": "Gen. Muhoozi, President Museveni's son has visited China several times and so have other top UPDF leaders. In 1995, Gen. Muhoozi visited Hunan, Chairman Mao's birth place and in 1995, he joined the army. More here https:\/\/www.independent.co.ug\/how-china-shapes-ugandas-generals\/ ",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Uganda signed agreements for the creation of national security communication systems. This system is reported to be used by the police, army, and intelligence agencies in Uganda.",
+                "evidence_urls": [
+                    "http:\/\/www.chinaafricarealstory.com\/2019\/04\/chinese-lending-to-africa-for-military.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "grading": "0",
+                "evidence": "China has provided humanitarian relief to Uganda (and many other African countries) to help them deal with the Covid-19 pandemic, but it is unclear whether the PLA was involved. At the time, China sent aid to Uganda. Besides the donation of protective gear, medicines and equipment, Uganda received a donation of Sinovac vaccines from the Chinese government.",
+                "evidence_urls": [
+                    "http:\/\/www.news.cn\/english\/2021-10\/12\/c_1310240049.htm",
+                    "https:\/\/www.scmp.com\/news\/china\/military\/article\/3180109\/china-puts-its-military-test-african-peacekeeping-roles",
+                    "https:\/\/mwi.westpoint.edu\/beijings-blue-helmets-what-to-make-of-chinas-role-in-un-peacekeeping-in-africa\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Top Ugandan Generals who have key roles in the army leadership and served in strategic positions abroad have been some of the beneficiaries of such training\/educational activities.",
+                "evidence_urls": [
+                    "https:\/\/www.independent.co.ug\/how-china-shapes-ugandas-generals\/",
+                    "https:\/\/africacenter.org\/spotlight\/china-pla-military-political-work-pme-africa\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "85",
+                "score": "4",
+                "grading": "1",
+                "evidence": "To buttress its already vast economic footprint in several African countries, including Uganda, the Chinese government through its army; the People\u2019s Liberation Army (PLA), is constantly engaging army officers in Africa, including through training programs, bilateral meetings, and exchanges with their Chinese counterparts.",
+                "evidence_urls": [
+                    "https:\/\/www.updf.go.ug\/bilateral-relations\/uganda-continues-to-maintain-bilateral-relationships-with-china\/",
+                    "https:\/\/www.independent.co.ug\/how-china-shapes-ugandas-generals\/",
+                    "https:\/\/www.scmp.com\/news\/china\/diplomacy\/article\/3229118\/africa-sets-sights-china-top-destination-military-training"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "87",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Uganda leader, President Yoweri Museveni, says China-style diplomacy 'better than' the West's. The President further lauded China for always supporting Africa's development and calls for even much frienflier relationships.",
+                "evidence_urls": [
+                    "https:\/\/asia.nikkei.com\/Editor-s-Picks\/Interview\/Uganda-leader-says-China-style-diplomacy-better-than-the-West-s",
+                    "https:\/\/www.newvision.co.ug\/category\/business\/president-museveni-urges-china-to-open-market-NV_175433"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Uganda does not have an extradiction treaty with China. However, Ugandan Special Forces and a team of Chinese commandos conducted a joint operation in January 2022, leading to the capture and deportation of four Chinese citizens alleged to be part of a criminal ring.",
+                "evidence_urls": [
+                    "https:\/\/chinaglobalsouth.com\/wp-content\/uploads\/2015\/05\/WeChat_Image_20220110143416.jpeg"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "https:\/\/ubc.go.ug\/2023\/11\/24\/uganda-and-china-strengthen-ties-as-deputy-speaker-reaffirms-commitment-to-robust-cooperation-and-mutual-development\/",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "93",
+                "score": "1",
+                "grading": "1",
+                "evidence": "In Uganda, the defense establishment has a close relationship, among others, with Shijiazhuang Tiedao University\u2014the forerunner of the PLA\u2019s Railway Engineering Institute. China offers training to Uganda police in areas of criminal investigations, crime intelligence, cyber crime, etc.",
+                "evidence_urls": [
+                    "https:\/\/www.independent.co.ug\/how-china-shapes-ugandas-generals\/#:~:text=According%20to%20the%20Chinese%20government,Public%20Security%20University%20in%20Beijing",
+                    "https:\/\/www-upf-go-ug.translate.goog\/china-train-uganda-police-criminal-investigations\/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "grading": "0",
+                "evidence": "The Chinese government has agreed to offer Uganda a comprehensive cyber-security.",
+                "evidence_urls": [
+                    "https:\/\/www.monitor.co.ug\/uganda\/news\/national\/china-to-help-uganda-fight-internet-abuse-1712478",
+                    "https:\/\/www.voanews.com\/a\/china-s-digital-silk-road-in-africa-raises-questions-\/6999613.html",
+                    "https:\/\/www.ft.com\/content\/e20580de-c35f-11e9-a8e9-296ca66511c9",
+                    "https:\/\/www.reuters.com\/article\/idUSKCN1V50QL\/",
+                    "https:\/\/www.wsj.com\/articles\/huawei-technicians-helped-african-governments-spy-on-political-opponents-11565793017",
+                    "https:\/\/dfrlab.org\/2023\/05\/15\/africas-demand-for-and-adoption-of-chinese-surveillance-technology\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ]
+    },
+    "exposure_rank": 33,
+    "pressure_rank": 44,
+    "alignment_rank": 5
+}

@@ -1,0 +1,1125 @@
+{
+    "name": "Saudi Arabia",
+    "partner": "Dr. Muhammad Zulfikar Rakhmat",
+    "year": "Oct 2024",
+    "population": 32.87,
+    "GDP": "28,894.96",
+    "freemap": 8,
+    "freemap_status": "Not Free",
+    "freedom_index": 166,
+    "date_prc": "21-Jul-90",
+    "takeaway": [
+        "The Media Domain is quite interesting as regards Saudi Arabia's cooperation with the PRC. The media reported positive things about relations between the two countries and described relations between the two countries as close friendship, partnership, and brotherhood spanning over 32 years. The State Administration of Press, Publication, Radio, Film and Television of China also signed cooperation documents with the Radio and Television Supreme Council of Turkey and the General Commission of Audiovisual Media of Saudi Arabia. China Central Television will set up the \"Belt and Road News Alliance\" with mainstream media of relevant countries.",
+        "Despite strong ties with Taiwan, Saudi Arabia upholds the one China principle. Saudi Arabia supports the PRC's stance on Xinjiang and Tibet, and cooperates with Hong Kong as a bridge to achieve cooperation with Mainland China, without criticizing China's treatment of Hong Kong.",
+        "In the Academia Domain, the Kingdom of Saudi Arabia has implemented the Chinese language in the curriculum at all stages of education in Saudi schools and universities. Besides, the Huawei ICT Academy program partners with the Saudi Digital Academy. Saudi Arabia\u2019s sovereign wealth fund also has made its first major foray into the Chinese games market, betting on a Tencent Holdings Ltd.-backed esports tournament organizer. On the other hand, KAUST (King Abdullah University of Science and Technology) became a recipient of funding from the National Natural Science Foundation of China and the 973 Program.",
+        "In the Technology Domain, Huawei has became a major player in the deployment of 5G networks across the Saudi market (through carriers including Saudi Telecom Company, Mobily, and Zain). Apart from the 5G field, there have been discussions between the two countries on smart-city cooperation and on developing artificial intelligence. Saudi Arabia have also already established initial space cooperation with China. A small camera from the King Abdulaziz City for Science & Technology (KACST) flew on the Longjiang-2 (DSLWP-B) lunar microsatellite launched with a relay satellite for the Chang\u2019e-4 lunar far side landing."
+    ],
+    "description-1": "In 2023, Saudi Arabia had a GDP per capita of US$28,895 and a total population of 32.87 million people.",
+    "description-2": "Saudi Arabia established full diplomatic relations with the People's Republic of China in 1990. Saudi Arabia was ranked 166th in Reporters Without Borders\u2018 2024 World Press Freedom Index, and rated Not Free in Freedom House\u2018s 2024 Global Freedom Index, with a score of 8\/100.",
+    "original": "181\/396",
+    "ranking": "26",
+    "overall": "45.7%",
+    "exposure": "45%",
+    "pressure": "10%",
+    "alignment": "61%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no information yet about Saudi media being part of the World China Media network, but the Saudi Ministry of Media and the China Media Group announced the launch of a joint partnership initiative to promote relations between Arab countries and China ",
+                "evidence_urls": [
+                    "https:\/\/www.arabnews.com\/node\/2211281\/media"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "grading": "1",
+                "evidence": "China's State Administration of Press, Publication, Radio, Film and Television signed a cooperation document with Saudi Arabia's General Commission of Audiovisual Media. Where they will form a \"Belt and Road News Alliance\" with mainstream media in Saudi.",
+                "evidence_urls": [
+                    "https:\/\/covid-19.chinadaily.com.cn\/newsrepublic\/2017-05\/16\/content_29374204.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "grading": "1",
+                "evidence": "A group of Arab league member countries, including Saudi Arabia, visited Xinjiang in 2023.\n\nDuring the trip in 2019, the journalists, from countries including China, the United States, Russia, Italy, Japan, Saudi Arabia, Turkey and Iran, interacted extensively with local farmers, students, clerics, workers as well as trainees at vocational education and training centers.\n\nThey agreed that the Chinese government has made progress in cracking down on and preventing terrorism according to the law, safeguarding the religious freedom of its citizens, preserving traditional culture of minor ethnic groups and improving people's livelihoods.",
+                "evidence_urls": [
+                    "https:\/\/www.globaltimes.cn\/page\/202306\/1291964.shtml",
+                    "http:\/\/english.scio.gov.cn\/scionews\/2019-07\/23\/content_75023620.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "grading": "1",
+                "evidence": "A number of Saudi students received media trainings in China.",
+                "evidence_urls": [
+                    "https:\/\/www.arabnews.com\/node\/2334426\/saudi-arabia"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There are several Chinese-owned TV channels that are distributed in Arabic, for example channels from CGTN and CCTV.",
+                "evidence_urls": [
+                    "https:\/\/arabic.cgtn.com\/home",
+                    "http:\/\/cctv.cntv.cn\/lm\/news_arabic\/01\/index.shtml",
+                    "https:\/\/www.nytimes.com\/2009\/07\/27\/business\/media\/27iht-tv.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No, but Chinese state-owned media have established its Arabic branches.",
+                "evidence_urls": [
+                    "https:\/\/arabic.cgtn.com\/home",
+                    "http:\/\/cctv.cntv.cn\/lm\/news_arabic\/01\/index.shtml",
+                    "https:\/\/www.nytimes.com\/2009\/07\/27\/business\/media\/27iht-tv.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There is a Joint Cooperation Agreement Between the Saudi Press Agency and the Chinese Xinhua News Agency. Moreover, articles from Chinese state media and Xi Jinping's have been widely posted in Saudi media",
+                "evidence_urls": [
+                    "https:\/\/english.news.cn\/20221208\/cc10b8d41b3749a78ec981ceeda6b26b\/c.html",
+                    "https:\/\/www.fmprc.gov.cn\/eng\/gjhdq_665435\/2675_665437\/2878_663746\/2879_663748\/200206\/t20020605_534599.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "grading": "0",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "10",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There are media reposting Xi Jinping or other Chinese politicians that ties between China and Saudi are based on \"friendship\" and \"brotherhood\"",
+                "evidence_urls": [
+                    "https:\/\/saudigazette.com.sa\/article\/627767#google_vignette",
+                    "https:\/\/www.arabnews.com\/node\/2212286\/saudi-arabia"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Yes, there is Saudi-Chinese Parliamentary Friendship Committee ",
+                "evidence_urls": [
+                    "https:\/\/www.spa.gov.sa\/w1833737"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "13",
+                "score": "0",
+                "grading": "1",
+                "evidence": "It is the other way around: Saudi sent aids to China",
+                "evidence_urls": [
+                    "https:\/\/www.spa.gov.sa\/w1265752"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "14",
+                "score": "2",
+                "grading": "1",
+                "evidence": "In 2016, Saudi Special Forces traveled to Chengdu for joint training exercises with their Chinese counterparts, including anti-terrorism drills, hostage situations, and extreme weather condition drills. Central Party School also held a summit named \"China-Arabia Civil Exchange and Development Forum\" in 2023 including representative from Saudi Arabia.",
+                "evidence_urls": [
+                    "https:\/\/www.atlanticcouncil.org\/wp-content\/uploads\/2020\/08\/Sino-Saudi-Relations_WEB.pdf",
+                    "http:\/\/www.chinaarabcf.org\/zagx\/rwjl\/202311\/t20231114_11179906.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "grading": "0",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Saudi is a member of CCICED and has participated in its meeting.",
+                "evidence_urls": [
+                    "http:\/\/en.cciced.net\/ABOUTUS\/Membership\/Membership\/PreviousCouncilMembers\/202206\/t20220607_131158.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Both countries signed a strategic partnership in 2016.",
+                "evidence_urls": [
+                    "https:\/\/www.atlanticcouncil.org\/wp-content\/uploads\/2020\/08\/Sino-Saudi-Relations_WEB.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "18",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Despite strong ties with Taiwan, Saudi Arabia upholds one China policy",
+                "evidence_urls": [
+                    "https:\/\/www.defensemirror.com\/news\/33256\/Taiwan_Upset_as_China_Saudi_Arabia_Issue__One_China__Joint_Statement"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "grading": "2",
+                "evidence": "Saudi Arabian officials tend to support China in the South China Sea dispute by criticising the US presence in the region. ",
+                "evidence_urls": [
+                    "https:\/\/www.lowyinstitute.org\/the-interpreter\/did-saudi-arabia-just-side-china-south-china-sea"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "grading": "2",
+                "evidence": "Saudi Arabia, a key ally of China in the Arab world, has shown support for Beijing's crackdown on Uighur culture in the past. ",
+                "evidence_urls": [
+                    "https:\/\/time.com\/6160282\/arab-world-complicit-china-repression-uighurs\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "21",
+                "score": "4",
+                "grading": "2",
+                "evidence": "Saudi Arabia is one of the countries supporting China at the UN, which voiced that the issues of Xinjiang, Hong Kong and Tibet are China's internal affairs. ",
+                "evidence_urls": [
+                    "http:\/\/un.china-mission.gov.cn\/eng\/hyyfy\/202211\/t20221101_10794920.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "grading": "2",
+                "evidence": "Saudi Arabia cooperates with Hong Kong as a bridge to achieve cooperation with Mainland China without criticising China's treatment of Hong Kong. ",
+                "evidence_urls": [
+                    "https:\/\/www.scmp.com\/tech\/article\/3226303\/saudi-arabia-deepen-ties-hong-kong-using-city-bridge-mainland-chinas-world-class-digital-prowess"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Huawei ICT Academy program has partnership with the Saudi Digital Academy.\n\nSaudi Arabia\u2019s wealth fund has made its first major foray into the Chinese games market, betting on a Tencent Holdings Ltd.-backed esports tournament organizer.",
+                "evidence_urls": [
+                    "https:\/\/www.arabnews.com\/node\/2332196\/business-economy",
+                    "https:\/\/www.dealstreetasia.com\/stories\/saudis-pif-buys-265m-stake-in-tencent-backed-chinese-gaming-company-vspo-330475",
+                    "https:\/\/www.bloomberg.com\/news\/articles\/2023-02-16\/saudi-arabia-funds-tencent-backed-vspo-in-first-china-games-bet"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "24",
+                "score": "1",
+                "grading": "1",
+                "evidence": "In 2023, Saudi Arabia has inaugurated the Confucius Institute in the Prince Sultan University. ",
+                "evidence_urls": [
+                    "https:\/\/english.news.cn\/20230606\/abb9fac1ea384ebca68aade5f1eef118\/c.html",
+                    "https:\/\/en.szu.edu.cn\/info\/1013\/1463.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "grading": "0",
+                "evidence": " The Kingdom of Saudi Arabia has implemented the Chinese language in the curriculum at all stages of education in Saudi schools and universities.",
+                "evidence_urls": [
+                    "https:\/\/carnegieendowment.org\/sada\/87950",
+                    "https:\/\/www.siasat.com\/saudi-arabia-includes-chinese-language-in-its-educational-system-2203817\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Saudi Arabia is a member of Silk Road Forensics Consortium and \"Belt and Road Digital Economy International Cooperation Initiative",
+                "evidence_urls": [
+                    "https:\/\/eng.yidaiyilu.gov.cn\/p\/86739.html",
+                    "https:\/\/sinopsis.cz\/en\/rolland-bri-influence-operations\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "27",
+                "score": "1",
+                "grading": "1",
+                "evidence": "KAUST is a recipient of funding from the National Natural Science Foundation of China and the 973 Program",
+                "evidence_urls": [
+                    "https:\/\/carnegieendowment.org\/2023\/08\/01\/how-saudi-arabia-bent-china-to-its-technoscientific-ambitions-pub-90301"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "grading": "1",
+                "evidence": "Saudi Digital Academy has signed a deal with China's telecom giant Huawei on developing local technological talents",
+                "evidence_urls": [
+                    "https:\/\/saudigazette.com.sa\/article\/616712"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "29",
+                "score": "2",
+                "grading": "1",
+                "evidence": "In early 2023, Saudi scholars visited Uyghur under the invitation of the Chinese government",
+                "evidence_urls": [
+                    "https:\/\/www.newarab.com\/news\/saudi-syria-uae-scholars-visit-uyghur-province-hail-china"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Middle Eastern countries are offering Chinese as a foreign language in their education systems. The government of Saudi Arabia alone has offered Chinese Foreign Language (CFL) as a non-mandatory as a non-compulsory subject in public universities. ",
+                "evidence_urls": [
+                    "https:\/\/files.eric.ed.gov\/fulltext\/EJ1240337.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "33",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Scholars who have gone trips to China deny China's human rights abuses",
+                "evidence_urls": [
+                    "https:\/\/www.globaltimes.cn\/page\/202306\/1291964.shtml"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "35",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There is a sister-city agreement between Jeddah and Xi'an",
+                "evidence_urls": [
+                    "http:\/\/en.sistercity.info\/sister-cities\/Xi'an.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "36",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Saudi politicians have traveled to Xinjiang under the invitation of the Chinese government",
+                "evidence_urls": [
+                    "https:\/\/www.globaltimes.cn\/page\/202306\/1291964.shtml"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Vice Mayor Fang Guoqiang met with the six-member delegation headed by Dr. Abdulrahman al-Shaikh, deputy minister of the Ministry of Municipal and Rural Affairs of the Kingdom of Saudi Arabia",
+                "evidence_urls": [
+                    "https:\/\/www.changzhou.gov.cn\/ns_news\/811148954599968"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "38",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Liu Jianchao, Minister of the International Department of the Central Committee of the Communist Party of China met Faisal Ibrahim, Minister of Economy and Planning of the Kingdom of Saudi Arabia in Beijing on June 29, 2023. ",
+                "evidence_urls": [
+                    "http:\/\/cpc.people.com.cn\/n1\/2023\/0702\/c64387-40025778.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "42",
+                "score": "2",
+                "grading": "1",
+                "evidence": "During the meeting with Wang Yi in 2022, Saudi Foreign Min ister said that Saudi Arabia is committed to the one-China policy, firmly opposes interference in China's internal affairs, and firmly rejects politicization of the human rights issue",
+                "evidence_urls": [
+                    "http:\/\/sg.china-embassy.gov.cn\/eng\/zgwj\/202211\/t20221101_10795076.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "grading": "0",
+                "evidence": "China is a top trading partner for Saudi Arabia",
+                "evidence_urls": [
+                    "https:\/\/www.arabnews.com\/node\/2213231\/business-economy"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "grading": "0",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "grading": "0",
+                "evidence": "In the first 10 months of 2022, China\u2019s Saudi oil imports reached 1.77 million barrels per day, valued at $55.5 billion, according to Chinese customs data.",
+                "evidence_urls": [
+                    "https:\/\/www.arabnews.com\/node\/2213231\/business-economy"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Chinese tech giant Huawei will soon be taking a decision on where to locate a data centre in Saudi Arabia, its second in the Middle East. It was last year that it went operational in Abu Dhabi with the first data centre.\n\nThis means Huawei is going to have a local public cloud region in Saudi Arabia using data center and connectivity services from local providers.",
+                "evidence_urls": [
+                    "https:\/\/www.arabnews.com\/node\/2213571\/business-economy",
+                    "https:\/\/www.energyintel.com\/00000187-7583-dc67-a1c7-77bf110f0000",
+                    "https:\/\/www.datacenterdynamics.com\/en\/news\/huawei-to-host-saudi-cloud-region-in-center3-data-center\/",
+                    "https:\/\/gulfnews.com\/business\/huawei-signs-off-on-saudi-data-centre-investment-set-to-finalise-location-1.89774910",
+                    "https:\/\/www.scmp.com\/tech\/big-tech\/article\/3180915\/alibabas-cloud-services-business-launches-two-new-data-centres-saudi",
+                    "https:\/\/w.media\/chinese-telecom-firm-to-advance-digital-media-ecosystem-in-saudi-arabia\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Saudi Arabia joined AIIB in 2016",
+                "evidence_urls": [
+                    "https:\/\/www.aiib.org\/en\/about-aiib\/governance\/members-of-bank\/index.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Several Saudi businesses are members of these associations.",
+                "evidence_urls": [
+                    "http:\/\/www.orientcpnme.am\/media\/attachments\/29\/29__2021-12-29-09-36-36.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Saudi signed agreement with Saudi on CIPS in November 2023",
+                "evidence_urls": [
+                    "https:\/\/www.cointribune.com\/en\/saudi-arabia-and-china-sign-the-end-of-the-petrodollar\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "grading": "0",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Not bilaterally, but regionally through China-GCC FTA",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/world\/middle-east\/gcc-china-free-trade-deal-must-protect-emerging-gulf-industries-saudi-minister-2023-06-11\/",
+                    "https:\/\/www.atlanticcouncil.org\/wp-content\/uploads\/2020\/08\/Sino-Saudi-Relations_WEB.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Saudi has established Jazan Special Economic Zone to attract Chinese investments.",
+                "evidence_urls": [
+                    "https:\/\/www.washingtoninstitute.org\/policy-analysis\/how-small-saudi-city-explains-chinas-role-saudi-iran-agreement",
+                    "https:\/\/link.springer.com\/chapter\/10.1007\/978-981-19-7796-1_31"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "grading": "0",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "grading": "0",
+                "evidence": "China Telecom and China Mobile have provided telecom services in Saudi Arabia",
+                "evidence_urls": [
+                    "https:\/\/www.cmi.chinamobile.com\/en\/news-and-events\/news\/detail?id=1755",
+                    "http:\/\/www.saudi-cocc.net\/en\/home\/148.html",
+                    "https:\/\/www.zawya.com\/en\/projects\/bri\/china-telecom-global-signs-partnership-pact-with-zain-omantel-international-pgfhz1t3"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "57",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Huawei has became a major player in the deployment of 5G networks across the Saudi market (through carriers including Saudi Telecom Company, Mobily, and Zain)",
+                "evidence_urls": [
+                    "https:\/\/carnegieendowment.org\/2023\/08\/01\/how-saudi-arabia-bent-china-to-its-technoscientific-ambitions-pub-90301"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "58",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Huawei announced on February 9 2023 that it completed the 5G PON test with Saudi Telecom Co(STC) for the first time in the Middle East. \nPON stands for a passive optical network and refers to a system that transmits signals to end users through an optical cable network.",
+                "evidence_urls": [
+                    "https:\/\/carnegieendowment.org\/2023\/08\/01\/how-saudi-arabia-bent-china-to-its-technoscientific-ambitions-pub-90301"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Huawei has became a major player in the deployment of 5G networks across the Saudi market (through carriers including Saudi Telecom Company, Mobily, and Zain)",
+                "evidence_urls": [
+                    "https:\/\/carnegieendowment.org\/2023\/08\/01\/how-saudi-arabia-bent-china-to-its-technoscientific-ambitions-pub-90301"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "60",
+                "score": "1",
+                "grading": "1",
+                "evidence": "In 2022, Saudi Arabia and China will work closely together on developing artificial intelligence as part of a deal struck between the two nations.\n\nIt also covers cooperation in the fields of artificial intelligence, advanced computing and quantum information technology, in addition to robots and smart equipment, and work to develop their technologies and applications for industrial and commercial purposes.\n\nWithin the framework of this partnership, the two sides will also cooperate in the field of digital technology applications and radio frequency spectrum management, in addition to their cooperation in developing and building local capabilities in communication and data centers, developing digital platforms and cloud computing services, and expanding submarine cable projects.\n\nSaudi Arabia, another major investor in AI, is an increasingly appealing market for China due to its energy reserves and key geostrategic placement in the Middle East. Surveillance by Beijing of Chinese Muslims participating in the Hajj pilgrimage has been linked to Saudi\u2019s AI-based crowd-control equipment designed to revamp security at holy sites and during Hajj pilgrimages. The Saudi government, after putting its mega-Smart-city plans for \u201cNeom\u201d on hold this year\u2014despite Chinese interests in investing in the project\u2014is working closely with Huawei on another Smart City-based project elsewhere. Huawei has strategically marketed its Safe City technology to Saudi Arabia as an advanced, streamlined way to counter extremism and enhance urban safety, a major goal of the Saudi government.",
+                "evidence_urls": [
+                    "https:\/\/www.arabnews.com\/node\/2213531\/jserrors\/page_view_timing\/page_action\/aggregate",
+                    "https:\/\/www.scmp.com\/economy\/global-economy\/article\/3228218\/ai-dates-china-and-saudi-arabia-explore-new-oases-beyond-oil-obstacles-remain",
+                    "https:\/\/redanalysis.org\/2023\/01\/31\/china-saudi-arabia-arab-ai-rise\/",
+                    "https:\/\/www.middleeastbriefing.com\/news\/saudi-arabia-china-working-closely-together-in-artificial-intelligence-life-management-applications\/",
+                    "https:\/\/eng.yidaiyilu.gov.cn\/p\/306405.html",
+                    "https:\/\/www.washingtoninstitute.org\/policy-analysis\/rise-chinese-ai-gulf-renewal-chinas-serbia-model"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "61",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There has been discussions between the two countries on smart-city cooperation",
+                "evidence_urls": [
+                    "https:\/\/carnegieendowment.org\/2023\/08\/01\/how-saudi-arabia-bent-china-to-its-technoscientific-ambitions-pub-90301"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "grading": "0",
+                "evidence": "China\u2019s three main carriers \u2013 China Telecommunications Corporation (China Telecom), China Mobile Limited and China United Network Communications Group Co Ltd (China Unicom) \u2013 are mapping out one of the world\u2019s most advanced and far-reaching subsea cable networks, according to the four people, who have direct knowledge of the plan.\n\nKnown as EMA (Europe-Middle East-Asia), the proposed cable would link Hong Kong to China\u2019s island province of Hainan, before snaking its way to Singapore, Pakistan, Saudi Arabia, Egypt and France.",
+                "evidence_urls": [
+                    "https:\/\/www.agbi.com\/article\/chinas-500m-subsea-optic-cable-to-link-middle-east\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "grading": "1",
+                "evidence": "Its the other way around: Saudi invest in Chinese startups",
+                "evidence_urls": [
+                    "https:\/\/www.al-monitor.com\/originals\/2023\/12\/saudi-pif-ups-investment-chinas-alibaba-backed-tech-fund"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "64",
+                "score": "4",
+                "grading": "1",
+                "evidence": "In December 2022, Saudi Arabia signed a memorandum of understanding with China's Huawei Technologies (HWT.UL) on cloud computing and building high-tech complexes in Saudi cities\n\nThe Saudi Ministry of Communications and Information Technology (MCIT) and Huawei signed a MoU to enhance cooperation in the field of communications and information technology. The Ministry and Huawei will collaborate to:\n\nDevelop '10Gbps Society', with superfast broadband infrastructure to support the digital transformation goals of Saudi Vision 2030. An initial 10GB district pilot will be launched in 2023.\nBuild a nationwide Unified Government Network Infrastructure standard to serve all government entities\nSupport Huawei\u2019s plans to build a cloud computing region in the Kingdom and develop partnerships with local data centre service providers.\nTo support digital entrepreneurs working on smart cities, IoT, AI, gaming, fintech, e-commerce, and blockchain projects\n\n The Saudi Data and Artificial Intelligence Authority (SDAIA) has signed an agreement with Alibaba Cloud to empower Saudi cities with intelligence-driven smart city solutions. Saudi Arabia\u2019s National Center for Artificial Intelligence (NCAI) will work with Huawei to train local AI engineers to ensure a skills pipeline to support a diversified and data-driven economy. In contrast, Alibaba Cloud technologies will support Saudi Arabia\u2019s smart city ambitions. Meanwhile, Alibaba Cloud has agreed to work with the NCAI to develop digital and AI for smart cities. Through Alibaba Cloud\u2019s AI Platform, they will jointly build safety and security, mobility, urban planning, energy, education, and health.",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/technology\/saudi-arabia-signs-mou-with-chinas-huawei-statement-2022-12-08\/",
+                    "https:\/\/www.zawya.com\/en\/projects\/industry\/saudi-china-deal-sheet-major-agreements-to-boost-two-way-investments-kn4k49ya",
+                    "https:\/\/forkast.news\/china-bsn-saudi-series-a-30m\/",
+                    "https:\/\/news.cgtn.com\/news\/2023-07-11\/Chinese-companies-offer-solutions-for-Saudi-s-digital-transformation-1lm32s8gd9u\/index.html",
+                    "https:\/\/www.yicaiglobal.com\/news\/china-is-to-data-what-saudi-arabia-is-to-oil-kaifu-lee-tells-ai-forum",
+                    "https:\/\/www.mei.edu\/publications\/china-gcc-digital-economic-cooperation-age-strategic-rivalry",
+                    "http:\/\/hu.china-embassy.gov.cn\/hu\/zgyw\/202103\/t20210325_9029584.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Saudi Arabia and the UAE have also already established initial space cooperation with China. A small camera from the King Abdulaziz City for Science & Technology (KACST) flew on the Longjiang-2 (DSLWP-B) lunar microsatellite launched with a relay satellite for the Chang\u2019e-4 lunar far side landing.\n\n\nSaudi Arabia will also send an experiment to Tiangong through a cooperation mechanism established by China\u2019s human spaceflight agency and the United Nations Office for Outer Space Affairs (UNOOSA). The experiment will study the effect of cosmic rays on the performance of the high efficiency solar cells. The Saudisat 5A and 5B satellites were launched by a Long March 2D in 2018.",
+                "evidence_urls": [
+                    "https:\/\/spacenews.com\/china-looks-to-build-space-partnerships-with-gulf-nations\/#:~:text=Saudi%20Arabia%20and%20the%20UAE,4%20lunar%20far%20side%20landing."
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "grading": "0",
+                "evidence": "The Saudi Ministry of Defense signing an MoU to cooperate with\nthe Equipment Development Commission of China on the military use of the Beidou Navigation Satellite System",
+                "evidence_urls": [
+                    "https:\/\/www.atlanticcouncil.org\/wp-content\/uploads\/2020\/08\/Sino-Saudi-Relations_WEB.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "grading": "0",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "grading": "0",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "70",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There have been events, namely to celebrate Lunar New Year hosted by Chinese embassies and consulates in Saudi Arabia",
+                "evidence_urls": [
+                    "https:\/\/kfcris.com\/pdf\/364dd98d47dae1c81e9eb8362a086bf85af3e7e7f302e.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "grading": "0",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "grading": "1",
+                "evidence": "In 2017, an animation series, Kong Xiaoxi and Hakim, co-produced by China and Saudi Arabia, premiered in Saudi Arabia",
+                "evidence_urls": [
+                    "https:\/\/www.chinadaily.com.cn\/a\/202212\/09\/WS639272e8a31057c47eba37db.html",
+                    "https:\/\/www.chinadaily.com.cn\/culture\/2017-02\/24\/content_28338860.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "grading": "0",
+                "evidence": "As of October 2023, Saudi Arabia and the United Arab Emirates were the countries with the highest TikTok reach, with virtually over 130 percent of the population aged 18 and older using the popular social video app. WeChat is also popular in Saudi Arabia.",
+                "evidence_urls": [
+                    "https:\/\/www.statista.com\/statistics\/1299829\/tiktok-penetration-worldwide-by-country\/#:~:text=As%20of%20April%202023%2C%20Saudi,reach%20of%20over%20100%20percent.",
+                    "https:\/\/saudigazette.com.sa\/article\/47305",
+                    "https:\/\/worldpopulationreview.com\/country-rankings\/wechat-users-by-country"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "75",
+                "score": "1",
+                "grading": "1",
+                "evidence": "In December 2022, some 40 art works created by Arab artists who visited China have been exhibited in Saudi Arabia's capital Riyadh to highlight the latest achievements of the China-Arab cultural exchanges and mutual learning.\n\nThe Dec. 8-9 exhibition, co-organized by the Chinese Ministry of Culture and Tourism, Saudi Ministry of Culture and Arab League, was held in the Palace of Culture.",
+                "evidence_urls": [
+                    "https:\/\/english.news.cn\/20221209\/c2e30075089b460e907aadfbe6e76532\/c.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Yes, Saudis have relatively positive perceptions of China, but there is limited poll available",
+                "evidence_urls": [
+                    "https:\/\/www.files.ethz.ch\/isn\/161857\/china_in_the_Eyes_of_the_Saudi_Media_7038.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "grading": "0",
+                "evidence": "According to the Stockholm International Peace Research Institute, Saudi Arabia\u2019s first known arms deal with China, and so far the only public missile purchase, was the DF-3 medium-range nuclear missiles it bought in 1986. Saudi Arabia bought 50 DF-3 missiles with conventional warheads.\n\nRiyadh since bought 54 PLZ-45 self-propelled guns in 2007, five CH-4B drones in 2014 and more than 30 Wing Loong-1 and 2 armed unmanned aerial vehicles (UAVs) in 2014 and 2017.\n\nThe CH-4 armed reconnaissance drones have been used in major battlefields in the Yemen war and also recently by the Pakistani forces to fight militants in Balochistan. It was reportedly the most sold item \u2013 up to 300 \u2013 to Saudi Arabia during the Zhuhai Air Show, although the deal has not been confirmed by Riyadh or Beijing.\n\nThe Wing Loong UAV, a medium-attitude, long-endurance drone that can also be armed with missiles. Its third generation, an intercontinental drone that can fly 10,000km, made its debut at the Zhuhai show this year.\n\nThe reported order at the Zhuhai Air Show also included a production line of TB001 UAVs, also a medium-altitude, long-endurance combat drone that the PLA started to use on patrols near Taiwan this year; YJ-21 anti-ship ballistic missiles, a carrier-based hypersonic missile with combat range of over 2,000km (1,200 miles); and the \u201cSilent Hunter\u201d anti-drone laser-based systems.\n\nBesides sales on the public record, China reportedly secretly sold DF-21 missiles to Riyadh in 2007, with the CIA\u2019s approval after finding the missiles were not nuclear-capable. Some observers say that compared with the DF-3, the DF-21 is much more accurate and is sometimes called a \u201ccarrier killer\u201d.\n\n\nIn May 2023, Saudi Arabian Military Industries (SAMI) was in talks with China North Industries Group Corporation (Norinco), a state-owned defence company, to buy weapons ranging from reconnaissance drones to air defence systems, according to Tactical Report, a Beirut-based intelligence service focused on the Middle East.",
+                "evidence_urls": [
+                    "https:\/\/www.scmp.com\/news\/china\/diplomacy\/article\/3202245\/why-saudi-arabia-looking-china-buy-weapons-after-years-arms-deals-us"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "79",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Saudi Arabia has joined the Conference on Interaction and Confidence Building Measures in Asia (CICA) as an Observer State in December 2023.",
+                "evidence_urls": [
+                    "https:\/\/www.s-cica.org\/index.php?view=page&t=press_releases&id=1941"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Saudi and Chinese industry have joined forces to design and build military drones in the kingdom.\n\nAdvanced Communications and Electronics Systems Co. signed an agreement with China Electronics Technology Group Corp.\n\nIn 2022, the two countries' defense ministries were also said to be discussing the establishment of joint military production lines in the Kingdom.\n\nThe General Authority for Military Industries (GAMI) is said to be taking part in this project.",
+                "evidence_urls": [
+                    "https:\/\/www.defensenews.com\/unmanned\/2022\/03\/09\/chinese-and-saudi-firms-create-joint-venture-to-make-military-drones-in-the-kingdom\/",
+                    "https:\/\/www.tacticalreport.com\/daily\/60472-saudi-gami-china-and-joint-military-production-industries"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "grading": "0",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "grading": "0",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "83",
+                "score": "4",
+                "grading": "0",
+                "evidence": "The PLAN has also sent vessels to Iran, Kuwait, Oman, Qatar, and Saudi Arabia, and it continues to deepen ties with regional navies through exercises",
+                "evidence_urls": [
+                    "https:\/\/www.aei.org\/articles\/chinas-growing-naval-influence-in-the-middle-east\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "grading": "0",
+                "evidence": "In 2016, Saudi Special Forces traveled to Chengdu for joint training exercises with their Chinese counterparts, including anti-terrorism drills, hostage situations, and extreme weather condition drills.59 In late 2019, the two countries held a three-week joint naval exercise at a Saudi base \u201cto build trust between the two sides to combat maritime terrorism and piracy.\"",
+                "evidence_urls": [
+                    "https:\/\/www.atlanticcouncil.org\/wp-content\/uploads\/2020\/08\/Sino-Saudi-Relations_WEB.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Chinese State Councilor and Minister of National Defense Wei Fenghe held talks via video link with Saudi Arabia's Deputy Defense Minister Khalid bin Salman on January 26, 2022.",
+                "evidence_urls": [
+                    "http:\/\/eng.mod.gov.cn\/xb\/News_213114\/TopStories\/4903623.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Saudi Minister of Foreign Affairs Adel al-Jubeir lauded Xi's visit as \"historic,\" saying that the upgrading of the ties and the establishment of the high-level steering committee usher in a new era of the bilateral relations and open up an even broader prospect.\n\nKhalid bin Salman, Saudi's deputy defense minister, in a meeting with Wei Fenghe, said that the comprehensive strategic partnership between Saudi Arabia and China has been developing steadily and the military cooperation between the two countries has made great progress, yielding substantial results. The two militaries should improve practical cooperation and further enhance bilateral relations, Khalid said.",
+                "evidence_urls": [
+                    "http:\/\/newyork.china-consulate.gov.cn\/eng\/xw\/201601\/t20160121_4715188.htm",
+                    "http:\/\/eng.mod.gov.cn\/xb\/News_213114\/TopStories\/4903623.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "grading": "0",
+                "evidence": "In 2019, the Royal Saudi Navy\u2019s Special Forces of the Western Fleet carried out a joint military exercise with China\u2019s People\u2019s Liberation Army Navy. In 2023, Saudi Arabian officers and soldiers participating in the China-Saudi Arabia \"Blue Sword - 2023\" naval special warfare joint training in China.",
+                "evidence_urls": [
+                    "https:\/\/www.arabnews.com\/node\/1594821\/saudi-arabia",
+                    "https:\/\/www.arabnews.com\/node\/1585431\/saudi-arabia",
+                    "http:\/\/big5.news.cn\/gate\/big5\/www.news.cn\/mil\/2023-10\/09\/c_1212286141.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Saudi Arabia has signed an extradition treaty with China",
+                "evidence_urls": [
+                    "https:\/\/www.jurist.org\/news\/2022\/04\/un-experts-urge-saudi-arabia-not-to-extradite-two-uyghur-detainees-to-china\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Since 2016, Saudi Arabia and China have agreed to increase cooperation on security and counter-terrorism issue",
+                "evidence_urls": [
+                    "https:\/\/www.newarab.com\/news\/saudi-arabia-and-china-sign-security-pact",
+                    "https:\/\/www.scmp.com\/news\/china\/military\/article\/3237401\/chinese-and-saudi-navies-launch-joint-counterterrorism-exercise-against-backdrop-israel-hamas-war"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "grading": "0",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "93",
+                "score": "2",
+                "grading": "1",
+                "evidence": "In 2018, China and Saudi Arabia signed a memorandum of cooperation between the ministries of justice in the two countries to share judicial information and expertise. It aims to expand legal and judicial cooperation and establish a framework cooperation agreement taking into account national legislations, functions, and authorities of both parties. The two parties agreed to establish a foundation for cooperation in legislation, legal dissemination and publication, notarial management, institutional operational management, tech support, and training.",
+                "evidence_urls": [
+                    "https:\/\/www.zawya.com\/en\/legal\/saudi-arabia-china-to-share-judicial-expertise-vb2860g7",
+                    "https:\/\/www.arabnews.com\/node\/1222606\/saudi-arabia"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "grading": "1",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "grading": "0",
+                "evidence": "In 2021, China hacked dozens of Saudi public and private sector groups.\n\nThe massive cyber attack appears to be part of a long-term spying strategy in the area of technology and business competition and advancement, rather than a desire to harm any of the target countries or businesses.",
+                "evidence_urls": [
+                    "https:\/\/nepalnews.com\/s\/global\/china-s-cyberattack-on-israel-iran-and-saudi-arabia",
+                    "https:\/\/www.indianarrative.com\/world-news\/chinese-hackers-launch-another-cyberattack-on-middle-eastern-countries-23586.html",
+                    "https:\/\/www.jpost.com\/international\/china-hacks-israel-saudi-to-collect-info-for-tech-business-advances-676326"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "grading": "0",
+                "evidence": "We are unable to find any source which indicates it",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "97",
+                "score": "4",
+                "grading": "0",
+                "evidence": "In 2022, Buheliqiemu Abula and her teenage daughter were detained near Mecca and told by police they faced deportation to China along with two Uyghur men already held",
+                "evidence_urls": [
+                    "https:\/\/www.hrw.org\/news\/2022\/01\/10\/saudi-arabia-imminent-deportation-uyghur-detainees"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "98",
+                "score": "4",
+                "grading": "0",
+                "evidence": "In 2022, Saudi Arabia was about to quietly deport a 13-year-old Uyghur child and her mother\u2014along with two other Uyghurs\u2014to China",
+                "evidence_urls": [
+                    "https:\/\/www.ohchr.org\/en\/press-releases\/2022\/04\/saudi-arabia-un-experts-say-uyghurs-must-not-be-extradited-china-urge-proper"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "grading": "0",
+                "evidence": "It is reported that China has undertaken the cyber security of the artificial city that Saudi Arabia will build in the desert.",
+                "evidence_urls": [
+                    "https:\/\/www.steelradar.com\/en\/cybersecurity-of-project-neom-will-be-provided-by-china\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ]
+    },
+    "exposure_rank": 31,
+    "pressure_rank": 44,
+    "alignment_rank": 7
+}

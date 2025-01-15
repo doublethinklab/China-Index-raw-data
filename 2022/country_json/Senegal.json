@@ -1,0 +1,908 @@
+{
+    "name": "Senegal",
+    "partner": "Code for Africa",
+    "year": "2022",
+    "GDP": "$1,606.5",
+    "population": "17.1M",
+    "original": "69/388",
+    "ranking": "74",
+    "overall": "18%",
+    "effect": "16%",
+    "exposure": "22%",
+    "pressure": "2%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.radiomorphoses.fr/index.php/2018/05/21/radio-chinoise-senegal/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "Senegal has been BRI countries since 2018 but we did not find any evidence of a journalist or media in Senegal being member of the Belt and Road Media Union",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.francetvinfo.fr/monde/afrique/societe-africaine/la-chine-veut-briser-lhegemonie-mediatique-occidentale-en-afrique_3057271.html",
+                    "https://www.voaafrique.com/a/chine-cajole-journalistes-africains-face-occident/3204558.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ege.fr/infoguerre/2012/04/chine-forme-les-nouveaux-journalistes-africains",
+                    "https://emedia.sn/des-professionnels-des-medias-senegalais-a-l-ecole-chinoise.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.radiomorphoses.fr/index.php/2018/05/21/radio-chinoise-senegal/",
+                    "http://rcisenegal.com/index.php/fr/presentation"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.jeuneafrique.com/mag/632809/economie/medias-le-chinois-startimes-passe-en-force-au-senegal/",
+                    "https://www.agenceecofin.com/investissement/1510-33146-la-radio-chine-internationale-se-lance-dans-la-conquete-de-l-espace-mediatique-senegalais"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.lesechos.fr/tech-medias/medias/startimes-loperateur-chinois-a-lassaut-de-laudiovisuel-africain-1040962"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No evidence has been found to support this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/ce/cebe/fra/zxxx/t537801.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/fra/zxxx/202111/t20211130_10459159.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "Unclear - only anecdotal evidence available",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://qz.com/africa/1667141/african-leaders-defend-china-arrests-of-uyghur-muslims-in-xinjiang/\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://mesr.gouv.sn/huawei-sengage-aux-cotes-des-universites-publiques-et-privees/",
+                    "https://www.supmagci.com/senegal-lecole-superieure-polytechnique-de-dakar-en-partenariat-avec-huawei-pour-des-formations-en-ligne/#.YMHorTb7Qq0",
+                    "https://www.uvs.sn/luvs-enterine-son-partenariat-avec-lacademie-huawei-et-prend-part-a-la-ceremonie-de-remise-de-distinctions-de-son-etudiant-arona-top/",
+                    "https://www.dakaractu.com/Huawei-accompagne-l-UCAD-dans-la-formation-des-jeunes-en-TIC_a196231.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://confucius.ucad.sn/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.chinafrique.com/Dossiers/rwjl/Renforcement_des_liens/201812/t20181219_800151907.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/mfa_eng/wjdt_665385/2649_665393/202112/t20211202_10461183.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "No clear evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "No clear evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "No evidence to support this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No evidence to support this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No clear evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.pambazuka.org/fr/governance/s%C3%A9n%C3%A9gal-visite-du-ministre-des-affaires-%C3%A9trang%C3%A8res-en-chine"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence to suggest this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence to support this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.jstor.org/stable/pdf/10.7249/j.ctt6wq7ss.12.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No evidence to suggest",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence to suggest",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://french.china.org.cn/foreign/txt/2020-11/18/content_76920738.htm",
+                    "https://www.tresor.economie.gouv.fr/Pays/SN/relations-bilaterales#:~:text=La%20France%20est%20le%20premier,de%2024%25%20en%20g.a)."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.jeuneafrique.com/1001378/economie/qui-detient-la-dette-africaine/",
+                    "https://www.lepoint.fr/afrique/afrique-chine-des-relations-au-beau-fixe-15-03-2021-2417819_3826.php",
+                    "https://lequotidien.sn/dette-des-pays-africains-envers-la-chine-lalerte-de-moodys/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://eiti.org/document/eiti-brief-chinese-companies-reporting-in-eiti-implementing-countries",
+                    "http://seneweb.com/news/Economie/industries-extractives-new-delhi-premier_n_169890.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/fra/wjdt/gb/202112/t20211202_10461196.html",
+                    "https://library.fes.de/pdf-files/bueros/senegal/05267.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/news-events/news/2019/AIIB-Welcomes-Two-New-Prospective-Members.html",
+                    "https://thediplomat-com.translate.goog/2021/08/why-did-the-asian-infrastructure-investment-bank-make-a-loan-to-rwanda/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=sc"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "No evidence to suggest this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No evidence to suggest this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No evidence to suggest this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://fta.mofcom.gov.cn/english/fta_qianshu.shtml",
+                    "https://www.trade.gov/country-commercial-guides/china-trade-agreements"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://french.china.org.cn/foreign/txt/2018-09/03/content_61878784.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence to suggest this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ide.go.jp/English/Data/Africa_file/Manualreport/cia_09.html",
+                    "https://www.voanews.com/a/economy-business_analysts-china-expanding-influence-africa-telecom-network-deals/6209516.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "evidence": "No evidence to suggest this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "No evidence to suggest this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.socialnetlink.org/2021/06/23/data-center-de-diamniadio-macky-sall-magnifie-la-cooperation-chinoise/"
+                ],
+                "note": "There has been collaboration on digital data, but can't confirm whether if it includes facial, voice recognition or other applications involving biometrics achieved by AI.",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://keurcity.com/smart-city-senegal/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "No evidence to suggest this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "None in the top five.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence to suggest this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No evidence to suggest this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/Chinese_people_in_Senegal",
+                    "http://rcisenegal.com/index.php/fr/component/k2/item/156-l-association-des-chinois-residants-au-senegal-participe-a-la-lutte-contre-le-coronavirus-avec-un-cheque-de-17-millions-de-franc-cfa"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No evidence to suggest this at the time of research.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence to suggest this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "skip",
+                "evidence": "Very possible it is the case in Senegal, however the number of people that current evidence indicates is not strong enough to respond \"yes\". ",
+                "evidence_urls": [
+                    "https://www.reuters.com/article/us-senegal-china-idUSKBN1KB0PL"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/China%E2%80%93Senegal_relations#Chinese_military_involvement_in_Senegal",
+                    "https://www.defenceweb.co.za/land/land-land/senegal-has-received-new-armoured-vehicles-from-china/",
+                    "https://www.iol.co.za/news/africa/china-gives-senegal-military-equipment-381419"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "The answer was changed from  Yes to No, as no evidence was found to confirm professional military education.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/Extradition_law_in_China#Countries_with_which_China_maintains_extradition_treaties",
+                    "https://www.seneplus.com/economie/dakar-et-pekin-negocient-des-traites-sur-le-phenomene"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "The agreement has not yet been signed.",
+                "evidence_urls": [
+                    "https://www.france24.com/fr/afrique/20211128-au-sommet-chine-afrique-le-s%C3%A9n%C3%A9gal-demande-le-soutien-de-p%C3%A9kin-au-sahel"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://ocindex.net/country/senegal"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence of this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence to suggest this",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No evidence to suggest this.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Senegal had a GDP per capita of US$1,607 and a total population of 17.19 million people, with the Chinese population comprising 1,000 people, or 0.006% of the total population.",
+    "description-2": "Senegal established diplomatic relations with the People's Republic of China in 1973. Senegal was ranked 73rd in Reporters Without Borders' 2022 World Press Freedom Index, and Partly Free in Freedom House's 2022 Global Freedom Status, with a score of 68/100."
+}

@@ -1,0 +1,1033 @@
+{
+    "name": "India",
+    "partner": "Doueblethink Lab",
+    "year": "2022",
+    "GDP": "$2,277.4",
+    "population": "1.393B",
+    "original": "96/376",
+    "ranking": "55",
+    "overall": "26%",
+    "effect": "29%",
+    "exposure": "23%",
+    "pressure": "31%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "There are no media organizations in India that belong to the World Chinese Media Network. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "Indian media houses or journalists are not members of the Belt and Road Media Cooperation Alliance/Union, the Belt and Road News Alliance, or other Belt and Road media networks that are connected to PRC (e.g. Belt and Road Media Community, Belt and Road Journalists Network, Belt and Road News Network, or B&R TV Networks). ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "1",
+                "evidence": "The focus of such trips has mostly been for journalists and media organizations and the numbers are not that high basesd on the huge media landscape in India with multiple regional languages. The reason for it being insignificant is that such stories haven't changed the perception of China that much in the India community.",
+                "evidence_urls": [
+                    "https://theprint.in/opinion/china-is-paying-foreign-journalists-including-from-india-to-report-from-beijing/154013/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "evidence": "Among the Indian media organisations that have participated in the programme are the Indo-Asian News Service (IANS), Jansatta, and The Indian Express. Though the impact is insignificant due to large number of media houses in India. From 2016 at least, the foreign ministry of China has hosted at least a hundred journalists from leading news networks in Asia and Africa. The journalists have received quite significant allurements such as plush apartments, a monthly stipend worth Rs. 50,000 and free tours twice a month to different Chinese provinces. The journalists also received language classes and degrees in international relations from a Chinese University. \n",
+                "evidence_urls": [
+                    "https://www.opindia.com/2020/09/china-chinese-cmmunist-party-propaganda-indian-mainstream-media/",
+                    "https://theprint.in/opinion/china-is-paying-foreign-journalists-including-from-india-to-report-from-beijing/154013/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "From the report \"Mapping Chinese footprints and influence operations in India\" page 24 \"China's aspiration to influence Indians at grassroots through local languages is not restricted to news apps that create/aggregate content in regional languages alone. China also uses the broadcast medium to push the pro-China narrative in India. The Tamil broadcast of \u201cChina Radio International\" (CRI) is working on a sustained basis to actively propagate the Chinese narrative amongst India's Tamil-speaking population.\"",
+                "evidence_urls": [
+                    "https://defence.capital/wp-content/uploads/2021/09/MAPPING-CHINESE-FOOTPRINTS-AND-INFLUENCE-OPERATIONS-IN-INDIA2.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "The Tamil broadcast of \u201cChina Radio International\" (CRI) is working on a sustained basis to actively propagate the Chinese narrative amongst India's Tamil-speaking population. The reach of this media is insignificant in terms of reach in Tamil Nadu. ",
+                "evidence_urls": [
+                    "https://defence.capital/wp-content/uploads/2021/09/MAPPING-CHINESE-FOOTPRINTS-AND-INFLUENCE-OPERATIONS-IN-INDIA2.pdf",
+                    "https://www.1films.in/2020/04/top-tamil-tv-channels-barc-trp-ratings.html"
+                ],
+                "note": "The radio and streaming services are for mostly music and other entertainment content and not media per se which has seen some major investments from Chinese companies. However, it must be noted that at the same time, India has very strict rules against ownership by foreign companies. ",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "Indian mainstream media, in recent times, has carried propaganda articles by Chinese mouthpieces to further the Chinese agenda on contentious issues. Hindustan Times, for instance, on its 13th of December, 2019 edition carried two articles by one Yuan Shenggao under the sponsorship of China Watch Daily, a Chinese government mouthpiece. The articles were titled \u201cDecades of progress highlighted\u201d and \u201cUnparalleled change experienced within a space of generation\". Also, there is active probing by Indian Government authorities of such articles.",
+                "evidence_urls": [
+                    "https://www.opindia.com/2020/11/it-department-probe-the-hindu-hindustan-times-lro-chinese-propaganda/",
+                    "https://timesofindia.indiatimes.com/india/ed-probes-media-portals-funding-from-businessman-linked-to-china-regime/articleshow/84514212.cms"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "1",
+                "evidence": "There are few media house which have done that but it not something that is consistent and seen all the time and India having one of the largest number of media houses, the number becomes few in terms of the reach.",
+                "evidence_urls": [
+                    "https://www.opindia.com/2021/07/the-hindu-puts-a-full-page-advertorial-celebrating-100-years-of-communist-party-of-china/",
+                    "https://www.republicworld.com/india-news/general-news/full-page-pro-china-advertorial-in-indian-newspaper-alarms-netizens.html",
+                    "https://thedailyswitch.com/media/the-hindu-publishes-full-page-propaganda-ad-celebrating-100-years-of-founding-of-communist-party-of-china",
+                    "https://defence.capital/wp-content/uploads/2021/09/MAPPING-CHINESE-FOOTPRINTS-AND-INFLUENCE-OPERATIONS-IN-INDIA2.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "The Chinese embassy has made a number of public statements and related to the fact that India should stick to the One-China Policy with regards to Taiwan with regards to the National Day celebration as well as discussions around Taiwan's participation in WHO.",
+                "evidence_urls": [
+                    "https://thewire.in/media/taiwan-national-day-one-china-policy",
+                    "https://www.mfa.gov.cn/ce/cein//eng/embassy_news/t1779206.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "1",
+                "evidence": "It was usually \"The Hindu\" which is run by Narasimhan Ram and under his leadership, there have been anecdotal stories of censoring views critical of the PRC government. However, after his stepping down as Editor-in-chief in 2012, such cases are not visible. However, as he is still the Chairman of the Kasturi & Sons Limited and publisher of 'The Hindu' and group publications, the underlying advertise shows the support for PRC government. ",
+                "evidence_urls": [
+                    "https://tfipost.com/2021/07/n-rams-love-for-china-at-its-full-romantic-glory-a-full-page-advertorial-for-ccp-centennial-celebration/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "The re-education camps for Uygyurs in Xinjiang is not major news in India, however denial of the existence is not seen.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "At the same time, there are associations such as the India-China Friendship Association (ICFA) and The China-India Friendship Association (CIFA) in China, which could be instrumental in influencing the choice of the controversial topic or initiating any activities in favor of the PRC, China. \n\nIndia-China Friendship Association Karnataka Chapter, which is very active in the organization of different functions related to India and China. Recently they planned to organize a \u201cSeminar on Taiwan\u201d with a controversial topic, \"Interference of US imperialist in the internal affairs of the People's Republic of China\" and a Chinese photographic exhibition, however, at the last minute, it got canceled. \n",
+                "evidence_urls": [
+                    "https://ipg.nic.in/LIstPFG.aspx",
+                    "https://www.mfa.gov.cn/ce/cein/eng/ssygd/fiveprinciple/t146472.htm",
+                    "https://www.newindianexpress.com/states/karnataka/2022/aug/28/india-china-friendship-association-calls-off-seminar-after-siddaramaiah-declines-invitation-2492194.html",
+                    "https://cpaffc.org.cn/index/xiehui/diquguobieyouxie_detail/id/45/lang/2.html",
+                    "https://www.facebook.com/ICFADelhi/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "1",
+                "evidence": "Some leaders of the Communist Party of India (M) aligns with the PRC based on historical connection and ideological connection.  At the same time, one could find in the past, that the Indian Union Minister of State for Planning M. V. Rajasekharan has attended functions organized by ICFA, Karnataka chapter. In the guise of people-to-people diplomacy, perhaps they are executing the works of the PRC, Beijing. \n\n",
+                "evidence_urls": [
+                    "https://www.timesnownews.com/india/article/left-leaders-sitaram-yechury-d-raja-others-attend-chinese-communist-partys-centenary-event/791968"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "India has an extensive and very structured Civil Service system which is very different from the Chinese system. I haven't found any official training given to Indian civil servants from the PRC, though they are cases of Indians studying in China who may be civil servants.",
+                "evidence_urls": [
+                    "https://www.upsc.gov.in/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "1",
+                "evidence": "There are some cases, however at the moment due to the border clashes, it has almost no impact in terms of the response from the Indian government. \n\nIn the past, India had canceled the Visa of Uyghur activist Dolkun Isa in 2016.",
+                "evidence_urls": [
+                    "https://www.aninews.in/news/world/asia/china-objects-to-participation-of-indian-mps-at-tibetan-parliament-in-exile-event20211231165356/",
+                    "https://www.hindustantimes.com/world-news/china-objects-to-visit-by-taiwan-mps-warns-india-to-follow-one-china-policy/story-dXglcfkhpcOrVPBueb8OwK.html",
+                    "https://www.business-standard.com/article/news-ians/we-approached-india-on-visit-of-uyghur-activist-says-china-116042601304_1.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "Technically not an exit visa denial but the border region has had issues of hostage diplomacy.",
+                "evidence_urls": [
+                    "https://indianexpress.com/article/india/china-pla-indian-boy-abduction-7732399/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "I have not found any evidence of India denying Taiwan's right to participate, however I have also not found any support for the same.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "I have not found any public official support from the Indian government towards the appointment of a PRC official.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.republicworld.com/india-news/politics/south-china-sea-part-of-global-commons-india.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://theprint.in/opinion/india-and-pakistan-silent-on-china-horrific-muslim-re-education-camps/113779/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "India has officially remained silent on the treatment of the Tibetan people by the PRC, however it must be understood that India has supported the Tibetans diaspora for decades in their religious, language and cultural preservation. ",
+                "evidence_urls": [
+                    "https://www.aninews.in/news/world/asia/china-objects-to-participation-of-indian-mps-at-tibetan-parliament-in-exile-event20211231165356/"
+                ],
+                "note": "A number of Indian MP's do take a stronger stand with regards to Tibet such as through support Tibet's independence, however the official stand of the Government is different. India has always adhered to its Non-alignment principles set in the 1950's. ",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://timesofindia.indiatimes.com/india/in-a-first-india-speaks-up-on-hong-kong/articleshow/76737816.cms"
+                ],
+                "note": "India hasn't been silent in the case of HK but not sure if the word denounced PRC is also applicable. India has raised the issue in the following words, \"\"We have heard several statements expressing concern on these developments. We hope the relevant parties will take into account these views and address them properly, seriously and objectively,\"",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "evidence": "VIT has in the past pacts with around 14 prominent Chinese Institute and universities including Wuhan University and Sichuan University. In 2017 around there are around 450 Chinese students in Vellore Institute of technology(VIT). However from 2019, Indian Universities needs to take permission from GOI.\n\n",
+                "evidence_urls": [
+                    "https://techplusmedia.com/education/2017/02/18/huawei-india-rd-center-partners-with-academia-to-promote-ict-education/",
+                    "https://timesofindia.indiatimes.com/blogs/voices/chinese-infiltration-into-indian-education-system-govt-must-tighten-its-noose-around-the-dragon/",
+                    "https://vit.ac.in/vit-vellore-and-shenzhen-institutes-advanced-technology-siat-chinese-academy-sciences-china-have",
+                    "https://www.fillandfind.com/news/VIT-From-India-and-AIT-China-Signs-pact-over-to-offer-programmes-in-the-Schools-of-Computer-Science-amp-Engineering-and-Mechanical-amp-Building-Science-Programmes/7",
+                    "https://www.universityworldnews.com/post.php?story=2019101013182324"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "1",
+                "evidence": "The significance is hard to measure as it is not widespread but the tie ups are with some of the premier institutes in India which primarily offer Chinese language courses. At the same time, they are around 7 universities or institutes that has affiliations or had Confucius institutes, however as noted in the evidence listed below, concerns are being raised on this issue at the Ministry level.",
+                "evidence_urls": [
+                    "https://www.oneindia.com/india/chinas-confucius-institutes-in-india-part-of-its-foreign-intelligence-to-infiltrate-higher-education-3190438.html",
+                    "https://indianexpress.com/article/education/education-ministry-meeting-to-review-confucius-institutes-ends-with-no-decision-6541434/",
+                    "https://www.sandia.gov/app/uploads/sites/148/2022/02/SAND2022-1249O.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "Just after the Ministry of Education (MoE) decided to drop Chinese from its list of suggested languages for schools, in another move, the ministry has decided to hold a review of Chinese Language programmes provided by higher education institutions on August 5, 2020",
+                "evidence_urls": [
+                    "https://www.indiatvnews.com/education/news-national-education-policy-mandarin-removed-foreign-languages-list-schools-can-teach-students-other-language-638951",
+                    "https://www.indiatoday.in/india/story/ministry-of-education-to-review-chinese-language-courses-taught-in-indian-varsities-1707868-2020-08-05"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "skip",
+                "evidence": "The reason for skipping this question is that eventhough there are cases of Think-tanks/academia in India who have a pro-china bend but most of the information relating to that is not clear cut and work under the auspices of Sino-Indian friendship. As such, I have been able to find any direct correlation or partnership.",
+                "evidence_urls": [
+                    "https://defence.capital/wp-content/uploads/2021/09/MAPPING-CHINESE-FOOTPRINTS-AND-INFLUENCE-OPERATIONS-IN-INDIA2.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.sundayguardianlive.com/news/communist-chinas-influence-operations-indias-think-tanks-politicians-intellectuals-academia-media-targets",
+                    "https://www.dailypioneer.com/2020/page1/orf-too-got--china-fund.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "Based on my research, I have not seen any experts in India participate in the PRC talent recruitment programs. \n\n",
+                "evidence_urls": [],
+                "note": "However, there are few professors who are directly involved with PRC or Universities in China. B R Deepak has received prestigious awards as well and currently he is one of the board of advisors for News from China, a magazine published by embassy of PRC in India and frequently featured on major China portals and media. https://news.cgtn.com/news/3d3d514f78497a4e34457a6333566d54/index.html\n",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "skip",
+                "evidence": "I have been unable to find information relating to direct support/paid trips eventhough the circumstantial evidence is overwhelming as outlined in the supporting links.",
+                "evidence_urls": [
+                    "https://www.sundayguardianlive.com/news/communist-chinas-influence-operations-indias-think-tanks-politicians-intellectuals-academia-media-targets",
+                    "https://zeenews.india.com/india/chinas-subversive-activities-in-india-with-think-tanks-study-centers-under-security-radar-2304475.htm",
+                    "https://frontline.thehindu.com/cover-story/article30195867.ece/amp/"
+                ],
+                "note": "In the past it happened the Hindu editor N.Ram visited Tibet in 2000 and 2007 and wrote pro-China editorials and articles. ",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "Chinese students are not present in India in large numbers and CSSA's are not present.",
+                "evidence_urls": [
+                    "https://www.livemint.com/education/news/where-does-india-get-foreign-students-from-1569212306082.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.ndtv.com/india-news/india-foundation-cancels-visit-to-china-after-visa-denied-to-2-junior-researchers-1722005"
+                ],
+                "note": "The news story above confirms the denial of Visa but it is not directly clear that it was due to what the 2 Junior researchers from India Foundation published. ",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No such information exist on PRC connected entities being involved in school or university curriculum design around East Asian History, modern politics, etc.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "There are no such reports of such avoidance of discussion on such issues.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "This is an example of agreements signed when Xi Jinping visited India in 2014. It has changed after 2017 and in any case it was only State to State agreements and not at the sub-national level.\n",
+                "evidence_urls": [
+                    "https://www.mea.gov.in/bilateral-documents.htm?dtl/24012/List+of+Documents+signed+during+the+State+Visit+of+Chinese+President+Xi+Jinping+to+India"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "It is mostly dormant at the moment eventhough some ties were established previously.",
+                "evidence_urls": [
+                    "https://www.ndtv.com/india-news/india-gets-3-sister-cities-in-china-and-one-sister-province-763295",
+                    "https://www.fmprc.gov.cn/ce/cgmb/eng/zxhd/t1404830.htm#:~:text=Mumbai%2C%20Aurangabad%2C%20Solapur%20and%20Nagpur,of%20China%20and%20India%20respectively.",
+                    "https://www.gatewayhouse.in/wp-content/uploads/2017/05/GH_Sister-Cities-Report_Web_Final_2.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "1",
+                "evidence": "This used to be the case before 2017, however after the 2017 Doklam military clash, this is not the case anymore.",
+                "evidence_urls": [
+                    "https://www.sundayguardianlive.com/news/communist-chinas-influence-operations-indias-think-tanks-politicians-intellectuals-academia-media-targets"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "evidence": "With the recent border issues, even though there are many visits but the impact has been significantly reduced.",
+                "evidence_urls": [
+                    "https://www.thehindu.com/brandhub/70-years-of-diplomatic-relations-between-china-and-india-1950-2020/article31219737.ece",
+                    "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-delegation-in-beijing-for-a-week-long-tour-of-china/articleshow/70851381.cms?from=mdr"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "I found no evidence of such trainings.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No such reports are available. They have been donations to different foundations run by different political parties but not campaign donations. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "I found no such evidence of such links.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "China or groups linked with UFWD haven't made any public statements with regards to local Indian political candidates or party. Even if they have done os, it is very discreet and no such public statement evidence exists.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "1",
+                "evidence": "Mainly the Community party of India which has made such statements. ",
+                "evidence_urls": [
+                    "https://timesofindia.indiatimes.com/india/left-parties-congratulate-communist-party-of-china-on-its-centenary-applaud-its-governance/articleshow/84040012.cms"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "I haven't seen any evidence of such appointments. It is usually more in terms of invitation to visit China rather than appointments.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "4",
+                "evidence": "As shown in the evidence, Hikvision is the market leader in India and has been deployed in various capacities in India both official and private.",
+                "evidence_urls": [
+                    "https://theprint.in/opinion/chinas-hikvision-controls-indias-surveillance-market-modi-needs-to-do-more-than-ban-apps/452014/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "Currently, the US is the largest trading partner of India, however China is in second place.",
+                "evidence_urls": [
+                    "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-largest-trading-partner-of-india-during-apr-oct-govt/articleshow/88072704.cms?from=mdr"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "IDA, ADB and IBRD are major creditors of India's sovereign debt.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "The US is India's largest customer for extractive industries.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "Most critical infrastructure in India are state owned and some are public-private partnerships and there is no evidence that PRC-related entities control such infrastructures.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "India is a member of AIIB.",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "I found no evidence of major India businesses as members of the Silk Road Chamber of International Commerce, or of the Belt and Road Industrial and Commercial Alliance, or of the Belt and Road General Chamber of Commerce.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "I found no evidence of such section but the other way around where PRC companies have been sanctioned in India.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "There is no such evidence or report of such cases, however if you are an Indian company primarily working with the PRC, the likelihood of supporting such activities is also very less. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "India and China have an agreement as part of the Asia-Pacific Free Trade Agreement \n",
+                "evidence_urls": [
+                    "https://www.adb.org/sites/default/files/publication/156696/adbi-dp59.pdf",
+                    "https://www.india-briefing.com/news/whats-going-on-with-india-china-preferential-and-free-trade-agreements-21727.html/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "India has set up SEZ's which in some ways is to compete with PRC rather than attract investments from PRC.",
+                "evidence_urls": [
+                    "https://economictimes.indiatimes.com/news/economy/policy/what-is-special-economic-zone/articleshow/1164460.cms"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "I found no evidence or reports of such acquisition of infrastructure or lands for failure to repay debts.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "After China's 2017 National Intelligence Law and after the border dispute of 2020 between China and India, Chinese telecom services are considered not trustworthy.\n",
+                "evidence_urls": [
+                    "https://theprint.in/opinion/chinese-firms-left-out-of-5g-trials-in-india-but-modi-govt-played-fair-heres-how/664638/",
+                    "https://timesofindia.indiatimes.com/business/india-business/citing-national-security-govt-set-to-bar-chinese-telecom-gear/articleshow/79769475.cms"
+                ],
+                "note": "Indian intelligence agencies have been warning and reporting on threats from spyware in Chinese Android and iOS apps over the years, advising users to be cautious about data extraction and cyber espionage. The latest ban was issued by the Ministry of Electronics and Information Technology on the grounds that these apps were transferring the sensitive data of Indians to servers in foreign countries such as China.  The official announcement further stated that the recommendations made by the intelligence agencies were backed by the National Security Council, signaling the concurrence of India\u2019s highest security agency on the threats posed by these apps to India's internal security, and their detrimental impact on data security. ",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "evidence": "In 2018, the DoT had excluded companies like Huawei and ZTE from participating in trials to develop 5G use cases in India. For national security reasons, in Dec, 2020, India's National Security Directive (NSDTC) mandated service providers to purchase equipment from\u201ctrusted sources\u201d.\n\nWith immediate effect from 15th June 2021, new restrictions for providing licenses have been implemented. License shall only connect trusted products in its network and also seek permission from designated authority for up-gradation or expansion of existing Network. The action is intended to stop Chinese suppliers like Huawei and ZTE from giving Indian telecom carriers equipment for the impending 5G services.  ",
+                "evidence_urls": [
+                    "https://theprint.in/opinion/chinese-firms-left-out-of-5g-trials-in-india-but-modi-govt-played-fair-heres-how/664638/",
+                    "https://indianexpress.com/article/india/telecom-equipment-china-india-ban-7107663/#:~:text=%2C%E2%80%9D%20Prasad%20said.-,In%20recent%20months%2C%20India%20has%20banned%20the%20import%20of%20equipment,embedded%20in%20the%20imported%20equipment",
+                    "https://timesofindia.indiatimes.com/business/india-business/citing-national-security-govt-set-to-bar-chinese-telecom-gear/articleshow/79769475.cms"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "evidence": "The national security concerns for India after border clash with PRC in 2020 resulted in top-down restrictions for PRC-connected entities to operate in India. Government facilitated service providers were mandated to not use Chinese equipment in their facilities. ",
+                "evidence_urls": [
+                    "https://indianexpress.com/article/india/telecom-equipment-china-india-ban-7107663/#:~:text=%2C%E2%80%9D%20Prasad%20said.-,In%20recent%20months%2C%20India%20has%20banned%20the%20import%20of%20equipment,embedded%20in%20the%20imported%20equipment",
+                    "https://timesofindia.indiatimes.com/business/india-business/citing-national-security-govt-set-to-bar-chinese-telecom-gear/articleshow/79769475.cms"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "Tech giants such as Tencent and Bytedance even had their popular apps such as WeChat, PubG, TikTok were removed from Indian iOS app store and android play store, specially after the border clash of 2020 with the PRC.",
+                "evidence_urls": [
+                    "https://edition.cnn.com/2020/12/10/tech/india-china-tech-tensions-intl-hnk/index.html",
+                    "https://www.scmp.com/tech/tech-war/article/3167162/indias-latest-ban-chinese-apps-casts-shadow-over-mainland-tech-firms",
+                    "https://www.cnbc.com/2020/09/04/india-crackdown-on-chinese-tech-opens-doors-for-us-giants.html"
+                ],
+                "note": "India plans to impose stringent quality control measures and higher tariffs on imports from China, Calls for defending India's tech sovereignty has been issued even by the Indian armed forces, cautioning against the dangers of Chinese instant messaging apps.",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "4",
+                "evidence": "Due to lack of proper Data protection laws in India, it is still adopting data collection equipment such as HikVision CCTVs. \n\nIn 2019 Central government think tank criticized the local administration in Delhi for hiring the Indian arm of Chinese firm Hikvision to set up 150,000 CCTVs, saying the move could spur illegal hacking and data leaks to the Chinese government. \n\nHikvision had presented itself as a significant Make in India partner at the 2018 IFSEC Conference \u2014 South Asia\u2019s largest security conference \u2014 held in New Delhi. As per the 2018 annual report, the company made \u201cmajor project breakthroughs in India\u201d. It is also listed as a vendor by Bharat Electronics (BEL), which works on highly sensitive and classified defence projects for the government of India.",
+                "evidence_urls": [
+                    "https://www.biometricupdate.com/202106/chinese-facial-recognition-deployments-in-india-europe-prompt-warnings",
+                    "https://economictimes.indiatimes.com/news/politics-and-nation/india-is-planning-a-huge-china-style-facial-recognition-program/articleshow/71213132.cms?from=mdr",
+                    "https://www.indiatoday.in/mail-today/story/installation-of-1-4-lakh-chinese-cctv-cameras-by-delhi-govt-sparks-row-1696032-2020-07-02"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "1",
+                "evidence": "Although India attracted Chinese investors in its\u201csmart city\"  systems, It is largely insignificant with PRCs image constantly dropping among India's governing bodies and restrictions being applied.\n",
+                "evidence_urls": [
+                    "https://indianexpress.com/article/cities/ahmedabad/smart-city-state-inks-rs19k-cr-agreement-with-china/",
+                    "https://zeenews.india.com/economy/indias-smart-cities-attract-chinese-investors-experts-caution-about-risk-factors-2155613.html"
+                ],
+                "note": "The 100 smart cities is a Government of India initiative and initially, there was a lot of investments from China, however the restrictions outlined in the two supporting evidence has reduced the impact as well as investments. MOU, pledging investment worth Rs 19000 crore to build a new smart city in Gujarat, was signed between Gujarat government and China Small and Medium Enterprise Investment Limited (CSMEI) on May 17, 2015 of Chief Minister Anandiben Patel\u2019s tour of China.",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "India has its SFMS (Structured Financial Messaging Systems). Although in 2019, State Bank of India's Shanghai branch is connected to China's National Advance Payment System (CNAPS).  For an alternative to U.S SWIFT payment system, India plans to link the Central Bank of Russia's platform with a service, currently under development.",
+                "evidence_urls": [
+                    "https://www.businesstoday.in/latest/corporate/story/sbi-becomes-1st-indian-bank-to-link-up-with-chinas-national-advance-payment-system-220315-2019-08-03",
+                    "https://www.iftas.in/services/sfms/",
+                    "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-russia-china-explore-alternative-to-swift-payment-mechanism/articleshow/72048472.cms?from=mdr",
+                    "https://financialservices.gov.in/circulars/use-sfms-sending-and-receiving-letter-credit-and-bank-guarantee-instruments"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "2",
+                "evidence": "Although PRC-connected investments in technology startups in India is huge, the geopolitical crisis in 2020 left it insignificant for the investments to make any huge impact.",
+                "evidence_urls": [
+                    "https://restofworld.org/2021/chinese-investors-lose-out-in-indian-tech-ipo-boom/",
+                    "https://qz.com/india/2090203/do-indias-startups-need-chinese-vc-funding/",
+                    "https://scroll.in/article/1010783/china-has-invested-a-lot-less-in-indian-startups-than-you-thought-it-did",
+                    "https://www.orfonline.org/expert-speak/chinese-investments-in-indian-startups-trends-and-controversies/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "2",
+                "evidence": "Due to 2020 border clashes with the PRC, MOUs signed between PRC- connected entities and Indian companies are put on hold.\n",
+                "evidence_urls": [
+                    "https://indianexpress.com/article/india/mous-with-chinese-companies-on-hold-to-be-implemented-if-relations-improve-subhash-desai-6474964/",
+                    "https://www.thehindu.com/news/national/mous-with-chinese-companies-on-as-is-hold-maharashtra-industries-minister/article31892414.ece",
+                    "https://www.hindustantimes.com/business-news/china-s-great-wall-motor-signs-mou-with-maharashtra-to-invest-usd-1-billion/story-94C7JynskN1cu1gxurT5hP.html",
+                    "https://www.business-standard.com/article/news-ani/india-china-sign-four-mous-agree-to-organise-100-activities-119081300023_1.html",
+                    "https://economictimes.indiatimes.com/tech/software/nasscom-signs-agreement-with-local-chinese-government-to-push-for-ai/articleshow/60767451.cms?from=mdr"
+                ],
+                "note": "The National Association of Software and Services Companies NASSCOM signed an agreement with the local Chinese government(Dalian) for AI and IOT in 2017, however as outlined above, most such MOU are currently on hold or in murky waters.",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "India largely depends on US based social media/ messaging apps instead of China, although many other startup apps have their investments from PRC-connected entities. After 2020, many popular social media/messaging apps such as WeChat, TikTok which are based in China are banned in India.\n",
+                "evidence_urls": [
+                    "https://telecom.economictimes.indiatimes.com/news/unlike-china-india-has-to-depend-on-us-social-media-apps/80922082",
+                    "https://startuptalky.com/indian-companies-backed-chinese-investment/"
+                ],
+                "note": "After the military and economic counter-China moves, India is under the process of banning all applications (apps) of Chinese companies that fall under the purview of China\u2019s National Intelligence Law of 2017. Indian Government focus more with home grown apps and funding for domestic app developers. ",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "India uses Its The Indian Regional Navigation Satellite System (IRNSS) and after the border clash of 2020 with PRC, the PRC themselves restricted the use of its BeiDou system along borders with India.\n",
+                "evidence_urls": [
+                    "https://www.thestatesman.com/india/china-abruptly-restricts-use-of-beidou-along-borders-with-india-1503021831.html",
+                    "https://newsable.asianetnews.com/india-defence/china-switches-off-beidou-navigation-system-along-india-border-r1s6lj",
+                    "https://www.timesnownews.com/india/article/india-china-border-row-pla-restricts-use-of-beidou-navigation-system-indian-army-enhances-surveillance/827762#:~:text=Ladakh%3A%20In%20an%20unexpected%20move,satellites%20to%20provide%20positional%20accuracies"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "There is no evidence or reports of such groups in India.",
+                "evidence_urls": [],
+                "note": "While there are no such organisations, the Chinese Ambassador has in the past on more than one occasion used Indian newspapers and media to promote his views on why what is happening in Hong Kong is necessary. https://www.mfa.gov.cn/ce/cgkolkata//eng/zlgxw/t1800669.htm",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "There is no evidence of report of such organizations in India.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "However, ACFTU visited India.",
+                "evidence_urls": [
+                    "https://cpiml.net/liberation/2012/06/acftu-delegation-visits-aicctu-hq"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "UFWD is not prominent in India and India doesn't have any prominent Chinese diaspora community which holds such community events.",
+                "evidence_urls": [],
+                "note": "In 2015, an Indian think tank from Kolkata organsied a visit from a Chinese delegation comprising GT personnel. They were takem to Tangra, the China town in Kolkata. I was present there as I was the interpreter. The diaspora in Tangra is mainly third or fourth generation and hardly speaks Mandarin. The Chinese side did ask me to ask them if they missed the 'motherland', the answer to which was \"India is the motherland\". There have been some of these visits, which, while not coordinated by the UFWD, still do take place. Influence operations in India follow a different model and not the one recognised in the West/East. There is no coverage in the media of this mentioned visit. However, I was present there when the event took place. (Expert Reviewer Note)",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "I found no reports or evidence or any such engagement. \n\n\"Again, such exchanges take place through individuals or through 'think tanks'. In 2015 again, China Daily had organised a visit to Maotai town in Guizhou. I was on the trip. We were expected to come back and write in national dailies or our think tanks about how the production of Maotai has lifted the people out of poverty and is a great economic development model to follow. It is a separate thing that I added bits about the pollution due to Maotai liquor production, after coming back to India. But these trips do happen, and again, there are no specific organisations from China earmarked for these for India. However, exchanges do happen.\" - Expert Reviewer Note",
+                "evidence_urls": [
+                    " https://www.orfonline.org/research/developing-towns-and-cities-chinas-maotai-case-study/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "I found no reports or evidence linking PRC-connected entities or individuals providing support to religious communities and charities in India.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "2",
+                "evidence": "Chinese shows and movies are available in India via different distribution channels(free and paid) and also available dubbed in Hindi, however most of the shows are focused on \"Martial Arts\".  However, whether they are supported directly by PRC is not available. With content primarily focused on \"Martial Arts\", its impact is insignificant in terms of changing perceptions of PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "PRC is not shown in positive light and recent shows have shown the opposite where there have been TV shows produced which show the 1962 war between India and China.\n ",
+                "evidence_urls": [
+                    "https://www.imdb.com/title/tt13923092/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "There is no report or evidence to show that celebrities share propaganda narratives from the PRC. Celebrities don't but academicians do. An example is how China's debt trap diplomacy is called an \"Indian narrative\" by some Indian academicians. ",
+                "evidence_urls": [
+                    "https://www.sundayguardianlive.com/user/b-r-deepak"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "There is no evidence or reports of national or local governments publishing propaganda narratives from the PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "The 1962 war, Covid-19 and the 2020 border clashes reflect that majority of citizens of Indian don't view the PRC in a positive view.",
+                "evidence_urls": [
+                    "https://economictimes.indiatimes.com/news/defence/ex-armymen-stage-stir-near-chinese-embassy-against-killing-of-indian-soldiers-in-galwan-valley/articleshow/76423668.cms?from=mdr"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "The PRC being a hostile neighbor to India with existing\u201cSino-Indian\u201dborder dispute, India imports military equipment from Russia, France, Israel , Japan. India has different programs/schemes to try to indigenize the defence production and reduce the dependence on import.\n",
+                "evidence_urls": [
+                    "https://economictimes.indiatimes.com/news/defence/india-stops-import-of-2851-components-used-in-defence-platforms/articleshow/88564208.cms",
+                    "https://www.hindustantimes.com/india-news/indias-arms-imports-down-by-33-says-sipri-report-101615806230302.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "\n",
+                "evidence_urls": [
+                    "https://www.livemint.com/industry/manufacturing/india-now-exports-defence-products-to-42-countries-11581332398457.html",
+                    "https://theprint.in/defence/buy-weapons-from-us-india-says-as-it-pushes-exports-to-compete-with-china-in-neighbourhood/622216/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "India mainly exports or works with Russia in terms of military equipment. At the same time, it working more and more with the US and France(Rafales), reducing the dependence on Russia.",
+                "evidence_urls": [
+                    "https://indianexpress.com/article/explained/india-russia-military-weapons-defence-ties-7795804/#:~:text=India's%20missile%20programme%20has%20been,of%20Sukhoi%20and%20MiG%20jets"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.brookings.edu/testimonies/emerging-global-issues-the-china-india-boundary-crisis-and-its-implications/",
+                    "https://www.forbes.com/sites/vikrammittal/2022/02/21/the--lesser-known-border-disputechina-and-india/?sh=23a1c7ae192d",
+                    "https://thediplomat.com/2022/03/no-breakthrough-at-15th-round-of-china-india-talks/"
+                ],
+                "note": "The \u201cSino-Indian\u201d border dispute implies that PRC has intentions like basing such with no breakthroughs in 15 diplomatic rounds of talks between China and India. However, this is not the traditional meaning of basing, so, it can also be No.\n",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "The PLA has provided India with satellite data on India's flood-hit regions to assist its flood relief efforts. PLA also exported 3,800 tonnes of medical supplies and over 26,000 ventilators to India in April, 2021 to help fight the surging Covid-19 pandemic in the country. ",
+                "evidence_urls": [
+                    "https://www.business-standard.com/article/pti-stories/china-provided-india-satellite-data-on-flood-hit-regions-for-relief-efforts-says-envoy-119072600413_1.html",
+                    "https://www.hindustantimes.com/world-news/faster-customs-clearance-to-medical-consignment-to-india-china-101619778048582.html",
+                    "https://indianexpress.com/article/india/first-policy-shift-in-16-yrs-india-open-to-foreign-aid-ok-to-buying-from-china-7293052/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "There is no PLA military deployed in India.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "There is no such evidence or reports of such education from PRC. Before 2017, there used to be a seat for a Chinese officer in the College of Defence Management in Hyderabad, but it has now stopped.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "On the contrary, India along with the U.S is providing peacekeeping training to some southeast Asian countries",
+                "evidence_urls": [
+                    "https://www.thehindu.com/news/national/india-us-looking-at-training-south-east-asian-nations-in-un-peacekeeping/article33102175.ece"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "There is no such evidence or reports of such benefits from PRC. However, retired Indian officers have been regularly invited to Chinese Embassy on special occasions. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "4",
+                "evidence": "In the wake of clashes between India and the PLA along Galwan Valley, to de-escalate further conflicts, many military/intelligence officials advocate for more coordination with the PLA. CBMs are in place to avoid escalation, but no collaborations. for example hotlines, BPM, Senior Commanders meetings, etc.. at the same time, the IA has started a course on Tibetiology for officers of the ranks of Capt. and Majors.\n",
+                "evidence_urls": [
+                    "https://mea.gov.in/press-releases.htm",
+                    "https://www.idsa.in/system/files/jds_4_4_rndas.pdf",
+                    "https://economictimes.indiatimes.com/news/defence/russia-assures-india-says-no-to-military-alliance-with-china/articleshow/81937254.cms?from=mdr"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "India took part in \u201cPeace mission exercise drills\u201d along with PLA and Pakistan army, which was conducted in Russia.\n",
+                "evidence_urls": [
+                    "https://www.newindianexpress.com/thesundaystandard/2021/aug/08/india-to-take-part-in-drills-with-chinas-peoples-liberation-armyand-pakistaniarmy-2341701.html",
+                    "https://www.indiatoday.in/india/story/peace-mission-2021-indian-army-sco-joint-military-exercise-russia-1853099-2021-09-15",
+                    "https://www.news18.com/news/india/peace-mission-2021-india-to-carry-out-military-drill-with-china-and-pakistan-4055390.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "At present, India has enforced bilateral extradition treaties with 48 countries and extradition arrangements with 12 countries and none with PRC. However India has a 1997 Surrender of Fugitive Offenders treaty with Hong Kong and as such there are implications on how this treaty might be applied with passing of the National Security Law in Hong Kong.\n",
+                "evidence_urls": [
+                    "https://mea.gov.in/leta.htm",
+                    "https://idsa.in/resources/parliament/Extraditiontreatywithneighbouringcountries19.8.10",
+                    "https://www.scmp.com/news/hong-kong/law-and-crime/article/3141414/hong-kong-resident-wanted-indian-government-over",
+                    "https://www.orfonline.org/research/hong-kongs-national-security-law-implications-for-india/",
+                    "https://www.tribuneindia.com/news/punjab/ramanjit-singh-romi-most-wanted-accused-in-nabha-jail-break-to-be-extradited-from-hong-kong-411789"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "India hasn't solely signed cooperative agreements with the PRC. However it is one of the eight member states as part of SCO. They have send a three-member team to participate in the Pabbi anti-terror 2021 exercise in Pakistan's Nowshera district from October 3 as part of the Shanghai Cooperation Organisation (SCO) RATS framework. At the meeting, representatives of the SCO member states also approved the draft programme of cooperation for 2022-2024 to counter-terrorism, separatism and extremism.\n",
+                "evidence_urls": [
+                    "https://economictimes.indiatimes.com/news/defence/india-likely-to-send-three-member-team-to-scos-anti-terror-exercise-in-pakistan/articleshow/86635408.cms",
+                    "https://www.indiatoday.in/india/story/india-pak-china-to-participate-in-sco-joint-anti-terrorism-exercise-this-year-1782023-2021-03-22",
+                    "http://eng.sectsco.org/politics/20211004/786524.html",
+                    "https://www.globaltimes.cn/page/202109/1234029.shtml",
+                    "https://dppa.un.org/en/shanghai-cooperation-organization"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "Although there are Chinese link cases where individuals have been arrested for fraud and illegal activities, there isn't any clear proof that those groups and individuals are part of PRC-connected gangs. There are also cased of Chinese individuals links to Hawala Racket(Money Transfer Method outside the traditional banking system).\n",
+                "evidence_urls": [
+                    "https://www.firstpost.com/india/delhi-police-busts-chinese-app-loan-fraud-eight-arrested-10515751.html",
+                    "https://www.indiatoday.in/india/story/chinese-man-crore-hawala-racket-multiple-companies-india-chinese-bank-link-1710612-2020-08-13"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "2",
+                "evidence": "There has been cases of political espionage targeting the government of India as well as those that target the Civil Society. At the same time, the private sector is targeted as well, however the economic benefit received by PRC-connected entities through these attacks is not clear.",
+                "evidence_urls": [
+                    "https://inc42.com/features/the-anatomy-of-cyberwarfare-is-india-ready-to-take-on-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.wionews.com/world/chinese-cyber-threat-dragon-is-targeting-indian-telecom-and-defence-392350",
+                    "https://inc42.com/features/the-anatomy-of-cyberwarfare-is-india-ready-to-take-on-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "There is no such reports or evidence of such cases, though there are anecdotal stories or transnational repression of Tibetans in India by the PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "Hikvision is the market leader in Surveillance cameras and the Chinese Government holds 41% of the company and has 35% market share in India. Moreover,  It has also crawled its way to Prime Minister's \u201cMake in India\u2019 Initiatives. Hikvision India is named as Prama Hikvision India Pvt. Ltd and is also one of the vendors for Bharat Electronics (BEL) that works on highly sensitive and classified defense projects in India. Hikvision has allegedly also supplied solutions to Delhi Metro Rail Corporation (DMRC), Defense Research and Development Organization (DRDO), and the Special Protection Group (SPG), which is responsible for the security of the prime minister.\n",
+                "evidence_urls": [
+                    "https://theprint.in/opinion/chinas-hikvision-controls-indias-surveillance-market-modi-needs-to-do-more-than-ban-apps/452014/",
+                    "https://www.theweek.in/news/india/2021/09/03/indian-military-under-target-by-chinese-origin-surveillance-systems.html"
+                ],
+                "note": "However, agencies are more aware of these issues currently.",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "Didn't find any proof that Indian law enforcement or either PRC police force have had any joint patrol.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "4",
+                "evidence": " Government and local authorities detain people at the request of PRC's India based embassies. Sometimes protesters are detained without the request from the PRC to maintain the bilateral relationship.\n",
+                "evidence_urls": [
+                    "https://www.aninews.in/news/national/general-news/galwan-stand-off-police-detain-protestors-from-outside-chinese-embassy20200617150609/",
+                    "https://timesofindia.indiatimes.com/india/faceoff-netizens-outrage-as-delhi-police-detains-free-tibet-protesters/articleshow/84015549.cms",
+                    "https://timesofindia.indiatimes.com/india/tibetans-in-india-demonstrate-against-beijing-olympics/articleshow/89342305.cms"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "India has clear policy on trade, investment, tourism, culture, education and other such people-to-people exchanges with Taiwan. However India does not have any formal diplomatic ties with Taiwan. So it could be possible to depart Taiwanese citizens to the PRC to face prosecution technically.",
+                "evidence_urls": [
+                    "https://www.thehindu.com/news/national/our-policy-on-taiwan-clear-consistent-india/article37817148.ece"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "There is no public evidence of extradition or deportation of individuals to the PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, India had a GDP per capita of US$2,277 and a total population of 1.393 billion people. No official figures on the Chinese population are provided.",
+    "description-2": "India was ranked 150th in Reporters Without Borders' 2022 World Press Freedom Index, and Partly Free in Freedom House's 2022 Global Freedom Status, with a score of 66/100."
+}

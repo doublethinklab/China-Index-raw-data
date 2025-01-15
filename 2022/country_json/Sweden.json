@@ -1,0 +1,912 @@
+{
+    "name": "Sweden",
+    "partner": "Central European Institute of Asian Studies",
+    "year": "2022",
+    "GDP": "$60,239.0",
+    "population": "10.41M",
+    "original": "69/384",
+    "ranking": "73",
+    "overall": "18%",
+    "effect": "0%",
+    "exposure": "21%",
+    "pressure": "45%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "evidence": "Nordic Chinese Times",
+                "evidence_urls": [
+                    "https://www.worldchinesemedia.com/2015/05/12/56/",
+                    "https://www.gcmcu.com/static/content/LMCY/OZ/2020-06-03/717767273171132416.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Only anecdotal evidence of a two cases. Journalists working for an online paper closely affiliated with the Chinese embassy. Not signficant, not widely read in Sweden.",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "Yes, but these are Chinese language outlets that do not target the Swedish population.",
+                "evidence_urls": [
+                    "https://www.facebook.com/chinanews.se/",
+                    "http://www.cmeds.se/bohrb/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "Certainly not regular, but I cannot exclude the possibility that it happens. There are no shared content agreements, for example, according to the journalist association of Sweden (2021).",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "Plenty of cases, published even on the website of the embassy.\n\n\n",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cese//eng/sgxw/t1690040.htm",
+                    "https://scandasia.com/chinese-embassy-threatens-swedish-journalist-in-email/",
+                    "https://www.ifj.org/media-centre/news/detail/category/press-releases/article/sweden-chinese-embassy-threatens-swedish-journalist.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No. There have been cases when people of public interest indicated they did not care about it (for example, when advertising Chinese products), but received a shitstorm for saying so. I am not aware anyone has denied it.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "1",
+                "evidence": "There are no regular and formalized exchanges to my knowledge. But before the pandemic, exchanges did take place on an individual basis. All major Swedish parties share a deep-seated China-skepticism.",
+                "evidence_urls": [
+                    "https://news.cgtn.com/news/7a4d7a4e30517a6333566d54/index.html",
+                    "https://www.channelstv.com/2017/06/26/chinas-president-meets-swedish-finnish-pm-beijing/",
+                    "https://www.fmprc.gov.cn/mfa_eng/gjhdq_665435/3265_665445/3361_664782/3363_664786/201906/t20190612_579549.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "4",
+                "evidence": "Both parliamentarians and even a minister have received open and public pressure by the former Chinese ambassador.",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cese//eng/sgxw/t1716373.htm",
+                    "https://www.svt.se/nyheter/inrikes/statsminister-stefan-lofven-s-vi-tanker-inte-falla-for-den-har-typen-av-hot",
+                    "https://thediplomat.com/2019/12/china-tries-to-put-sweden-on-ice/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "4",
+                "evidence": "Gui Minhai. Other previous cases.",
+                "evidence_urls": [
+                    "https://safeguarddefenders.com/en/blog/gui-minhai-s-last-days-thailand",
+                    "https://www.bbc.com/news/world-asia-china-51624433",
+                    "https://freeguiminhai.org/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.riksdagen.se/sv/dokument-lagar/dokument/_H710422"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://scandasia.com/nordic-and-baltic-statement-concerned-about-human-rights-abuse-of-uyghurs-in-china/",
+                    "https://www.regeringen.se/49e6b5/globalassets/regeringen/bilder/utrikesdepartementet/utrikesministern/kina-mr-rapport-2021.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://new-york-un.diplo.de/un-en/news-corner/201006-heusgen-china/2402648",
+                    "https://www.regeringen.se/49e6b5/globalassets/regeringen/bilder/utrikesdepartementet/utrikesministern/kina-mr-rapport-2021.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "In the European Council, Sweden was the only EU member state to advocate sanctions against China when the NSL was imposed.",
+                "evidence_urls": [
+                    "https://new-york-un.diplo.de/un-en/news-corner/201006-heusgen-china/2402648"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "evidence": "There are, to my knowledge, a few minor cooperations of research labs with Chinese tech companies. Not widespread, no deep cooperation, as far as I know.",
+                "evidence_urls": [
+                    "https://news.ki.se/ctmr-forms-collaboration-with-the-bgi-group",
+                    "https://en.mgi-tech.com/news/caseinfo/9/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "0",
+                "evidence": "All closed now.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "There are Chinese language options in public schools, not mandatory and no materials subsidized by China.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "evidence": "According to the list, no. But there is a \"think tank\" that claims to be part of BRI-related think tank networks.",
+                "evidence_urls": [
+                    "https://www.brixsweden.org/what-is-the-brix/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "This relates to tech cooperation as mentioned above and a few think tanks including ISDP that has received PLA funding in the recent past.",
+                "evidence_urls": [
+                    "https://www.isdp.eu/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "4",
+                "evidence": "There are reports of ethnic Chinese in Sweden that have been recruited from the sciences.",
+                "evidence_urls": [
+                    "https://www.aspi.org.au/report/hunting-phoenix",
+                    "https://universitetslararen.se/2020/11/12/sa-rekryterar-kina-forskare-med-ljusskygga-metoder/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No reported cases, but investigative research is missing. We might simply not know of it.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "4",
+                "evidence": "Bj\u00f6rn Jerden is publicly banned from China.",
+                "evidence_urls": [
+                    "https://www.ui.se/english/news/2021/ui-condemns-chinese-sanctions-on-bjorn-jerden/",
+                    "https://www.ui.se/english/about/staff/bjorn-jerden/",
+                    "https://www.researchgate.net/publication/262010089_The_Assertive_China_Narrative_Why_It_Is_Wrong_and_How_So_Many_Still_Bought_into_It_vol_7_pg_47_2014"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://kinacentrum.se/publikationer/lokal-frost-i-relationerna/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": " ",
+                "evidence_urls": [
+                    "https://www.linkoping.se/kommun-och-politik/internationellt-arbete/vanorter/",
+                    "https://kinacentrum.se/publikationer/lokal-frost-i-relationerna",
+                    "https://malmo.se/Sa-arbetar-vi-med.../Omvarld/Strategiskt-omvarldsarbete/Vanorter.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.government.se/press-releases/2015/03/prime-minister-stefan-lofven-to-visit-china-on-2728-march/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "0",
+                "evidence": "There is a range of public expressions from those that criticize China to other that indiciate we need to cooperate. Even the latter is rather pragmatic and not praising China.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "China ranks 6th",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "For example the latest port terminal of Stockholm seaport",
+                "evidence_urls": [
+                    "https://thesis.eur.nl/pub/43980/Sipman-AB-383261-BA-thesis.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "4",
+                "evidence": "H&M",
+                "evidence_urls": [
+                    "https://www.nytimes.com/2021/03/24/business/handm-boycott-china-uyghurs.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "evidence": "Legacy networks about to be replaced, no 5G equipment from China",
+                "evidence_urls": [
+                    "https://www.politico.eu/article/eu-front-line-china-stockholm/",
+                    "https://thediplomat.com/2020/10/sweden-becomes-latest-and-among-most-forceful-to-ban-huawei-from-5g/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.foi.se/nyheter-och-press/nyheter/2019-11-29-kartlaggning-av-kinesiska-bolagsforvarv-i-sverige.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "4",
+                "evidence": "A few, including Ericsson, do collaborate with Chinese partners",
+                "evidence_urls": [
+                    "https://technative.io/ericsson-china-mobile-form-iot-partnership/",
+                    "https://www.nasdaq.com/articles/ericsson-eric-expands-5g-collaboration-with-china-mobile-2020-05-01",
+                    "https://www.telecomreviewasia.com/index.php/news/network-news/269-china-mobile-announce-collaboration-with-ericsson-as-part-of-combined-efforts-on-iot"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "TikTok",
+                "evidence_urls": [
+                    "https://www.similarweb.com/zh-tw/apps/top/google/store-rank/se/social/top-free/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.gqb.gov.cn/node2/node3/node21/node133/userobject7ai1969.html",
+                    "http://se.china-embassy.gov.cn/sgxw/202208/t20220804_10734759.htm",
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/201809/t20180910_12057790.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://onlinelibrary.wiley.com/doi/10.1111/j.1743-4580.2010.00318.x"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://jamestown.org/program/the-ccps-united-front-network-in-sweden/",
+                    "https://www.foi.se/rest-api/report/FOI-R--4933--SE",
+                    "https://frivarld.se/wp-content/uploads/2020/05/enhetsfronten.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "Such links ruin the reputation in Sweden. I am not aware of anyone who would do this. If so, it must be a niche that receives no attention in the society.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "Exception was mask diplomacy. No evidence exists otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "in the more distant past there were some instances though, see the below URL ",
+                "evidence_urls": [
+                    "https://www.svd.se/a/cfde208c-251c-3a9d-bdb5-138866ef85c9/kriminalitet-doljs-i-kinesiska-natverk#:~:text=Det%20finns%20tv%C3%A5%20stora%20kinesiska,medlemmar%20ocks%C3%A5%20sysslar%20med%20brott",
+                    "https://www.aftonbladet.se/nyheter/a/ddRa1j/kinesisk-maffia-nu-i-sverige",
+                    "https://sverigesradio.se/artikel/771504"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No evidence exists to suggest otherwise.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Sweden had a GDP per capita of US$60,239 and a total population of 10.41 million people, with the Chinese population comprising 37,172 people or 0.35% of the total. ",
+    "description-2": "Sweden established diplomatic relations with the People's Republic of China in 1950. Sweden was ranked 3rd in Reporters Without Borders' 2022 World Press Freedom Index, and Free in Freedom House's 2022 Global Freedom Status, with a score of 100/100."
+}

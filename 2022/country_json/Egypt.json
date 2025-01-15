@@ -1,0 +1,974 @@
+{
+    "name": "Egypt",
+    "partner": "Civic IDEA",
+    "year": "2022",
+    "GDP": "$3,876.4",
+    "population": "104.2M",
+    "original": "167/384",
+    "ranking": "17",
+    "overall": "43%",
+    "effect": "48%",
+    "exposure": "51%",
+    "pressure": "0%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "According to their website, Egyptian media organizations do not belong to the World Chinese Media Network. https://www.worldchinesemedia.com/category/guanyuxiehui/",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "evidence": "Egypt's \"Pyramid\", http://cn.brnn.com/414904/414908/index.html ",
+                "evidence_urls": [
+                    "http://cn.brnn.com/414904/414908/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "\u201cEgyptian news media delegations and non-governmental diplomatic delegations visited China, which further strengthened media cooperation and people-to-people exchanges between the two countries.\u201d However, there is no indication about whether these visits were paid by the Chinese side. https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2813_663616/ ",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "3",
+                "evidence": "\u201cDr. Ahmed Salam, the former media advisor to Egypt in China, speaks about the success of the Chinese President\u2019s visit to Cairo, the activation of media agreements in more than one media institution in Egypt and China, and the increase in media training courses.\u201d https://arabic.cgtn.com/n/BfJAA-DAA-HcA/FAHBcA/index.html ",
+                "evidence_urls": [
+                    "https://arabic.cgtn.com/n/BfJAA-DAA-HcA/FAHBcA/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "4",
+                "evidence": "Xinhua Middle East Regional Bureau is providing the cheapest subscriptions.\n\u201cNew office building of Xinhua News Agency's Middle East Regional Bureau opened on Nov.26, in Cairo\u201d \u2013 2005 https://web.archive.org/web/20081120215855/http://eg.china-embassy.org/eng/zaigx/t223569.htm \n\n\u201cEstablishing representative offices for media institutions in the two countries(Egypt-China): including the Xinhua News Agency, the People\u2019s Daily, China Radio International, and China Central Television, while there is a resident representation of the Middle East News Agency in China, and \u201cChina Today\u201d magazine opened its Middle East regional office in Cairo in 2004.\u201d https://www.sis.gov.eg/Story/92487/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A?lang=ar\n",
+                "evidence_urls": [
+                    "https://web.archive.org/web/20081120215855/http://eg.china-embassy.org/eng/zaigx/t223569.htm ",
+                    "https://www.sis.gov.eg/Story/92487/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A?lang=ar "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "Egypt today delivering the content of Xinhua News Agency https://www.egypttoday.com/Tag/8531/Xinhua ",
+                "evidence_urls": [
+                    "https://www.egypttoday.com/Tag/8531/Xinhua "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "No Evidence Found.",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "2021 \"During his visit to Egypt, Wang also held talks with Egyptian Foreign Minister Sameh Shoukry, signed an agreement on the establishment of an intergovernmental cooperation committee between China and Egypt.\" https://www.globaltimes.cn/page/202107/1229002.shtml \n\n\u201cThe National People\u2019s Congress of China has established mechanisms for regular exchanges with parliaments in Egypt, South Africa and Kenya, and bilateral friendship groups with parliaments in 35 African countries.\u201d https://www.fmprc.gov.cn/mfa_eng/wjdt_665385/2649_665393/202111/t20211126_10453904.html \n",
+                "evidence_urls": [
+                    "https://www.globaltimes.cn/page/202107/1229002.shtml ",
+                    "https://www.fmprc.gov.cn/mfa_eng/wjdt_665385/2649_665393/202111/t20211126_10453904.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "\u201cOn January 21, 2016 local time, President Xi Jinping met in Cairo with Parliament Speaker Ali Abdelaal of Egypt.\u201d https://www.mfa.gov.cn/ce/cggb//eng/xwdt/t1334594.htm \n\n\"The result of the FJP\u2019s first exchange with China yielded tangible benefits for all parties.  China\u2019s hosting of Morsi during this critical juncture in Egyptian politics, however, reveals a more subtle geopolitical element that is worthy of note.\" https://www.mei.edu/publications/egypt-turns-quietly-asia \n\n\u201cOn December 21st, 2020, the communication mechanisms for the joint construction of the Belt and Road Initiative (BRI) between Chinese and Egyptian political parties were established by the Communist Party of China (CPC) and 12 major political parties and organizations of Egypt. The first conference was held via videolink. Zhu Rui, Assistant Minister of the International Department of the CPC Central Committee, and leaders of Egyptian political parties, including the Nation\u2019s Future Party, Republican People\u2019s Party, New Wafd Party, Egyptian Communist Party and others, attended the conference and delivered speeches.\u201d https://www.idcpc.org.cn/english/news/202012/t20201223_141127.html \n\n\u201cBeijing, May 31st\u2014Zhu Rui, Assistant-minister of the International Department of the CPC Central Committee, attended and addressed here today the virtual seminar on promoting the building of a community with a shared future for mankind between Chinese and Egyptian political parties and the second forum on state governance and development. The event was organized by the Chinese Embassy in Egypt. Liao Liqiang, Chinese Ambassador to Egypt, made a keynote speech at the event. Essam Abdel-Aziz Sharaf, former Prime Minister of Egypt, Al-Sayed al-Sherif, former First Deputy Speaker of Egypt's Parliament, leaders of 10 political parties, the head of the Coordination's Committee of Party's Youth Leaders and Politicians, and representatives of think tanks from China and Egypt attended the meeting and delivered speeches.\u201d https://www.idcpc.org.cn/english/news/202106/t20210603_146086.html \n\n\u201cZhu Rui Meets with Cadre Study Group of Free Egyptians Party of Egypt\u201d\nhttps://www.idcpc.org.cn/english/news/201912/t20191201_102052.html \n",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cggb//eng/xwdt/t1334594.htm ",
+                    "https://www.mei.edu/publications/egypt-turns-quietly-asia ",
+                    "https://www.idcpc.org.cn/english/news/202012/t20201223_141127.html ",
+                    "https://www.idcpc.org.cn/english/news/202106/t20210603_146086.html ",
+                    "https://www.idcpc.org.cn/english/news/201912/t20191201_102052.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "Current political regime leaders in Egypt do not have problems or are not pressured by China.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "Current political regime leaders in Egypt do not have problems or are not pressured by China.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "\u201cIndia's Ambassador in Beijing optimistically briefed Zhou Enlai that they believed the UK and Egypt would support the PRC\u2019s assumption of China\u2019s Security Council seat, giving it majority support.\u201d https://www.wilsoncenter.org/publication/not-the-cost-china-india-and-the-united-nations-security-council-1950\n\nHowever, this was just an assumption and not made by the representatives of Egypt.\n\nExpert skipped this question.",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "evidence": "There was the case of Uyghur Muslim-Chinese students arrested and deported from Egypt to China.\n\u201cUyghur students in Egypt face arrest, deportation to China\u201d https://www.al-monitor.com/originals/2019/09/egypt-china-uighur-students-detained-trade-relations-ethnic.html \n\n\"For its part, Cairo has helped identify and detain Uighur Chinese citizens in Egypt for interrogation and repatriation to China, where they may face enrollment into brutal \u201cre-education\u201d facilities likened to concentration camps. Egypt has allowed Chinese officials to interrogate Uighurs in Egyptian prisons, a rare exception to usual Egyptian practice.\" https://www.power3point0.org/2020/02/20/egypt-and-chinas-telecoms-a-concerning-courtship/ \n",
+                "evidence_urls": [
+                    "https://www.al-monitor.com/originals/2019/09/egypt-china-uighur-students-detained-trade-relations-ethnic.html ",
+                    "https://www.power3point0.org/2020/02/20/egypt-and-chinas-telecoms-a-concerning-courtship/ ",
+                    "https://www.washingtoninstitute.org/policy-analysis/arab-states-give-china-pass-uyghur-crackdown"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "4",
+                "evidence": "\"During his visit to Egypt, State Councilor and Foreign Minister Wang Yi met with the Egyptian President Abdel Fattah El-Sisi and held talks with Foreign Minister Sameh Shoukry... The Egyptian side said it firmly opposes foreign interference in China's internal affairs under the pretext of issues relating to Hong Kong, Xinjiang, Taiwan and Tibet.\" http://ge.china-embassy.org/eng/fyrth/202107/t20210719_8907620.htm ",
+                "evidence_urls": [
+                    "http://ge.china-embassy.org/eng/fyrth/202107/t20210719_8907620.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": " \"During his visit to Egypt, State Councilor and Foreign Minister Wang Yi met with the Egyptian President Abdel Fattah El-Sisi and held talks with Foreign Minister Sameh Shoukry... The Egyptian side said it firmly opposes foreign interference in China's internal affairs under the pretext of issues relating to Hong Kong, Xinjiang, Taiwan and Tibet.\" http://ge.china-embassy.org/eng/fyrth/202107/t20210719_8907620.htm ",
+                "evidence_urls": [
+                    "http://ge.china-embassy.org/eng/fyrth/202107/t20210719_8907620.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "3",
+                "evidence": "The two sides also reviewed what has been achieved of the cooperation agreement between Ain Shams University and Huawei to establish the Huawei ICT Academy in Egypt... Egyptian Higher Education Minister Khaled Abdel-Ghaffar met with CEO of Huawei Egypt Sun Luocheng in Cairo on Tuesday night where they discussed the implementation of a memorandum of understanding (MoU) signed by both sides to boost ICT talents in Egyptian universities. The MoU aims to establish a long-term partnership between the Egyptian ministry and Huawei to develop university infrastructure and train young ICT talents. http://www.china.org.cn/business/2020-02/27/content_75749310.htm ",
+                "evidence_urls": [
+                    "http://www.china.org.cn/business/2020-02/27/content_75749310.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "\u201cThere are two Confucius Institutes in Egypt, one at the Suez Canal University and the other at Cairo University, with branches in other provinces.\u201d http://www.chinadaily.com.cn/a/201809/26/WS5baacd81a310c4cc775e8125_1.html ",
+                "evidence_urls": [
+                    "http://www.chinadaily.com.cn/a/201809/26/WS5baacd81a310c4cc775e8125_1.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "Egyptian schools to add Chinese language \n\n\u201cChina is growing its ties to Egypt with a deal with the government for Egyptian schools to offer the Chinese language\u2026 In an interview with Al-Monitor, Deputy Minister of Education Mohamed Mujahid said that under the agreement, Chinese specialists and volunteers with the Confucius Institute, a center for exchange and cooperation affiliated with the Chinese Ministry of Education, will be sent to train Egyptian teachers who speak the language on teaching it to middle, high school and technical school students.\u201d https://www.al-monitor.com/originals/2020/09/egypt-china-agreement-teach-language-relations-region-role.html \n",
+                "evidence_urls": [
+                    "https://www.al-monitor.com/originals/2020/09/egypt-china-agreement-teach-language-relations-region-role.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "3",
+                "evidence": "Egyptian Council for Foreign Affairs is the member of Belt and Road Studies Network http://www.brsn.net/list/zhikujigou_en/index_4.html \n\nBenha University and The American University in Cairo are the members of University Alliance of the Silk Road http://uasr.xjtu.edu.cn/Members/Members.htm \n",
+                "evidence_urls": [
+                    "http://www.brsn.net/list/zhikujigou_en/index_4.html ",
+                    "http://uasr.xjtu.edu.cn/Members/Members.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "E.g. As written on their official website, Tahir Center for Studies and Research (https://www.facebook.com/eltahreerCSR/) concludes cooperation protocols with relevant Chinese, international institutions, bodies, research centers and universities. https://tahreersr.com/about/ They are organizing different projects related to China.\n\n",
+                "evidence_urls": [
+                    "https://www.facebook.com/eltahreerCSR/",
+                    "https://tahreersr.com/about/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": " \n\n\n",
+                "evidence_urls": [],
+                "note": "\"In March last year, China's Tianjin Light Industry Vocational Technical College, Tianjin Transportation Vocational College, and Egypt's Ain Shams University signed a memorandum of understanding (MoU) for the Egypt Luban Workshop in Cairo. Luban workshop is the first project of international cooperation on vocational training supported by China's Tianjin Municipality, which aims at improving academic education of top technical talents and serving the local economy and society via vocational training.\" http://www.xinhuanet.com/english/africa/2020-09/08/c_139350124.htm\n\n\u201cthe China-Africa Partnership for Science and Technology Program to enhance bilateral cooperation, including the two sides\u2019 participation in building scientific laboratories, model bases for appropriate and advanced technology, technology transfer frameworks, and activating academic and technical exchange and other forms of creative and diverse cooperation, In addition to working to strengthen communication between scientists from the two countries, especially young scientists.\u201d http://arabic.people.com.cn/n3/2016/0122/c31660-9008088.html ",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "\u201cChina has provided financial support for two teachers (Egyptian teachers) to attend a seminar on Chinese language teaching in China.\u201d https://www.mfa.gov.cn/ce/ceegy//eng/zaigx/jyjl/t76340.htm ",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/ceegy//eng/zaigx/jyjl/t76340.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "\"In 2014 Egypt and China signed a \u201ccomprehensive strategic partnership\u201d agreement.\" https://www.power3point0.org/2020/02/20/egypt-and-chinas-telecoms-a-concerning-courtship/ \n",
+                "evidence_urls": [
+                    "https://www.power3point0.org/2020/02/20/egypt-and-chinas-telecoms-a-concerning-courtship/ "
+                ],
+                "note": "August 5, 2019 - \"Egypt signed a memorandum of understanding with the Chinese company Hutchison Ports to establish a Mediterranean container terminal in Abu Qir. President Abdul Fattah al-Sisi himself attended the signing ceremony, where he praised the company\u2019s global reputation in the field and emphasized the importance of executing the project in accordance with the highest international standards\u2026 Since President Abdul Fattah al-Sisi took office as president in 2014, he has visited China six times and met with President Xi Jinping seven times. His first trip took place in December 2014, when he signed twenty-five bilateral agreements, mainly on energy and transport issues. He also pledged to cooperate on what has come to be known as the Belt and Road Initiative (BRI), China\u2019s sweeping strategy to build a new Silk Road by investing in roads, rail, energy production, transit, and other infrastructure projects across some sixty countries.\" https://www.washingtoninstitute.org/policy-analysis/egypt-takes-another-step-toward-china ",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "Alexandria - Shanghai, Cairo - Beijing, Faiyum - Haikou, Ismailia - Suzhou, Luxor - Shenzhen and Yangzhou https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Egypt ",
+                "evidence_urls": [
+                    "https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Egypt "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "4",
+                "evidence": "They travel to China within the frames of FOCAC which is supported by the Secretariat of the Chinese Follow-up Committee of the Forum on China-Africa Cooperation. The Office of the Secretariat of the Chinese FOCAC Follow-up Committee is set up in the Department of African Affairs of the Ministry of Foreign Affairs of the PRC. http://www.focac.org/eng/ltjj_3/zfhxxdwyh/ \n\n\u201cExchanges and cooperation in health, culture, education and journalism between the two countries continued to grow. The Ministry of Health, Ministry of Higher Education and Ministry of State for Antiquities of Egypt sent representatives to participate in activities such as the China-Africa Ministerial Conference on Health Cooperation and Development, the Second China-Arab States University Presidents' Forum and the China-Arab States National Museum Curators' Forum. China and Egypt signed a number of cooperation agreements on the development of agricultural information network, high-quality hybrid rice and the prevention and treatment of schistosomiasis. China Taoist Orchestra was invited to the sixth International Festival for Choir and Spiritual Music in Egypt. Egyptian news media delegations and non-governmental diplomatic delegations visited China, which further strengthened media cooperation and people-to-people exchanges between the two countries.\u201d https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2813_663616/ \n\nTHE FIFTH MINISTERIAL CONFERENCE OF THE FORUM ON CHINA-AFRICA COOPERATION BEIJING ACTION PLAN (2013-2015)\n\"To enhance cooperation with Africa on peace and security issues, the Chinese side will launch the \"Initiative on China-Africa Cooperative Partnership for Peace and Security\" and will provide, within the realm of its capabilities, financial and technical support to the African Union for its peace-support operations, the development of the African Peace and Security Architecture, personnel exchanges and training in the field of peace and security and Africa's conflict prevention, management and resolution and post-conflict reconstruction and development.\" http://www.focac.org/eng/zywx_1/zywj/201207/t20120723_8079762.htm \n\nReport by State Councilor and Foreign Minister Wang Yi At the Eighth Ministerial Conference of Forum on China-Africa Cooperation http://losangeles.china-consulate.org/eng/topnews/202112/t20211203_10461918.htm \n",
+                "evidence_urls": [
+                    "http://www.focac.org/eng/ltjj_3/zfhxxdwyh/ ",
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/xybfs_663590/gjlb_663594/2813_663616/ ",
+                    "http://www.focac.org/eng/zywx_1/zywj/201207/t20120723_8079762.htm ",
+                    "http://losangeles.china-consulate.org/eng/topnews/202112/t20211203_10461918.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "evidence": "\"Since President Abdul Fattah al-Sisi took office as president in 2014, he has visited China six times and met with President Xi Jinping seven times. His first trip took place in December 2014, when he signed twenty-five bilateral agreements, mainly on energy and transport issues. He also pledged to cooperate on what has come to be known as the Belt and Road Initiative (BRI), China\u2019s sweeping strategy to build a new Silk Road by investing in roads, rail, energy production, transit, and other infrastructure projects across some sixty countries.\" https://www.washingtoninstitute.org/policy-analysis/egypt-takes-another-step-toward-china",
+                "evidence_urls": [
+                    "https://www.washingtoninstitute.org/policy-analysis/egypt-takes-another-step-toward-china"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "2",
+                "evidence": "\"Since President Abdul Fattah al-Sisi took office as president in 2014, he has visited China six times and met with President Xi Jinping seven times. His first trip took place in December 2014, when he signed twenty-five bilateral agreements, mainly on energy and transport issues. He also pledged to cooperate on what has come to be known as the Belt and Road Initiative (BRI), China\u2019s sweeping strategy to build a new Silk Road by investing in roads, rail, energy production, transit, and other infrastructure projects across some sixty countries.\" https://www.washingtoninstitute.org/policy-analysis/egypt-takes-another-step-toward-china ",
+                "evidence_urls": [
+                    "https://www.washingtoninstitute.org/policy-analysis/egypt-takes-another-step-toward-china "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No direct evidence found.",
+                "evidence_urls": [],
+                "note": "Dr. Ashraf El-Shihy - President of the Egyptian-Chinese University and former Minister of Higher Education and Scientific Research https://www.ecu.edu.eg/?p=5729 ",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "2",
+                "evidence": "\u201cThe Egyptian Minister of Electricity and Renewable Energy, Dr. Mohamed Shaker, discussed with Michael Lee, the regional head of the corporate sector for the Chinese company Huawei, ways to gradually shift to the smart grid system... Michael Lee praised the rapid and remarkable development in the projects implemented by the Ministry of Electricity and Renewable Energy and the building of a strong infrastructure and smart network that supports the digital transformation adopted by the Egyptian government.\u201d https://bawabaa.org/news/sustain/514158/ \n\n\u201cChinese PSCs (Private Security Companies), however, are already extending feelers in the continent to establish profitable business partnerships, especially in Djibouti, Egypt, Ethiopia, South Africa, and Tanzania.\u201d https://africa.isp.msu.edu/files/6816/3616/1649/PB_42_Arduino_Chinese_Private_Security_Companies.pdf \n\nAs the link provided is from 2020, the process might still be ongoing.",
+                "evidence_urls": [
+                    "https://bawabaa.org/news/sustain/514158/ ",
+                    "https://africa.isp.msu.edu/files/6816/3616/1649/PB_42_Arduino_Chinese_Private_Security_Companies.pdf "
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "\u201cThe EU is Egypt's biggest trading partner, covering 24.5% of Egypt's trade volume in 2020. 25.8% of Egypt\u2019s imports came from the EU and 21.8% of Egypt\u2019s exports went to the EU.\u201d https://ec.europa.eu/trade/policy/countries-and-regions/countries/egypt/ ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "Less than 10% (of Egypt\u2019s GDP) of the sovereign debt https://www.aiddata.org/publications/banking-on-the-belt-and-road ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "No Evidence Found. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "\u201cA new contract has recently been initiated and signed between the Egyptian government and China Gezhouba Group company. As part of this collaboration, the Chinese company will build several wind power plants in Egypt, with a total capacity of 500 MW. The deal was made public on January 3, 2020 by the holding company, China energy engeneering coorporation. It will run for a period of three years for an amount of 261.3 million euros. The contract covers the design, construction, equipment procurement, installation, commissioning and maintenance of all the solar power plants that will be built as part of the deal.\u201d https://www.afrik21.africa/en/egypt-china-gezhouba-group-to-build-500-mw-of-solar-power-plants/ \n\n\"In March of 2019, Chinese PV manufacturer and system integrator TBEA Sunoasis completed construction of three solar power stations at the Benban Solar Energy Park in the southern governorate of Aswan.[21] The same year, Yingli Solar forged an alliance with Misr Asset Management (MAM) aimed at establishing a solar plant to sell electricity to the Building Materials Industries Company (BMIC).[22] In January of 2020, China Gezhouba Group (CGGC), a subsidiary of the state-owned energy conglomerate China Energy Engineering Corporation (CEEC), secured a contract to build distributed solar power generation facilities across the country with a combined capacity of 500MW.[23] Looking to extend cooperation in this field, the two countries have established a a joint renewable energy research facility.\" https://www.mei.edu/publications/towering-ambitions-egypt-and-china-building-future \n\n\u201cEarly last month, the Egyptian government signed a Memorandum of Understanding (MoU) with Hutchison Ports \u2013 a subsidiary of CK Hutchison, the Hong Kong\u2011listed port operator / developer \u2013 with regard to the construction of a container terminal at the port of Abu Qir on the country's Mediterranean coast.\u201d https://research.hktdc.com/en/article/MzIwNjQxMDU4 \n",
+                "evidence_urls": [
+                    "https://www.afrik21.africa/en/egypt-china-gezhouba-group-to-build-500-mw-of-solar-power-plants/ ",
+                    "https://www.mei.edu/publications/towering-ambitions-egypt-and-china-building-future ",
+                    "https://research.hktdc.com/en/article/MzIwNjQxMDU4 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Egypt joined in August 2016  https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html ",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "Federation of Egyptian Chambers of Commerce (FEDCOC) is a member of the Silk Road Chamber of International Commerce http://www.srcic.com/silk-road-members/?page=1 ",
+                "evidence_urls": [
+                    " http://www.srcic.com/silk-road-members/?page=1 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "\u201cBy March 1995, the two countries signed an economic and trade agreement to replace the 1985 trade agreement which smoothed and improved the development of bilateral trade between the two countries.\u201d https://www.researchgate.net/publication/230602724_Journal_of_Economic_Studies_Exploring_Egypt-China_bilateral_trade_dynamics_and_prospects ",
+                "evidence_urls": [
+                    "https://www.researchgate.net/publication/230602724_Journal_of_Economic_Studies_Exploring_Egypt-China_bilateral_trade_dynamics_and_prospects "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "\u201cWhile Egyptians sank into ever-greater poverty over the past five years, Sisi has poured resources into vanity megaprojects such as building a new administrative capital in the desert 30 miles east of Cairo at an estimated cost of $58 billion. Not only did Egypt not need a new capital, but the site makes it inaccessible to most citizens as well as extremely problematic from a water consumption point of view. The city is being built by a military company with significant Chinese investment. As of spring 2019, the Egyptian general in charge of the project said that some $9 billion had already been spent on the city\u2019s infrastructure.\u201d  https://carnegieendowment.org/2020/09/09/egypt-trends-in-politics-economics-and-human-rights-pub-82677 https://www.aljazeera.com/news/2021/3/15/the-competition-for-egypt-china-the-west-and-mega-projects \n\n\"The Chinese business presence in Egypt is concentrated in industrial zones, free trade zones, and financial centers. Since the late 2000s, Chinese firms have shown interest in Egypt serving as a regional manufacturing hub.\" https://www.mei.edu/publications/towering-ambitions-egypt-and-china-building-future \n\n\u201cThe two deals will bring more to the SCZone, where the Chinese industrial zone TEDA in Ain Sokhna has already yielded fruitful results and is \"a model to learn from,\" said Gaballah...He stressed that the success of the projects will encourage other economies to invest in the SCZone, which will push the development of the area swiftly, noting that the progress of the Chinese industrial zone in Ain Sokhna has encouraged more cooperation between Egypt and China.\u201d http://www.xinhuanet.com/english/africa/2021-08/04/c_1310105703.htm \nhttp://www.news.cn/english/2021-09/29/c_1310217649.htm \n\n\"China's economic incursion into the Suez Canal industrial zone may seem to be a commonplace foreign investment, but the issue has a worrisome strategic dimension, Egyptian waterways specialist Rifaat al-Arab told Al-Mashareq.\" https://almashareq.com/en_GB/articles/cnmi_am/features/2021/12/10/feature-01 \nhttps://beltandroad.hktdc.com/en/sme-corner/industrial-park \n",
+                "evidence_urls": [
+                    "https://carnegieendowment.org/2020/09/09/egypt-trends-in-politics-economics-and-human-rights-pub-82677 https://www.aljazeera.com/news/2021/3/15/the-competition-for-egypt-china-the-west-and-mega-projects ",
+                    "https://www.mei.edu/publications/towering-ambitions-egypt-and-china-building-future ",
+                    "http://www.xinhuanet.com/english/africa/2021-08/04/c_1310105703.htm ",
+                    "http://www.news.cn/english/2021-09/29/c_1310217649.htm ",
+                    "https://almashareq.com/en_GB/articles/cnmi_am/features/2021/12/10/feature-01 ",
+                    "https://beltandroad.hktdc.com/en/sme-corner/industrial-park "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "\"Beyond the 5G AFCON announcement, China has financed Egypt\u2019s telecoms sector and, according to a researcher with Egypt\u2019s Foreign Trade and Industry Ministry, the 82 Chinese telecoms firms operating in Egypt as of 2019 represent $14 million USD in FDI.\" https://www.power3point0.org/2020/02/20/egypt-and-chinas-telecoms-a-concerning-courtship/ \n\n\u201cTelecom Egypt signs new deal with Huawei, ZTE and China Telecom\u201d https://archive.is/DsXJZ#selection-933.6-933.69 \n",
+                "evidence_urls": [
+                    "https://archive.is/DsXJZ#selection-933.6-933.69 ",
+                    "https://www.power3point0.org/2020/02/20/egypt-and-chinas-telecoms-a-concerning-courtship/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "\"Telecom Egypt has signed a long-term financing agreement with a number of Chinese financial institutions, including Bank of China and China Export & Credit Insurance Corporation.\nThe deal will see the incumbent fixed-line provider receive $200 million in financing to support the deployment of its 4G network. Chinese vendor Huawei helped to bring about the deal by offering Telecom Egypt competitive financing conditions for deploying its core, transmission, and 4G networks.\"  \nhttps://developingtelecoms.com/business/operator-news/7841-telecom-egypt-secures-200m-of-chinese-financing.html \n\n\u201cTelecom Egypt signs new deal with Huawei, ZTE and China Telecom\u201d https://archive.is/DsXJZ#selection-933.6-933.69 \n\n",
+                "evidence_urls": [
+                    "https://developingtelecoms.com/business/operator-news/7841-telecom-egypt-secures-200m-of-chinese-financing.html ",
+                    "https://archive.is/DsXJZ#selection-933.6-933.69 "
+                ],
+                "note": "\u201cIn 2005, ZTE signed a partnership with France Telecom (Orange) and became its global supplier of asymmetric digital subscriber line (ADSL) equipment. ZTE played a key role in a 100,000-line CDMA telecom project in Egypt for the CDMA upgrade for Cairo and the Nile Delta.\u201d https://chinatechmap.aspi.org.au/#/map/marker-3907 https://www.ide.go.jp/English/Data/Africa_file/Manualreport/cia_09.html ",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "According to the website link https://www.top10vpn.com/assets/2021/08/Huawei-Map_updated_full-size.png, certain type of content is blocked by Huawei\u2019s technology in Egypt, which means that Egypt has adopted internet/wifi/telecommunication services by HUAWEI. ",
+                "evidence_urls": [
+                    "https://www.top10vpn.com/assets/2021/08/Huawei-Map_updated_full-size.png"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "\u201cAccording to local media, in February 2019, Egypt\u2019s Minister of Telecommunications signed a Memorandum of Understanding (MoU) with Huawei to establish cloud computing and AI centres in the country\u201d https://chinatechmap.aspi.org.au/#/map/marker-4104  \n\nIn August 2002, ZTE completed the Egyptian Remote Education System using its ZTE EduStation. The project was implemented over five years and received two extensions. In 2004, the program had reportedly provided technology to more than 4,000 Egyptian teachers. https://chinatechmap.aspi.org.au/#/map/marker-892 \n",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-4104  ",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-892 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "\u201cTo secure effective security and management for its fleet of public service buses, the Suez Governorate in Egypt is now operating innovative mobile CCTV systems, supplied by Hikvision, the world\u2019s leading supplier of innovative video surveillance products and solutions.\u201d https://www.hikvision.com/en/newsroom/success-stories/traffic/hikvision-enhances-suez-governorate-s-bus-fleet-operation/ \n\nThe Chinese firm Hikvision is already providing CCTV cameras for buses in Egypt\u2019s Suez governorate https://www.power3point0.org/2020/02/20/egypt-and-chinas-telecoms-a-concerning-courtship/ \n\n2019 - \"Egyptian Minister of Higher Education Khaled Abdel-Ghaffar on Friday met with Huawei Egypt CEO Vincent Sun... The meeting also discussed cooperation within communication and information technology fields and benefiting from Chinese expertise in Artificial Intelligence (AI).\" https://egyptindependent.com/egypt-in-talks-with-huawei-for-smart-university-transition/ \n\n\u201cHikvision supplies CCTV systems for the Suez Governorate in Egypt through Caesar Security Services, which is a Hikvision Silver Value Added Solutions Partner. In the first phase of the project, Hikvision surveillance products were installed on 15 buses. As of June 2018, the second phase planned to install the same Hikvision mobile CCTV system on 50 more buses and a Hikvision LCD video wall at the Suez Governorate central control room. The surveillance system allows for local recording and remote viewing.\u201d https://chinatechmap.aspi.org.au/#/map/marker-2401 \n",
+                "evidence_urls": [
+                    "https://www.hikvision.com/en/newsroom/success-stories/traffic/hikvision-enhances-suez-governorate-s-bus-fleet-operation/",
+                    "https://www.power3point0.org/2020/02/20/egypt-and-chinas-telecoms-a-concerning-courtship/ ",
+                    "https://egyptindependent.com/egypt-in-talks-with-huawei-for-smart-university-transition/ ",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-2401 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "\"A January 2019 media report said Huawei signed an MoU with Talaat Mostafa Group (TMG) Holding, in which Huawei agreed to provide smart solutions in the security and privacy field. It said the agreement would 'aim to bring about the digital transformation of living in Egypt and the Middle East to Egypt and the Middle East.' The report added that 'the deal includes the application of techniques like artificial intelligence, learning machines, and the internet of things (IoT) to develop smart cities in line with the latest international standards.\" https://chinatechmap.aspi.org.au/#/map/marker-361 ",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-361"
+                ],
+                "note": "2019 - \u201cEgyptian Minister of Higher Education Khaled Abdel-Ghaffar on Friday met with Huawei Egypt CEO Vincent Sun, and his accompanying delegation in Cairo to discuss Egypt\u2019s transition towards smart universities.\u201d https://egyptindependent.com/egypt-in-talks-with-huawei-for-smart-university-transition/ ",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "\"China\u2019s MSA Capital Explores Egypt Further, Backs 20-minute Delivery Startup, Rabbit, In $11m Pre-seed\" https://afrikanheroes.com/2021/11/10/chinas-msa-capital-explores-egypt-further-backs-20-minute-delivery-startup-rabbit-in-11m-pre-seed/ \nhttps://thecapitalquest.com/2021/05/18/egyptian-ecommerce-logistics-startup-bosta-bags-series-a-funding/ \n",
+                "evidence_urls": [
+                    "https://afrikanheroes.com/2021/11/10/chinas-msa-capital-explores-egypt-further-backs-20-minute-delivery-startup-rabbit-in-11m-pre-seed/",
+                    "https://thecapitalquest.com/2021/05/18/egyptian-ecommerce-logistics-startup-bosta-bags-series-a-funding/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "3",
+                "evidence": "\u201cHuawei has maintained an \u201cOpenLab\u201d for tech collaboration in Cairo since December 2017, and in June 2019 Egpyt\u2019s Minister of Higher Education met with Huawei representatives to discuss the development of \u201csmart\u201d technology in the Egyptian university system. According to a February 2019 agreement, Huawei is projected to debut North Africa\u2019s first cloud computing network in Egypt during the first quarter of 2020\u201d  https://www.power3point0.org/2020/02/20/egypt-and-chinas-telecoms-a-concerning-courtship/ \n\n\"Egypt, Huawei sign MoU for cloud computing, AI networks\" https://egyptindependent.com/egypt-huawei-sign-mou-for-cloud-computing-ai-networks/ \n\nAccording to local media, in February 2019, Egypt\u2019s Minister of Telecommunications signed a Memorandum of Understanding (MoU) with Huawei to establish cloud computing and AI centres in the country https://chinatechmap.aspi.org.au/#/map/marker-4104 ",
+                "evidence_urls": [
+                    "https://www.power3point0.org/2020/02/20/egypt-and-chinas-telecoms-a-concerning-courtship/ ",
+                    "https://egyptindependent.com/egypt-huawei-sign-mou-for-cloud-computing-ai-networks/ ",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-4104 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "https://code95.com/blog/most-popular-apps-in-egypt/ TikTok seems to be in the top 5 social media apps in Egypt.",
+                "evidence_urls": [
+                    "https://code95.com/blog/most-popular-apps-in-egypt/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "2019- \u201cIn order to show the performance and feature advantages of BDS, China and Arab co-organized the testing and experience activity of BDS and jointly issued the test evaluation result of BDS in Arab during the forum. This activity mainly bases on China-Arab BDS/GNSS Center and carries out static and dynamic states test and comment in Tunisia, Egypt, Sudan, Kuwait, Algeria, and other Arab states. The joint processing analysis result indicates that it could be used for Arab states to provide excellent navigation services under these circumstances including more than 8 average-visible satellites over Arab states, 10 meters or better positional accuracy, and more than 95% availability.\u201d \nhttp://en.beidou.gov.cn/WHATSNEWS/201905/t20190514_17980.html ",
+                "evidence_urls": [
+                    "http://en.beidou.gov.cn/WHATSNEWS/201905/t20190514_17980.html "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "2",
+                "evidence": "2021 \u201cOn October 14th, the Egyptian China Peaceful Reunification Promotion Association and the overseas Chinese community in Egypt held a symposium in Cairo to commemorate the 110th anniversary of the 1911 Revolution and learn the spirit of General Secretary Xi Jinping's speech. Chang Ding Yong presided over the symposium.\u201d http://www.zhongguotongcuhui.org.cn/hnwtchdt/202110/t20211018_12385088.html\n \n2020 \u201cEgypt-China Peaceful Reunification Promotion Association Strongly Condemns U.S. Appointment of So-called \"Special Coordinator for Tibet Affairs\" http://www.zhongguotongcuhui.org.cn/hnwtchdt/202010/t20201022_12302476.html\n \n2020 \"Egypt-China Peaceful Reunification Promotion Association warns Tsai Ing-wen: Going against the trend of history will surely be cast aside by Chinese all over the world\" http://www.zhongguotongcuhui.org.cn/hnwtchdt/202005/t20200520_12276081.html\n \n2019 \"Egypt China Peaceful Reunification Promotion Association & Egyptian Chinese Friendship Council held a symposium to study the spirit of the National Two Sessions Conference.\" http://www.zhongguotongcuhui.org.cn/hnwtchdt/201903/t20190325_12151108.html \n",
+                "evidence_urls": [
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/202110/t20211018_12385088.html ",
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/202010/t20201022_12302476.html ",
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/202005/t20200520_12276081.html ",
+                    "http://www.zhongguotongcuhui.org.cn/hnwtchdt/201903/t20190325_12151108.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No Direct Evidence Found, but\n\n2018 - The foreign trade union organizations, including Egyptian Trade Union and Lebanese Federation of Trade Unions, have sent congratulatory letters on the convening of the 17th National Congress of the Chinese Trade Union. https://www.acftu.org/xwdt/ghyw/202008/t20200831_242383.html?sdiOEtCa=qqrupsLFdSRuLxL.bnuotnylmmX9R2mkIgiYuI_5Nm85gb88Mf65ASTC5JPrbxSjqmjNmg6kiZmKoBsfpedxJR_fRA_pkAZP4BFCIz9rQAhvDkLHtpNH1yUw_w7WLGn92037CJ4lGGMcE0m3dq4eQv3Hjjj9xPJH5WibxrroaLQhf0rO",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "The Afro-Asian Media Union in Cairo, Egypt is the member of All-China Journalists Association http://www.chinaja.org.cn/2015-04/07/c_137851976_8.htm \nhttp://www.chinaja.org.cn/2019-04/05/c_138149361.htm \n\n\u201c2015, September 18, the Egyptian-Chinese Friendship Association (https://www.facebook.com/CEfriendship/) and the Egyptian Friendship Organisation organized Cairo\u2019s China Day in cooperation with the Chinese Cultural Center in Cairo and the Cairo Governorate, which was hosted in Cairo\u2019s famous Azhar Park.\u201d https://www.arabwestreport.info/en/year-2015/1-cairo%E2%80%99s-china-day-%E2%80%93-gaining-insight-egypt%E2%80%99s-chinese-community \n\n\"The Chinese Culture Center in Cairo is the first large-scale culture center set up at overseas by the Chinese Government in the 21 century. On October 29, 2002.\" https://www.mfa.gov.cn/ce/ceegy/eng/zaigx/whjl/t76287.htm ",
+                "evidence_urls": [
+                    "http://www.chinaja.org.cn/2015-04/07/c_137851976_8.htm ",
+                    "http://www.chinaja.org.cn/2019-04/05/c_138149361.htm ",
+                    "https://www.arabwestreport.info/en/year-2015/1-cairo%E2%80%99s-china-day-%E2%80%93-gaining-insight-egypt%E2%80%99s-chinese-community ",
+                    "https://www.mfa.gov.cn/ce/ceegy/eng/zaigx/whjl/t76287.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "According to the state council information office of the PRC, \"The launch of the Arabic version of \"Parents Love\" in Egypt coincides with the state visit of Chinese President Xi Jinping to Egypt. With the warming of China-Egypt friendly relations, the Egyptian people are eager to learn about China. Egypt's national TV station seized the opportunity and launched the Chinese TV series \"Parents Love\" at the right time, which attracted unprecedented attention from the Egyptian people as soon as it was broadcast. At the same time, the China Radio International Film and Television Dubbing Center carried out extensive publicity: the premiere ceremony was held in Cairo, and news was released through local mainstream media...In 2015, at the China-Arab States Radio and Television Cooperation Forum, China Radio International and the Egyptian National Radio and Television Union signed an agreement to jointly launch a fixed program \"China Theater\" on the Egyptian National Television.\" http://www.scio.gov.cn/32621/32629/32754/Document/1476204/1476204.htm\nhttp://world.people.com.cn/n1/2020/1026/c1002-31905156.html   \n",
+                "evidence_urls": [
+                    "http://www.scio.gov.cn/32621/32629/32754/Document/1476204/1476204.htm",
+                    "http://world.people.com.cn/n1/2020/1026/c1002-31905156.html   "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "evidence": "Egypt Nile TV Confucius Classroom http://www.tochinajob.com:8080/publish/portal21/tab5198/info135799.htm ",
+                "evidence_urls": [
+                    "http://www.tochinajob.com:8080/publish/portal21/tab5198/info135799.htm "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "\"The more hyperbolic statements of China\u2019s growing market share all have an important but largely unreported caveat: They pertain only to Sub-Saharan Africa, rather than the whole continent. With a few exceptions, the major arms markets on the continent are in North Africa: Egypt, Algeria, and Morocco accounted for 57 percent of transfers in the past two decades.\" https://www.piie.com/blogs/realtime-economic-issues-watch/arms-and-influence-chinese-arms-transfers-africa-context \n\n\"We cooperate with the Egyptian army in providing light and heavy weapons as well as ammunition and modernizing old military equipment for the Egyptian armed forces,\" Wang told Xinhua at the exhibition.\" http://english.chinamil.com.cn/view/2018-12/06/content_9369081.htm \n\n\"China 'bids to sell two submarines to Egypt' as it tries to expand its markets for weaponry\" https://www.scmp.com/news/china/diplomacy-defence/article/1858647/china-bids-sell-two-submarines-egypt-it-tries-expand \n",
+                "evidence_urls": [
+                    "https://www.piie.com/blogs/realtime-economic-issues-watch/arms-and-influence-chinese-arms-transfers-africa-context ",
+                    "http://english.chinamil.com.cn/view/2018-12/06/content_9369081.htm ",
+                    "https://www.scmp.com/news/china/diplomacy-defence/article/1858647/china-bids-sell-two-submarines-egypt-it-tries-expand "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "But it used to export in 2018 small number of arms and ammunition, parts and accessories worth of $318 in total. https://tradingeconomics.com/egypt/exports/china ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "evidence": "\u201cWhile Egyptians sank into ever-greater poverty over the past five years, Sisi has poured resources into vanity megaprojects such as building a new administrative capital in the desert 30 miles east of Cairo at an estimated cost of $58 billion. Not only did Egypt not need a new capital, but the site makes it inaccessible to most citizens as well as extremely problematic from a water consumption point of view. The city is being built by a military company with significant Chinese investment. As of spring 2019, the Egyptian general in charge of the project said that some $9 billion had already been spent on the city\u2019s infrastructure.\u201d  https://carnegieendowment.org/2020/09/09/egypt-trends-in-politics-economics-and-human-rights-pub-82677 https://www.aljazeera.com/news/2021/3/15/the-competition-for-egypt-china-the-west-and-mega-projects \n\n\"In addition to expanding the Saudi fleet, the new facility can operate as a hub for manufacturing and servicing for other CH-4 operators in the Middle East, including Egypt, Iraq and Jordan.\" https://www.defensenews.com/air/2017/03/28/china-to-open-a-drone-factory-in-saudi-arabia/ \nhttps://thediplomat.com/2021/06/the-middle-east-an-emerging-market-for-chinese-arms-exports/ \n",
+                "evidence_urls": [
+                    "https://www.defensenews.com/air/2017/03/28/china-to-open-a-drone-factory-in-saudi-arabia/ ",
+                    "https://thediplomat.com/2021/06/the-middle-east-an-emerging-market-for-chinese-arms-exports/ ",
+                    "https://carnegieendowment.org/2020/09/09/egypt-trends-in-politics-economics-and-human-rights-pub-82677 https://www.aljazeera.com/news/2021/3/15/the-competition-for-egypt-china-the-west-and-mega-projects "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "4",
+                "evidence": "\u201cThe Chinese People\u2019s Liberation Army (PLA) has delivered a batch of COVID-19 vaccines to the Egyptian side on September 1, 2021.\u201d http://eng.mod.gov.cn/news/2021-09/02/content_4893833.htm ",
+                "evidence_urls": [
+                    "http://eng.mod.gov.cn/news/2021-09/02/content_4893833.htm "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "4",
+                "evidence": "\u201cChina has trained more than 1,800 peacekeepers from other countries, provided demining equipment to Cambodia, Laos, Egypt and the ASEAN and trained more than 200 demining personnel\u201d https://peacekeeping.un.org/sites/default/files/china-peacekeeping-ministerial.pdf ",
+                "evidence_urls": [
+                    "https://peacekeeping.un.org/sites/default/files/china-peacekeeping-ministerial.pdf "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "4",
+                "evidence": "\u201cOn October 21, 2019, Lieutenant-General Mohamed Zaki, Commander-in-Chief of the Armed Forces and Minister of Defense and Military Production, visited China at the head of a high-level military delegation to participate in the Xiangshan International Forum, in the presence of a number of defense ministers from different countries. Zaki delivered a speech in which he stressed the need to deepen joint international cooperation to combat terrorism\u2026 The Commander-in-Chief of the Armed Forces also met with a number of representatives of Chinese defense industry companies. He also visited the naval base in Shanghai and inspected a number of units of the Chinese Navy, praising the Chinese navy's high combat capabilities. General Mohamed Zaki also met later with the Chinese Minister of Public Security, where the meeting dealt with discussing security cooperation files in areas of common interest.\nIn August 2014, a high-level delegation headed by the Assistant Minister of Defense for Armament Affairs Major General Fouad Abdel Halim visited Beijing with the aim of reviewing the latest Chinese weapons and in order to agree on obtaining types of them in several fields, especially in air defense systems and missile systems, in addition to promoting cooperation in the fields of joint manufacturing and training. His Excellency met with Chinese Defense Minister Chang Wanquan. The meeting focused on strengthening defense cooperation between the two countries. Hailing the strong momentum of bilateral military relations, the Chinese defense minister said that China is willing to make joint efforts with Egypt to strengthen pragmatic cooperation between their armed forces and promote military relations to a new level.\n- In March 2010, the Egyptian Minister of Defense, Commander-in-Chief of the Egyptian Armed Forces, Field Marshal Mohamed Hussein Tantawi, met in Cairo with the visiting Deputy Chief of General Staff of the Chinese People's Liberation Army Mah Xiaotian, where they pledged to strengthen bilateral military relations. During the meeting, Tantawi said that the two countries had witnessed close cooperation in the military, political and economic fields in recent years, which served the interests of the two countries as well as peace and stability in the region and the world. He also stressed, \"The Egyptian army attaches great importance to friendly relations with its Chinese counterpart and expects more efforts to be made to improve the actual cooperation to a greater degree.\" https://www.sis.gov.eg/Story/92486/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A?lang=ar \n",
+                "evidence_urls": [
+                    "https://www.sis.gov.eg/Story/92486/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A?lang=ar "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "2021 \"Ground, air and naval teams of the Chinese People's Liberation Army (PLA) that are scheduled to participate in the annual International Army Games starting on August 22. Venues in Korla, Northwest China's Xinjiang Uygur Autonomous Region that will host several contests are eagerly preparing for the event, with Chinese observers saying on Monday that the Chinese teams will exchange valuable experience with their foreign counterparts, and that they will achieve good results with the deployment of advanced new equipment. Military participants from six foreign countries including Russia, Belarus and Egypt have arrived in Korla. The PLA Army will host and participate in three contests, involving infantry fighting vehicles, man-portable anti-aircraft missiles, and nuclear, biological and chemical reconnaissance, the Xinhua News Agency reported on Sunday.\" https://www.globaltimes.cn/page/202108/1231623.shtml \n\n2019 - \u201cEgypt, China Hold Naval Drills in Mediterranean Sea\u201d https://see.news/egypt-china-hold-naval-drills/ \n",
+                "evidence_urls": [
+                    "https://www.globaltimes.cn/page/202108/1231623.shtml ",
+                    "https://see.news/egypt-china-hold-naval-drills/ "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "No direct evidence found.\n",
+                "evidence_urls": [
+                    "https://www.meiyapico.com/the-assistant-minister-of-interior-and-the-director-of-information-and-communication-bureau-of-egypt-mr-ahmed-mostafa-visited-meiya-pico_n11 "
+                ],
+                "note": "The Consumer Protection Agency's cooperation with the PRC on enhancing cooperation in preventing commercial fraud and enhancing consumer rights protection. https://www.cpa.gov.eg/ar-eg/%D8%A7%D9%86%D8%B4%D8%B7%D8%A9-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2/ArtMID/655/ArticleID/4878/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-%D8%AC%D9%85%D9%87%D9%80%D9%88%D8%B1%D9%8A%D9%80%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%D9%80%D8%A9 \n\n\u201cIn March 2019, the Director of Egypt's Information and Communication Bureau outlined possible future training cooperation between Egyptian law enforcement and Meiya Pico.\u201d https://chinatechmap.aspi.org.au/#/map/ https://www.meiyapico.com/the-assistant-minister-of-interior-and-the-director-of-information-and-communication-bureau-of-egypt-mr-ahmed-mostafa-visited-meiya-pico_n11\n",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "\u201cEgypt and China have established a bilateral comprehensive strategic partnership, signing agreements in a range of fields including defence, technology, economy, counter-terrorism and fighting cyber crimes.\u201d \nhttps://economictimes.indiatimes.com/news/international/business/china-egypt-sign-strategic-partnership-agreement/articleshow/45629765.cms",
+                "evidence_urls": [
+                    "https://economictimes.indiatimes.com/news/international/business/china-egypt-sign-strategic-partnership-agreement/articleshow/45629765.cms"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "\"Hikvision supplies CCTV systems for the Suez Governorate in Egypt through Caesar Security Services, which is a Hikvision Silver Value Added Solutions Partner. In the first phase of the project, Hikvision surveillance products were installed on 15 buses. As of June 2018, the second phase planned to install the same Hikvision mobile CCTV system on 50 more buses and a Hikvision LCD video wall at the Suez Governorate central control room. The surveillance system allows for local recording and remote viewing.\" https://chinatechmap.aspi.org.au/#/map/marker-2401\n",
+                "evidence_urls": [
+                    "https://chinatechmap.aspi.org.au/#/map/marker-2401"
+                ],
+                "note": "\"Egypt, China partners on $45m grant for EgyptSat-2\" https://africanews.space/egypt-china-partners-on-45m-grant-for-egyptsat-2/ \n\n\u201cOn 13/ 8/2018 Egypt and China signed an agreement to implement the project to establish a satellite (EgyptSat2) for remote sensing applications, at a value of 45 million dollars. The agreement was signed by the Egyptian side. Sahar Nasr, Minister of Investment and International Cooperation, and on the Chinese side, Song Aiguo, Chinese Ambassador to Cairo, in the presence of Dr. Khaled Abdel Ghaffar, Minister of Higher Education and Scientific Research, and representatives of the National Authority for Remote Sensing and Space Sciences to complete the $23 million grant for a satellite assembly project in cooperation with the Chinese Space Agency\u201d https://www.sis.gov.eg/Story/93137/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A?lang=ar",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "4",
+                "evidence": "\"Since July 3, 2017, authorities have arrested at least 62 Uyghurs who were living in Egypt without informing them of the grounds for their detention, and have denied them access to lawyers and their families. China has in recent months demanded the return of Uyghur students living abroad as it cracks down on the Muslim minority, accusing the community of \u201cseparatism\u201d and \u201creligious extremism.\u201d https://www.hrw.org/news/2017/07/08/egypt-dont-deport-uyghurs-china ",
+                "evidence_urls": [
+                    "https://www.hrw.org/news/2017/07/08/egypt-dont-deport-uyghurs-china "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No Evidence Found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.france24.com/en/20190818-nightmare-as-egypt-aided-china-to-detain-uighurs ",
+                    "https://www.nytimes.com/2017/07/06/world/asia/egypt-muslims-uighurs-deportations-xinjiang-china.html ",
+                    "https://www.cfr.org/backgrounder/chinas-repression-uyghurs-xinjiang ",
+                    "https://www.hrw.org/news/2017/07/08/egypt-dont-deport-uyghurs-china "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Egypt had a GDP per capita of US$3,876 and a total population of 104.25 million people, with the Chinese population comprising 10,000 people or 0.009% of the total population.",
+    "description-2": "Egypt established diplomatic relations with the People's Republic of China in 1956. Egypt was ranked 168th in Reporters Without Borders' 2022 World Press Freedom Index, and Not Free in Freedom House's 2021 Global Freedom Status, with a score of 18/100."
+}

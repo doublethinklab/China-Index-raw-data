@@ -1,0 +1,889 @@
+{
+    "name": "Nicaragua",
+    "partner": "Hernan Alberro",
+    "year": "2022",
+    "GDP": "$2,090.8",
+    "population": "6.7M",
+    "original": "62/396",
+    "ranking": "76",
+    "overall": "16%",
+    "effect": "17%",
+    "exposure": "19%",
+    "pressure": "0%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "No evidence found but it is worth mentioning that China Media Group just openned an office in Managua. ",
+                "evidence_urls": [
+                    "https://news.cgtn.com/news/2021-12-16/China-Media-Group-inaugurates-bureau-in-Nicaragua-162cy4t4kco/index.html"
+                ],
+                "note": "So far no media organization formally belongs to the World Chinese Media but the fact that one of the first initiatives implemented by PRC in Nicaragua is the establishment of a China Media Group office shows the interest and importance PRC gives to this kind of presence in the country.",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "evidence": "No evidence found. Since diplomatic relationships with PRC have been restablished on December 2021, it is too soon to see these kinds of tours but we can rest sure that they will take place as soon as PRC opens its borders after COVID-19. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "No evidence found. As in the previous answer, we can only expect these kind of trainings to happen as soon as PRC opens its borders.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "3",
+                "evidence": "It is mainly in the government friendly media outlets. Though they are mostly consumed for their entertainment and sports contents, they are a significan actor in the media landscape in Nicaragua.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "3",
+                "evidence": "Though they are a few, they are significant because they represent all state media in Nicaragua.",
+                "evidence_urls": [
+                    "https://100noticias.com.ni/politica/113493-programacion-china-television-nicaraguense/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "No such incident occurred. The thing is that those issues that could be harmfull for the PRC governments (human rights, Tibet, Uygurs, and so on) are issues of no importance or interest in Nicaragua. So there is no media coverage of such issues.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "No such incident occurred. No interest in such issues so far.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "Nicaragua created this parliamentary friendship group with PRC at the same time it created the parliamentary friendship group with North Korea.",
+                "evidence_urls": [
+                    "https://noticias.asamblea.gob.ni/se-instalan-los-grupos-parlamentarios-de-amistad-con-republica-popular-de-china-y-republica-popular-democratica-de-corea/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "evidence": "They are a few because it is only the party in government  but they are clearly significant.",
+                "evidence_urls": [
+                    "https://www.idcpc.org.cn/english/news/202202/t20220225_148411.html",
+                    "https://www.el19digital.com/articulos/ver/titulo:123385-nicaragua-participa-en-foro-del-partido-comunista-de-china-",
+                    "https://www.fmprc.gov.cn/esp/wjb/zzjg/bmdyzs/xwlb/202112/t20211210_10466647.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "evidence": "Found no evidence. This has not happened yet, since diplomatic relationships were reestablihed only on december 2021 and while PRC had its borders closed due to COVID. We can only expect that this will happen as soon as the PRC opens its borders.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "It is early to say but it all appears to show that there is no need for China to pressure Nicaraguan government officials to change their stance.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "No evidence found. This has not happened yet but taking into account the confrontation of Nicaraguan government with the USA and its ideological appeal to PRC, we can rest sure that this will happen in the near future.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "2",
+                "evidence": "No public support found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "2",
+                "evidence": "No public statements found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "evidence": "No statement found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "evidence": "No statement found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "0",
+                "evidence": "No evidence found. Huawei signed agreements with public and private universities but to donate technology, not for research cooperation.\n",
+                "evidence_urls": [
+                    "https://www.una.edu.ni/index.php/direcciones/direccion-comunicacion/1664-huawei-interesada-en-establecer-lazos-de-cooperacion-con-la-agraria",
+                    "https://webcache.googleusercontent.com/search?q=cache:fLmqLHlb5yUJ:https://www.cnu.edu.ni/universidades-publicas-de-nicaragua-firman-acuerdos-de-donacion-con-huawei/+&cd=2&hl=es-419&ct=clnk&gl=es"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "0",
+                "evidence": "No evidence found yet, but they will be established soon (see the URL below).",
+                "evidence_urls": [
+                    "https://www.cnu.edu.ni/cnu-efectua-encuentro-con-el-consejero-de-la-embajada-de-la-republica-popular-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "It was planned with Taiwan (see the URL below) but not yet with PRC.",
+                "evidence_urls": [
+                    "https://eldariano.com/taiwan-y-mined-promoveran-ensenanza-de-idioma-chino-mandarin-en-las-escuelas-de-nicaragua/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "It is worth mentioning there are not many independent think tanks able to operate nowadays in Nicaragua.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "4",
+                "evidence": "Most public universities in the countries.",
+                "evidence_urls": [
+                    "https://www.una.edu.ni/index.php/direcciones/direccion-comunicacion/1664-huawei-interesada-en-establecer-lazos-de-cooperacion-con-la-agraria",
+                    "https://webcache.googleusercontent.com/search?q=cache:fLmqLHlb5yUJ:https://www.cnu.edu.ni/universidades-publicas-de-nicaragua-firman-acuerdos-de-donacion-con-huawei/+&cd=2&hl=es-419&ct=clnk&gl=es\""
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "No such incident occurred. It is important to highlight that diplomatic relationships with PRC were reestablished on december 2021 when PRC had its borders closed due to COVID. We can only expect this kind of trips to happen as soon as PRC reopens its borders.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "No evidence found. These kind of issues are non-issues in Nicaragua. No teacher would probably talk about this. If they were to talk about Taiwan they would probably focus on the relationship between Nicaragua and Taiwan but not focus on the independence of Taiwan as an issue.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "No such incident occurred. Nicaragua is a centralized country where most decisions are made by its president. Being a unitary country, local governments have very little power and independence.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "1",
+                "evidence": "Only one case found, and it looks more like young political leaders.",
+                "evidence_urls": [
+                    "https://www.articulo66.com/2022/02/08/gobierno-envia-primer-grupo-becarios-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "evidence": "They are few so far due to restrictions during COVID but they are significant in importance.",
+                "evidence_urls": [
+                    "https://webcache.googleusercontent.com/search?q=cache%3AXrCn16ANFKgJ%3Ahttps%3A%2F%2Fwww.el19digital.com%2Farticulos%2Fver%2Ftitulo%3A123667-delegacion-de-nicaragua-que-visita-china-sostiene-encuentro-virtual-con-wang-yi+&cd=1&hl=es-419&ct=clnk&gl=es"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "3",
+                "evidence": "I would say few because it is only the official party in government but influential since they are top government leaders.",
+                "evidence_urls": [
+                    "https://www.efe.com/efe/america/mundo/taiwan-lamenta-que-nicaragua-se-alie-con-china-despreciando-larga-amistad/20000012-4694738",
+                    "https://webcache.googleusercontent.com/search?q=cache%3A9d75aC4zaT8J%3Ahttps%3A%2F%2Fwww.el19digital.com%2Farticulos%2Fver%2Ftitulo%3A123690-delegacion-de-nicaragua-con-instituciones-chinas-de-cooperacion-e-inversiones-+&cd=5&hl=es-419&ct=clnk&gl=es",
+                    "https://www.el19digital.com/articulos/ver/titulo:126328-china-y-nicaragua-celebran-100-dias-del-restablecimiento-de-relaciones-diplomaticas"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "The USA is by far the most important trading partner of Nicaragua. ",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/CountrySnapshot/es/NIC/textview",
+                    "https://www.swissinfo.ch/spa/nicaragua-eeuu_ee-uu--se-consolida-como-primer-socio-comercial-de-nicaragua/47335610#:~:text=Luego%20se%20ubicaron%2C%20en%20ese,de%20las%20exportaciones%20de%20Nicaragua.",
+                    "https://oec.world/es/profile/country/nic"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "Evidence show it is multilateral organizations mostly.",
+                "evidence_urls": [
+                    "https://www.efe.com/efe/america/economia/la-deuda-publica-de-nicaragua-es-7-142-9-millones-dolares-56-6-del-pib/20000011-4613219#:~:text=Seg%C3%BAn%20el%20reporte%2C%20del%20total,7%20%25)%20con%20acreedores%20privados."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "No, China is still far.",
+                "evidence_urls": [
+                    "https://oec.world/es/profile/country/nic"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "No such incident occured.",
+                "evidence_urls": [
+                    "https://cnzf.gob.ni/es/por-que-nicaragua/tratados-comerciales#:~:text=En%20estos%20momentos%20Nicaragua%20cuenta,negociaciones%20con%20la%20Uni%C3%B3n%20Europea."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "No such incident occurred. Though they had done so in the past with the Inter-oceanical Channel (see the URLs below).\n",
+                "evidence_urls": [
+                    "http://legislacion.asamblea.gob.ni/Normaweb.nsf/b92aaea87dac762406257265005d21f7/914d10ad15d09a2f06257b9e004c82e8?OpenDocument=",
+                    "http://legislacion.asamblea.gob.ni/Normaweb.nsf/b92aaea87dac762406257265005d21f7/914d10ad15d09a2f06257b9e004c82e8?OpenDocument="
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "Xinwei operates in Nicaragua.",
+                "evidence_urls": [
+                    "https://www.telesemana.com/blog/2016/04/29/xinwei-inicio-finalmente-sus-operaciones-en-nicaragua/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "I could not find proper agreements (besides the one with Telefonica on 2010) but evidence show that hardwares and tech from PRC is spread in Nicaragua.",
+                "evidence_urls": [
+                    "https://www.telesemana.com/blog/2022/02/21/los-centros-de-datos-y-las-nubes-de-huawei-ya-cubren-toda-america-latina-la-influencia-tecnologica-de-china-es-un-regalo-a-los-paises-que-no-respetan-los-derechos-humanos/",
+                    "https://www.europapress.es/portaltic/empresas/noticia-telefonica-zte-llegan-acuerdo-desarrollo-venta-moviles-latinoamerica-20100217122145.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "Widely spread.",
+                "evidence_urls": [
+                    "https://www.radiolavozdelnorte.com/2016/04/nicaragua-abre-sus-puertas-compania.html",
+                    "https://www.commsupdate.com/articles/2016/12/20/telefonica-zte-deploy-vims-in-latam-ahead-of-volte-rollout/",
+                    "https://clavedemodem.com/como-cambiar-la-clave-wi-fi-en-un-modem-de-claro/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "Found no evidence stating restrictions for PRC-connected entities as vendors of any kind of supply and it would make no sense if they were not authorized.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "Snapchat appears 5th in some rankings but not in others.",
+                "evidence_urls": [
+                    "https://gs.statcounter.com/social-media-stats/all/nicaragua"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence found but they do have a Glonass Russian base that uses Beidou as a reference for precision.",
+                "evidence_urls": [
+                    "https://www.gpsworld.com/russia-commissions-glonass-station-in-nicaragua/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "No evidence found. Nicaragua is a very small country and probably this kind of influence would not be strategic for the PRC. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "No such incident occurred yet.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "They basically do not portray PRC at all so far.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "No evidence found except for the case of government leadership.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "3",
+                "evidence": "Main government leaders have shared PRC narratives.",
+                "evidence_urls": [
+                    "https://www.tn8.tv/nacionales/rosario-murillo-nicaragua-promueve-la-seguridad-en-favor-de-la-paz/",
+                    "https://www.confidencial.com.ni/politica/nicaragua-rompe-relaciones-con-taiwan-en-favor-de-china/",
+                    "https://www.swissinfo.ch/spa/nicaragua-china_ortega-afirma-que-china-fortalece-las-relaciones-internacionales-de-nicaragua/47183712"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "It is worth noting that due to the repression and persecution system in the country it is hard to find trustworthy surveys.",
+                "evidence_urls": [
+                    "https://www.myrconsultores.com/nicaraguenses-perspectivas-acerca-del-entorno-internacional-14va-ola/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "Imports data show it.",
+                "evidence_urls": [
+                    "https://oec.world/es/profile/country/nic?yearlyTradeFlowSelector=flow1"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "No such incident occurred. Nicaragua is no a producer or developer of importance for this kind of equipment and of very little relevance worldwide and for PRC in this sense.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "No such incident occurred, but again diplomatic relations were reestablished on december 2021, so if this was to happen, it would happen in the future.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "No such incident occurred. Nicaragua does not have a private sector with importance for the PRC to investigate.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence found.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "No such incident occurred.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Nicaragua had a GDP per capita of US$2,091 with a total population of 6.70 million people, of which an estimated 3,000 are Chinese.",
+    "description-2": "Nicaragua established diplomatic relations with the People's Republic of China in 1985, before President Violeta Barrios de Chamorro switched recognition to Taiwan in 1990. In 2021, Nicaragua switched diplomatic relations from Taiwan to the PRC. The impact of this policy change is partially documented in this Index and will likely greatly impact Nicaragua's exposure to PRC influence in future analysis Nicaragua was ranked 160th in Reporters Without Borders' 2022 World Press Freedom Index, and was rated Not Free in Freedom House's 2022 Global Freedom Status, with a score of 23/100. "
+}

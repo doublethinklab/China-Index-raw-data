@@ -1,0 +1,940 @@
+{
+    "name": "Gambia",
+    "partner": "Emeka Umejei",
+    "year": "2022",
+    "GDP": "$835.6",
+    "population": "2.709M",
+    "original": "114/396",
+    "ranking": "50",
+    "overall": "29%",
+    "effect": "41%",
+    "exposure": "26%",
+    "pressure": "17%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "As a former secretary-general of the Gambia Press Union, I know there are no Gambian media organisations on the membership of World Chinese media network\n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "0",
+                "evidence": "Interview with Director of information service, ministry of information, the Gambia. The weblink shared below also confirm that there are no Gambian media on the membership of any of these Chinese media networks.",
+                "evidence_urls": [
+                    "https://brnalink.com/members.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://thepoint.gm/africa/gambia/article/seminar-on-news-media-for-african-countries-and-au-opens-in-china-1",
+                    "https://standard.gm/gambia-news/african-editors-forum-ends-in-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://standard.gm/alhagie-k-manneh-award-winning-journalist-and-news-editor-at-the-standard-newspaper/",
+                    "https://thepoint.gm/africa/gambia/article/seminar-on-news-media-for-african-countries-and-au-opens-in-china-1"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "2",
+                "evidence": "Interview with Director of information service at the Gambian Ministry of Information and information sourced with the office of secretary-general of the Gambian Press Union suggest that content from Chinese state-media is distributed locally in the Gambian media. There is also China Radio International Hausa service that is broadcast in the Gambia. ",
+                "evidence_urls": [
+                    "https://www.facebook.com/crihausaradio/posts/shugaban-gambia-ya-gana-da-wang-yi-httphausacricn201201901062s157229htm/1241720935953193/",
+                    "https://www.mfa.gov.cn/ce/cegm/eng/sgxw/t1866020.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "Interview with the Director of information service, ministry of information of the Gambia suggests this is not the case in the Gambia. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "evidence": "There is an ongoing partnership between CGTN Africa and the Gambia Radio and Television Service (GRTS). Also, Xinhua has a content sharing agreement with the Point and Standard newspapers in the Gambia.",
+                "evidence_urls": [
+                    "https://thepoint.gm/africa/gambia/article/the-point-partners-with-china-news-agency",
+                    "https://www.mfa.gov.cn/ce/cegm/eng/sgxw/t1866020.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "1",
+                "evidence": "Interview with the director of information service at the Gambian Ministry of Information as well as the secretary-general of the Gambia Press Union suggest this is few and insignificant",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://freedomhouse.org/report/special-report/2020/beijings-global-megaphone#footnote7_bsjh82o"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "Interview with the Director of Information Service at the Gambian Ministry of Information suggests this has not been the case in the Gambia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "There is no record of media personalities making such comments in public, though some do hold the opinion, privately, that the issue of rights violation is Western propaganda. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "The two countries have plans to establish formal relations in the form of committees between the parliaments of both countries and they have held talks to that effect",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cegm/eng/sgxw/t1866816.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cezanew//eng/znjl/t1497916.htm",
+                    "https://www.mfa.gov.cn/ce/cegm/eng/sgxw/t1866816.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.facebook.com/chinaembgm/photos/a.1934993173414918/2409415079306056/?type=3"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://africa.cgtn.com/2017/12/22/china-gambia-agree-to-enhance-ties/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "Interview with staff of Gambia police. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "evidence": "While this may not be a direct denial of Taiwan's right to participate in the WHO, President Barrow's statement in the attached link suggests this is the Gambia's position.",
+                "evidence_urls": [
+                    "http://global.chinadaily.com.cn/a/201712/22/WS5a3c369da31008cf16da2b9c.html",
+                    "https://www.reuters.com/article/uk-china-africa-gambia-idUKKCN1LM1K3"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "Interview with Staff of ministry of foreign affairs \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://thediplomat.com/2016/07/who-supports-china-in-the-south-china-sea-and-why/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://qz.com/africa/1667141/african-leaders-defend-china-arrests-of-uyghur-muslims-in-xinjiang/",
+                    "https://www.mfa.gov.cn/ce/cegv/eng/dbdt/t1886467.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cegv/eng/dbdt/t1886467.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://thediplomat.com/2020/10/which-countries-support-china-on-hong-kongs-national-security-law/"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "0",
+                "evidence": "Interview with Staff of the University of the Gambia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.utg.edu.gm/the-founding-of-the-confucius-institute-and-its-promotion-of-the-china-gambia-bilateral-relations/",
+                    "https://standard.gm/gambia-news/guizhou-university-utg-erects-confucious-institute/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "There is a Confucius Institute where people learn Chinese but it has not been introduced in primary schools ",
+                "evidence_urls": [],
+                "note": "Interview with staff of ministry of foreign affairs \n",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "There is no evidence to suggest that any Gambian Think tank or academic research centres has affiliations with PRC-related networks",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "Interview with staff of ministry of foreign affairs \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "2",
+                "evidence": "\n\n",
+                "evidence_urls": [
+                    "http://cpc.people.com.cn/n1/2021/1212/c64387-32305638.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "I guess it is the other way round; there is a Gambian Students in China forum . ",
+                "evidence_urls": [
+                    "https://m.facebook.com/Gambian-Students-In-China-GSIC-352594948803210/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "Interview with staff of ministry of foreign affairs \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "The only venue this oculd have happened was through the Confucius Institute at the University of the Gambia but there it is basically language focused. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "In my interviews with lecturers at the University of the Gambia and interactions with student leaders,  there is no evidence to suggest this is the case in the Gambia. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "My interactions with staff of the Banjul city council and Ministry of Foreign Affairs suggest to the contrary that this has happened in the Gambia. \n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "1",
+                "evidence": "Only Banjul City Council has a sister City in China. \n",
+                "evidence_urls": [
+                    "https://www.facebook.com/384842501980079/posts/in-combating-covid-19-the-peoples-republic-of-china-embassy-in-the-gambia-today-/819305565200435/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "4",
+                "evidence": "Interview with media officer at the Ministry of Foreign Affairs suggests this is a common currency in the Gambian. \n\n",
+                "evidence_urls": [
+                    "https://www.africanews.com/2017/12/23/gambia-s-barrow-visits-china-to-strengthen-ties-and-development-cooperation/",
+                    "https://www.facebook.com/396670833862610/posts/moici-and-mainstream-media-officials-return-from-chinathe-peoples-republic-of-ch/803013939894962/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/ce/cgbelfast/eng/zgxw_1/t1568876.htm",
+                    "https://www.africanews.com/2017/12/23/gambia-s-barrow-visits-china-to-strengthen-ties-and-development-cooperation/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "4",
+                "evidence": "Interview with media officer at the Gambian Ministry of Foreign Affairs confirms this has happened in the Gambia. \n",
+                "evidence_urls": [
+                    "https://www.kerrfatou.com/226-gambian-officials-to-attend-lectures-in-china/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "While there is a partnership between the ruling national People's party (NPP) and the Chinese Communist Party, there is no evidence to suggest that donations have been made to the NPP. This was the outcome of my interveiws with the Director of Information at the Gambian Ministry of Information as well as a political scientist at the University of the Gambia.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "Interview with staff of Ministry of Information and ministry of foreign affairs.\n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "Interview with staff of ministry of foreign affairs \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.voicegambia.com/2019/09/26/president-barrow-congratulates-china-on-70th-national-day-anniversary/",
+                    "https://www.reuters.com/article/us-china-africa-gambia-idUSKCN1LM1HV"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "There is no evidence this has happened in the Gambia. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "Interviews with the media officer at the Gambian Ministry of Foreign affairs as well as the Public Relations Officer of the Gambian Armed Forces at the Gambian Ministry of Defence suggest this has not happened in the Gambia. \n\n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://wits.worldbank.org/CountrySnapshot/en/GMB"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "China has actually written off significant chuck of the loan owed to the country\n",
+                "evidence_urls": [
+                    "https://www.fatunetwork.net/china-waives-us12-million-gambia-loan/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "The Gambia is not known to be rich in natural resources and therefore does not export to China.",
+                "evidence_urls": [
+                    "https://afrst.illinois.edu/country-profiles-gambia#:~:text=The%20Gambia%20does%20not%20have,%25%2C%20and%20forestry%200.5%25.",
+                    "https://wits.worldbank.org/CountrySnapshot/en/GMB"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "evidence": "Interview with media officer, the Gambian Ministry of Trade as well as the director of investment at the Gambian investment agency\n",
+                "evidence_urls": [],
+                "note": "Further information was sourced with staff of Ministry of Trade\n",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/news-events/news/2020/AIIBs-Membership-in-Africa-Grows-as-Liberia-Joins-the-Bank.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "Interview with the permanent secretary, the Gambian Ministry of Finance and the Chief executive officer of the Gambian Chamber of Commerce suggest that Gambian does not enjoy the membership of any of these organizations. The weblinks I provided go to confirm that the Gambian is not on the the membership list of the Silk Road Chamber of International Commerce, or of the Belt and Road Industrial and Commercial Alliance, or of the Belt and Road General Chamber of Commerce.\n\n",
+                "evidence_urls": [
+                    "https://srcic.org/silk-road-members/",
+                    "https://www.bricaistanbul.com/overview/brica-members/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "Interview with staff of ministry of Finance and staff of Office of the president. \n",
+                "evidence_urls": [],
+                "note": "Additional information was sourced with staff of Chamber of Commerce. \n",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "Interview with staff of ministry of Finance and staff of Chamber of Commerce\n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "\"Speaking at the opening of the virtual Gambia-China Economic and Trade Cooperation and Exchange Conference on Monday, Kinteh said the two countries recently signed a new trade agreement that grants duty-free treatment to some Gambian goods exported to China such as fish, groundnut, cassava, sesame and cashew nut\"-There is some form of free trade agreement as suggested by the above statement (see attached link for further details).",
+                "evidence_urls": [
+                    "http://www.focac.org/eng/zfgx_4/zzjw/202108/t20210818_9153867.htm#:~:text=Speaking%20at%20the%20opening%20of,cassava%2C%20sesame%20and%20cashew%20nut."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "Gambia is developing a Special Economic Zone but it with a private organization. While it does seem to mention China, there is the possibility that it could be geared towards attracting participants from the PRC.",
+                "evidence_urls": [
+                    "https://gietaf.com/en"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "Interview with staff with staff of ministry of Finance and staff of Chamber of Commerce\n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "Information source with staff of ministry of Finance as well as the Gambia Chamber of Commerce indicates this is not true. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.commsupdate.com/articles/2013/12/06/gamtel-signs-usd33m-contract-with-huawei-to-transform-national-backbone/",
+                    "https://www.commsupdate.com/articles/2018/03/21/gambian-mps-reject-chinese-loan-deal-for-national-broadband-network/",
+                    "https://www.toutiao.com/article/6709575354043859460/?channel=&source=search_tab&wid=1657526165985 http://www.focac.org/zfgx/zzjw/202204/t20220406_10664970.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "1",
+                "evidence": "Interview with staff of Ministry of Information \n",
+                "evidence_urls": [
+                    "https://www.commsupdate.com/articles/2013/12/06/gamtel-signs-usd33m-contract-with-huawei-to-transform-national-backbone/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "Information source with ministries of defence and Interior suggest this is not the case in the gambia.  \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "There is no available information on this question",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "Information source with Banjul City Council and the Ministry of regional governments suggests there is no such partnership in the Gambia. However, the weblink suggests that while the capital city of Banjul has launched a smart city initiative, it was in partnership with the United Nations Development Programme (UNDP).\n",
+                "evidence_urls": [
+                    "https://www.undp.org/gambia/blog/banjul-city-council-leads-way-municipalities-go-digital"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "Information source with the Ministry of Finance as well as the chief executive officer of the Gambian Chamber of Commerce indicates China's CIPS is not in use in the Gambia. Also, the weblink indicates that CIPS is yet to enter into force in the Gambia.\n",
+                "evidence_urls": [
+                    "https://techcabal.com/2020/09/17/china-is-pushing-its-currency-into-africa-through-fintech-partnerships/#:~:text=In%20Africa%2C%20its%20cards%20are,jumped%20123%25%20according%20to%20SWIFT."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "Information source with the Chamber of Commerce and the Ministry of information suggests there is not Chinese capital investment in  Gambia startups. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "Information source with the chief executive of this Chamber of Commerce does not support this assertion.\n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.similarweb.com/apps/top/apple/store-rank/gm/social-networking/top-free/iphone/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "Information sourced with Ministries of Foreign Affairs and Trade suggests there no collaboration between the Gambia and China over the use of Beidou satellite navigation system. However, the Chinese Emabssy in the Gambia has recently hosted a talk about China's advances in space and satellite technology for students in the Gambia.",
+                "evidence_urls": [
+                    "https://thepoint.gm/africa/gambia/headlines/chinese-embassy-hosts-talk-to-taikonauts-for-gambian-students"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "There is no available information on this question.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "Gambia is not on the membership of countries members of the United World Chinese Association ",
+                "evidence_urls": [
+                    "http://www.uwca.net/member.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "Interview with staff of Gambia Labour Union suggests there has been no official exchange of visit to China\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "Interview with the director of information at the Gambian Ministry of Information indicate this has not happened in the Gambia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "There is no evidence suggesting an affiliation between local professional organizations and these PRC-linked professional associations.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cegm/eng/sgxw/t1860728.htm",
+                    "https://standard.gm/gambia-news/china-gives-2000-metric-tons-rice-gambia/",
+                    "https://www.voicegambia.com/2022/04/14/embassy-of-china-donates-to-gambia-kunfu-federation/",
+                    "https://allafrica.com/stories/201901291010.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "3",
+                "evidence": "There is partnership between CGTN and GRTS that results in the distribution of Chinese entertainment products from CGTN in the local media in the Gambia. \n",
+                "evidence_urls": [
+                    "http://www.gambiaembassychina.com/Index/show/catid/34/id/96.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "Interview with a local film producer and staff of ministry of information.\n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "1",
+                "evidence": "Interview with Staff of the Gambian Ministry of Information as well as local investigation suggests this is limited in the Gambia\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://qz.com/africa/1667141/african-leaders-defend-china-arrests-of-uyghur-muslims-in-xinjiang/",
+                    "https://www.reuters.com/article/us-gambia-china-idUSKBN16616X"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "Afrobarometer indicates that Gambian have a positive perception of China over the US in range of 55:52",
+                "evidence_urls": [
+                    "https://www.afrobarometer.org/wp-content/uploads/migrated/files/publications/Dispatches/ad489-pap3-africans_welcome_chinas_influence_maintain_democratic_aspirations-afrobarometer_dispatch-15nov21.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tradingeconomics.com/gambia/imports/china"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "The reverse is the sace; Gambia is import-dependent in military equipment or components.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "Gambia is totally import-dependent in military or law-enforcement products. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "China is seeking to establish a military in Equatorial guinea not the Gambia",
+                "evidence_urls": [
+                    "https://www.defense.gov/News/News-Stories/Article/Article/2969935/general-says-china-is-seeking-a-naval-base-in-west-africa/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "Interviews with media officer at the Gambian Ministry of Defence as well as the Gambian Ministry of Foreign Affairs suggest this is not the case in the Gambia. \n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://standard.gm/gambia-news/gaf-to-send-11-soldiers-to-china-training/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "4",
+                "evidence": "Information sourced with the Ministry of Defence suggests this happened in the Gambia. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "Interview with director of information service at the Gambian Ministry of Information as well as the PRO of the Gambian Ministry of Defence indicate this is not true.\n\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "4",
+                "evidence": "Information source with the PRO of the Gambian Ministry of Defence suggests this is not true \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://standard.gm/gaf-to-send-11-soldiers-to-china-training/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "In recent times, China and the Gambia have signed various cooperation agreements but an extradition treaty is not one of them. This is confirmed in the weblink that I share below.",
+                "evidence_urls": [
+                    "http://www.gd.jcy.gov.cn/jcyw/sfxz/flfgytyxd/201812/t20181212_2440091.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "Interviews with the PRO of the Gambian Ministry of Defence as well as media officer of the Ministry of Foriegn Affairs suggest this is not the case in the Gambia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "There is no available information suggest these groups exist in the Gambia. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "Information source with office of the director of information service at the Gambian Ministry of Information as well as the media officer of the Ministry of foreign affairs suggest this is not the case in the Gambia.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "Interview with the director of information service at the Gambian Ministry of Information indicate this is yet to happen in the Gambia. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "Interview with officials of ministry of defence and Ministry of foreign affairs.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "Information source with the PRO of the Gambian Ministry of Defence as well as the director of information service at at the Ministry of Information suggest the Gambia is yet to deploy internet surveillance system from the PRC.\n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "Information source with media officer at the Gambian Ministry of Foreign Affairs as well as the PRO of the Minisry of Defence suggests that is yet to happen in the Gambia. \n",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "Information sources with the PRO of the Gambian Ministry of Defence as the the office of the director of information service at the Ministry of Information did not provide any information that this has occurred between Gambia and China. Also, China and the Gambia does not have extradition treaty which makes difficult for the Gambia to accede to such request as outlined in this question.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "Information source with the PRO at the Gambian Ministry of Defence as well as the director of information service at the Ministry of Information indicate this has not happened in the Gambia. Significantly, China and the Gambia do nto have extradition treaty which makes near-impossible to deport Taiwan citizens to the PRC to face prosecution ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "China and the Gambia have not signed any extradition treaty. ",
+                "evidence_urls": [
+                    "http://www.gd.jcy.gov.cn/jcyw/sfxz/flfgytyxd/201812/t20181212_2440091.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Gambia had a GDP per capita of US$836 and a total population of 2.709 million people. The Gambia established diplomatic relations with the People\u2019s Republic of China in 19 74 but switched sides to Taiwan in 1995. However on November 14, 2013 the Gambia reactivated diplomatic relations with China.",
+    "description-2": "The Gambia established diplomatic relations with the People\u2019s Republic of China in 1974 but switched sides to Taiwan in 1995, before switching back to China in 2013. The Gambia was ranked 50/180 in Reporters without Borders 2022 World Press Freedom index and ranked partly free in Freedom Status in Freedom House\u2019s 2022 Global Freedom Status with a score of 47/100."
+}

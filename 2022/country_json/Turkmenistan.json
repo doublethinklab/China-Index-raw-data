@@ -1,0 +1,948 @@
+{
+    "name": "Turkmenistan",
+    "partner": "Tsz Yan Yau",
+    "year": "2022",
+    "GDP": "$7,612.0",
+    "population": "6.11M",
+    "original": "119/388",
+    "ranking": "45",
+    "overall": "31%",
+    "effect": "26%",
+    "exposure": "36%",
+    "pressure": "15%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "None found",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "3",
+                "evidence": "As the report named \"Belt and Road International Media Cooperation: Refinement Can Be Better\" revealed, Medias from Turkmenistan are part of the Silk Road Economic Belt (SREB) Media Cooperation Forum, one of the Turkmen media even signed joint statement of the Forum. SREB is one half of Belt and Road. As Turkmenistan have amongst the worse ranked media freedoms in the world, the few state-owned medias are authoritative as Turkmen public have no access to any other alternatives.\n\n\nSince Turkmen media (all of them are state controlled) have cooperation with the PRC, it can be interpreted as a state-approved decision to work closer with the PRC in media cooperation. This can reflect Chinese influence towards foreign priority of Turkmenistan, in the sense that Turkmen state wants their public to know the government is working with the PRC. Significant in this sense, not in the sense of PRC actually being able to influence Turkmen media. \n",
+                "evidence_urls": [
+                    "http://finance.people.com.cn/n/2014/0703/c1004-25233717-9.html",
+                    "http://www.scio.gov.cn/m/31773/35507/35510/35524/document/1564897/1564897.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "3",
+                "evidence": "As the report \"Congratulatory Letter from President Xi Jinping to the 2016 Belt and Road Media Cooperation Forum\" mentioned, Turkmen medias attended forums and media tours to PRC. As Turkmenistan have amongst the worse ranked media freedoms in the world, the few state-owned medias are authoritative as Turkmen public have no access to any other alternatives. Thus ranked 3. \n\n \n",
+                "evidence_urls": [
+                    "http://www.beltroadforum.com/m/p/697/detail",
+                    "http://www.rizhao.gov.cn/art/2019/9/19/art_33119_7166765.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "3",
+                "evidence": "Turkmen medias rarely receive trainings from third countries. As well, it appears that these trainings are provided to all five Central Asian states, it is rare occasion for them to get together. \nThe report \"Deputy Director Wang Guoqing meets with trainees of news media from neighboring countries in Xinjiang\" reveals a meeting/training, this is likely for the purpose of maintaining the discourse on Xinjiang consistent in the region neighbouring it.\n\n",
+                "evidence_urls": [
+                    "http://www.scio.gov.cn/zxbd/nd/2012/Document/1181131/1181131.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "0",
+                "evidence": "No such attempts have been observed (in contrast with Uzbekistan\u2019s podrobno.uz portal, for example). However, some Turkmen media reprint some news about China from Russian sources and the routes of some of them go to Chinese sources. Like these stories in the two report, \"China launches first rocket into space from balloon\", \"China installs world's highest automatic weather station\".\n",
+                "evidence_urls": [
+                    "https://turkmenportal.com/blog/46612/kitai-vpervye-zapustil-v-kosmos-raketu-s-vozdushnogo-shara",
+                    "https://orient.tm/ru/post/37305/v-kitae-ustanovili-samuyu-vysokuyu-v-mire-avtomaticheskuyu-meteostanciyu "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "No such attempts have been observed. Only China-related ads I\u2019ve seen were related to Chinese business, and Turkmen business cooperation with Chinese counterparts. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "Turkmenistan does not allow any free space in media to begin with. Thus, there are already no journalists who can engage in investigative journalism, or journalism in general. So, there are no journalists who work on PRC related issues, thus, no pressure is needed to be exercised. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "There is no censoring views critical of the PRC government because there is no independent media outlets. Medias in Turkmenistan are instruments of the state and thus all views on the PRC are in following state policy.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "Could not find any information about Xinjiang in Turkmen news portals/ magazines/ journals except for those that are related to China\u2019s relationship with Turkmenistan. International news are badly covered by Turkmen news web-site if they are not related to Turkmenistan. \n\nThere is however an observation from the reviewer that a Chinese magazine on Xinjiang was spotted in a hotel in Ashgabat. This magazine is likely to be \"kontimost\" (land bridge), it's published in Russian and also can be found in other Central Asian countries. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "As the report \"Han Zheng Holds Video Meeting with Turkmen Deputy Prime Minister and Foreign Minister and Turkmen Chairman of China-Turkmenistan Cooperation Committee Turkmen Meledov\" and \"Dai Houliang attended the fifth meeting of the China-Turkey Intergovernmental Cooperation Committee\" mentioned, Turkmenistan has 4 government-to-government cooperation committees (\u5408\u4f5c\u59d4\u5458\u4f1a) with the PRC, in the area of security, economics and trade, energy and culture(see the report named \"The two chairmen of the Humanities Cooperation Sub-Committee of the China-Turkmenistan Cooperation Committee held a video meeting\" below). \n\n\n\n\n",
+                "evidence_urls": [
+                    "http://tm.china-embassy.gov.cn/chn/sbwl/202111/t20211109_10446131.htm",
+                    "http://www.gov.cn/guowuyuan/2022-03/30/content_5682525.htm",
+                    "https://www.fmprc.gov.cn/ce/cgmel/chn/zyxw/t1186341.htm",
+                    "https://www.cnpc.com.cn/cnpc/jtxw/202111/964661fa111040f290fabeb9a3b81954.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "2",
+                "evidence": "The International Liaison Department (ILD) is the main PRC representative meeting the political parties in Turkmenistan, as these reports \"How Inter-Party Exchanges in Central Asia Promote the Belt and Road Initiative\" and the report \"Representatives of the three parties of Turkmenistan attended the special presentation meeting on the spirit of the Sixth Plenary Session of the 19th CPC Central Committee\" showed. Their meetings are frequent and did not stop during pandemic. The Chinese Ambassador in Ashgabat also meet with these heads of political parties regularly. The current Chinese Ambassador in Ashgabat was also head of the ILD Eurasia desk. The political parties that ILD meets with in Turkmenistan do not contribute meaningfully in local politics, thus rated insignificant. \n\n\n\n\n",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cetm/chn/sbwl/t1911776.htm",
+                    "http://tm.china-embassy.gov.cn/chn/sbwl/202111/t20211120_10450911.htm",
+                    "https://www.mfa.gov.cn/ce/cetm//chn/sbwl/t1621460.htm",
+                    "http://www.xinhuanet.com/world/2016-06/16/c_129068549.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "4",
+                "evidence": "As the report \"The opening ceremony of the Belt and Road Eurasian Rule of Law Seminar was held in our school\" and the report \"Turkmenistan Held the Closing ceremony of training course for young diplomats\" showed, Turkmenistan is grouped with Central Asian states and other countries in the Eurasia region within the training programs provided by PRC. While few training programs were directly solely for Turkmenistan, we rated 4 in this case because of dictatorial nature of the Turkmen government and PRC playing a role in strengthening it. \n\nThough it is observed by reviewer that few officials in Ashgabat seemed to know anything about these trainings that took place in China, so their effectiveness of influencing governance is questionable. However, sticking with 4 because Turkmens have few choices of foreign training, limited only to Russia and Turkey. The fact that Turkmens find themselves grouped with other Central Asian states also show PRC preference to create Central Asian regionalism. ",
+                "evidence_urls": [
+                    "https://www.shzu.edu.cn/2015/0928/c2a71410/page.htm",
+                    "https://www.shupl.edu.cn/2020/0915/c1168a81811/page.htm",
+                    "http://tkmst.lzu.edu.cn/detail.php?aid=12534"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "Not observed ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "Did not speak in the meeting at all",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "Neutral ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "At diplomatic establishment with the PRC in 1992, Turkmenistan pledges that Taiwan is an inseparable territorial of the PRC, and that the PRC is the only legal government of China. Turkmenistan has been consistently following this policy, though less vocal about it compared to other countries due to its non-alignment principle. ",
+                "evidence_urls": [
+                    "http://www.gov.cn/gongbao/shuju/1992/gwyb199201.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "evidence": "As the report \"Who are the 37 countries that support China's position on Xinjiang? The list is coming\" reveals, amongst 37 countries that signed the letter to United Nation Human Rights Council supporting PRC\u2019s policy in Xinjiang in 2019. \n\nIn 2021, Turkmenistan continue to support PRC when met with PRC officials. \nAccording to the report \"Turkmenistan stressed at the Human Rights Council that issues related to Hong Kong and Xinjiang are China's internal affairs and supports the position of the Chinese government\", in 2021 United Nation Human Rights Council Turkmenistan voiced out supporting PRC policy in Xinjiang. \n\n\n\n",
+                "evidence_urls": [
+                    "https://finance.sina.com.cn/roll/2019-07-13/doc-ihytcerm3445980.shtml",
+                    "http://www.xinhuanet.com/world/2021-07/15/c_1127656221.htm",
+                    "http://news.xnnews.com.cn/gjxw2/202107/t20210715_2359035.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "4",
+                "evidence": "Turkmenistan in the 2000s voiced a lot of support for the PRC. But less so in recently years likely due to diminished international attention and global shift attention to Xinjiang. \n\n",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/ce/cesg/chn/xnyfgk/t418048.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "As the report \"Turkmenistan stressed at the Human Rights Council that issues related to Hong Kong and Xinjiang are China's internal affairs and supports the position of the Chinese government\" said, Turkmenistan supported PRC on Hong Kong issues in 2021 United Nation Human Rights Council. \n\n",
+                "evidence_urls": [
+                    "http://news.xnnews.com.cn/gjxw2/202107/t20210715_2359035.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "As an isolated, land-locked dictatorship, Turkmenistan has few foreign partners. The PRC is actively engaging in all sectors, including academia. According to the report named \"A researcher from the Turkmen Research Center of Lanzhou University was invited by the Turkmen government to participate in a large-scale international forum on Turkmen culture\nthere is a center for Turkmenistan studies at the Lanzhou University, the only dedicated study of Turkmenistan overseas. The center has a lot of engagement with the Turkmen Ministry of Education, they are always invited to events in Ashgabat, working in joint research with Turkmen sinologists etc, as shown in the reports, \"Notice of the Department of International Cooperation of the Ministry of Science and Technology on Organizing a Visit to Turkmenistan to Participate in the \"First China-Turkmenistan Science Innovation Forum\". \nAlso, in industrial sectors, many PRC entities also work with Turkmen universities and research institutions. For example, as you can see in the report \"\"The Ministry of Science and Technology and the Academy of Sciences of Turkmenistan signed a memorandum of understanding on scientific and technological innovation cooperation\", the PRC Ministry of Science and Technology has cooperation agreement with the Turkmen Academy of Sciences. They host joint research and events. In agriculture, according to the report \"Beijing Botanical Garden and Turkmen Agricultural University sign a memorandum of cooperation online\", the Beijing Zoo has a cooperation agreement with the Turkmen Agricultural University to conduct research in science of plants, gardening, etc. \n\n\n\nReviewer notes that other foreign actors, such as Europeans and the Malaysian Petronas, are also working in Ashgabat giving away equipment and so on. We however insist on a 4 here because the extend of PRC academia outreach is larger in scope and in quantity. \n",
+                "evidence_urls": [
+                    "http://tkmst.lzu.edu.cn/detail.php?aid=12991",
+                    "http://www.most.gov.cn/kjbgz/202109/t20210907_176743.html",
+                    "https://kjt.hubei.gov.cn/kjdt/tzgg/201911/t20191102_326232.shtml",
+                    "http://wb.beijing.gov.cn/home/yhcs/qtcs/zxdt/202012/t20201214_2164292.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "0",
+                "evidence": "There are no official Confucius Institutes/ Classrooms in Turkmenistan, but according to the report \"Chinese fever is emerging in many countries in Central Asia, and Confucius Institutes are blooming everywhere\"there are at least 3 universities offering Chinese language programs, including one directly affiliated with the Ministry of Foreign Affairs.\n\n\nReviewer observed that some Chinese teachers in Ashgabat were sent by Hanban despite no official CI. No external link proof. \n",
+                "evidence_urls": [
+                    "https://www.chinanews.com.cn/hwjy/2013/09-18/5298370.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "As the report \"Turkmenistan schools and universities to offer Chinese classes\" pointed out, Turkmen government is cited to have since 2015 opened Chinese and Japanese for 5th graders. Chinese Embassy in Ashgabat confirmed visiting Chinese teachers sent by Hanban. \n",
+                "evidence_urls": [
+                    "https://world.huanqiu.com/article/9CaKrnJPAv7",
+                    "https://www.mfa.gov.cn/chn/pds/wjdt/zwbd/t1472706.htm",
+                    "http://tm.china-embassy.gov.cn/chn/sgdt/202005/t20200527_9490201.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "0",
+                "evidence": "Unlikely that Turkmen scholars can receive independent funding from PRC",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "The programs that exist in Turkmenistan are PRC programs to train Turkmen energy engineers and bring them back to work in CNPC operations in Turkmenistan. Not part of talent recruitment programs in the sense of getting foreign talent to get access to foreign technology. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "1",
+                "evidence": "As you can see in the report \"Turkmenistan education seminar ended successfully\", there are some programs towards the intellectual community but not many when comparing regional experiences. Also this community is unlikely to be influential in Turkmenistan given local context.\n",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/ce/cetm/chn/sbwl/t1678066.htm",
+                    " https://www.synu.edu.cn/2013/0228/c2849a29778/pagem.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "There are likely no Chinese students studying in Turkmenistan as the country has strict rules prohibiting foreigners to live in Turkmenistan. A 2014 article, \"Professor Minavar Abibra of the Department of Uyghur Language and Literature was awarded the Makhtoum Kuri Feilager Award by the President of Turkmenistan\" says that the PRC only has one expert on the Turkmen language. \n\n",
+                "evidence_urls": [
+                    "https://news.muc.edu.cn/info/1011/5680.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "Turkmenistan does not allow any spaces for freedom of speech to begin with. Thus, there are already no scholars who can engage in critical analysis in general. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "This is likely the case but less because of consideration of the PRC but instead, it is likely done under consideration of Turkmen state policy in general towards PRC. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "evidence": "Yes, as the reports \"Xi'an City Holds Video Conference with Sister City of Mare, Turkmenistan\" and \"Rizhao and Turkmennabat establish sister city relationship\" showed.\nBut sister-city ties unlikely to influence Ashgabat-made Turkmen policies and relations with PRC. \n",
+                "evidence_urls": [
+                    "http://m.rzw.com.cn/pcarticle/145310",
+                    "http://szfwsb.lanzhou.gov.cn/art/2017/11/16/art_8357_421177.html",
+                    "http://tm.china-embassy.gov.cn/chn/sbwl/202008/t20200825_9490354.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "0",
+                "evidence": "unlikely to find concrete evidence that it\u2019s \u201cpaid for\u201d ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "As a country which claims neutrality status, Turkmenistan has close ties to the PRC and it is reflected through many of these visits which discusses deepening of cooperation, as you may see in the reports below: \"Meeting with Turkmenistan Ministry of Textile Industry, Minister of Trade and Consumer Cooperation and President of Food Industry Association in Guangzhou\", Vice Minister of Agriculture Niu Dun meets with Deputy Foreign Minister of Turkmenistan Miadyev and his delegation\", \n\"Vice Minister Ding Wei Meets with Deputy Minister of Culture of Turkmenistan Shamurradov\", \"Du Zhanyuan meets with Turkmenistan Minister of Education Agmeradov\", \"Tan Tieniu Meets with Minister of Education of Turkmenistan\", \"Xi Jinping Meets with President Shcherdar Berdymukhamedov of Turkmenistan\", \"Wang Yi Meets with Deputy Prime Minister and Foreign Minister of Turkmenistan Meledov\".",
+                "evidence_urls": [
+                    "http://www.mofcom.gov.cn/article/ae/ai/200707/20070704902638.shtml",
+                    "http://www.moa.gov.cn/xw/gjjl/201401/t20140116_3741233.htm",
+                    "https://www.mct.gov.cn/whzx/tpxw/201409/t20140930_829572.htm",
+                    "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/moe_1485/201612/t20161216_292246.html",
+                    "https://www.cas.cn/sygz/201612/t20161219_4585218.shtml",
+                    "http://czt.gxzf.gov.cn/xwdt/gwy/t3258154.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "2",
+                "evidence": "As the reports \"The first phase of the New Eurasian Continental Bridge Safety Corridor Law Enforcement Cooperation Seminar Opens\", \"2018 New Eurasian Continental Bridge Safety Corridor Transnational Oil and Gas Pipeline Security Seminar\", \"The Belt and Road security training workshop completed\" and the document \"The Worldwide Web of Chinese and Russian Information Controls\" show, Turkmenistan has been attending a variety of security-related training programs to the PRC. Including cyber security (which trained both Turkmen Ministry of Internal Affairs and the intelligence service), and a dedicated SREB themed annual program which looks at port security, pipeline security, anti-drug trafficking etc.\n\nGiven the closed off nature of the Turkmen government it is questionable how these trainings actually translated to impact on the ground. Thus 2. \n",
+                "evidence_urls": [
+                    "https://www.jspi.edu.cn/info/1036/7263.htm",
+                    "http://www.lyg.gov.cn/zglygzfmhwz/gcyw/content/29fc90e9-b68e-4e93-a1c1-db6416684812.html",
+                    "http://legal.people.com.cn/n1/2018/0628/c42510-30094150.html",
+                    "http://xhv5.xhby.net/mp3/pc/c/201912/20/c726271.html",
+                    "https://web.archive.org/web/20201228215655/https://public.opentech.fund/documents/English_Weber_WWW_of_Information_Controls_Final.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "Given local context, political campaigns are irrelevant, there is no election",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "Given Turkmen policies prohibiting foreigners to live in Turkmenistan, unlikely that these groups can administratively have a presence in Turkmenistan. There is a China Central Asia Friendship Association but members are based in PRC and they occasionally jointly host events with PRC embassies in the region, including in Turkmenistan, but it shouldn\u2019t count as an organization working in Turkmenistan. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "3",
+                "evidence": "It only happens on special occasions, but on the highest level.\nExample: ex-president Gurbanguly Berdimuhamedow in an interview praises Beijing for organizing the Olympic Games, as the report \"PRESIDENT GURBANGULY BERDIMUHAMEDOV GAVE INTERVIEW TO REPRESENTATIVES OF THE LEADING EDITIONS AND TV CHANNELS OF THE PEOPLE'S REPUBLIC OF CHINA\" shows.\n\nSince Serdar came to power, reviewer comment that he, compared to his father (the ex-president), has so far said little about China and has shown more interest to work with other foreign partners. For example, Serdar hosted Modi as the first head of state to visit Ashgabat since he became president. \n\nI would remain the scare at 3 for now, the trend of distancing from China is an extremely new one that was slowly being brewed over US-China conflict, that Ashgabat genuinely worried China might get sanctioned by the West. The decades of reliance on China and building a positive image for China in Turkmenistan will take time to reverse. ",
+                "evidence_urls": [
+                    "https://russia.tmembassy.gov.tm/ru/news/92380 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "4",
+                "evidence": "We don\u2019t know everything, but the obvious fact is that all major sources of income to budget are controlled by the ruling family members. \nA recent journalist investigation named \"Investigation: Turkmen president's nephews own 16 apartments in Dubai\" exposed that the president Berdimuhamedow\u2019s relatives through offshore schemes control fertilizer producing plant \u201cGarabogazkarbamid\u201d that exports 80% of its production to China.\nThere were also reports on corruption by CNPC in Turkmenistan, as the report \"Jennifer Lopez Turkmenistan Gig Shines Light on Chinese Oil Firm\" points out.\n",
+                "evidence_urls": [
+                    "https://rus.azathabar.com/a/31513014.html ",
+                    "https://www.wsj.com/articles/SB10001424127887324251504578579484286462430 "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "evidence": "According to \"Country (region) guide for foreign investment and cooperation\", the answer is Yes (for the past 10 years)\n",
+                "evidence_urls": [
+                    "http://www.mofcom.gov.cn/dl/gbdqzn/upload/tukumansitan.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "skip",
+                "evidence": "But actually we don\u2019t know the real numbers, Turkmenistan stopped publishing those and international organizations like WB and IMF also do not have access to this information. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "gas export from Turkmenistan to PRC has experienced consistent growth since starting operation in 2012, at 21.3 bcm, 51.4% of total Chinese gas import. \nThe figure gradually climbed to 31.7 bcm in 2017, 37.3 bcm in 2020 and 34 bcm in 2021.\nWhile the situation in 2018 and 2021 is revealed in \u201cBP statistical review of world energy\u201c 2018 and 2021 edition,\nthe report \"China Imports 34 bcm of Turkmen Natural Gas in 2021\" shows the circumstance of 2021/2022.",
+                "evidence_urls": [
+                    "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2018-full-report.pdf",
+                    "https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2021-full-report.pdf",
+                    "https://business.com.tm/post/8075/china-imports-34-bcm-of-turkmen-natural-gas-in-2021  "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "Yes, as shown in the report \"Central Asia-China Gas Pipeline, Turkmenistan to China\" and the document \"Country (region) guide for foreign investment and cooperation\nTurkmenistan\", sensitive and only lucrative sector of Turkmenistan, gas. ",
+                "evidence_urls": [
+                    "http://www.mofcom.gov.cn/dl/gbdqzn/upload/tukumansitan.pdf",
+                    "https://www.hydrocarbons-technology.com/projects/centralasiachinagasp/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "evidence": "As the report \"What Drives Chinese Arms Sales in Central Asia? The Chinese military technology industry is becoming a serious leader in Central Asia.\" shows, PRC put Turkmenistan on a military export blacklist as a retaliation of the country putting up higher prices of gas in 2018, Turkmenistan put up prices in fear of US sanction on the PRC. I wrote a bit on this here ",
+                "evidence_urls": [
+                    "https://thediplomat.com/2019/09/what-drives-chinese-arms-sales-in-central-asia/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": " No actors speak against state policies in Turkmenistan.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "No FTAs per se, but there's an agreement to trade Turkmen natural gas for Chinese-made military equipment, as shown in the report \"In-depth: How China becomes third-largest supplier of weapons worldwide?\".\n",
+                "evidence_urls": [
+                    "http://english.chinamil.com.cn/view/2018-02/27/content_7953754.htm"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "According to the report \"Turkmenistan says China gas pipeline debt paid off\", Turkmen President proudly claims that he has been paying debts to PRC on time.\n",
+                "evidence_urls": [
+                    "https://timesofindia.indiatimes.com/world/rest-of-world/turkmenistan-says-china-gas-pipeline-debt-paid-off/articleshow/83459369.cms "
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "As the report \"Turkmenistan approves purchase of communications equipment from Huawei\" revealed.\n",
+                "evidence_urls": [
+                    "http://www.news.cn/2021-11/12/c_1128059276.htm",
+                    "https://www.cnfin.com/world-xh08/a/20120704/982157.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "3",
+                "evidence": "As the report \"Turkmenistan approves purchase of communications equipment from Huawei\" shows, it's likely to enhance Turkmenistan\u2019s authoritarian digital capacity. \n",
+                "evidence_urls": [
+                    "http://www.news.cn/2021-11/12/c_1128059276.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "As these reports \"Turkmen officials optimistic about Huawei\", \"Huawei Technologies to provide telecommunications equipment to Turkmenistan part of the project will be opened soon\", \"Huawei wins $2.5 million equipment order from Turkmenistan's Ministry of Communications\" revealed, Huawei has been working in Turkmenistan since 2002, it\u2019s the key provider of both hardware and software to the Turkmen telecommunication sector. Beyond consumer use, according to the report \"Huawei Helps Turkmenistan Railway Build Steel Silk Road\", Huawei also provides to industrial sector of Turkmenistan, for example to the railway sector. \n",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/world/2014-09/18/c_127002965.htm",
+                    "https://e.huawei.com/cn/case-studies/cn/2017/201705021506",
+                    "http://tm.mofcom.gov.cn/article/jmxw/200604/20060401981789.shtml",
+                    "https://it.sohu.com/20050510/n225493871.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "As the article on the website \"Mapping China's TECH GIANTS\" and picture of \"Meiya Pico support the Belt And Road to promote international cooperation\" show.\n\n",
+                "evidence_urls": [
+                    "https://archive.fo/10iVx/a62920c2c56335fe4a5e27fc85b31fef0470dfe3.jpg ",
+                    "https://chinatechmap.aspi.org.au/#/data/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "3",
+                "evidence": "As the report \"Smart Cities or Surveillance? Huawei in Central Asia\" says.",
+                "evidence_urls": [
+                    "https://thediplomat.com/2019/08/smart-cities-or-surveillance-huawei-in-central-asia/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "As the report \"Smart Cities or Surveillance? Huawei in Central Asia\" says.",
+                "evidence_urls": [
+                    "https://thediplomat.com/2019/08/smart-cities-or-surveillance-huawei-in-central-asia/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "Turkmenistan uses SWIFT with China but shows positive signs in terms of RMB usage for Credit Transfer Payments",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "evidence": "The majority of the international apps are blocked in Turkmenistan. However, people through VPN (usually these are the most popular apps that phone users in Turkmenistan download) nevertheless use them. Although TikTok is gaining popularity among the young Turkmens it is still not in the top 5. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "As the report \"China-Central Asia Beidou Cooperation Forum Held in Lanzhou, Gansu\" meantions.\n",
+                "evidence_urls": [
+                    "http://www.workercn.cn/34179/202110/16/211016154511483.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "Given Turkmen policies prohibiting foreigners to live in Turkmenistan, unlikely that these groups can administratively have a presence in Turkmenistan. There is a China Central Asia Friendship Association but members are based in PRC and they occasionally jointly host events with PRC embassies in the region, including in Turkmenistan, but it shouldn\u2019t count as an organization working in Turkmenistan. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "Chinese expat is a small group in Turkmenistan, only Embassy staff and those who work for the 10 Chinese companies working in Turkmenistan. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "No UFWD groups in Turkmenistan. Though the Chinese embassy organize some events with the small group who work for Chinese companies.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "Again, no UFWD and small expat community.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "evidence": "As the report \"China polishes its image in Central Asia through the soft power of language\" reveals, embassy donates to some local NGOs. \n\n",
+                "evidence_urls": [
+                    "https://www.opendemocracy.net/en/odr/china-central-asia-soft-power-language/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "No mention of China at all",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "skip",
+                "evidence": "Given the understanding that Turkmenistan is an extremely closed-off society, its citizens are given information provided by the state. As the state have been having good relations with China in the past 10 years, a good image of China is consistently presented. Based on this, it is likely that majority of citizens have positive views of the PRC government, however where is no research that can possibly be done on this on Turkmenistan. ",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://thediplomat.com/2019/09/what-drives-chinese-arms-sales-in-central-asia/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "At least not been publicly disclosed. But you can see in the report named \"China intends to become an investment partner in Turkmenistan shipbuilding industry\" that Turkmenistan has some warship/ submarine capacity and Chinese companies have been interested to work with the ship-building sector in Turkmenistan. \n\n",
+                "evidence_urls": [
+                    "http://tkmst.lzu.edu.cn/detail.php?aid=13929 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "At least not been publicly disclosed. But you can see in the report named \"China intends to become an investment partner in Turkmenistan shipbuilding industry\" that Turkmenistan has some warship/ submarine capacity and Chinese companies have been interested to work with the ship-building sector in Turkmenistan. \n",
+                "evidence_urls": [
+                    "http://tkmst.lzu.edu.cn/detail.php?aid=13929 "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "Turkmenistan established itself as a permanently neutral State in 1995.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "Turkmenistan established itself as a permanently neutral State in 1995.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "Turkmenistan established itself as a permanently neutral State in 1995.",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "While China has had these agreements long ago with Central Asian countries under the Shanghai Cooperation Organization (SCO), as Turkmenistan is not a member, the new \"C+C5\" (China + 5 Central Asian states) format has brought about many new agreements between the two countries. As the report named \"China + Five Central Asian Countries Data Security Cooperation Initiative\" reveals, a new agreement between C+C5 , in June 2022, was signed on digital security cooperation, in which data sharing was mentioned as a key cooperation area to jointly combat transnational crime. \n\n",
+                "evidence_urls": [
+                    "https://baijiahao.baidu.com/s?id=1735173616217958774&wfr=spider&for=pc"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "As the report of \"Joint Statement of the People's Republic of China and Turkmenistan\", in 2006, Turkmenistan signed the \"Joint agreement to combat terrorism, separatism and extremism\" with the PRC. \n\n",
+                "evidence_urls": [
+                    "https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676980/1207_676992/200604/t20060404_8002205.shtml"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "\"At a security get together in May 2019, the Uzbek government shared its \u201csafe cities\u201d successes with officials from Azerbaijan, Armenia, Belarus, Kazakhstan, Russia, Tajikistan, Kyrgyzstan, and Turkmenistan...Turkmenistan in 2017 and Tajikistan in 2018 adopted new policies that nevertheless still remain limited in reach given poor enforcement.\"",
+                "evidence_urls": [
+                    "https://thediplomat.com/2019/08/smart-cities-or-surveillance-huawei-in-central-asia/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Turkmenistan had a GDP per capital of US$7,612, and a total population of 6.11 million. ",
+    "description-2": "Turkmenistan established diplomatic relations with the People\u2019s Republic of China in 1992. In 2022, Turkmenistan was ranked 177th in Reporters Without Borders' 2022 World Press Freedom Index, and Not Free in Freedom House's 2022 Global Freedom Status, with a score of 2/100."
+}

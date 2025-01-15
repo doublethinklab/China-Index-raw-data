@@ -1,0 +1,1086 @@
+{
+    "name": "Pakistan",
+    "partner": "Doublethink Lab",
+    "year": "2022",
+    "GDP": "$1,537.9",
+    "population": "225.1M",
+    "original": "242/380",
+    "ranking": "1",
+    "overall": "64%",
+    "effect": "75%",
+    "exposure": "70%",
+    "pressure": "10%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "Plenty of open source material suggests growing media cooperation between the two countries. However, no evidence found of specific Pakistani organizations having joined the 'World Chinese Media' network.",
+                "evidence_urls": [
+                    "http://www.ipcs.org/comm_select.php?articleNo=5695",
+                    "https://profit.pakistantoday.com.pk/2022/06/02/7th-china-pakistan-economic-corridor-cpec-media-forum/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://www.ipcs.org/comm_select.php?articleNo=5695"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "Pakistan Federation of Union of Journalists",
+                    " http://cpecinfo.com/delegation-of-pakistani-journalists-visits-power-china-headquarters-in-beijing/",
+                    "https://www.radio.gov.pk/16-04-2018/pakistani-media-delegation-visiting-china-from-today"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "evidence": "Chinese officials are reported to have organized trainings and visits of Pakistani journalists for greater exposure and understanding of China. However, because of the language barrier and media censorship in China, credible Pakistani journalists do not necessary look to China improve their reporting and journalistic skills. When training have been organized, they tend to target younger, inexperienced media persons -ostensibly to get favorable coverage of China and CPEC projects.",
+                "evidence_urls": [
+                    "https://www.pakistantoday.com.pk/2022/09/08/chinese-pakistani-journalists-vow-to-counter-negative-propaganda-by-western-media/",
+                    "https://gotest.pk/education/news/chinese-universities-step-training-journalists-pakistan/",
+                    "https://www.app.com.pk/global/international-journalists-praise-facilities-objective-journalism-in-china/",
+                    "https://pakistan.asia-news.com/en_GB/articles/cnmi_pf/features/2022/01/27/feature-01"
+                ],
+                "note": "Not enough info available at the moment",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "4",
+                "evidence": "China Radio International dominates MW frequencies in north Pakistan. Their powerful boosters just across the border send strong signals. The penetration started more than 15 years ago. So strong was their signal that it drowned out the BBC Urdu/Hindi MW frequency at 1413. I know this from my days at BBC in London.\n\nBesides, Xinhua news service has been feeding PRC perspective in major privately-owned (but often state-controlled) Pakistani media outlets, including Dawn, Jang Group and Express Group. \n",
+                "evidence_urls": [
+                    "https://urdu.cri.cn/",
+                    "https://en.dailypakistan.com.pk/27-Dec-2019/dr-firdous-seeks-media-s-role-to-counter-anti-cpec-propaganda",
+                    "https://en.dailypakistan.com.pk/27-Dec-2019/dr-firdous-seeks-media-s-role-to-counter-anti-cpec-propaganda"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "evidence": "Not much evidence of Chinese ownership of any significant  media outlets. Some fringe websites may be indirectly funded to promote and protect PRC's interests, but direct ownership of local media outlet by PRC-related entities is unlikely. The only exception we've come across is a small media named \"Huashang News\" owned by a PRC citizen with a very limited outreach and circulation. (links below)\n",
+                "evidence_urls": [
+                    "http://www.ipcs.org/comm_select.php?articleNo=5695",
+                    "https://www.reuters.com/article/us-china-silkroad-pakistan-softpower/china-boosts-soft-power-in-pakistan-via-film-and-social-media-idUSKCN1VW0LJ",
+                    "http://www.huashangnews.cc/resource/other/about.html"
+                ],
+                "note": "No evidence of direct Chinese ownership of media outlets, except one small outlet reported a few years ago.",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "2",
+                "evidence": "\nJune 12, 2020 23:31 IST | ANI Press Release\nAddThis Sharing Buttons\nShare to Facebook\nShare to TwitterShare to LinkedInShare to TelegramShare to More\nTennis player James Blake\nChinese flag\nYou would like to read\n\n    Cannot impose lockdown in Pakistan with 25 pc population living on daily wages: Imran Khan\n    Pakistan losing precious time to act decisively on Covid-19 outbreak\n    Pak media raps PM Khan for all-round failures, imperious haste in passing Army Act\n    Imran Khan wants to 'talk solutions to end conflicts' with India\n\nIslamabad, [Pakistan] June 12 (ANI): A researcher has warned that Chinese inroads into Pakistan's mainstream media, and state-level bilateral cooperation on telecommunications infrastructure and surveillance is growing, which poses a threat to people's freedom of speech in the country.\n\nNowmay Opalinski, a research intern with the Centre for Internal & Regional Security (IreS), IPCS explores the potential implications of the steadily increasing Sino-Pak state-to-state collaboration in Pakistan's media and telecommunications sector.\n\nHe said, \"These developments are taking place against a backdrop of Pakistani state's growing attempts to censor online content domestically. How does this set of circumstances favour China? Where does China's big picture media strategy fit into this?\"\n\nHe found that since 2012, the government of Pakistan has been attempting to implement a national firewall to tighten control over content shared online. The introduction of the Pakistan Electronic Crime Act in 2016 was supposed to regulate harmful content like terrorist propaganda. However, it has also been used to censor opposition leaders and critics of the government.\n\nNowmay Opalinski said, \"January 2020, Pakistan adopted a new set of regulations framed under the Citizen Protection (Against-Online Harm) Rules, which entails plans for the Ministry of Information Technology and Communication to appoint a national coordinator in charge of online content regulation. The Human Rights Commission of Pakistan and the Pakistan Federal Union of Journalists denounced this move, and have argued its unconstitutionality\".\n\nReporters Without Borders and legal experts highlighted that the vague definitions of harmful contents leave room for arbitrary removal of content. Application of Article 6(s) also enables potential deactivation of user data encryption as it enforces social media companies to deliver extensive information, including \"subscriber information, traffic data, content data, and any other information or data.\n\nThis new regulation includes an obligation for all social media companies to open offices in Pakistan, where strict supervision of their ability to remove or block content will be enforced. It empowers the national coordinator to ask online platforms to surrender all information, private or public. These measures could lead to international social media platforms to re-evaluate their operations in Pakistan, as the Asia Internet Coalition (AIC) highlighted in their statement to Prime Minister Imran Khan.\n\nHowever, these new measures could also play in favour of Chinese social media platforms as an alternative in the country. Chinese content censorship on its online platforms is uniformly applicable, irrespective of whether an application is being used domestically or abroad. They could thus easily adapt to Pakistan's new regulations, and Beijing could even work with Islamabad to define the extent of internet censorship in Pakistan.\n\nNowmay Opalinski said, \"While such a cooperation has not yet taken place, China's growing footprint in Pakistan's telecommunication infrastructure could enable its occurrence. For example, the new cross-border fiber-optic cable which goes from Xinjiang to Rawalpindi via Khunjerab will involve the routing of internet traffic through China's regulated network. This could facilitate the exportation of the Chinese firewall system to Pakistan through a direct linkage. China has already exported social media surveillance tools to several countries. It is also showcasing its model of internet control in UN-mandated working groups on international cyber-norms by challenging \"Internet freedoms and its multi-stakeholder governance.\"\n\nIn December 2019, Firdous Ashiq Awan, Pakistan's then special assistant to the prime minister on information, urged Pakistan's local media to play an active role in promoting the China Pakistan Economic Corridor (CPEC) and to counter \"negative propaganda.\" Her statement came a month after US Assistant Secretary of State for South Asia, Alice Wells, criticised China's Belt and Road Initiative (BRI) and CPEC.\n\nThe researcher said, \"Since then, China and Pakistan have continued to reiterate the need for closer media cooperation. This is already taking shape, with China's state-run Xinhua news agency signing an MoU with local Pakistani media, which includes the provision of free content in both English and Urdu to their Pakistani counterparts. While the provision of content might be perceived as a good opportunity for the country's shrinking media industry, it could also be a step towards standardization of mainstream media information to promote BRI projects in Pakistan\".\n\nThere is a broader strategy at play here. China is now exporting news production through institutions such as the Belt and Road News Network. It has developed 'flooding' strategies, which involve publishing large volumes of online content through various state-sponsored channels.\n\nIn a recent interview, state-run Pakistan Television Corporation officials reported that a \"Rapid Response Initiative System\" will be implemented to coordinate the efforts of China Economic Net (a Beijing-based online news organisation) and Pakistan China Institute (an Islamabad based pro-Beijing think-tank) to systematically counter negative views against CPEC.\n\nSubsidised trips for Pakistani journalists with training sessions in China are also being organised on a frequent basis. Beijing wishes to promote a new model of journalism across the world, and is holding international conferences such as the Belt and Road Journalists Forum and the China-Pakistan Media Forum to get the word out.\n\nBeyond content-related issues, China's investment in the media sector mainly favours state-owned outlets over independent and/or private entities.",
+                "evidence_urls": [
+                    "https://www.app.com.pk/global/7th-cpec-media-forum-eyes-fruitful-results/",
+                    "https://www.business-standard.com/content/press-releases-ani/expert-warns-of-china-s-inroads-into-pakistan-s-mainstream-media-and-telecommunications-120061200692_1.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "4",
+                "evidence": "Yes, Ads promoting Pakistan-China friendship, CPEC projects, Chinese aid in times of Covid and natural disasters is heavily projected through media campaigns.  ",
+                "evidence_urls": [
+                    "https://twitter.com/TheDailyCPEC/status/1570703486282788866?s=20&t=TGg6Ki-kgltjmTE48PwKUA",
+                    "https://twitter.com/TheDailyCPEC/status/1570120351618830336?s=20&t=pXyh3eQJTUcwAtmBYlHoDA"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "0",
+                "evidence": "Pressure is exerted on journalists to give positive coverage and avoid criticism of China. But this is done by Pakistani civil military officials, not by PRC directly.",
+                "evidence_urls": [
+                    "Pressure is exerted on journalists to give positive coverage and avoid criticism of China. But this is done by Pakistani civil military officials, not by PRC directly."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "4",
+                "evidence": "That's because China is seen as an strategic ally by the military and all the major political parties.",
+                "evidence_urls": [
+                    "https://tribune.com.pk/story/2277757/media-an-engine-for-cpec-development"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "1",
+                "evidence": "It's a topic Pakistani leaders and media personalities deliberately avoid talking about because they don't want to upset China. Pakistan is a muslim majority nation. Very few people would actively/openly deny the violation of human rights in China.",
+                "evidence_urls": [
+                    "http://en.people.cn/n3/2021/0224/c90000-9821697.html"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://na.gov.pk/cpec/?q=press-releases"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "4",
+                "evidence": "All the time",
+                "evidence_urls": [
+                    "https://www.app.com.pk/global/7th-cpec-media-forum-eyes-fruitful-results/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "4",
+                "evidence": "Training of Pakistani civil servants by the Chinese govt has been going on for several years.",
+                "evidence_urls": [
+                    "https://www.finance.gov.pk/poverty/training_28032022.pdf",
+                    "https://www.commerce.gov.pk/wp-content/uploads/2019/07/Ftrain_China_EAD.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "PRC doesn't directly pressurize Pakistani politicians. It's the state of Pakistan that ensures everyone understands and supports the strategic alliance. \nFair to say that PRC offers Pakistanis incentives for cooperation. ",
+                "evidence_urls": [
+                    "China may quitely express displeaure over statements by local politicans critical of the Chinese involvement, but it doesn't and can't penalise them openly. That is left to the Pakistani security establishment and political leadership. "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "No evidence available to support this",
+                "evidence_urls": [
+                    "China and Pakistan's militaries have a close cooperation. If they arrest each others' nationals, it is not with the intention of indulging  in hostage diplomacyin "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "evidence": "Pakistan fully supports China's position on Taiwan\u2019s participation in the World Health Assembly",
+                "evidence_urls": [
+                    "Pakistan's supports One China policy",
+                    "https://www.downtoearth.org.in/news/health/world-health-assembly-taiwan-becomes-a-hot-potato-again-71235"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "4",
+                "evidence": "China and Pakistan have a long history of supporting each other's core interests in various UN bodies.",
+                "evidence_urls": [
+                    "https://www.dawn.com/news/1677586/china-thanks-pakistan-for-extending-support-in-un-body-polls",
+                    "https://www.aa.com.tr/en/asia-pacific/china-pakistan-vow-to-support-each-others-core-interests-concerns/2594718"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "4",
+                "evidence": "Pakistan fully supports China on South China Sea, Taiwan, Xinjiang and Tibet.",
+                "evidence_urls": [
+                    "https://news.cgtn.com/news/2020-12-01/Pakistan-to-support-China-on-South-China-Sea-Taiwan-Xinjiang-Tibet-VS4tonaaTC/index.html",
+                    "https://www.southasiamonitor.org/china-watch/pakistan-supports-beijing-south-china-sea-talks"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "4",
+                "evidence": "Pakistan, as a Muslim country,usually avoids talking about Uighurs. But this year a prime minister backed China's version on Uighurs, praised it's one-party system.",
+                "evidence_urls": [
+                    "https://www.aljazeera.com/news/2021/7/2/pakistan-imran-khan-china-uighurs"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "4",
+                "evidence": "Pakistan's stated position on Tibet is that it is an inalienable part of China.",
+                "evidence_urls": [
+                    "https://news.cgtn.com/news/2020-12-01/Pakistan-to-support-China-on-South-China-Sea-Taiwan-Xinjiang-Tibet-VS4tonaaTC/index.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "4",
+                "evidence": "Pakistan is committed to One-China Policy and supports China on Taiwan, South China Sea, Hong Kong, Xinjiang and Tibet. ",
+                "evidence_urls": [
+                    "https://www.dawn.com/news/1583884",
+                    "http://us.china-embassy.gov.cn/eng/zgyw/202202/t20220206_10639501.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "4",
+                "evidence": "About 6,000 Pakistanis were working on their PhDs in China in 2018. Scientific and technological collaboration has grown rapidly, according to Journal Nature. With nearly 3,000 papers jointly authored and published by Chinese and Pakistani researcher, China has become one of Pakistan's top partners in scientific collaborations, according to an analysis of co-authored papers from Elsevier\u2019s Scopus database. China is co-sponsoring a range of research centers in Pakistan that are studying topics from rice agriculture to artificial intelligence and railway engineering.",
+                "evidence_urls": [
+                    "https://www.southasiainvestor.com/2019/05/growing-china-pakistan-collaboration-in.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.thenews.com.pk/latest/958534-all-confucius-institutes-are-operational-in-pakistan-chinese-envoy"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "evidence": "The three main elements of Chinese educational support for Pakistan and other developing countries are university scholarships, vocational training programs, and Chinese language courses.\nMany Pakistanis think it would be economically beneficial to learn Mandarin or study in Chinese institutes. It has happened at all educational levels, including middle schools, high schools, colleges, and universities. \nChina has continued to sponsor and open Confucius Institutes and classrooms throughout the country, often responding to requests from Pakistani universities.\nPrivate schools across the country, even in smaller cities, have begun offering Mandarin classes. Examples include the City School, one of the largest private school networks in Pakistan, with at least 150 schools in nearly fifty cities serving a total of 150,000 students. Another is the Roots School System that offers Chinese language courses.\nNot entirely clear whether these private schools receive subsidized books and/or other financial support from PRC for this.",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/2019-08/28/c_138345891.htm.",
+                    "https://thecityschool.edu.pk/chinese-language-classes/",
+                    "https://www.rootsschool.edu.pk."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "2",
+                "evidence": "Pakistan-China Institute\nThe China Study Center, SDPI Islamabad",
+                "evidence_urls": [
+                    "https://issi.org.pk/report-1st-pakistan-china-think-tank-forum-evolving-regional-situation-and-pakistan-china-cooperation/",
+                    "https://www.fmprc.gov.cn/eng/wjbxw/202109/t20210910_9712527.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "3",
+                "evidence": "Pakistan today owes 30 per cent of its foreign debt to China, acc to the International Monetary Fund (IMF). China has invested in virtually every segment of the economy. To safe-guard its investments it must also invest media, research and think-tanks to help create a favorable intellectual capital. So, while there is no open-source evidence available of Chinese funding of think tanks in Pakistan, we have seen mushrooming of China experts in Pakistan who visit China regularly, have great access to Chinese diplomats and they champion PRC's view points and interests in Pakistan. None of this would be possible without the Chinese money. Pakistan is too cash-strapped to fund such activities.",
+                "evidence_urls": [
+                    "https://issi.org.pk/report-1st-pakistan-china-think-tank-forum-evolving-regional-situation-and-pakistan-china-cooperation/",
+                    "https://issi.org.pk/press-release-2nd-pakistan-china-think-tank-dialogue/",
+                    "https://www.southasiainvestor.com/2019/05/growing-china-pakistan-collaboration-in.html",
+                    "https://uasr.xjtu.edu.cn/About_UASR/Members.htm"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "0",
+                "evidence": "There's plenty of collaboration in higher education and university exchanges. But not enough evidence available to suggest specific programs aimed at bringing Chinese experts living in Pakistan to return to their country.",
+                "evidence_urls": [
+                    "https://www.hec.gov.pk/english/scholarshipsgrants/lao/CSC/Pages/default.aspx",
+                    "https://www.thenews.com.pk/print/960241-chinese-scholarships-for-water-conservancy-professionals",
+                    "https://www.southasiainvestor.com/2019/05/growing-china-pakistan-collaboration-in.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.chinesescholarshipcouncil.com/fully-funded-cultural-exchange-scholarships-program-for-pakistani-students.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "No evidence of it found"
+                ],
+                "note": "Chinese officials, students or scholars have not been overtly in conflict with Pakistani activists over human rights abuses, etc. Their interest in Pakistan is primarily financial, strategic and at best cultural. They are careful not to get entangled in activism, politics and media.",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Most Pakistanis who go to China go there on business, student, tourist visas or official business. Journalists have also been taken there with the aim of \"educating\" them about all the \"good work\" China is doing in Pakistan. If it happens, it would usually be concerns over applicant's involvement with Islamic groups. Human rights activists in Pakistan have not really sought to go to China to investigate things there.",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "Most probably not",
+                "evidence_urls": [
+                    "Unlikely, because Pakistani schools do not really focus much on East Asian history. "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "4",
+                "evidence": "Discussion over these issues is avoided because the country as a whole is increasingly dependent on China and doesn't want to upset Beijing. \nMost Pakistanis would be forgiven for not knowing much about PRC's stance on Taiwan and Hong Kong. \nIslamist  and right-wing institutions like to champion the cause of Muslims the world over, except in China.",
+                "evidence_urls": [
+                    "These are generally treated as China's internal matters, esp in govt universities and state-controlled private media"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "4",
+                "evidence": "Pakistan has four provinces. They have constitutional autonomy over health, education, policing, mineral wealth, energy, etc. These provincial governments have routinely wooed Chinese govt/investors and signed several bilateral deals. ",
+                "evidence_urls": [
+                    "https://www.thenews.com.pk/print/964797-mou-signed-on-setting-up-culture-education-exchange-centre",
+                    "http://en.ce.cn/Insight/202206/28/t20220628_37811579.shtml",
+                    "https://www.pakistantoday.com.pk/2022/06/13/first-batch-of-chinas-vocational-college-on-electric-engineering-inaugurated-in-sindh/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.app.com.pk/global/pak-china-signs-agreement-to-establish-sister-provinces-cities-parks-lakes/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "skip",
+                "evidence": "Pakistan and China have a patron-client relationship. As a creditor and a financier, China helps keep Pakistani economy afloat. So while it may not directly fund many \"official\" trips, the budget is indirectly financed by PRC.",
+                "evidence_urls": [
+                    "https://www.ft.com/content/6250c214-cfdc-4b4f-85b3-876666d01ff4"
+                ],
+                "note": "Skipping this question because of a lack of evidence to support well established public perception that PRC and Chinese entities sponsor strips of politicians and govt officials in an attempt to promote China's interests in Pakistan.",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "4",
+                "evidence": "All the time. Summits and bilateral visits. ",
+                "evidence_urls": [
+                    "https://www.fmprc.gov.cn/eng/zxxx_662805/202205/t20220523_10691130.html"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "4",
+                "evidence": "These trainings take place regularly between PRC and Pakistan's federal and provincial governments.",
+                "evidence_urls": [
+                    "https://ccls.lums.edu.pk/courses-offered",
+                    "https://www.radio.gov.pk/24-05-2018/judiciary-of-pakistan-fully-supports-cpec-cjp",
+                    "https://finance.punjab.gov.pk/system/files/Tr-16072019.pdf"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "No significant allegations or reporting on Chinese campaign donations available. It is conceivable, given PRC's deep financial stakes, but there seems to be little evidence so far ",
+                "evidence_urls": [
+                    "Most major parties favour deeper engagement with China anyway. There are allegations that they recive kick-backs on major projects. But no major accusation of campaign financing. Pakistan's electoral laws bar candidates from receiving state funding of foreign governments."
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "No evidence or need in Pakistan, where overall opinion is largely pro-PRC ",
+                "evidence_urls": [
+                    "No evidence. Seems not applicable in Pakistani context"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "No evidence. Seems not applicable in Pakistani context"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "evidence": "Pakistan's civil-military leaders are overwhelmingly pro-PRC as they depend on Beijing for military and economic support against India and the US.",
+                "evidence_urls": [
+                    "https://www.brecorder.com/news/40180236/pm-says-more-cooperation-with-china-is-win-win-situation",
+                    "https://www.gulftoday.ae/news/2019/10/08/imran-all-praise-for-chinas--efforts-against-corruption",
+                    "https://www.pakistantoday.com.pk/2022/05/28/chinas-economic-development-an-example-for-the-world-bilawal/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "skip",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Pro-Beijing think-tanks in Islamabad have popped up in the last decade or so. They ostensibly receive funding and support from PRC governments and diplomats to project advocate closer business and strategic ties with Beijing. Examples include:\nPak-China Institute (PCI) led by Senator Mushahid Hussain and the China Study Center at Sustainable Development Policy Institute (SDPI). Hard to name specific cases or individuals, though it is entirely possible given the close cooperation and business dealings between the two sides.",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "Pakistan has rejected requests from Beijing to allow a Chinese private security company to operate in its territory. ",
+                "evidence_urls": [
+                    "https://pakistan.asia-news.com/en_GB/articles/cnmi_pf/features/2022/06/21/feature-01"
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "China is Pakistan's 2nd biggest trading partner after the US",
+                "evidence_urls": [
+                    "https://www.worldstopexports.com/pakistans-top-import-partners/",
+                    "https://tribune.com.pk/story/2363463/economic-future-of-pakistan"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "In May 2022, Pakistan said it owes $18.4 billion or one-fifth of its external public debt to China, which is not only $4 billion higher than the officially reported figures but is also the highest lending by any single country or financial institution.",
+                "evidence_urls": [
+                    "https://economictimes.indiatimes.com/news/international/world-news/cash-strapped-pakistan-says-china-agreed-to-rollover-4-2-billion-debt/articleshow/90405622.cms?from=mdr"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "4",
+                "evidence": "Copper and gold in Balochistan province\nCoal in the desert region of Thar in Sindh province",
+                "evidence_urls": [
+                    "https://unpo.org/article/21986",
+                    "http://cpec.gov.pk/project-details/4",
+                    "https://oec.world/en/profile/country/pak"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "Chinese trade and industrial concerns are operating throughout the country, with joint and wholly-owned interests in textile factories, cement plants, power producers, steel mills, housing projects and telecommunication concerns, the Pakistan-China Joint Chamber of Commerce and Industry\u2019s (PCJCCI) website shows.\nExamples: Gwadar Sea Port and Thar Coal power project",
+                "evidence_urls": [
+                    "https://www.dw.com/en/china-pakistan-investment-ties/a-58734281",
+                    "https://asiatimes.com/2021/02/chinas-pakistan-investments-a-double-edged-sword/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "evidence": "Pakistan is a member of AIIB since Dec 2015",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/news-events/news/2020/AIIB-Approves-USD250-Million-Loan-to-Assist-Pakistan-to-Mitigate-Impact-of-COVID-19.html",
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "China and Pakistan are allies in the multi-billion dollar CPEC project, which is a part of OBOR. Major Pakistani businesses have partnered with PRC entities for projects in infrastructure development, energy and other sectors.\nNot enough info available to confirm whether Pak businesses are also member of the three organisations named in the question.",
+                "evidence_urls": [
+                    "http://dev.srcic.com/news/experts-call-for-greater-cooperation-under-china-proposed-bri/",
+                    "http://cpec.gov.pk/",
+                    "https://srcic.org/silk-road-members/?page=3",
+                    "https://www.bricaistanbul.com/overview/brica-members/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "No publicaly known evidence available of PRC's coercion",
+                "evidence_urls": [
+                    "No publicaly known evidence available of PRC's coercion"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "No evidence of that available yet",
+                "evidence_urls": [
+                    "No evidence of that available yet"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.commerce.gov.pk/about-us/trade-agreements/pak-china-free-trade-agreement-in-goods-investment/",
+                    "https://tdap.gov.pk/china-pakistan-free-trade-agreement-phase-ii/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.pide.org.pk/psde/pdf/AGM32/papers/Special-Economic-Zones-SEZs.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "Not true, even though China is frustrated over unpaid capacity payments in the coal plants it has set up under CPEC. Those outstanding payments by the government of Pakistan run in billions of rupees. But the Chinese have been patient and not threatened to invoke retaliatory claims. The two sides are trying to sort this out through negotiations, instead of arm-twisting.",
+                "evidence_urls": [
+                    "https://www.brecorder.com/news/40159772",
+                    "https://www.dawn.com/news/1709308"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "evidence": "Huawei, Haier and Zong are among major Chinese investment companies in Pakistan's telecom sector.",
+                "evidence_urls": [
+                    "https://www.dw.com/en/china-pakistan-investment-ties/a-58734281",
+                    "https://tribune.com.pk/story/2363463/economic-future-of-pakistan"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tribune.com.pk/story/2363463/economic-future-of-pakistan",
+                    "https://www.globalvillagespace.com/china-keen-to-support-a-fast-5g-rollout-in-pakistan/",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-1138"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "4",
+                "evidence": "Most likely yes, as the country is heavily reliant on Chinese technology for its telecom infrastructure upgrades.",
+                "evidence_urls": [
+                    "https://www.pakistantoday.com.pk/2022/07/09/chinese-telecom-carrier-helps-bridge-digital-gap-in-pakistan/",
+                    "https://tribune.com.pk/story/2345552/telecom-boom",
+                    "https://theprint.in/world/china-installs-over-500-surveillance-cameras-in-gwadar-city-of-pakistan/1007442/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "4",
+                "evidence": "Pakistan relies and trusts China more than the US for its hi-tech needs. The two countries have a deep military cooperation on missile and nuclear program. ",
+                "evidence_urls": [
+                    "https://tribune.com.pk/story/2361207/pakistan-china-vow-to-step-up-defence-cooperation-despite-challenges"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "4",
+                "evidence": "Fiber Optic Project under CPEC; not enough information available on data collection, voice and facial recognition cooperation.",
+                "evidence_urls": [
+                    "http://cpec.gov.pk/map-single/3",
+                    "https://www.nation.com.pk/29-May-2022/pakistan-s-first-ai-lab-nears-completion-under-cpec"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "3",
+                "evidence": "Yes, true for major cities.",
+                "evidence_urls": [
+                    "http://www.xinhuanet.com/english/asiapacific/2021-08/26/c_1310151002.htm",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-354",
+                    "https://cpec.gov.pk/project-details/63",
+                    "https://chinatechmap.aspi.org.au/#/map/marker-4183",
+                    "https://beaconinvestment.org/capital-smart-city/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.brecorder.com/news/40128263"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.bolnews.com/latest/2021/12/pakistan-ushers-in-new-era-of-startups-chinese-official/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://profit.pakistantoday.com.pk/2020/09/14/pakistan-china-likely-to-sign-mou-for-cooperation-in-ict/",
+                    "https://dailytimes.com.pk/837493/pak-china-to-establish-center-of-excellence-on-artificial-intelligence/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "Top 5 platforms:\nFacebook\nYoutube\nTikTok\nSnack Video\nTwitter",
+                "evidence_urls": [
+                    "https://www.phoneworld.com.pk/7-most-used-social-media-platforms-in-pakistan-2022/",
+                    "https://dailytimes.com.pk/938205/pakistans-pavilions-to-be-established-in-beijing-on-tiktok-to-promote-trade/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "4",
+                "evidence": "In 2020, Pakistan became the first country to join satellite navigation system of China",
+                "evidence_urls": [
+                    "http://cpecinfo.com/pakistan-becomes-first-foreign-country-to-join-satellite-navigation-system-of-china/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "PRC affliated groups and  usually do not lobby on this issues in Pakistan"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "United World Chinese Association isn't well known or active in Pakistan. ",
+                "evidence_urls": [
+                    "No evidence to show the association has presence in Pakistan"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "Not really",
+                "evidence_urls": [
+                    "NO evidence to suggest cooperation between labour unions"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "3",
+                "evidence": "No such reporting available locally. Reason could be that most Chinese workers live in closed and secure housing away from local communities. Their interaction is often minimal with the local communities. No way to know how they mark events and activities like Lunar New Year events, Dragon Boat festival tournaments, etc. ",
+                "evidence_urls": [
+                    "https://www.wikiwand.com/zh-mo/%E5%86%9C%E8%9E%8D",
+                    "https://www.fmprc.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676308/1206x2_676328/202102/t20210207_7972683.shtml"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "1",
+                "evidence": "Pakistani and Chinese culture have little in common. One is highly religious, the other isn't. Their heritage, language and sensibilities are also very different. Not much has been done to bridge the cultural divide, except for promotion of Mandrian in Pakistan (mainly for economic reasons).",
+                "evidence_urls": [
+                    "https://tribune.com.pk/story/2300003/pakistan-china-urged-to-exchange-cultural-experiences"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "Not really. Religious ties between the two people are almost non-existent",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "2",
+                "evidence": "Culturally, Pakistan is much closer to its arch-rival India. Indian content is still popular in Pakistan despite ban on import and censorship. China and Pakistan have started promoted each others films and entertainment content, but there is a long way to go.",
+                "evidence_urls": [
+                    "http://www.china.org.cn/opinion/2018-11/04/content_69450390.htm",
+                    "https://dailyoutcome.pk/five-movies-from-pakistan-screened-in-china/",
+                    "https://variety.com/2020/film/news/china-pakistan-first-film-parwaaz-hai-junoon-1234814657/",
+                    "https://www.reuters.com/article/us-china-silkroad-pakistan-softpower-idUSKCN1VW0LJ"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "Since these are joint ventures on govt to govt level, the idea so to promote each others' countries in positive light."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "1",
+                "evidence": "Not Really",
+                "evidence_urls": [
+                    "Pakistani celebrities do not usually look to China for inspiration. Not many are known to get entagled in Chinese propaganda. "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "4",
+                "evidence": "The Pakistani govt usually prefers to speak up for PRC in routine statements. Statements by PRC govt and embassies get prominent coverage in Pakistan's state and private media.",
+                "evidence_urls": [
+                    "Pakistan govt routinely issues statements supporting China's stance on major issues. "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "Yes, China is regularly hailed for its economic success, low tolerance for corruption and as a self-respecting nation by Pakistani leadears. \nEducated Pakistanis understand that China has supported Pakistan against India and the US. They overlook PRC's alleged human rights abuses and its conflicts in East Asia as the country's internal matters. \nPakistanis generally look up to China because of its economic power and military support against India. Some in the business community do resent how cheap imports from the PRC have destroyed local manufacturing. ",
+                "evidence_urls": [
+                    "https://uscpublicdiplomacy.org/sites/uscpublicdiplomacy.org/files/CPEC_Twitter_Discourse_Analysis_China_Pakistan_Ahmed_Rojratanakiat_Taekasem.pdf",
+                    "https://www.brookings.edu/wp-content/uploads/2020/06/FP_20200615_china_pakistan_afzal_v2.pdf",
+                    "https://www.globaltimes.cn/page/202202/1251538.shtml",
+                    "https://www.chinadaily.com.cn/a/202210/06/WS633e8e1aa310fd2b29e7b223.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "4",
+                "evidence": "China has cemented its place as Pakistan\u2019s largest supplier of major arms, including fighter aircraft, warships, submarines and missiles, according to a report by Sweden\u2019s Stockholm International Peace Research Institute (SIPRI) published in March 2022.",
+                "evidence_urls": [
+                    "https://nationalinterest.org/blog/reboot/china-helped-build-pakistans-military-these-five-weapons-199357",
+                    "https://tribune.com.pk/story/2361207/pakistan-china-vow-to-step-up-defence-cooperation-despite-challenges"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "Pakistan is an importer of Chinese weapons technology. \nFor arms export, the military has been trying to graduate well beyond just a manufacturer of small weapons and improve its ability to produce advanced weapons. But given its economic constraints, Islamabad has had limited success. In recent years, it has sold weapons to budget-minded countries like Turkey, Nigeria and Myanmar.\n(Pakistan sold three JF-17s to Nigeria. In 2017, Turkey contracted to buy 52 Super Mushshak training aircraft. A year later, Ankara agreed to buy 1,000 PK-83 general purpose bombs.)",
+                "evidence_urls": [
+                    "https://asia.nikkei.com/Politics/With-China-as-its-mentor-Pakistan-triples-arms-exports",
+                    "https://www.brecorder.com/news/543001"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "4",
+                "evidence": "Yes, tanks, fighter jets and submarines.",
+                "evidence_urls": [
+                    "https://www.globaltimes.cn/page/202202/1252785.shtml",
+                    "https://www.business-standard.com/article/international/china-boosting-pakistan-s-military-arsenal-by-providing-assistance-analyst-121120100202_1.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "4",
+                "evidence": "There are reports that China is building naval security presence in Gwadar, Balochistan. China is building a deep sea port there as a part of CPEC (OBOR). These reports are denied by Pakistani officials.",
+                "evidence_urls": [
+                    "https://www.forbes.com/sites/hisutton/2020/06/02/chinas-new-high-security-compound-in-pakistan-may-indicate-naval-plans/?sh=2a2157691020",
+                    "https://economictimes.indiatimes.com/news/defence/pakistan-hasnt-offered-any-military-bases-to-china-in-gwadar/articleshow/88184647.cms"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "skip",
+                "evidence": "China has helped Pakistan with humanitarian efforts in times of floods, earthquake, etc. But it's unclear whether this was PLA effort under HADR. Not enough reporting available to confirm this yet. ",
+                "evidence_urls": [],
+                "note": "Not enough reporting available to confirm this yet. ",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "Pakistan army and PLA have a very close strategic relationship. The Pakistani army chief recently described the People's Liberation Army (PLA) and the Pakistan Army as \"brothers in arms\". But there's little evidence that PLA military personnel are deployed in Pakistan.\n",
+                "evidence_urls": [
+                    "https://tribune.com.pk/story/2312839/china-vows-to-always-stand-together-with-pakistan-in-all-challenges"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.business-standard.com/article/pti-stories/pak-china-reaffirm-their-strategic-partnership-in-the-challenging-times-122061200756_1.html",
+                    "https://www.timesnownews.com/international/article/chinas-military-assistance-to-pakistan-continues-as-chinese-instructors-readying-pak-army-soldiers/773830",
+                    "https://pakobserver.net/pak-china-phenomenal-military-cooperation-by-syed-qamar-afzal-rizvi/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "4",
+                "evidence": "Yes, joint military training exercises, including peacekeeping as well as anti-terrorism operations.",
+                "evidence_urls": [
+                    "https://tribune.com.pk/story/2320355/pakistan-participates-in-first-china-hosted-multinational-peacekeeping-drill",
+                    "https://tribune.com.pk/story/2323273/pakistan-china-joint-anti-terrorist-exercise-concludes "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "4",
+                "evidence": "Most probably yes. The army effectively leads Pakistan's strategic ties with PRC. The deals and negotiations are often secretive and not subject to parliamentary or media scrutiny. Pakistani generals are known to have enriched themselves by taking favors from friendly Arab countries. Given the strategic alliance and growing dependence on China, it would not be surprising if serving and retired commanders have received personal benefits and rewards from the PRC or its entities. However, in the absence of proof, this would be a speculation that would fit the overall pattern of the military leadership has benefited from being in control of the country. ",
+                "evidence_urls": [
+                    "Not enough information available to substantiate this perception"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "4",
+                "evidence": "Yes, because they are convinced that in the regional dynamics and balance of power vis a vis India, Pakistan has to rely on Chinese military for support and strength.",
+                "evidence_urls": [
+                    "Retired military officials often stay in the media glare as defense experts. A wide majority fully supports and makes a case for closer ties with PLA against India."
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "4",
+                "evidence": "Yes, regularly",
+                "evidence_urls": [
+                    "https://pakobserver.net/pak-china-military-ties/"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.dawn.com/news/84923/pakistan-china-agree-to-sign-extradition-treaty"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://tribune.com.pk/story/2316852/anti-terror-cooperation-with-pakistan-to-continue-china"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "So such evidence",
+                "evidence_urls": [
+                    "No such evidence available"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "Not really, given the tight state to state relations between the two sides.",
+                "evidence_urls": [
+                    "No such evidence avaialble"
+                ],
+                "note": "Not really, given the tight state to state relations between the two sides.",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "1",
+                "evidence": "Not really. Pakistan has suffered cyber attacks from India, but not much from China.\nIndian media accuses Pakistan of acting as China\u2019s proxy against India.\n\n",
+                "evidence_urls": [
+                    "https://www.orfonline.org/research/pakistan-emerges-as-chinas-proxy-against-india/",
+                    "https://therecord.media/chinese-apt-groups-targeting-india-pakistan-and-more-with-sophos-firewall-vulnerability/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "No evidence exists to suggest that",
+                "evidence_urls": [
+                    "No evidence exists to suggest that"
+                ],
+                "note": "No evidence exists to suggest that",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "evidence": "Pakistan and China have a lot of information and intelligence sharing, but it's not discussed in the public domain. It includes internet traffic, video, etc.",
+                "evidence_urls": [
+                    "https://timesofindia.indiatimes.com/india/army-steps-up-deployment-of-ai-powered-surveillance-systems-on-borders-with-china-pakistan/articleshow/93402906.cms",
+                    "https://theprint.in/world/china-installs-over-500-surveillance-cameras-in-gwadar-city-of-pakistan/1007442/",
+                    "https://technologytimes.pk/2021/08/15/lahore-safe-city-launch-investigation-against-huawei-on-llegation-of-installing-back-door-data/",
+                    "https://www.aboutpakistan.com/news/gwadar-safe-city-project-to-be-completed-in-next-six-months/"
+                ],
+                "note": "Pakistan and China have a lot of information and intelligence sharing, but it's not discussed in the public domain. It includes internet traffic, video, etc.",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "No evidence of joint policing in Pakistan",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://gandhara.rferl.org/a/beijing-pakistan-uyghurs/31406166.html"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "Pakistan does not recognize Taiwan as a state but as an integral part of the People\u2019s Republic of China. ",
+                "evidence_urls": [
+                    "https://www.thenews.com.pk/print/122536-Fresh-guidelines-issued-to-ministries-provinces-on-Taiwan"
+                ],
+                "note": "Pakistan does not recognize Taiwan as a state but as an integral part of the People\u2019s Republic of China. ",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "evidence": "Pakistan was the first country to actively collaborate with Beijing in monitoring and extraditing Uyghurs to China, deporting 14 Uyghurs accused of being terrorists in 1997. They were all summarily executed.",
+                "evidence_urls": [
+                    "https://gandhara.rferl.org/a/beijing-pakistan-uyghurs/31406166.html"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Pakistan had a GDP per capita of US$1,538 and a total population of 225.19 million people. Reliable estimates of the Chinese population are unavailable.",
+    "description-2": "Pakistan established diplomatic relations with the People's Republic of China in 1951. Pakistan was ranked 157th in Reporters Without Borders' 2022 World Press Freedom Index, and Partly Free in Freedom House's 2022 Global Freedom Status, with a score of 37/100."
+}

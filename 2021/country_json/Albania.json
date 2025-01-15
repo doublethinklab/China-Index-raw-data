@@ -1,0 +1,932 @@
+{
+    "name": "Albania",
+    "partner": "BIRN Ltd",
+    "year": "2021",
+    "GDP": "$5,837.0",
+    "population": "2.82M",
+    "original": "47/396",
+    "ranking": "45",
+    "overall": "12%",
+    "effect": "5%",
+    "exposure": "16%",
+    "pressure": "10%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "02",
+                "score": "3",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://brnalink.com/members.html ",
+                    "http://albanian.cri.cn/1552/2017/06/01/63s161700.htm "
+                ],
+                "note": "Vizion Plus, RTSH, Top Channel Albanian media organizations are members of the Belt and Road News Alliance at: https://brnalink.com/members.html \n\nSee also on cooperation agreement between ATSH and CRI (2017), enabling China Radio International broadcast in Albania: http://albanian.cri.cn/1552/2017/06/01/63s161700.htm ",
+                "grading": "1"
+            },
+            {
+                "number": "03",
+                "score": "2",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://albanian.cri.cn/interchange/more/3107/20210511/661461.html",
+                    "http://albanian.cri.cn/interchange/pic/3105/20210316/635696.html  ",
+                    "http://albanian.cri.cn/1560/2016/06/07/65s152634.htm ",
+                    "http://albanian.cri.cn/1559/2017/06/27/28s162298.htm  ",
+                    "http://albanian.cri.cn/1552/2017/06/19/22s162117.htm  ",
+                    "http://albanian.cri.cn/1552/2017/05/12/23s161261.htm  ",
+                    "http://albanian.cri.cn/381/2014/01/22/302s129351.htm "
+                ],
+                "note": "While the linked stories do not explicitly state that all expenses have been paid, this is indirectly confirmed when the journalist mentions recieving invites visit trips being organized from the PRC Embassy or PRC counterpart insitutions. We have confirmed directly with participants in at least two trips that media tours were all paid by the PRC Embassy in Tirana - flights and hotel stay, and touring in PRC.",
+                "grading": "1"
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "evidence": "China Radio International website is published in the Albanian language. Furthermore, CRI broadcasts online in the Albanian language through the radio channel \u201cRadio Ejani\u201d. The online magazine \u201cRevista Ejani\" is also published in the Albanian language. CRI has been broadcasting in Albanian since 2012 in Albania. \nSee: https://qbz.gov.al/share/qU1jkRm8Qg-qpKL5adqqog \nSee mentioned entities in the website of CRI: http://albanian.cri.cn ; ",
+                "evidence_urls": [
+                    "https://qbz.gov.al/share/qU1jkRm8Qg-qpKL5adqqog ",
+                    "http://albanian.cri.cn"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "06",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "07",
+                "score": "2",
+                "evidence": "The press statements from the PRC Embassy report specifically on video content produced by PRC state-funded media (CRI) and that have been aired by local Albanian media, specificaly the public broadcaster aired a documentary produced by CRI. ",
+                "evidence_urls": [
+                    "http://albanian.cri.cn/1552/2018/01/26/61s167629.htm ",
+                    "http://shekulli.com.al/61789/",
+                    "http://albanian.cri.cn/news/region/3126/20211118/715610.html",
+                    "http://albanian.cri.cn/news/region/3126/20191020/518999.html"
+                ],
+                "note": "For more in general on this issue: https://china-cee.eu/wp-content/uploads/2020/06/Working_paper-202021-by-Visar-Sylaj.pdf ; and: https://bird.tools/wp-content/uploads/2020/12/\u201cChina\u2019s-Rising-Media-Presence-in-South-East-Europe\u201d.pdf ",
+                "grading": "1"
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://edition.cnn.com/2021/04/16/china/beijing-xinjiang-uyghurs-propaganda-intl-hnk-dst/index.html ",
+                    "https://gazetaimpakt.com/gazetari-skeptik-thote-se-vizita-ne-kampet-e-internimit-ne-xinjiang-konfirmon-raportet-e-mediave-perendimore/",
+                    "https://gazetaimpakt.com/shqiperia-rsf-denon-ngacmimin-e-kines-ndaj-nje-gazetari-qe-raportoi-per-shtypjen-ne-xinjiang/ "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "10",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "11",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "In the past there has been a China-Albania Parliamentary Friendship Group established since 2000 (see: http://albanian.cri.cn/1560/2019/08/26/65s181528.htm) until recently, which was headed by the late MP Bashkim Fino until his passing away in April 2021. After the Parliamentary elections in June 2021 and the new Parliament, the China-Albania parliamentary group has not yet been formed. In the most recent meeting between the Chinese Ambassador in Tirana and the Parliamentary Speaker Lindita Nikolla in September 2021, the formation of the Group was declared by Nikolla as \u201congoing\u201d. (see: https://www.parlament.al/News/Index/13974). Yet no such group has been formed: https://www.parlament.al/Strukture?kategori=1002&strukture=1041 ",
+                "grading": "0"
+            },
+            {
+                "number": "13",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "14",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://al.chineseembassy.org/eng/zagx/zajw/201810/t20181008_2533250.htm ",
+                    "https://www.mfa.gov.cn/ce/ceal//eng/zagx/zajw/t1602573.htm",
+                    "http://al.chineseembassy.org/eng/zagx/zajw/201901/t20190115_2533261.htm ",
+                    "http://al.chineseembassy.org/eng/zagx/zajw/201911/t20191112_2533331.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "The only strong criticism from Chinese diplomats against a political stance in Albania is related to US Undersecretary of State for Energy, Economic Growth and Environment Keith Krach\u2019s visit and declarations in 2020 (see: https://al.usembassy.gov/remarks-by-under-secretary-of-state-for-energy-economic-growth-and-environment-keith-krach-at-the-office-of-the-prime-minister-of-albania/). The Chinese Embassy response was: http://al.chineseembassy.org/eng/zagx/zajw/202010/t20201004_2533360.htm \nNo further press statements or any public declaration was made by Chinese diplomats in this regard, or any opposition to Albania positions, or at least there is nothing else public. \n",
+                "grading": "1"
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Albanian representatives have never directly denied Taiwan\u2019s participation in WHO, at least since 2012. From 2016-2021 Albania has been represented by EU countries\u2019 delegates in committee meetings, however Albania or EU representatives have never been taking active part in the review process (2+2) for Taiwan\u2019s request to be admitted as an observer. Albania sticks to \u201cOne China\u201d policy, see: https://www.fmprc.gov.cn/mfa_eng/wjb_663304/wjbz_663308/activities_663312/202110/t20211031_10413647.html",
+                "grading": "0"
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.consilium.europa.eu/en/press/press-releases/2016/07/15/south-china-sea-arbitration/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://onu.delegfrance.org/we-call-on-china-to-allow-immediate-meaningful-and-unfettered-access-to  ",
+                    "https://new-york-un.diplo.de/un-en/news-corner/201006-heusgen-china/2402648"
+                ],
+                "note": "See also for more contextual information:  https://unpo.org/article/5031, and: https://www.aljazeera.com/news/2006/7/29/china-wants-albania-to-return-uighurs , and: https://albanianpost.com/shqiperia-ne-mbrojtje-te-ujgureve/ ",
+                "grading": "1"
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://new-york-un.diplo.de/un-en/news-corner/201006-heusgen-china/2402648",
+                    "https://www.lawfareblog.com/china-factor-us-albania-relations "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://new-york-un.diplo.de/un-en/news-corner/201006-heusgen-china/2402648",
+                    "https://www.aa.com.tr/en/asia-pacific/over-40-nations-urge-china-to-grant-un-rights-chief-access-to-xinjiang/2282337 "
+                ],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://china-cee.eu/wp-content/uploads/2021/07/2021e07_-Albania.pdf",
+                    "https://huawei.eu/press-release/huawei-explores-ai-data-regulators",
+                    "https://arkiva.ata.gov.al/huawei-active-in-development-of-telecommunications-sector-in-albania/",
+                    "https://lokimagazine.com/2021/05/26/huawei4her-is-the-latest-initiative-from-women4cyber-%E2%80%8B%E2%80%8Balbania-supported-by-huawei/",
+                    "https://fgjh.edu.al/programi-mbi-gjuhen-dhe-kulturen-kineze/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "evidence": "There are Confucius Institutes at the University of Tirana (registered as an Institute within the organizational structure of the University of Tirana). See: https://ciut.edu.al/unitir-bfsu-hanban/ In 2018, it opened a classroom also at the University of Durres \u201cAleksander Moisiu\u201d. See: https://www.faktor.al/2018/01/17/durresi-flet-kinezce-hapet-instituti-konfuci-ne-universitet/ . The institute of Tirana also promotes Chinese language courses through other public Universities in Albania. See: https://univlora.edu.al/2021/09/03/regjistrimet-ne-gjuhen-dhe-kulturen-kineze-ne-institutit-konfuci-ut/ ",
+                "evidence_urls": [
+                    "https://ciut.edu.al/unitir-bfsu-hanban/",
+                    "https://www.faktor.al/2018/01/17/durresi-flet-kinezce-hapet-instituti-konfuci-ne-universitet/",
+                    "https://univlora.edu.al/2021/09/03/regjistrimet-ne-gjuhen-dhe-kulturen-kineze-ne-institutit-konfuci-ut/ "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "evidence": "According to official programming the second language taught in public programs in K12 or primary education include: German, Italian, French, English. See: https://rm.coe.int/profili-i-politikes-arsimore-gjuhesore-shqiperia/168075acb0 ",
+                "evidence_urls": [],
+                "note": "There was a public call from former PM Berisha in 2012 in this regard, but such program was never materialised. See: https://www.gazetatema.net/2012/12/07/berisha-te-fusim-sa-me-shpejt-ne-shkollat-shqiptare-gjuhen-kineze/",
+                "grading": "0"
+            },
+            {
+                "number": "26",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No Albanian organizations are members in these networks based on research in their websites and open source research.",
+                "grading": "1"
+            },
+            {
+                "number": "27",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "http://al.chineseembassy.org/eng/zagx/zajw/201910/t20191015_2533325.htm ",
+                    "http://al.chineseembassy.org/eng/zagx/zajw/201811/t20181106_2533257.htm ",
+                    "https://tiranapost.al/tech/huawei-sponsorizon-tirana-inc-me-pajisjen-inteligjente-huawei-ideahu-i506580",
+                    "https://www.monitor.al/huawei-prezanton-projektin-per-mbrojtjen-e-natyres/",
+                    "http://ata.gov.al/2018/07/05/ambasadorja-yu-bujqesia-fusha-e-fokusit-dhe-drejtimi-i-privilegjuar-i-bashkepunimit-mes-dy-vendeve/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "28",
+                "score": "1",
+                "evidence": "There are a few scholars programs, see: https://arsimi.gov.al/wp-content/uploads/2022/02/144-Shpallja-e-njoftimit-RDCY-KIN\u00cb_9-2-2022.pdf , and: https://arsimi.gov.al/bursa-dhe-programe-studimi/ but they are offered through Ministry of Education of Albania. Also Chinese Embassy periodically issues various small awards, see: http://al.chineseembassy.org/eng/zagx/zajw/201906/t20190604_2533302.htm, and: http://al.chineseembassy.org/eng/zagx/zajw/201906/t20190604_2533301.htm, and: http://al.chineseembassy.org/eng/zagx/zajw/202104/t20210428_9046516.htm \n",
+                "evidence_urls": [
+                    "https://arsimi.gov.al/wp-content/uploads/2022/02/144-Shpallja-e-njoftimit-RDCY-KIN\u00cb_9-2-2022.pdf",
+                    "https://arsimi.gov.al/bursa-dhe-programe-studimi/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "29",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Albania has several agreements with China in regard to academic exchanges, but they are well known publicly and include periodic exchanges. See: http://www.ambasadat.gov.al/china/sq/marr\u00ebdheniet-dypal\u00ebshe ",
+                "grading": "1"
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence found in this regard, however the Chinese Embassy organizes periodically meetings with Chinese students in Albania and Albanian students in Chinese Universities, see: http://al.chineseembassy.org/eng/zagx/zajw/201908/t20190828_2533315.htm , and: http://al.chineseembassy.org/eng/zagx/zajw/201905/t20190501_2533290.htm ",
+                "grading": "1"
+            },
+            {
+                "number": "31",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "No evidence found in this regard. However, the Confucius Institute at the University of Tirana is established as an integral part of the university of Tirana, and therefore may, in theory, be involved in shaping of courses/curriculum. ",
+                "grading": "0"
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "1",
+                "evidence": "Since January 2020 there have been no bilateral agreements between PRC government/SOE and Albanian sub-national level entities. The only retrieved exchanges have been some activities based on former agreements/memorandums, such as the \u201ccities twinning\u201d agreement between Tirana and Beijing (2008). Before January 2020 there have been various activities and agreements between the parties. In 2008 Tirana was city twinned with Beijing (See: https://tirana.al/artikull/10-vjetori-i-binjakezimit-mes-tiranes-dhe-pekinit ) In 2013 Tirana Municipality signed a memorandum of cooperation in the field of economic cooperation with China State Construction Engineering Ltd (http://www.panorama.com.al/projektet-strategjike-bashkia-e-tiranes-memorandum-me-kinen/ ) , and Durres Municipality also in 2014 signed a cooperation agreement with Ningbo Municipality. (See:    https://www.durres.gov.al/bashkia/zyra-e-shtypit/540-kryebashkiaku-vangjush-dako-pret-n\u00eb-takim-delegacionin-zyrtar-nga-qyteti-kinez-i-ningbo  ); In 2019 Tirana Municipality hosted the 17+1 forum. (See: https://tirana.al/artikull/mblidhet-ne-tirane-forumi-17-1-ne-nivel-kryetare-bashkish ",
+                "evidence_urls": [
+                    "http://www.panorama.com.al/projektet-strategjike-bashkia-e-tiranes-memorandum-me-kinen/",
+                    "https://www.durres.gov.al/bashkia/zyra-e-shtypit/540-kryebashkiaku-vangjush-dako-pret-n\u00eb-takim-delegacionin-zyrtar-nga-qyteti-kinez-i-ningbo",
+                    "https://tirana.al/artikull/mblidhet-ne-tirane-forumi-17-1-ne-nivel-kryetare-bashkish"
+                ],
+                "note": "Other activities at the sub-national level included reception of Chinese community living in Tirana (See: https://tirana.al/artikull/bashkia-e-tiranes-dhe-ambasada-kineze-pritje-per-komunitetin-kinez-qe-jeton-ne-kryeqytet), donations in celebration of particular dates (See: http://al.chineseembassy.org/eng/zagx/zajw/202009/t20200929_2533359.htm ) ; or donation of medical equipment: http://al.chineseembassy.org/eng/zagx/zajw/202007/t20200701_2533350.htm and http://al.chineseembassy.org/eng/zagx/zajw/202002/t20200217_2533340.htm ) However agreements are not of significant importance, and their nature is rather symbolic.",
+                "grading": "1"
+            },
+            {
+                "number": "35",
+                "score": "3",
+                "evidence": "Tirana has been twinned with Beijing since 2018 (See: https://tirana.al/artikull/10-vjetori-i-binjakezimit-mes-tiranes-dhe-pekinit and http://english.beijing.gov.cn/beijinginfo/sistercities/ ) . In 2014 there have been talks between Durres and Ningbo officials in regard to twinning the cities, but no official act has been signed yet in this regard. However an agreement for friendly relationships and general cooperation has been reportedly signed in Ningbo in 2014. See: https://www.durres.gov.al/bashkia/zyra-e-shtypit/443-kryabashkiaku-vangjush-dako-takon-delegacionin-nga-kina-bisedime-per-binjakezimin-e-durresit-me-qytetin-ningbo and: https://www.durres.gov.al/bashkia/zyra-e-shtypit/540-kryebashkiaku-vangjush-dako-pret-n\u00eb-takim-delegacionin-zyrtar-nga-qyteti-kinez-i-ningbo ) In 2015 Vlora was twinned with Yangzhou. (See: http://albanian.cri.cn/1301/2015/09/16/182s145292.htm ) In 2016 Fier was twinned with Lanzhou. (See: https://www.mfa.gov.cn/ce/ceal//eng/zagx/zajw/t1398022.htm  and http://albanian.cri.cn/381/2011/07/26/65s109415_1.htm ). Tirana, Durres, Fier and Vlore are major urban and economic areas in Albania. ",
+                "evidence_urls": [
+                    "https://tirana.al/artikull/10-vjetori-i-binjakezimit-mes-tiranes-dhe-pekinit and http://english.beijing.gov.cn/beijinginfo/sistercities/ ",
+                    "https://www.durres.gov.al/bashkia/zyra-e-shtypit/443-kryabashkiaku-vangjush-dako-takon-delegacionin-nga-kina-bisedime-per-binjakezimin-e-durresit-me-qytetin-ningbo ",
+                    "https://www.durres.gov.al/bashkia/zyra-e-shtypit/540-kryebashkiaku-vangjush-dako-pret-n\u00eb-takim-delegacionin-zyrtar-nga-qyteti-kinez-i-ningbo ",
+                    "http://albanian.cri.cn/1301/2015/09/16/182s145292.htm",
+                    "https://www.mfa.gov.cn/ce/ceal//eng/zagx/zajw/t1398022.htm  ",
+                    "http://albanian.cri.cn/381/2011/07/26/65s109415_1.htm "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "36",
+                "score": "2",
+                "evidence": "There is no evidence for recent paid visits in PRC, however the practice from the past shows that several Albanian delegations have been invited to visit PRC on expenses paid by PRC government for meetings. Previous visits (before 2020) in PRC by politicians and government employees include: https://arsimi.gov.al/vizita-ne-kine-nga-delegacioni-shqiptar-i-nivelit-te-larte-arsimor-i-kryesuar-nga-sekretari-i-pergjithshem-i-ministrise-se-arsimit-sportit-dhe-rinise-me-qellim-krijimin-e-bashkepunimeve-te-reja-dypal/ and:  https://kohajone.com/deputete-shqiptare-vizite-ne-kine/ , and: https://www.durres.gov.al/bashkia/zyra-e-shtypit/540-kryebashkiaku-vangjush-dako-pret-n\u00eb-takim-delegacionin-zyrtar-nga-qyteti-kinez-i-ningbo While there is no explicit statement that trips have been paid for by the PRC embassy, we have confirmed that this really is the case with several participants on such visits, who told us that the PRC Embassy funds the cost of trips, as well as providing a daily allowance. \n\n",
+                "evidence_urls": [
+                    "https://arsimi.gov.al/vizita-ne-kine-nga-delegacioni-shqiptar-i-nivelit-te-larte-arsimor-i-kryesuar-nga-sekretari-i-pergjithshem-i-ministrise-se-arsimit-sportit-dhe-rinise-me-qellim-krijimin-e-bashkepunimeve-te-reja-dypal/",
+                    "https://kohajone.com/deputete-shqiptare-vizite-ne-kine/",
+                    "https://www.durres.gov.al/bashkia/zyra-e-shtypit/540-kryebashkiaku-vangjush-dako-pret-n\u00eb-takim-delegacionin-zyrtar-nga-qyteti-kinez-i-ningbo"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "37",
+                "score": "1",
+                "evidence": "PRC has several agreements with Albania and Government officials visit PRC on official tours, however this occurs quite rarely. In the period January 2020-March 2022, there is no occurrence retrieved, however before 2020 a few visits have occurred: https://arsimi.gov.al/vizita-ne-kine-nga-delegacioni-shqiptar-i-nivelit-te-larte-arsimor-i-kryesuar-nga-sekretari-i-pergjithshem-i-ministrise-se-arsimit-sportit-dhe-rinise-me-qellim-krijimin-e-bashkepunimeve-te-reja-dypal/ and:  https://kohajone.com/deputete-shqiptare-vizite-ne-kine/ , and: https://www.durres.gov.al/bashkia/zyra-e-shtypit/540-kryebashkiaku-vangjush-dako-pret-n\u00eb-takim-delegacionin-zyrtar-nga-qyteti-kinez-i-ningbo",
+                "evidence_urls": [
+                    "https://arsimi.gov.al/vizita-ne-kine-nga-delegacioni-shqiptar-i-nivelit-te-larte-arsimor-i-kryesuar-nga-sekretari-i-pergjithshem-i-ministrise-se-arsimit-sportit-dhe-rinise-me-qellim-krijimin-e-bashkepunimeve-te-reja-dypal/",
+                    "https://kohajone.com/deputete-shqiptare-vizite-ne-kine/",
+                    "https://www.durres.gov.al/bashkia/zyra-e-shtypit/540-kryebashkiaku-vangjush-dako-pret-n\u00eb-takim-delegacionin-zyrtar-nga-qyteti-kinez-i-ningbo"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "39",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "40",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "42",
+                "score": "1",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.chinadaily.com.cn/a/202110/30/WS617cade7a310cdd39bc72460.html ",
+                    "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/wjbz_663308/activities_663312/202110/t20211030_10405993.html "
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "43",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "evidence": "According to official data retrieved from National Institute of Statistics of Albania (INSTAT) on foreign trade. See: http://www.instat.gov.al/al/temat/tregtia-e-jashtme/tregtia-e-jashtme-e-mallrave/#tab3",
+                "evidence_urls": [
+                    "http://www.instat.gov.al/al/temat/tregtia-e-jashtme/tregtia-e-jashtme-e-mallrave/#tab3"
+                ],
+                "note": "PRC is the third trading partner for Albania (if ranking is by country), and Italy and Turkey are the first and second ranked. However over 60% of trade of Albania is conducted with EU countries. Trade with PRC (imports) range in the value of about 7-8% yearly.",
+                "grading": "0"
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "evidence": "According to official data retrieved from National Institute of Statistics of Albania (INSTAT) on exports by product type. See: http://databaza.instat.gov.al/pxweb/sq/DST/START__FT__FTY/NewFTY007/ ",
+                "evidence_urls": [
+                    "http://databaza.instat.gov.al/pxweb/sq/DST/START__FT__FTY/NewFTY007/ "
+                ],
+                "note": "In 2021 China was the fourth top customer of the country\u2019s extractive industry, with Spain, Greece and Germany heading the ranking. In 2020 and 2019 PRC has been the second top customer, however in terms of net value exports toward PRC stand at about 25-30% of the value of extractives exports of Albania toward Spain. (2019-2021)",
+                "grading": "0"
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "evidence": "Geo-Jade Petroleum purchased in 2016 and still owns Banker Petroleum Albania ltd., which operates Patos-Marinza Oilfield, the largest onshore oilfield in Europe. Through Bankers Albania get 75% of country wide royalties. See: https://seenews.com/news/chinas-geo-jade-closes-purchase-of-albania-focused-bankers-petroleum-541529 , and: https://euronews.al/en/albania/2021/05/28/bankers-petroleum-extracts-over-160-000-tons-from-january-to-march-2021-in-patos-marinza-oilfield/ ",
+                "evidence_urls": [
+                    "https://seenews.com/news/chinas-geo-jade-closes-purchase-of-albania-focused-bankers-petroleum-541529",
+                    "https://euronews.al/en/albania/2021/05/28/bankers-petroleum-extracts-over-160-000-tons-from-january-to-march-2021-in-patos-marinza-oilfield/"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html "
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "50",
+                "score": "4",
+                "evidence": "At least two business organizations are members of the Silk Road Chamber of International Commerce (SRCIC) as noted in Members Section of the SRCIC, the Albanian Entrepreneurs Union (it is not clear who this refers to, but potentially the Young Albanian Entrepreneurs Union https://yaeu.al/en/kreu-english/ ) and the Union of Chambers of Commerce and Industry of Albania (UCCIAL - https://www.facebook.com/uccial/ - this is an umbrella business organization aiming at \u2018coordination at national level the chambers of commerce and industry\u2019; its role and membership are not available through their website. www.uccial.al ) See: https://srcic.org/silk-road-members/?page=3 ",
+                "evidence_urls": [
+                    "https://srcic.org/silk-road-members/?page=3 ",
+                    "https://srcic.org/silk-road-members/?page=1"
+                ],
+                "note": "Calik Holding Group leadership seems to have been involved in SRCIC activities in the past: https://srcic.org/news/star-of-march-calik-holding-group/ Calik Holding Group is present in Albania in major investments in banking and telecommunications sector. ",
+                "grading": "0"
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "evidence": "No evidence found. Free trade agreements of Albania are listed on the Customs Website: https://dogana.gov.al/d/182/249/0/263/marreveshjet-e-tregtise-se-lire . There is no agreement with PRC, either direct or indirect.",
+                "evidence_urls": [],
+                "note": "Albania has a double tax treaty with PRC since 2005. See: https://qbz.gov.al/share/YFrvTwRcQgCJAi8LQn5cbg ",
+                "grading": "0"
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "In 2008, Albania voted in a special law for the creation of \u201cEconomic Zones\u201d in order to gain and encourage investments. 9 economic zones, 8 of which were designed as industrial parks and 1 as a free zone were part of a modernization process and transformation to a market economy. The Albanian Ministry of Economy launched 8 industrial parks: \n\u2022  Koplik: The Industrial Park in Koplik, Shkoder, approved on January 4, 2008. With an area of 61 hectares, for industrial production activities, trade, agri-processing etc.     \n\u2022  Shengjin: Industrial Park with an area of 3,2 hectares. \n\u2022  Elbasan: Industrial Park with an area of 254,7 hectares in the region of the former Metallurgic Plant. \n\u2022  Durres: Industrial Park in Spitalle, Durres, with an area of 850 hectares, state and privately owned area.   \n\u2022  Vlora: Industrial Park in Vlora.   \n\u2022  Shkoder: The Industrial Park includes the former industrial center with an area of 137 hectares. \n\u2022  Lezha: Industrial Park of Lezha, proposed by the municipality of Lezha and approved on 27 January 2009. \n\u2022  Tirana: Industrial Park of Tirana approved on 22 July 2009 in Laknas.   \n\u2022  And one free Zone \u201cVlora Free Zone\u201d approved by the government on 11 June 2009. \nBut due to some problems with land ownership, infrastructure issues, ineffective promotional campaign and lack of enforcement of contracts and inventive packages those announced zones were not successful. \nAccording to the new law No. 54/2015 that entered into force, the areas defined as \u201cindustrial parks\u201d or \u201c free zones\u201d were replaced by \u201cTechnological and Economic Development Area\u201d TEDA which is defined, again according to the law as a \u201cseparate territory, a designated area of land or buildings and other immovable properties, developed in  accordance  with  a  general  plan  and  provided  with  the  relevant  infrastructure  for  production,  industrial development, trade and provision of services, which is estimated part of the customs territory of the Republic of Albania, separate from this territory in terms of fiscal and customs regime and which is governed in accordance with the provisions of this law, other legal and sub-legal acts for its enforcement.\u201d See: https://www.researchgate.net/publication/324242126_Albanian_Model_of_Free_Zones_Implementation_and_Implications , \nFollowing the new law in 2015,  Albania envisioned having only 3 TEDAs: in Vlore, Spitalle (Durres), and Koplik (Shkoder). Then another option has been discussed in regard to the TEDA in Kashar (Tirana). None of TEDAs is effective yet. See: https://www.oecd.org/south-east-europe/SEZ_WB_2017.pdf  and: https://aida.gov.al/en/business-in-albania/sectors/teda , and: https://www.monitor.al/anulohet-zona-e-lire-e-spitalles-financat-mbyllin-proceduren-per-zhvillimit-e-teda-s/, and: http://www.scan-tv.com/pas-koplikut-e-spitalles-krijohet-zone-e-lire-ne-kashar-detajet-investim-102-mln-euro-5-7-mije-vende-pune-synohen-kompani-it-dhe-automobile/ \n",
+                "grading": "0"
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Albania is part of the Clean Network Initiative launched by the US. See: https://al.usembassy.gov/remarks-by-under-secretary-of-state-for-energy-economic-growth-and-environment-keith-krach-at-the-office-of-the-prime-minister-of-albania/ and: https://www.state.gov/secretary-antony-j-blinken-and-albanian-prime-minister-edi-rama-at-a-signing-of-a-memorandum-of-understanding-between-the-government-of-the-united-states-of-america-and-the-council-of-ministers-of/ \n\n",
+                "grading": "1"
+            },
+            {
+                "number": "58",
+                "score": "3",
+                "evidence": "There is evidence that Telecom companies in Albania have been extensively using Huawei hardware, however it is not clear what type of hardware they have been purchasing. (see: https://businessmag.al/kompania-kineze-huawei-nder-me-aktivet-ne-fushen-e-telekomunikacionit-ne-shqiperi/)  Currently there are three main Telecom companies in Albania. The second largest company - One Telecommunications - has already joined the Clean Path Initiative (https://one.al/kompania/media/news/telekom-albania-joins-the-initiative-clean-path/article70002 ). Vodafone Albania has been relying largely on Huawei technologies (see: https://china-cee.eu/2019/12/09/albania-political-briefing-5g-in-albania-more-about-politics-than-technology/ ), however as part of Vodafone Group of companies, it may have been/ will be influenced by larger group-level policies in regard to network security (See: https://www.reuters.com/article/uk-vodafone-outlook-idUKKBN1ZZ0TU). The third largest operator \u2013 Albtelecom - has also been relying heavily on Huawei technology. (see: https://china-cee.eu/2021/07/19/albania-economy-briefing-huawei-in-albania-and-the-very-nonvisible-hand-of-free-market-economy/). ",
+                "evidence_urls": [
+                    "https://businessmag.al/kompania-kineze-huawei-nder-me-aktivet-ne-fushen-e-telekomunikacionit-ne-shqiperi/",
+                    "https://china-cee.eu/2019/12/09/albania-political-briefing-5g-in-albania-more-about-politics-than-technology/ ",
+                    "https://china-cee.eu/2021/07/19/albania-economy-briefing-huawei-in-albania-and-the-very-nonvisible-hand-of-free-market-economy/"
+                ],
+                "note": "Recently the Hungarian 4iG plc. has purchased Albtelecom and is negotiating the purchase of One Telecomunications.(see: https://www.4ig.hu/4iG-Acquires-majority-stake-in-leading-albanian-telecommunications-company and: https://www.4ig.hu/4ig-could-acquire-the-fastest-growing-albanian-mobile-operator )",
+                "grading": "1"
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "evidence": "Huawei is the only company present directly in Albania (through Huawei Technologies Albania shpk.). On the other side Hikvision, Dahua, Xiaomi are present in Albania through local partners and distributors/sellers of hardware. None of them has a specific status of authorized vendor in relation to supplying tech or related equipment or services to Government parties. However, Huawei has offered meaningful technological support to Albanian state owned OST (Power Transmission Operator). See: https://e.huawei.com/in/publications/global/ict_insights/201802151130/industry-variations/201806011609",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "evidence": "Uplift has been a start-up accelerator program initiated in 2021 in Albania. Huawei Technologies Albania was listed as one of the potential sponsor/investors in start-up ideas. (see: https://uplift.al/12-startupe-do-te-ndjekin-programin-e-akselerimit-te-uplift-albania/) However to date Huawei Technologies Albania has no subsidiaries or shares ownership in any subsidiary in Albania. (checked through the National Centre of Business Registry https://qkb.gov.al/ ). Huawei has donated also to Tirana Inc., a Universities led initiative to support student start up initiatives. (See: https://geekroom.al/tech/item/2702-huawei-sponsorizon-tirana-inc-me-pajisjen-inteligjente-huawei-ideahub and: https://www.tirana-inc.al/about )",
+                "evidence_urls": [
+                    "https://uplift.al/12-startupe-do-te-ndjekin-programin-e-akselerimit-te-uplift-albania/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "64",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "In the past Huawei has been the only PRC-linked entity engaged in the ICT sector in Albania and there have been announcements on cooperation between it and other local companies. See: http://www.arkivalajmeve.com/Huawei-marreveshje-me-Eagle-Mobile.231356/ ",
+                "grading": "1"
+            },
+            {
+                "number": "65",
+                "score": "4",
+                "evidence": "According to Similarweb, based on Apple AppStore download figures, TikTok is the most used App in Albania. However the next four apps are: WhatsApp Messenger, YouTube, Instagram and Facebook (see: https://www.similarweb.com/apps/top/apple/store-rank/al/all/top-free/iphone/). According to AppFigures for Google Play Apps, TikTok is also the top app used in Albania. The next four are: Google One, Coin Master, Zynga Poker, Slotomania (see: https://appfigures.com/top-apps/google-play/albania/top-overall). ",
+                "evidence_urls": [
+                    " https://www.similarweb.com/zh-tw/apps/top/apple/store-rank/al/entertainment/top-free/iphone/",
+                    "https://appfigures.com/top-apps/google-play/albania/social"
+                ],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "evidence": "No evidence found. Albania is not mentioned in Beidou website. ",
+                "evidence_urls": [],
+                "note": "The last information in this regard is the article from 2019: https://sinopsis.cz/en/are-we-real-friends-albania-china-relations-in-the-xi-era/ It mentions that although Beidou data is available on navigation systems, there is no endorsement from Albania.",
+                "grading": "0"
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "There are only two Albanian-Chinese Associations. One is named Albanian-Chinese Friendship Association and was established in 2011 (see: https://www.facebook.com/groups/122577617833356/ ). The second one is the Cultural Association Albania-China, created in 2015 (see: http://albanian.cri.cn/381/2015/10/08/302s145838.htm). None of them is registered with the Tax Authorities, as verified through research in the National Center of Business. ",
+                "grading": "1"
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "70",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "71",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "72",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "In December 2021 the PRC Ambassador in Tirana organized a small charity event. See: http://al.chineseembassy.org/eng/zagx/zajw/202112/t20211221_10472685.htm . It is unclear where funds were donated, but the activity was quite modest. ",
+                "grading": "0"
+            },
+            {
+                "number": "73",
+                "score": "1",
+                "evidence": "There have been a few occasions, rather symbolic, where PRC entertainment products have been made available to Albanian national TV channels. In 2021 a documentary on Albanian-Chinese friendship was produced by RTH in cooperation with China Media Group, and was aired during the visit of Minister of Foreign Affairs of PRC to Albania. See: https://dailynews.mk/miqesi-qe-tret-largesine-dokumentar-i-rtsh-ne-bashkepunim-me-cmg/ \nChinese Panda was also aired by RTSH in 2019-2020. See: http://24-ore.com/?p=172209 . The article also mentions a couple of documentaries on Chinese landscape and nature.\n",
+                "evidence_urls": [
+                    "https://dailynews.mk/miqesi-qe-tret-largesine-dokumentar-i-rtsh-ne-bashkepunim-me-cmg/"
+                ],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "77",
+                "score": "4",
+                "evidence": "There is only one survey that matches somewhat more closely the answer to this question. The survey was published in 2021 by the local Center for the Study of Democracy and Governance and supported by FES. It reflects the perceptions on the role of China in the security of Albania. Data was collected in September-October 2020. According to the survey 54.9% of respondents think that China (PRC) has a positive role in the national security of Albania. See: http://library.fes.de/pdf-files/bueros/albanien/17555.pdf",
+                "evidence_urls": [
+                    "http://library.fes.de/pdf-files/bueros/albanien/17555.pdf"
+                ],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "The most recent donation towards Albanian security institutions was the donation of gym related materials to the National Guard by the PRC Embassy in 2019. See: https://www.mfa.gov.cn/ce/ceal/eng/zagx/zajw/t1641907.htm ",
+                "grading": "0"
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "evidence": "There have been medical materials donations from the PRC but there is no evidence they originate from the PLA. See cases of donations in relation to the reporting period: http://al.chineseembassy.org/eng/zagx/zajw/202007/t20200731_2533353.htm , and: http://al.chineseembassy.org/eng/zagx/zajw/202007/t20200701_2533350.htm, and: http://al.chineseembassy.org/eng/zagx/zajw/202006/t20200604_2533349.htm , and: http://al.chineseembassy.org/eng/zagx/zajw/202004/t20200427_2533346.htm , and: http://al.chineseembassy.org/eng/zagx/zajw/202004/t20200417_2533344.htm ;",
+                "evidence_urls": [],
+                "note": "There have been medical materials donations from the PRC but there is no evidence they originate from the PLA. See cases of donations in relation to the reporting period: http://al.chineseembassy.org/eng/zagx/zajw/202007/t20200731_2533353.htm , and: http://al.chineseembassy.org/eng/zagx/zajw/202007/t20200701_2533350.htm, and: http://al.chineseembassy.org/eng/zagx/zajw/202006/t20200604_2533349.htm , and: http://al.chineseembassy.org/eng/zagx/zajw/202004/t20200427_2533346.htm , and: http://al.chineseembassy.org/eng/zagx/zajw/202004/t20200417_2533344.htm ;",
+                "grading": "0"
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "Research was conducted in database of bilateral agreements between the two countries (See: http://www.ambasadat.gov.al/china/sq/marr\u00ebdheniet-dypal\u00ebshe ) and also in database of the General Prosecutor Office on current extraditions, LMA arrangements. See: https://www.pp.gov.al/Bashkepunime/Instrumentet_Dypaleshe/) \n\n",
+                "grading": "0"
+            },
+            {
+                "number": "90",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "91",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "94",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "1"
+            },
+            {
+                "number": "95",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "grading": "0"
+            }
+        ]
+    },
+    "description-1": "In 2021, Albania had a GDP per capita of USD 5,837 and a total population of 2,829,741 people, with the Chinese population estimated at some 200 people, or 0.007% of the total population.",
+    "description-2": "Albania established diplomatic relations with the People\u2019s Republic of China in 1949. Albania was ranked 83rd in Reporters Without Borders' 2021 World Press Freedom Index, and listed as \u201cpartly free\u201d in Freedom House's 2021 Global Freedom Status, with a score of 66/100."
+}

@@ -1,0 +1,1239 @@
+{
+    "name": "Taiwan",
+    "partner": "Doublethink Lab",
+    "year": "Aug 2024",
+    "population": 23.37,
+    "GDP": "32,440.00",
+    "freemap": 94,
+    "freemap_status": "Free",
+    "freedom_index": 27,
+    "date_prc": "Not recognized",
+    "takeaway": [
+        "The Media Domain remains highly influenced compared to the previous Index, mostly due to the similarity of languages used in Taiwan and PRC. However, many of the cases have become more implicit and harder to track comparing to those before the COVID-19 pandemic.",
+        "The scores are overall higher in the \"pressure\" Layer of Indicators, rather than the \"exposure\" and \"alignment\" Layers, indicating the increasing pressure on Taiwan from the PRC.",
+        "The Society Domain remains an important platform for PRC-connected entities and individuals to project their resources and influences onto the counrtry."
+    ],
+    "description-1": "In 2023, Taiwan had a GDP per capita of US$32,440 and a total population of 23.37 million people.",
+    "description-2": "Taiwan established full diplomatic relations with the People's Republic of China in . Taiwan was ranked 27th in Reporters Without Borders\u2018 2024 World Press Freedom Index, and rated Free in Freedom House\u2018s 2024 Global Freedom Index, with a score of 94\/100.",
+    "original": "171\/384",
+    "ranking": "29",
+    "overall": "44.5%",
+    "exposure": "44%",
+    "pressure": "65%",
+    "alignment": "32%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "grading": "1",
+                "evidence": "According to the website of World Chinese Media, 6 Taiwanese media outlets are listed, which are: \u53f0\u7063\u5357\u83ef\u5831, \u4eba\u9593\u798f\u5831, \u4e16\u7d00\u65b0\u805e, \u53f0\u7063\u5c0e.",
+                "evidence_urls": [
+                    "https:\/\/www.worldchinesemedia.com"
+                ],
+                "note": "Two outlets were added compared to the China Index 2022, which are \u6587\u65c5\u5f59\u5831 and \u66f4\u751f\u65e5\u5831, locate in Kinmen and Hualien. The political atmosphere of both areas are knowen to be conservative and pro-PRC candidates are usually elected. However, they're removed again in February 2024.\n\nhttps:\/\/www.gcmcu.com\/web\/LMHY\/HYGL\/index.html\nhttps:\/\/www.gcmcu.com\/static\/content\/LMHY\/HYGL\/2023-08-24\/1144293617659052032.html\nhttps:\/\/www.gcmcu.com\/static\/content\/LMHY\/HYGL\/2023-08-24\/1144293984434159616.html",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "02",
+                "score": "3",
+                "grading": "1",
+                "evidence": "The Taiwanese members of Belt and Road News Alliance (\u7d72\u8def\u8996\u983b\u65b0\u805e\u806f\u76df)  are: CTI Television Incorporation (CTI) (\u4e2d\u5929\u65b0\u805e\u53f0) , and CTV (\u4e2d\u570b\u96fb\u8996\u516c\u53f8).",
+                "evidence_urls": [
+                    "https:\/\/brnalink.com\/members.html"
+                ],
+                "note": "Both CTI and CTW belong to the pro-PRC media tycoon Cai Yanming (\u8521\u884d\u660e). He's been having close connections with PRC and openly spoken for the PRC narratives, such as denying the Tiananmen Massacre. \nCompared to the Index 2021, TVBS  Media Inc. (TVBS) (TVBS\u7121\u7dda\u885b\u661f\u96fb\u8996\u53f0) was removed from the list.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "03",
+                "score": "2",
+                "grading": "1",
+                "evidence": "The visitng activities organized by the Taiwan Affairs Offices (TAOs) of provinces and State Council resumed after China lifted the strict travel restrictions in 2023. \nThe 5th Cross-Strait Media Beijing Summit was planned to be held in May 2023 and was cancelled because of the lack of Taiwanese media participants. The Summit is held jointly by the Chinese Beijing Daily and the Taiwanese Want Want China Times Media Group, but TAO State Council has de facto control over the event and agenda. The TAO State Council and All-China Journalists' Association also hold annual Cross-Strait Journalists Visit in July, 2023. 23 media outlets and more than 40 journalists from Taiwan, Hong Kong and PRC jointly participated in the visit.\nOther than that, provincial Taiwan Affairs Offices also held visits for journalists and social media influencers, such as the \u5169\u5cb8\u5a92\u9ad4\u6d25\u6cbd\u884c event held by Tianjin TAO, \u592a\u884c\u5c71\u4e0a\u770b\u9109\u6751\u632f\u8208 event held by Henan and Hebei TAOs, as well as the \u4e8c\u25cb\u4e8c\u4e09\u6e05\u65b0\u798f\u5efa\u884c\u5169\u5cb8\u878d\u5a92\u9ad4\u806f\u5408\u63a1\u8a2a\u6d3b\u52d5 held by Fujian TAO.",
+                "evidence_urls": [
+                    "https:\/\/news.ltn.com.tw\/news\/politics\/breakingnews\/4315242",
+                    "https:\/\/www.cna.com.tw\/news\/acn\/202307250294.aspx",
+                    "https:\/\/news.ltn.com.tw\/news\/politics\/paper\/1585183"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "04",
+                "score": "1",
+                "grading": "1",
+                "evidence": "According to Beijing's Global Media Influence report conducted by Freedom House, Chinese state-linked actors have organized trainings for online influencers to teach them skills like developing short videos and producing live shows, with the aim of attaining \u201conline celebrity status.\u201d According to the National Security Agency of Taiwan, these trainings for Taiwanese internet celebrities and e-commerce live broadcasters are aimed at targeting people who wield considerable influence over the content consumed by young Taiwanese. The training and exchange programs stalled during the pandemic and have gradually resumed after the travel restrictions in PRC lifted. The Wenzhou authority in Zhejiang Province, PRC, started a cross-strait training for e-commerce livestreaming in 2020. The 3rd training started in July 2022 with hybrid participation from Taiwan and Wenzhou; and the 4th training program was held in July 2023 with more than 70 on-site participation.",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/country\/taiwan\/beijings-global-media-influence\/2022",
+                    "http:\/\/www.taiwan.cn\/local\/dfkx\/202208\/t20220816_12462712.htm https:\/\/gd.huaxia.com\/c\/2023\/07\/19\/1738659.shtml"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "05",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Taiwanese people can easily access the contents of PRC state media, such as CCTV, Zhejiang STV, Shanghai China Dragon TV, Hunan TV and more, since Mandarin Chinese is the common language between the two countries. Also, many contents CCTV shared on Youtube show in traditional Chinese, the characters Taiwanese people use, and further lower the threshold of Taiwanese people's access to them.",
+                "evidence_urls": [
+                    "https:\/\/www.youtube.com\/channel\/UCcLK3j-XWdGBnt5bR9NJHaQ",
+                    "https:\/\/www.youtube.com\/channel\/UCnAsZ46UTeFEgwOEwMezngQ",
+                    "https:\/\/www.youtube.com\/@ZJSTV-Music",
+                    "https:\/\/www.youtube.com\/@SMGDragonTV",
+                    "https:\/\/www.youtube.com\/c\/imgotvchina"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "06",
+                "score": "3",
+                "grading": "1",
+                "evidence": "According to Article 73 of Act Governing Relations between the People of the Taiwan Area and the Mainland Area, \"unless permitted by the competent authorities, any individual, juristic person, organization, or other institution of the Mainland Area, or any company it invests in any third area may not engage in any investment activity in the Taiwan Area.\" However, Taiwanese media are still able to receive fund from reinvestment of Chinese citizens or legal persons to foreign corporations. Back in 2003, report has revealed that there are Chinese influences investing 17 Taiwanese media through the foreign entity Newslink Investment. And in 2008, Tsai Eng-Ming, the owner of Want Want Group, took over China Times Media Group, and influences the media under it with his own political stance. Recently, media have revealed that the Want Want Group has received a government grant of 477 million RMB. And according to the financial reports of Want Want China from 2007 to 2018, it has received grants from the Chinese government as much as 1.526 trillion RMB. The China Times Media Group has become extremely pro-CCP after Want Want stepping in, and it organized the Cross-Straits Media Summit in Beijing that sparked huge controversy in 2019. It also has its all-round support on the pro-China KMT presidential candidate in the 2020 election. And their journalist also revealed that the Taiwan Affairs Office delivered directives regarding the editing and interview to them on phone. In 2020, Chung Tien Television (CTI), which owned by Want Want Media, was revoked license due to its constant airing of inaccuate news and disinformation.",
+                "evidence_urls": [
+                    "https:\/\/law.moj.gov.tw\/ENG\/LawClass\/LawAll.aspx?pcode=Q0010001",
+                    "https:\/\/tw.appledaily.com\/property\/20190422\/YTECGJ7QUM7XWY6ASZOYJBNKE4\/",
+                    "https:\/\/asia.nikkei.com\/Business\/Companies\/Chinese-subsidies-for-Foxconn-and-Want-Want-spark-outcry-in-Taiwan",
+                    "https:\/\/hackmd.io\/@billy3321\/BJepntX3N?type=view",
+                    "https:\/\/www.cna.com.tw\/news\/firstnews\/201907170202.aspx",
+                    "https:\/\/www.voanews.com\/a\/press-freedom_why-taiwan-killed-tv-news-broadcasting-license-despite-legal-freedom-speech\/6198834.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "07",
+                "score": "4",
+                "grading": "1",
+                "evidence": "According to Beijing's Global Media Influence report conducted by Freedom House, although PRC state-funded media cannot directly broadcast or distribute content in Taiwan, several Taiwanese outlets have signed content-sharing agreements with them to directly use their content. These agreements are generally not public, and most information about them has been discovered through interviews with journalists. Other Taiwanese media republish or post Chinese state media content without an agreement; for example, China Times rebroadcasts the press conferences of China\u2019s Taiwan Affairs Office on its Facebook and YouTube pages. Some outlets that do not want to publish negative reports about China instead wait for CCTV to publish a story and then adhere to that narrative.\nDuring the PRC military drills in April 2023, multiple Taiwanese media were coerced by the Taiwan Affairs Office to use the content provided by People's Liberation Army rather than the Taiwanese military. \nOther than the news outlets, there are laws regulating the approval of Chinese films and TV shows broadcasting in Taiwan. However, the Taiwanese TV stations have imported many Chinese shows to reduce their production cost. According to the open data of Bureau of Audiovisual and Music Industry Development, Ministry of Culture, there have been 681 cases of Chinese TV shows being approved to broadcast in 2022. People can easily gain access to Chinese TV stations with set-top boxes, such as Xiaomi Boxes, and from internet platforms and social media, without the shows being approved by the Taiwanese government. Chinese government also release shows with united front purposes targeting Taiwanese audience (including the Taiwanese-speaking public).",
+                "evidence_urls": [
+                    "https:\/\/news.ltn.com.tw\/news\/politics\/paper\/1576860",
+                    "https:\/\/freedomhouse.org\/country\/taiwan\/beijings-global-media-influence\/2022",
+                    "https:\/\/www.bamid.gov.tw\/News_Content.aspx?n=3487&s=123557",
+                    "https:\/\/news.ltn.com.tw\/news\/politics\/paper\/1415929",
+                    "https:\/\/newtalk.tw\/news\/view\/2019-10-21\/314850. "
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "08",
+                "score": "4",
+                "grading": "1",
+                "evidence": "According to Art. 34 of Act Governing Relations between the People of the Taiwan Area and the Mainland Area, \"The content of the advertisement and activity referred to in the preceding paragraph shall not have any of the following:1. Any political propaganda for the Chinese Communist Party.2. Violation of any current Mainland policy or any law or regulation of the Government.3. Being contrary to the public order or good morals.\" In January 2nd 2018, a CCTV advertising video of the TV show \"Trust In China\" was broadcasted in Taipei. It was fined as it was never submitted for approval. Although there is stronger regulation on the advertisement from China, especially the government-related ones, it is challenging to regulate the embedded advertising in news coverage by laws. In 2010, Frank Wu, the member of Control Yuan (the investigatory and auditory institute of Taiwanese government), raised a corrective measures against Mainland Affairs Council. In the report, it mentioned that 2 major Taiwanese newspapers United News and China Times has embedded advertisement about multiple Chinese provinces in their news articles, and has contracts with the provincial governments for the deals. (He Qinglian, 2016, Red Infiltration: the Truth About the Global Expansion of Chinese Media, p168) In a 2012 news article, it revealed that Want Want China Times Group cooperated with the governments of Fujian Province and Xiamen City to purchase news coverage and had a concrete plan on propaganda. And in August 2019, an investigation report of Reuters revealed with proof that, China has brought at least 5 Taiwanese media, and use them to push forward their propaganda to the Taiwanese audience. From the documents that the journalist have reviewed, most of the contracts are from the Taiwan Affairs Office. But there are also a few contracts from other government sectors, such as the government of a southern province. There is also frequent exposure of the advertisement of Chinese state media on social media. Since those websites\/applications are banned in China, it's clear that the ads are targeted at foreign viewers. There hasn't been much evidence on the situation as the PRC government still attempts to influence the 2024 elections in Taiwan.",
+                "evidence_urls": [
+                    "https:\/\/law.moj.gov.tw\/ENG\/LawClass\/LawAll.aspx?pcode=Q0010001",
+                    "https:\/\/newtalk.tw\/news\/view\/2018-01-04\/109334",
+                    "https:\/\/newtalk.tw\/news\/view\/2012-03-30\/23697",
+                    "https:\/\/www.rfi.fr\/tw\/\u6e2f\u6fb3\u53f0\/20190809-\u8def\u900f\u793e\u4e2d\u570b\u5728\u53f0\u6536\u8cb7\u4e94\u5bb6\u53f0\u5a92\u641e\u7d05\u5a92\u5ba3\u50b3",
+                    "https:\/\/www.reuters.com\/article\/taiwan-china-media\/rpt-insight-paid-news-china-using-taiwan-media-to-win-hearts-and-minds-on-island-sources-idUKL4N2552YF",
+                    "https:\/\/ec.ltn.com.tw\/article\/breakingnews\/3163961"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "grading": "0",
+                "evidence": "In April 2023, two journalists from EBC News were detained in their hotel rooms in Pingtan, Fujian, while they were there to cover the news of PRC military drills. ",
+                "evidence_urls": [
+                    "https:\/\/news.ltn.com.tw\/news\/politics\/breakingnews\/4271055. "
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "10",
+                "score": "4",
+                "grading": "1",
+                "evidence": "It is common in political narratives and news coverages to describe the relationship between Taiwan and PRC as brothers, family, mother and son, and other familial terms. One common term used in various occasion is \"both sides of the strait are one family.\" (\u5169\u5cb8\u4e00\u5bb6\u89aa) Other terms to describe the cross-strait relationships are: vines, leaves with the same root, etc.",
+                "evidence_urls": [
+                    "https:\/\/www.chinatimes.com\/newspapers\/20230313000527-260301?chdtv",
+                    "https:\/\/www.taiwandiginews.com.tw\/?p=178270",
+                    "https:\/\/www.taiwan-reports.com\/archives\/687630"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "11",
+                "score": "4",
+                "grading": "1",
+                "evidence": "There is a significant pool of plitical commentors reiterating the PRC narratives in Taiwan and has been utilzed by PRC. According to the head of the National Security Bureau, political commentors have been invited to tak shows on PRC state-funded media; the video clips would then be edited into short videos and posted to the state-funde media social accounts to amplify the narratives. They are usually paid very generously for joining sch shows. In a research conducte in between July and September 2023, 10 pro-PRC commentors are particularily listed as the top 10 of the most cited on Tiktok. They would talk about the conspiracy theories about United States, critcize and spread false information about the Taiwanes government, promote pro-unification narratives, as well as whitewash PRC's policies in Tibet, East Turkistan (Xinjiang) and more.",
+                "evidence_urls": [
+                    "https:\/\/news.ttv.com.tw\/news\/11211070013500I\/amp",
+                    "https:\/\/www.mirrormedia.mg\/story\/20231023inv020",
+                    "https:\/\/iorg.tw\/da\/57",
+                    "https:\/\/www.youtube.com\/watch?v=IzzPl0nWskg"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "0",
+                "grading": "0",
+                "evidence": "According to the website of Legislative Yuan, there is no formal sub-organization about China in Legislative Yuan.",
+                "evidence_urls": [
+                    "https:\/\/www.ly.gov.tw\/Pages\/List.aspx?nodeid=44941"
+                ],
+                "note": "However, we can only confirm that there's no formal and systematic connection. Many political parties in Taiwan has kept in contact with the personnel and information to certain degree with Chinese government, Chinese Communist Party and their secondary mechanisms in many ways. If we observe the speech and interpellation of the legislators, there are signs of some of them pushing forward the political agenda China wants in Taiwan.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "13",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Taiwan would occasionally receive donations from PRC in massive natural disasters, such as the 921 Earthquake in 1999 and the disaster caused by Typhoon Morakot in 2008. Despite the low frequency, there has been suspision that the PRC government would favor particular entities or personnels who have tighter knit with PRC.",
+                "evidence_urls": [
+                    "https:\/\/www.mac.gov.tw\/News_Content.aspx?n=921BBB6CB6654CE9&sms=EE2481E0941D4B90&s=A207AEC9C8AF5936",
+                    "https:\/\/news.ltn.com.tw\/news\/focus\/paper\/342292",
+                    "https:\/\/www.secretchina.com\/news\/b5\/2009\/08\/21\/306636.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "grading": "1",
+                "evidence": "Taiwan doesn't receive any training for civil servants from China as it's a country which holds hostility and never give up seeking forced unification with Taiwan.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "15",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Due to the frequent exchanges between Taiwan and China, and the complicity of the Chinese prosecution and judicial systems, there are many Taiwanese in China subjecting to the prosecution system or imprisonment. According to the statistics of Mainland Affairs Council until November 2023, China has reported 8001 cases of detention, and 1456 cases of unnatural death. \nAnd the definite cases of detention under political reasons are: In June 2012, engineer Chung Ting-pang disappeared 54 days after he delivered radio materials to Falun Gong practitioners in China. In March 2017, NGO worker Lee Ming-che was detained and sentenced to 5 years for the crime of overthrowing state power. He was released in April 2022. In August 2018, scholar Tsai Chin-shu was detained and sentenced to 4 years in July 2020. In August 2018, scholar Shih Cheng Ping was detained and sentenced to 4 years for espionage in November 2020. In April 2019, scholar Cheng Yu-chin was detained and \u201cconfessed\"\" to his crimes on CCTV news program on October 2020. In August 2019, political worker Lee Meng-chu was detained for inciting to overthrow state power, and later was \"\"confessed\"\" on CCTV in October 2020. He safely returned to Taiwan in September 2023.",
+                "evidence_urls": [
+                    "https:\/\/www.mac.gov.tw\/cp.aspx?n=51B78A46DE7D24E1&s=18AD7FEF24CF322F",
+                    "https:\/\/www.chinatimes.com\/realtimenews\/20190912004855-260409?chdtv",
+                    "https:\/\/newtalk.tw\/news\/view\/2017-05-19\/87168",
+                    "https:\/\/cn.nytimes.com\/china\/20170921\/china-taiwan-law\/",
+                    "https:\/\/taiwan.huanqiu.com\/article\/40Gq3pgSAaY",
+                    "https:\/\/www.mirrormedia.mg\/story\/20201125edi015\/",
+                    "https:\/\/tv.cctv.com\/2020\/10\/12\/VIDEg9IXQf71jzwKbJ1BzvEZ201012.shtml",
+                    "https:\/\/www.epochtimes.com\/b5\/20\/10\/17\/n12482659.htm",
+                    "https:\/\/www.voanews.com\/a\/a-conversation-with-lee-ming-che-i-was-a-human-rights-worker-doing-field-research-in-chinese-prison-\/6699734.html",
+                    "https:\/\/focustaiwan.tw\/cross-strait\/202309020011"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "grading": "0",
+                "evidence": "The Taiwanese politicians or government officials don't participate in the event or project affiliated with the CCICED.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "17",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no agreement to classify the diplomatic relationship between Taiwan and PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "18",
+                "score": "skip",
+                "evidence": "It is unapplicable since Taiwan is the subject under te One China Principle.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "grading": "2",
+                "evidence": "The existance of Taiwan itself is a deviation of PRC's territorial claims. Therefore, the Index country has rejected the PRC\u2019s territorial claim and the Indicator warrants a 0 score.",
+                "evidence_urls": [
+                    "https:\/\/www.politico.eu\/article\/the-china-taiwan-dispute-explained-territory-semiconductors\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "grading": "2",
+                "evidence": "In the executive branch, President Tsai attended the Taiwan International Religious Freedom Forum on May 30 2019. During her remarks, she said, \"\"(in China) Christian churches face suppression. Tibetan Buddhists have been placed under strict control. And Uighur Muslims are being sent to re-education camps as we speak. The international community must show its concern and speak out about these developments.\"\" During the controversy of Xinjiang cotton, President Tsai also posted on her social media, saying, \"\"human rights is universal. We would like to call for the Beijing authority to confront the human rights issues of Uyghur people. The international suspicion and the conflicts can only be resolved by stopping oppression.\"\" \nMoreover, in the legislative branch, legislators formed Taiwan Parliament Group for Uyghurs in April 2021. Speaker Yu Si-kun also attended the online hearing of Uyghur human rights in July 2021 to air his support.\nTherefore, the Index country has denounced the PRC\u2019s treatment of its Uyghur population and the Indicator warrants a 0 score.",
+                "evidence_urls": [
+                    "https:\/\/www.cna.com.tw\/news\/firstnews\/201905300258.aspx",
+                    "https:\/\/english.president.gov.tw\/News\/5745",
+                    "https:\/\/www.facebook.com\/tsaiingwen\/photos\/10157381306376065\/",
+                    "https:\/\/focustaiwan.tw\/politics\/202104230015 ",
+                    "https:\/\/www.ly.gov.tw\/Pages\/Detail.aspx?nodeid=5255&pid=210228"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "21",
+                "score": "0",
+                "grading": "2",
+                "evidence": "In executive branch, President Tsai attended the Taiwan International Religious Freedom Forum on May 30 2019. During her remarks, she said, \"(in China) Christian churches face suppression. Tibetan Buddhists have been placed under strict control. And Uighur Muslims are being sent to re-education camps as we speak. The international community must show its concern and speak out about these developments.\"\nIn the legislative branch, there has been parliamentary groups on Tibet since 2012, including the Parliamentary Friends of Tibet in 2012, Taiwan Parliament Group for Tibet in 2016 and 2020.\nDuring his campaign, vice president and the president-elected William Lai also spoke about the traumatic experiences of Tibet and Hong Kong under PRC rule.",
+                "evidence_urls": [
+                    "https:\/\/www.cna.com.tw\/news\/firstnews\/201905300258.aspx",
+                    "https:\/\/english.president.gov.tw\/News\/5745",
+                    "https:\/\/web.archive.org\/web\/20200101010000\/https:\/\/www.bikhimtaiwan.org\/2012\/07\/blog-post.html",
+                    "https:\/\/freetibet.org\/news-media\/na\/new-tibet-group-formed-taiwan",
+                    "https:\/\/www.taiwannews.com.tw\/en\/news\/3962568",
+                    "https:\/\/www.ntdtv.com.tw\/b5\/20230910\/video\/373101.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "22",
+                "score": "0",
+                "grading": "2",
+                "evidence": "After the Hong Kong National Security Law came into effect, in the executive branch, the President, Executive Yuan and Mainland Affairs Council also stated that they will support Hong Kong people by all means in humanitarian aspects. At the legislative branch, the Legislative Yuan passed unanimous resolution to condemned the decision, expressing support to the appeal of Hong Kong people defending their democracy and freedoms, expressing deep concerned and strong condemnation to China bypassing the Legislation Council in Hong Kong to pass the laws. Therefore, the Index country has denounced the PRC\u2019s ongoing repression in Hong Kong and the Indicator warrants a 0 score.",
+                "evidence_urls": [
+                    "https:\/\/www.hk01.com\/\u53f0\u7063\u65b0\u805e\/479250\/",
+                    "https:\/\/www.bbc.com\/zhongwen\/trad\/chinese-news-52854259"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "1",
+                "grading": "1",
+                "evidence": "According to media, the Ministry of Education has a more reserved stand on the cross-Straits industry-academic cooperation. A new act for further development of industry-academic cooperation is passed, but the cross-Straits related issues are still regulated by the Act Governing Relations between the People of the Taiwan Area and the Mainland Area. \nFrom the open data, the current cooperation between universities and Chinese corporations are under \"Taipei City universities cross-border electronic commerce industry-academic cooperation program\". In the program, 5 universities with 30 local corporations and 3 cross-border e-commerce platforms Amazon, eBay and Alibaba. \nAccording to the open data of Ministry of Education, in the latest statistics (school year of 2020-2021), there were 75 universities created\/maintained in total 3,727 sister school relationship with their counterparts in China; the number of transnational dual degree programs are 53; the cases of academic exchanges programs were 39. Therefore, the cooperation between Taiwanese and Chinese universities is still frequent. Most of them are normal cooperation. However, some of the Chinese partners have close relationship with Chinese Communist Party, such as School of Communist Youth League of China, which raises a red flag.",
+                "evidence_urls": [
+                    "https:\/\/www.chinatimes.com\/newspapers\/20171111000329-260108?chdtv",
+                    "https:\/\/tw.appledaily.com\/life\/20201223\/EAV2EK7DFNHWTAGF3QPIEOZWXA\/",
+                    "https:\/\/www.17cross.org.tw\/KM\/news_more?id=a89fe9c1cef74968bcc3c511c5de90c5",
+                    "https:\/\/udb.moe.edu.tw\/udata\/DetailReportList\/\u5b78\u751f\u985e\/SirdJointDualTransnationalDegree108\/Index",
+                    "https:\/\/www.ettoday.net\/news\/20190509\/1440872.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "24",
+                "score": "0",
+                "grading": "1",
+                "evidence": "The official language in Taiwan is Mandarin Chinese. There is no need of Confucius Institutes or Classrooms.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "25",
+                "score": "0",
+                "grading": "0",
+                "evidence": "The official language in Taiwan is Mandarin Chinese with traditional Chinese characters. Therefore, there's no need to import Chinese teaching materials from China. However, there have been incidents of schools accidentally used the learning materials from China and stirred controversy. ",
+                "evidence_urls": [
+                    "https:\/\/webtest2.sanlih.com.tw\/News.aspx?NewsID=1273719"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "26",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Yuan Ze University was one of the members of University Alliance of the Silk Road. However, no  information on the membership can be retrieved from the website of the univercity now.",
+                "evidence_urls": [
+                    "https:\/\/web.archive.org\/web\/20220426120313\/",
+                    "http:\/\/uasr.xjtu.edu.cn\/info\/1092\/1707.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "27",
+                "score": "skip",
+                "evidence": "There are pro-Chinese organizations operating in the forms of think tanks and research institutes. They might be funded by Chinese authorities; however, their budget is not open to the public and thereis no proof of their cash flow from PRC.\n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "28",
+                "score": "4",
+                "grading": "1",
+                "evidence": "On November 27th 2019, the speaker of National Taiwan Affairs Office Zhu Fenglian reported that, there were 72 Taiwanese experts and scholars being selected into Thousand Talents Program. Mainland Affairs Council was aware of the 33 of them on the list, and the investigation task force has discovered 6-7 of them are current working in the educational institutes. Taiwanese scholars have also been selected into Changjiang Scholar Program. Although there is not a full list, but media has reported that several professors who were listed in it. In addition to these programs on the national level, Xiamen City also launched five other programs specially for attracting Taiwanese specialists, which are Fujian Province Bringing in Taiwanese High-Level Personnel (\u798f\u5efa\u7701\u5f15\u9032\u53f0\u7063\u9ad8\u5c64\u6b21\u4eba\u624d), Fujian Province Bringing in High-Level Personnel Hundred People Program (\u798f\u5efa\u7701\u5f15\u9032\u53f0\u7063\u9ad8\u5c64\u6b21\u4eba\u624d\u767e\u4eba\u8a08\u5283), Double Hundred Personnel Program (\u96d9\u767e\u8a08\u756b\u4eba\u624d), Taiwan Distinguished Experts (\u53f0\u7063\u7279\u8058\u5c08\u5bb6), and Taiwan Distinguished Specialists (\u53f0\u7063\u7279\u8058\u5c08\u624d). It's worth noted that, in the so-called \"31 Measures\" (Measures to promote economic and cultural exchanges and cooperation across the Taiwan Straits) and \"26 Measures\" (Measures to further promote economic and cultural exchanges and cooperation across the Taiwan Straits), both are highly loosening the limitation of Taiwanese specialists working, settling and holding adjunct positions.",
+                "evidence_urls": [
+                    "https:\/\/www.cna.com.tw\/news\/firstnews\/201911270131.aspx",
+                    "https:\/\/www.cmmedia.com.tw\/home\/articles\/19664",
+                    "https:\/\/news.ltn.com.tw\/news\/life\/paper\/1400947",
+                    "https:\/\/www.ettoday.net\/news\/20190625\/1475057.htm",
+                    "https:\/\/tw.news.yahoo.com\/news\/\u5927\u9678\u570b\u53f0\u8fa631\u689d\u60e0\u53f0\u63aa\u65bd\u5168\u6587-030333269.html",
+                    "https:\/\/udn.com\/news\/story\/7331\/4142994"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "29",
+                "score": "4",
+                "grading": "1",
+                "evidence": "According to Dr. Chen Hua-Sheng of Taiwan Institute of Economic Research, there was an increase of invites from PRC for various personnels, including academic members, in order to manipulate a friendly image to Taiwan before the 2024 elections. However, the Mainland Affairs Council also reported scholars being harassed and detained for hours during their visits to PRC and warned Taiwanese citizens about their safety traveling to PRC.",
+                "evidence_urls": [
+                    "https:\/\/news.ltn.com.tw\/news\/politics\/breakingnews\/4313611",
+                    " https:\/\/www.cna.com.tw\/news\/acn\/202309130111.aspx"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "30",
+                "score": "0",
+                "grading": "1",
+                "evidence": "PRC government has suspended the enrollment process of Chinese students to Taiwanese universities since April 2020 and all Chinese bachelor students will be graduated by August 2024. As the number of students decreases, there hasn't been wellknown cases of harassment or censorship conducted by Chinese student groups.",
+                "evidence_urls": [
+                    "https:\/\/www.cna.com.tw\/news\/ahel\/202304100026.aspx ",
+                    "https:\/\/money.udn.com\/money\/story\/5603\/7704135"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "31",
+                "score": "3",
+                "grading": "1",
+                "evidence": "Many of the scholars, who raise a more critical view toward China, would choose not to visit China for their own safety, as the physical security is less protected in China. Also, Taiwanese people have to apply for the Mainland Travel to travel to China. And the Chinese authorities are likely to barricade the applications of those they dislike during the process without given a specific reason. In contrast, more Taiwanese scholars have confronted the situation of being openly denied visa to or being deported back from Hong Kong since 2013. After the Hong Kong National Security Laws came into effect in 2020, most of the outspoken academics against critical opinions on PRC refrain from traveling to China, Hong Kong, or Macau.",
+                "evidence_urls": [
+                    "https:\/\/www.bbc.com\/zhongwen\/trad\/china\/2014\/05\/140530_hk_taiwan_scholar_banned",
+                    "https:\/\/www.rti.org.tw\/news\/view\/id\/385301"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "32",
+                "score": "0",
+                "grading": "0",
+                "evidence": "The Taiwanese education has its own curriculum in the political history in East Asia. Although it's often criticized to be too sinocentric, but it is more aligned with the Kuomintang-ROC historical perspective, which is different from the CCP's version.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "33",
+                "score": "3",
+                "grading": "1",
+                "evidence": "There has been less public cases of whitewashing and denial of human rights abuses by PRC in the timeframe of the research. However, there have been scholars reiterating the PRC narratives on the cross-strait relationship, such as the scholars who initiated the anti-war petition, appealing for the Taiwanese government taking a softer stand against the PRC.",
+                "evidence_urls": [
+                    "https:\/\/newbloommag.net\/2023\/03\/24\/anti-war-statement-response-eng\/",
+                    "https:\/\/www.facebook.com\/CCTV.CH\/videos\/%E4%BB%8A%E6%97%A5%E8%AA%AA%E5%85%A9%E5%B2%B8-ep281-%E9%84%AD%E5%8F%88%E5%B9%B3%E5%A4%A7%E9%99%B8%E5%92%8C%E8%87%BA%E7%81%A3%E5%90%8C%E5%B1%AC%E4%B8%80%E5%80%8B%E4%B8%AD%E5%9C%8B-%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%B5%B7%E5%B3%BD%E4%B8%AD%E7%B7%9A\/638553467192347\/",
+                    "https:\/\/www.youtube.com\/watch?v=WlpI3Sl2Um8",
+                    "https:\/\/www.youtube.com\/watch?v=WqBqb1H8Ezk",
+                    "https:\/\/sea.cc.ntpu.edu.tw\/pls\/dev_stud\/course_query.queryGuide?g_serial=U4616&g_year=112&g_term=2&show_info=part"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "2",
+                "grading": "1",
+                "evidence": "According to Art.5-1 of Act Governing Relations between the People of the Taiwan Area and the Mainland Area, any authorities or institution at each local government level of the Taiwan Area shall not negotiate or execute any agreement in any form with any individual, juristic person, organization, or other authorities or institution of the Mainland Area unless authorized by the Mainland Affairs Council, Executive Yuan. The term \"\"agreement\"\" means any written document involving the exercise of governmental powers or any matter of political issues, and executed between the Taiwan Area and the Mainland Area.(Art. 4-2) According to Art. 33-1, unless permitted by each competent authorities concerned, no individual, juristic person, organization, or other institution of Taiwan can engage in almost all kinds of cooperative activities with the political parties, the military, the administration or of any political nature. And in Art. 33-2, any authorities, institutions or legislative organs at any local government level of Taiwan shall not form any coalition with any local authorities of China, unless it's approved by the related departments of the central government. Therefore, all contracts signed between the local governments in Taiwan and the government or state-owned corporations in China have to be non-political and seek approval from the Ministry of Interior. The legal contract and cooperation are mostly limited in tourism and export of products. The recent contracts signed between Taiwanese local governments and China are: the MOU on tea between Nantou County and Hunan and Hubei provinces, and the MOU signed during the Taipei-Shanghai Forum in August 2023.\nIt's worth noted that, although the representatives on the signing ceremonies are usually the city mayors, but the actual entities in the contracts are usually the farmers' and fishermen's associations, corporations, organizations and foundations. From the beginning of 2019, there were also rumors of local Chinese governments signing agreements with the Taiwanese local representatives in order to rope them in. But the Mainland Affairs Council announced that the heads of villages or neighborhood has no public power to sign any contract, and the behavior is against the Art.33-1 of Act Governing Relations between the People of the Taiwan Area and the Mainland Area, which will be fined NT$500 thousand the highest.",
+                "evidence_urls": [
+                    "https:\/\/www.mac.gov.tw\/News_Content.aspx?n=BBE4598927D42942&sms=C230CDCD5903512F&s=55DD4A8BF544FE0B",
+                    "https:\/\/law.moj.gov.tw\/ENG\/LawClass\/LawAll.aspx?pcode=Q0010001",
+                    "https:\/\/news.ltn.com.tw\/news\/politics\/breakingnews\/4403721",
+                    "https:\/\/tw.news.yahoo.com\/\u8fb2\u59d4\u6703\u53ea\u52691\u62db-\u4ed6\u6279\u9019\u6c34\u679c\u5916\u92b7\u88dc\u52a9-\u8ce3\u6108\u591a\u53f0\u7063\u8667\u6108\u591a-121659934.html",
+                    "https:\/\/news.pts.org.tw\/article\/428841"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "35",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Hsinchu City in Taiwan has sister city tie with Binhai New Area, Tianjin Municipality and Huizhou City, Guangdong Province. Dongyin Island, Matsu has sister island tie with Xiyang Island, Xiapu, Ningde City, Fujian Province. Nantou County, through its famous tourist spotlight Sun Moon Lake, has \"sister lake\" relationship with West Lake in Zhejiang, Tianmu Lake in Jiangsu, Jingyue Lake in Jilin, Dajin Lake in Fujian, Jinyin Lake in Hubei, Taiping Lake in Anhui and Changshou Lake in Chungqing.",
+                "evidence_urls": [
+                    "https:\/\/dep-civil.hccg.gov.tw\/ch\/home.jsp?id=126&parentpath=0,7,123 ",
+                    "https:\/\/www.chinatimes.com\/realtimenews\/20190511002384-260409?chdtv ",
+                    "https:\/\/www.taidaily.com\/?p=338930"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "36",
+                "score": "4",
+                "grading": "1",
+                "evidence": "It is common for local politicians being invited to the \"\"united front groups\"\", which means trips that are free of charge once they land on China. The major united front event Straits Forum has been providing free reception to the Taiwanese participants since it was founded in 2009. Many local leaders of villages and communities has recruited by the Taiwan Affairs Office system after the implementation of the \u201c26 incentives\"\", to join different kinds of free reception tourist groups, or even be recruited to the positions of community building in Pingtan Comprehensive Experimental Zone. Under the \"\"one generation one frontline\"\" policy, the Taiwanese community leaders are offered many resources. They can easily participate in all kinds of visit groups, and can also bring their community to travel to China in a very low price. In the research of IORG, it is common that the economic incentives provided by China can affect individuals who own a neutral political stand.\nIn Kaohsiung, a businessman was also investigated for his engagement in bringing 3 local chiefs to PRC-paid trips to China in July 2023. In December 2023, there were  41 local village chiefs in Taipei City engaging in paid trips and in suspision of election intervention from PRC. A secretary in the Nantou County government was also detained for bringing family members and local chiefs to paid trips in China. According to the Minister of Interior, by December 2023, there has been investigation for 51 groups and 556 personnels of paid trips engaging local chiefs under Anti-Infiltration Law.",
+                "evidence_urls": [
+                    "https:\/\/news.ltn.com.tw\/news\/politics\/paper\/1206654",
+                    "https:\/\/www.twreporter.org\/a\/2020-election-chief-of-village-party-united-front-china",
+                    "https:\/\/iorg.tw\/r\/d3",
+                    "https:\/\/news.pts.org.tw\/article\/675530",
+                    "https:\/\/tw.news.yahoo.com\/\u6751\u91cc\u9577\u53d7\u62db\u5f85\u8d74\u4e2d-\u6700\u9ad8\u6aa2\u63d05\u6a19\u6e96\u8a8d\u5b9a\u5883\u5916\u4ecb\u9078\u684893\u4ef6-\u6d89\u6848198\u4eba-010807264.html",
+                    "https:\/\/udn.com\/news\/story\/7321\/7672864",
+                    "https:\/\/news.ltn.com.tw\/news\/politics\/breakingnews\/4517680"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "37",
+                "score": "3",
+                "grading": "1",
+                "evidence": "There have been frequent political exchanges between Taiwan and China these years. And almost all exchange groups are coordinated by the national or local Taiwan Affairs Office. Therefore, no matter what level the exchange group is, it is easy to meet the officials or be received by them. According to the Measures of civil service workers and personnel with specific positions in Taiwan to enter Mainland China, the personnel with specific civil or political duties have to seek approval from the Ministry of Interior before their trip. \nAfter the COVID pandemic, the exchange trips have resumed in March 2023, and there was at least 6 trips to China by the end of August 2023, including officials in the fields of finances, sports, education and public health.\nIn June 2023, both Kuomintang and Taiwan People's Party participated in the Straits Forum in Xiamen, PRC. In December 2023, Xia Liyan, the deputy chair of Kuomintang, led a delegation to PRC right before the elections. In Changhua County, prosecutors also investigated on a group of local authorities in suspision of violating the Anti-Infiltration Law and Public officials Election And Recall Act.",
+                "evidence_urls": [
+                    "https:\/\/udn.com\/news\/story\/7331\/7405978 ",
+                    "https:\/\/watchout.tw\/reports\/jndCyGhK0hgJ31EP2mgB ",
+                    "https:\/\/www.cna.com.tw\/news\/aipl\/202312140110.aspx",
+                    "https:\/\/udn.com\/news\/story\/7321\/7635102"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "38",
+                "score": "skip",
+                "evidence": "The Taiwan-related affairs are under the administration of Taiwan Affairs Office of State Council and the United Front Work Department since Taiwan is considered a part  of PRC.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "39",
+                "score": "3",
+                "grading": "1",
+                "evidence": "According to Art. 7 in Political Donations Act, citizens, juridical persons, associations or other institutions in or mainly composed of the members of the citizens, juridical persons, associations or other institutions of the People\u2019s Republic of China, Hong Kong and Macao, are not allowed to make political donations in Taiwan. The cases within the timeframe are: In April 2023, the Investigation Bureau received tips on PRC authorities coercing Taiwanese business to donate to the pro-unification candidates PRC favors. In January 2024, the candidate of Taiwan People's Party was investigagted for receiving political donation from PRC personnels right before the 2024 elections.",
+                "evidence_urls": [
+                    "https:\/\/law.moj.gov.tw\/LawClass\/LawAll.aspx?pcode=D0020049",
+                    "https:\/\/www.upmedia.mg\/news_info.php?Type=24&SerialNo=171052 ",
+                    "https:\/\/udn.com\/news\/story\/7321\/7689483"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "40",
+                "score": "2",
+                "grading": "1",
+                "evidence": "PRC continued to interfere the 2024 national elections in Taiwan. There have been less significant cases of explicit fundraising and other forms o support to politicians compare to the 2020 elections. However, from the presentation made by the Ministry of Justice in the Legislative Yuan on October 27, 2023, the three major forms of election interference are foreign capital interference, online election betting market, and information operation. Regarding the foreign capital, the Investigation Bureau had found the underground foreign exchange flow for more than NT$11,500,000,000 in the year until October 2023.",
+                "evidence_urls": [
+                    "https:\/\/news.ltn.com.tw\/news\/politics\/paper\/1612142",
+                    "https:\/\/udn.com\/news\/story\/7321\/7689483"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "41",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Taiwanese politicans and elected officials are constantly under the threat and harassment of the Taiwan Affairs Offices or other Taiwan-related ministries. In the timeframe of the research, TAO sanctioned multiple politician including the then U.S. Representative Hsiao Bi-khim. Prime Minister Su Tseng-Chang, Speaker Yu Si-kun, Foreign Minister Joeph Wu, Secretay-General of National Security Council Wellington Koo, and legislators Tsai Chi-Chang, Ker Chien-Ming, Chen Jiau-Hua, Wang Ting-Yu, and the then Deputy Secretary of DPP Lin Fei-Fan.",
+                "evidence_urls": [
+                    "https:\/\/www.taipeitimes.com\/News\/taiwan\/archives\/2023\/04\/08\/2003797543",
+                    "https:\/\/udn.com\/news\/story\/7331\/7082383"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "42",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Some of the politicians would join the talk shows as commentors and echo the pro-PRC talking points and criticizing the Taiwanese government, such as former legislators Shuai Hua-Ming, Zhao Shaokang, Cai Zhengyuan, and Qiu Yi; and other Kuomintang- or New Party-affiliated politicians. Oftentime, their narratives would be circulated back to the PRC state-owned media and quoted as the Taiwanese perspectives. ",
+                "evidence_urls": [
+                    "https:\/\/iorg.tw\/da\/57",
+                    "https:\/\/www.cmmedia.com.tw\/home\/articles\/24625"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "43",
+                "score": "1",
+                "grading": "1",
+                "evidence": "It is usually implicit for the current or retired politicians and government employees to receive benefits from China, unless they are reported or busted under investigation. After the amendment of  Article 9, 9-3 and 91 of Act Governing Relations between the People of the Taiwan Area and the Mainland Area, incubent and retired politicians and government employees would faces consequences if they visit PRC or take PRC positions  without approval. There might still be cases of politicians under suspicion of receiving indirect benefits from PRC.",
+                "evidence_urls": [
+                    "https:\/\/www.mac.gov.tw\/News_Content.aspx?n=05B73310C5C3A632&sms=1A40B00E4C745211&s=11E45B2CB786190D",
+                    "https:\/\/law.moj.gov.tw\/ENG\/LawClass\/LawAll.aspx?pcode=Q0010001"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There haven't been significant cases of suppression on criticisms on PRC under the timeframe.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "4",
+                "grading": "0",
+                "evidence": "In 2022, China (including Hong Kong) is the biggest export (38.8%) and import (20.0%) market on Taiwan.",
+                "evidence_urls": [
+                    "https:\/\/www.ey.gov.tw\/state\/6A206590076F7EF\/8b5032af-1a67-4c02-bd16-8791aa459cd2"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no specific bilateral debt between Taiwan and PRC, and there are strict regulations on how PRC entities and individuals purchasing Taiwanese government. Therefore, it is very likely that PRC government or its connected entities don't own more than 25% of Taiwan's bilateral soverign debt.",
+                "evidence_urls": [
+                    "https:\/\/law.moj.gov.tw\/ENG\/LawClass\/LawAll.aspx?pcode=G0400147",
+                    "https:\/\/law.moj.gov.tw\/LawClass\/LawAll.aspx?pcode=Q0040015",
+                    "https:\/\/www.cbc.gov.tw\/tw\/cp-1071-1656-6225B-1.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "grading": "0",
+                "evidence": "According to the data from the Platform of Big Data on Global Trade by Taiwan External Trade Development Council, the total value of mineral products exporting to China in 2021 (the latest) was 1,955,422.94 thousand USD. It is no. 39 at the ranking and is not the top customer.",
+                "evidence_urls": [
+                    "https:\/\/itrade.taiwantrade.com\/market\/index#"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "48",
+                "score": "0",
+                "grading": "0",
+                "evidence": "According to Art.8 in Measures Governing Investment Permit to the People of Mainland Area, the investment by Chinese citizens or organizations on monopoly; political, social and cultural sensitive or impactful on national security; unfavorable to economic development or financial stability, would be prohibited. Since Taiwan is not a main target on Belt and Road Initiative, and the infrastructures are quite intact, there is not much chance for the Chinese government to control the critical infrastructures or sensitive sectors. However, it is possible that the Chinese corporations getting involved with the critical industries through legal loopholes. The case of Tatung, a well-known brand which has managed many sensitive information security bids of government, is an obvious case to see the illegal interference of Chinese investment.",
+                "evidence_urls": [
+                    "https:\/\/law.moj.gov.tw\/LawClass\/LawAll.aspx?pcode=Q0040015",
+                    "https:\/\/www.storm.mg\/article\/426316?mode=whole",
+                    "https:\/\/newtalk.tw\/news\/view\/2020-10-13\/478765"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "49",
+                "score": "0",
+                "grading": "0",
+                "evidence": "In 2016, Chang Sheng-ford, then minister of finance, expressed that Taiwan would not join the Asian Infrastructure Investment Bank. Jin Liqun, the president of AIIB, claimed that Taiwan had to applied through the Chinese ministry of finance to join AIIB.",
+                "evidence_urls": [
+                    "https:\/\/www.voacantonese.com\/a\/rb-dc-taiwan-says-it-will-not-join-neijing-led-aiib\/3281202.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no Taiwanese member of the Silk Road Chamber of International Commerce, Belt and Road Industrial and Commercial Alliance, or the Belt and Road General Chamber of Commerce.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "51",
+                "score": "4",
+                "grading": "0",
+                "evidence": "The financial institutions in Taiwan use the SWIFT system instead of CIPS.",
+                "evidence_urls": [
+                    "https:\/\/news.cnyes.com\/news\/id\/275339",
+                    "https:\/\/www.bankchb.com\/frontend\/newsDetail.jsp?id=2468",
+                    "https:\/\/tw.stock.yahoo.com\/news\/%E5%9C%8B%E5%85%A7%E9%87%91%E8%9E%8D-%E4%BA%BA%E8%A1%8C%E5%95%9F%E5%8B%95%E4%BA%BA%E6%B0%91%E5%B9%A3%E8%B7%A8%E5%A2%83%E6%94%AF%E4%BB%98%E7%B3%BB%E7%B5%B1-%E5%85%A9%E5%AE%B6%E5%8F%B0%E7%81%A3%E9%87%91%E8%9E%8D%E6%A9%9F%E6%A7%8B%E5%AE%8C%E6%88%90%E5%8C%AF%E6%AC%BE%E7%9B%B4%E6%8E%A5%E6%B8%85%E7%AE%97-034204135.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "52",
+                "score": "4",
+                "grading": "0",
+                "evidence": "PRC has implemented sanctions on Taiwanese products as one of the tactics to punish Taiwan. In August 2022, before and after U.S. Congress Speaker Pelosi's visit in Taipei, PRC imposed multiple sanctions on Taiwan including natural sand, citrus fruit, chilled white striped hairtail, frozen horse mackerel, pineapple, wax apple, grouper and more. PRC also threatened to sanction more Taiwanese products before the 2024 national elections.",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/world\/asia-pacific\/economic-sanctions-china-has-imposed-taiwan-over-pelosi-visit-2022-08-03\/",
+                    "https:\/\/www.afr.com\/world\/asia\/china-threatens-fresh-taiwan-sanctions-as-pre-election-tension-mounts-20240110-p5ewcj",
+                    "https:\/\/www.reuters.com\/world\/asia-pacific\/china-threatens-more-trade-sanctions-taiwan-election-nears-2023-12-27\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "53",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Taiwan and China have signed the Cross-Straits Economic Cooperation Framework Agreement (ECFA) in June 29, 2009, and it has come into force on September 2009. The forthcoming Cross-Strait Service Trade Agreement (CSSTA) was signed on June 2013, but was stopped by the Sunflower Movement in 2014. The Cross-Straits Goods Trade Agreement has been negotiated for 12 times from 2011 to 2015 but has not reached to a conclusion. Also, the computer industry and the related services are included in the early harvest list of ECFA.",
+                "evidence_urls": [
+                    "https:\/\/www.ecfa.org.tw\/Event.aspx?nid=26",
+                    "https:\/\/law.moj.gov.tw\/LawClass\/LawAll.aspx?PCODE=Q0070022"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "grading": "0",
+                "evidence": "The Legislative Yuan once introduced the two-stage free economic pilot zones in 2014. However, the bill of Special Act for Free Economic Pilot Zones hasn't passed, but the reserved favorable treatments never be in effect. In April 2019, the Special Act was edited and introduced again in the Legislative Yuan.",
+                "evidence_urls": [
+                    "https:\/\/misq.ly.gov.tw\/MISQ\/\/IQuery\/misq5000QueryBillDetail.action?billNo=1030508070200500",
+                    "https:\/\/misq.ly.gov.tw\/MISQ\/IQuery\/misq5000QueryBillDetail.action?billNo=1080315070200600",
+                    "https:\/\/www.thenewslens.com\/article\/120234"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Taiwan never undergos default or restructuring of a public debt arrangement with PRC-affiliated financial entities.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "0",
+                "grading": "0",
+                "evidence": "According to Directions of Chinese Citizens' Investment on the Second Category of Telecommunication Industry (code 6100) , there are several items of services open for Chinese investment. However, according to the Investment Commission record since 2005, there hasn't been investment in the 6100 telecommunication industry.",
+                "evidence_urls": [
+                    "https:\/\/www.ncc.gov.tw\/chinese\/files\/14082\/255_2164_140827_1_C.PDF",
+                    "https:\/\/www.moeaic.gov.tw\/news.view?do=data&id=1385&lang=ch&type=business_ann",
+                    "https:\/\/buzzorange.com\/techorange\/2019\/03\/19\/china-in-the-house\/"
+                ],
+                "note": "Although it's not in the field of telecommunication, the has been concern of the public Wifi provider Speedlink Telecom Taiwan being controlled by the Chinese capitals. Although there's yet to be concrete evidence, it's known that Speedlink has close relationship with the Chinese company Comba Telecom Systems Holdings Ltd (\u4eac\u4fe1\u901a\u4fe1).",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "grading": "1",
+                "evidence": "\"All five telecom service providers are included in the Clean Network of U.S. State Department, which requires them not to cooperate with the \"\"untrustworthy telecoms\"\" such as Huawei and ZTE.\n\"",
+                "evidence_urls": [
+                    "https:\/\/www.taiwannews.com.tw\/en\/news\/3976270 https:\/\/2017-2021.state.gov\/the-clean-network-safeguards-americas-assets\/index.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "58",
+                "score": "0",
+                "grading": "1",
+                "evidence": "In May 2018, Po-Tsung Wong, the speaker of National Communications Commission addressed that, the Legislative Yuan has made a resolution in 2013 to stop the 4G telecom providers to use the products of Chinese internet system. NCC has followed the resolution to amend its Regulations for Administration on Fixed Network Telecommunications Business and Regulations for Administration of Mobile Broadband Businesses. And both of the regulations added that, \"the competent government authorities, when rendering an approval or overrule decision on networking infrastructure plan, shall have the decision sought in consultation with relevant governmental agencies for national security concerns.\" And Taiwan has long implemented the code of conduct of not using the core internet equipments made in China.",
+                "evidence_urls": [
+                    "https:\/\/iekweb2.iek.org.tw\/ITISExt\/module\/iekPersonal\/Forward.aspx",
+                    "https:\/\/buzzorange.com\/techorange\/2019\/03\/19\/china-in-the-house\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "grading": "0",
+                "evidence": "According to the monthly Cyber Security Online Report of Executive Yuan on November 2020, the principles of using information and communication devices in public sectors are: 1. The devices for office purpose can't be of Chinese brand, and it can't be installed with personal applications or softwares. 2. The personal devices are not allowed to use for office issues, and can't be connected to the office environment. 3. All departments shall compile and register all information and communication devices of the office that are Chinese-branded. The devices can't be connected to the office environment and have to be eliminated as soon as possible. ",
+                "evidence_urls": [
+                    "https:\/\/nicst.ey.gov.tw\/Page\/8770AD7511CB8DC9\/1615e957-9979-42c6-ac94-db6d6c49da5a",
+                    "https:\/\/lci.ly.gov.tw\/LyLCEW\/agenda1\/02\/pdf\/10\/01\/15\/LCEWA01_100115_00298.pdf"
+                ],
+                "note": "However, there was a considerable amount of devices purchased and used before, and it is difficult to fully compile and change all of them in a short period of time. It's revealed in the \"\"report on the the use of communication equipment from Chinese brands by government agencies\"\" that many government offices have procured and are still owning many tech devices and equipments from Chinese brands. This could be a result of the lack of due diligence during the procurement process. In the 2022 National Day celebration, there was suspision that the drones used in the performance were made in China. It was found that only the non-critical parts, such as the case, batteries and motors were made in PRC.\nhttps:\/\/www.rti.org.tw\/news\/view\/id\/2149999",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "60",
+                "score": "1",
+                "grading": "1",
+                "evidence": "When the Taiwanese government reviewing the bids on information, communication and technology, it would usually avoid the Chinese suppliers or technologies. However, the supplier might violate the contract or unintentionally allowing the Chinese companies get involved with the public bid due to the nature of frequent exchange between Taiwan and China in technology industry. There hasn't been any well-known case since 2020. In 2017, the supplier which won the bid of biometric technology related facilities of the immigration, has implemented the Chinese-made devices in the immigration. And it is said that the hardware and firmware of the devices were manufactured by China Aerospace Science and Technology Corporation, which used to be the No.5 Research Academy of Ministry of Defense, China. In the conference \"National ID Card & Personal Identification in the Digital Era\" in July 2020 in Academia Sinica, Wu Jieh-min, the research fellow of Institute of Sociology, pointed out that in the bid of the system to roll out and maintain the eID was won by Chunghwa Telecom. However, International Integrated Systems, Inc., the company that Chunghwa reinvested, has record of national security concerns as they outsourced the software of the new residency system to Chinese corporations. Also, IISI undertook contracts of information technology projects in China from 2011 to 2019. Its subsidiary company Unitronic Technology also receives contracts on financial security in multiple banks in China. There was also institutions purchasing gene sequencing devices with BGI. And BGI was revealed to have close relationship with People's Liberation Army in China, and they even send the data of their Taiwanese customers to China National GeneBank.",
+                "evidence_urls": [
+                    "https:\/\/news.ltn.com.tw\/news\/focus\/paper\/1159236",
+                    "https:\/\/musou.watchout.tw\/read\/QmS1kptdMXpAUnEIicIE",
+                    "http:\/\/www.newcllab.tw\/news_view-5",
+                    "https:\/\/www.reuters.com\/investigates\/special-report\/health-china-bgi-dna\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "61",
+                "score": "0",
+                "grading": "1",
+                "evidence": "All 22 cities and counties in Taiwan have developed their own smart city systems. However, there is no China-related cooperation or procurement.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "62",
+                "score": "4",
+                "grading": "0",
+                "evidence": "According to Submarine Cable Map, there are 16 fiber optic cable systems and approved plans connected to Taiwan. Among them, the Taiwan Strait Express-1 (TSE-1) constructed in 2013 January, connecting Fuzhou, China and Tanshui (Tamsui), Taiwan, was constructed by HMN Tech, a PRC entity.",
+                "evidence_urls": [
+                    "https:\/\/www.submarinecablemap.com\/submarine-cable\/taiwan-strait-express-1-tse-1"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "63",
+                "score": "2",
+                "grading": "1",
+                "evidence": "The Chinese venture capital was included in the third wave of opening up for Chinese investment in service industry in 2010. The Taiwanese government doesn't have clear statistics on the Chinese venture capitals investing in Taiwan. Here are a few cases: Ordine Capital, which is a Chinese venture capital founded by Taiwanese in China, has invested in Taiwan User-Friendly Sensor and Tech and Snapask. Alibaba Entrereneurs Fund, which is under Alibaba Group, has specifically undergoing investment plans on Taiwanese and Hong Kong startups. According to its website, 38 of Taiwanese startups are in the program.",
+                "evidence_urls": [
+                    "https:\/\/tw.news.yahoo.com\/\u7b2c\u4e09\u6ce2\u9678\u8cc7\u958b\u653e-\u7d0d\u5165\u5275\u6295-213000073.html",
+                    "https:\/\/www.ondinecap.com",
+                    "https:\/\/www.ent-fund.org\/tc\/portfolio\/tw"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "64",
+                "score": "4",
+                "grading": "1",
+                "evidence": "There have been many cross-Straits forums of commerce and technology after 2000, that have attracted many corporations to join. And during the technology industry related Forum for Cross-Strait Information Industry and Technology Standards, it has signed 17 MOUs, general cooperation agreements and common standard documents. During the Cross-Straits CEO Summit in past year, 34 MOUs were signed in 2015, 36 in 2018, and 47 in 2019. Although the Cross-Straits CEO Summit continues to be held every year, no information about MOUs was revealed.",
+                "evidence_urls": [
+                    "http:\/\/www.sinocon.org.tw\/achievement\/?G=3",
+                    "http:\/\/www.ceosummit.org.tw\/summit\/index.php?K=101&LANG=SCH",
+                    "https:\/\/ctee.com.tw\/news\/china\/169915.html",
+                    "https:\/\/ieknet.iek.org.tw\/ieknews\/news_more.aspx?actiontype=ieknews&indu_idno=0"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Taiwan doesn't have any cooperation agreements or memorandums of understanding, or space cooperation mechanisms wih PRC or its connected entities.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Although there is no government institution cooperate with China to support the Beidou System, but it's unbanned to sell devices with Beidou, such as iPhone 12. Also, some suppliers (such as Samsung) don't support the Beidou System in Taiwan in some of their devices.",
+                "evidence_urls": [
+                    "https:\/\/www.edntaiwan.com\/20201016nt61-iphone-12-support-beidou-satellite\/",
+                    "https:\/\/www.samsung.com\/tw\/smartphones\/galaxy-note10\/specs\/"
+                ],
+                "note": "Taiwan Statebuilding Party revealed that there were Taiwanese fishing boats which collaobrated with the PRC criminals on shipping drugs, using the Beidou satellite navigation system. \n\nhttps:\/\/news.ltn.com.tw\/news\/politics\/breakingnews\/4489744",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Taiwan has many pro-unification groups actively advocating on a broad ideology spectrum. At one side, China has been claiming Taiwan an inseparable part of China, and has worked hard to infiltrate Taiwan in all means for a long time. At the other side, the legacy of Republic of China retreat to Taiwan and the authoritarian rule afterward, has left many Taiwanese who were grown under the authoritarianism the identity as Chinese people, and the ideology of ultimate unification. In a statement released by the website of China Council for the Promotion of the Peaceful National Unification, some pro-unification groups are listed, such as Taiwan Area Victims of Political Persecution Mutual Aid Association (\u53f0\u7063\u5730\u5340\u653f\u6cbb\u53d7\u96e3\u4eba\u4e92\u52a9\u6703), Labor Party (\u52de\u52d5\u9ee8), Unification Alliance Party (\u7d71\u4e00\u806f\u76df\u9ee8), The China Tide Association (\u590f\u6f6e\u806f\u5408\u6703), China Foundation (\u4e2d\u83ef\u57fa\u91d1\u6703), Gu Jingliang Cultural Foundation (\u8f9c\u91d1\u826f\u6587\u5316\u57fa\u91d1\u6703), Renjian Publishers (\u4eba\u9593\u51fa\u7248\u793e), Cross-Strait Peace & Development Union (\u4e2d\u83ef\u5169\u5cb8\u548c\u5e73\u767c\u5c55\u806f\u5408\u6703), Labor Rights Association (\u52de\u52d5\u4eba\u6b0a\u5354\u6703) and Forum for Peaceful Development of Cross-Strait Relations (\u5169\u5cb8\u548c\u5e73\u767c\u5c55\u8ad6\u58c7). In September 2022, the Taiwanese pro-unification groups including New Party (\u65b0\u515a), Unification Alliance Party (\u7edf\u4e00\u806f\u76df\u515a), Labor Party (\u52b3\u52a8\u515a), Unionist Party (\u4e2d\u534e\u7edf\u4e00\u4fc3\u8fdb\u515a), Blue Sky Action Alliance (\u84dd\u5929\u884c\u52a8\u8054\u76df), and New Immigrants Labor Rights Association (\u65b0\u79fb\u6c11\u52b3\u52a8\u6743\u76ca\u4fc3\u8fdb\u4f1a) virtually participated in the Forum from Taipei.",
+                "evidence_urls": [
+                    "http:\/\/www.zhongguotongcuhui.org.cn\/hnwtchdt\/202005\/t20200521_12276552.html",
+                    "https:\/\/mp.weixin.qq.com\/s\/k6A08Ier0nN4hO3jzsD56g"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "68",
+                "score": "4",
+                "grading": "0",
+                "evidence": "On the website of United World Chinese Organization, there is a China Taiwan Branch and 3 members, General Lin Rui-min, Dr. Fan Guang-ling and Ms. Chang Xiao-ping, were listed.",
+                "evidence_urls": [
+                    "http:\/\/www.uwca.net\/member.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "69",
+                "score": "4",
+                "grading": "0",
+                "evidence": "ACFTU holds Straits Workers\u2019 Forum under the annual Straits Forum. The 2023 Forum was held in Xiamen, China on June 17, 2023.",
+                "evidence_urls": [
+                    "http:\/\/acftu.people.com.cn\/BIG5\/n1\/2023\/0619\/c67502-40017146.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "70",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Since Taiwan has similar cultures with China, most of the cultural activities would  be neutral and not linked to UFWD. However, some pro-unification groups would celebrate PRC-related memorial days, such as the anniversaries of certain meetings. According to the Article 33-1 of the Act Governing Relations between the People of the Taiwan Area and the Mainland Area, \"unless permitted by each competent authorities concerned, no individual, juristic person, organization, or other institution of the Taiwan Area may engage in any of the following activities: 1. Any form of cooperative activity with the agencies, institutions, or organizations of the Mainland Area which are political parties, the military, the administration or of any political nature, or which are involved in any political work against Taiwan or affect national security or interests. 2. Any cooperative activity involving political nature with any individual, juristic person, organization, or other institution of the Mainland Area. 3. Establishing any juristic person, organization, or other institution of political nature together with any individual, juristic person, organization, or other institution of the Mainland Area. Therefore, the activities would be lowkey and try to avoid attention.",
+                "evidence_urls": [
+                    "https:\/\/tw.news.yahoo.com\/\u9000\u5c07\u5b63\u9e9f\u9023\u51fa\u5e2d\u7d71\u4fc3\u9ee8-\u6176\u795d\u5171\u7522\u9ee8\u6d3b\u52d5-\u85cd\u71df\u5207\u5272-102852966.html",
+                    "https:\/\/law.moj.gov.tw\/ENG\/LawClass\/LawAll.aspx?pcode=Q0010001"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "71",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Despite the decrease in public engagements with the PRC-connected professional associations due to the COVID-19 pandemic and the increasing tension between Taiwan and PRC, there are still some annual activities going on regularly, such as the cross-strait joint interview hosted by All-China Journalists Association, and the side events going along with the Strait Forum, such as the Strait Women's Forum (\u6d77\u5cfd\u5a66\u5973\u8ad6\u58c7) held by All-China Women Federation, the Strait Workers' Forum held by All-China Federation of Trade Unions, the Cross-Strait Disabled Exchange Forum by China Disabled Persons Federation, etc. ",
+                "evidence_urls": [
+                    "https:\/\/www.cna.com.tw\/news\/acn\/202307250294.aspx",
+                    "http:\/\/big5.taiwan.cn\/hxlt\/15j\/ltbb\/202306\/t20230618_12543404.htm",
+                    "http:\/\/big5.taiwan.cn\/hxlt\/15j\/ltbb\/202306\/t20230618_12543399.htm",
+                    "http:\/\/big5.taiwan.cn\/hxlt\/15j\/ltbb\/202306\/t20230617_12543149.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "grading": "0",
+                "evidence": "\"Individuals and institutes in China has donated to Taiwan when mass disaster happened. For instance, during the Hualien earthquake in September 2022, the Association of Taiwan Investment Enterprises on the Mainland donated a million RMB to the Red Cross Society of ROC in behalf of Red Cross Society of China.\n\nOther than the humanitarian support through the religous channels, the PRC religous entities would also collaborate with the Taiwanese counterparts on cultrual and religous exchange events as well as supporting the reconstruction.\"",
+                "evidence_urls": [
+                    "https:\/\/www.redcross.org.tw\/home.jsp?serno=201205070020&acttype=view&dataserno=202210270001"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "73",
+                "score": "4",
+                "grading": "1",
+                "evidence": "Six organizations on IPTV, OTT and copyright issues have released two lists on models of illegal set-top boxes for the reference of their partner suppliers to self-discipline. There are four categories on the lists, including the models that are not approved by National Communications Commission, those that are under copyright lawsuits, those that are suspected to violate copyright and those that violate the child and youth welfare. Among the models, there are Chinese-connected brands such as Ubox, QBOX, and Mi Box.",
+                "evidence_urls": [
+                    "https:\/\/cnews.com.tw\/140190905a02\/",
+                    "https:\/\/www.ncc.gov.tw\/chinese\/news_detail.aspx?site_content_sn=8&sn_f=42586"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "74",
+                "score": "4",
+                "grading": "0",
+                "evidence": "According to the Taiwan Internet Report 2023 conducted by Taiwan Network Information Center, the top five social media applications are Facebook, Instagram, Douyin\/TikTok, X (Twitter), and PTT (the most famous bullein board system site in Taiwan).",
+                "evidence_urls": [
+                    "https:\/\/blog.twnic.tw\/2023\/08\/29\/28021\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "75",
+                "score": "4",
+                "grading": "1",
+                "evidence": "PRC government and its related entities have been utilizing the similar cultures between Taiwan and China as one of the means of united front work. In 2023, it's revealed that the Cross-Strait Community Development Institute (\u6d77\u5cfd\u9109\u5efa\u9109\u5275\u767c\u5c55\u7814\u7a76\u9662) in Fujian, China has been funding Taiwanese community development organizations. The temples worshiping gods and godesses in traditional religions are also at the priority of united front work from PRC. The Matsu (\u5abd\u7956) belief, which worshiping the sea godess all around Taiwan, is the main target of exchange activities from the united front departments. ",
+                "evidence_urls": [
+                    "https:\/\/watchout.tw\/reports\/gk5IzwTvfVUpx1f6oUr2",
+                    "https:\/\/news.ltn.com.tw\/news\/politics\/paper\/1598744",
+                    "https:\/\/news.ltn.com.tw\/news\/focus\/breakingnews\/4441894"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "76",
+                "score": "4",
+                "grading": "1",
+                "evidence": "There have been constant cases of games and gamers involved in freedom of speech controversies related to the PRC. For instance, in August 2023, the Taiwanese game Vigil: The Longest Night was removed by its publisher due to the name of their update ASOMROF, which is the reverse of FORMOSA.",
+                "evidence_urls": [
+                    "https:\/\/dq.yam.com\/post\/15622"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "grading": "0",
+                "evidence": "In the poll conducted by Taiwan Public Opinion Foundation with the tool of feeling thermometer with 1010 samples, the average \"tempreture\" of the feeling toward Chinese Communist Party was 20.25 (between 0-100), and 68.3% of the interviewees had a negative feeling (below 50 degree) toward CCP.",
+                "evidence_urls": [
+                    "https:\/\/www.tpof.org\/wp-content\/uploads\/2022\/10\/20221014-\u5373\u6642\u6c11\u8abf-\u300c\u53f0\u7063\u4eba\u5c0d\u4e2d\u570b\u5171\u7522\u9ee8\u7684\u611f\u89ba\u300d.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Taiwan doesn't import military or law-enforcement equipment or components of equipments from PRC since PRC is a military hostile country towards Taiwan.",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/article\/us-taiwan-defence-idUSKBN2BB16V",
+                    "https:\/\/www.bbc.com\/news\/world-asia-34729538"
+                ],
+                "note": "China has viewed Taiwan as its breakaway province since KMT lost the civil war and fled to the island in 1949. And it has ramped up military activities in recent months, seeking to assert its sovereignty. The BBC article gives an overall description of the conflict between China and Taiwan.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Taiwan doesn't participate in any of the security dialogues organized by the PRC since PRC is a military hostile country towards Taiwan.",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/article\/us-taiwan-defence-idUSKBN2BB16V",
+                    "https:\/\/www.bbc.com\/news\/world-asia-34729538"
+                ],
+                "note": "China has viewed Taiwan as its breakaway province since KMT lost the civil war and fled to the island in 1949. And it has ramped up military activities in recent months, seeking to assert its sovereignty. The BBC article gives an overall description of the conflict between China and Taiwan.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Taiwan doesn't co-develop or co-produce military or law-enforcement equipment with PRC, since PRC is a military hostile country to Taiwan.",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/article\/us-taiwan-defence-idUSKBN2BB16V",
+                    "https:\/\/www.bbc.com\/news\/world-asia-34729538"
+                ],
+                "note": "China has viewed Taiwan as its breakaway province since KMT lost the civil war and fled to the island in 1949. And it has ramped up military activities in recent months, seeking to assert its sovereignty. The BBC article gives an overall description of the conflict between China and Taiwan.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Taiwan would not allow PRC to set military basing as it is a military hostile country to Taiwan.",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/article\/us-taiwan-defence-idUSKBN2BB16V",
+                    "https:\/\/www.bbc.com\/news\/world-asia-34729538"
+                ],
+                "note": "China has viewed Taiwan as its breakaway province since KMT lost the civil war and fled to the island in 1949. And it has ramped up military activities in recent months, seeking to assert its sovereignty. The BBC article gives an overall description of the conflict between China and Taiwan.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Taiwan would not allow PLA entering the country as PRC is a military hostile country to Taiwan.",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/article\/us-taiwan-defence-idUSKBN2BB16V",
+                    "https:\/\/www.bbc.com\/news\/world-asia-34729538"
+                ],
+                "note": "China has viewed Taiwan as its breakaway province since KMT lost the civil war and fled to the island in 1949. And it has ramped up military activities in recent months, seeking to assert its sovereignty. The BBC article gives an overall description of the conflict between China and Taiwan.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Taiwan would not allow PLA deployment since PRC is a military hostile country to Taiwan.",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/article\/us-taiwan-defence-idUSKBN2BB16V",
+                    "https:\/\/www.bbc.com\/news\/world-asia-34729538"
+                ],
+                "note": "China has viewed Taiwan as its breakaway province since KMT lost the civil war and fled to the island in 1949. And it has ramped up military activities in recent months, seeking to assert its sovereignty. The BBC article gives an overall description of the conflict between China and Taiwan.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Taiwan would not recognize the military education in PRC, since China is a military hostile country to Taiwan.",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/article\/us-taiwan-defence-idUSKBN2BB16V",
+                    "https:\/\/www.bbc.com\/news\/world-asia-34729538"
+                ],
+                "note": "China has viewed Taiwan as its breakaway province since KMT lost the civil war and fled to the island in 1949. And it has ramped up military activities in recent months, seeking to assert its sovereignty. The BBC article gives an overall description of the conflict between China and Taiwan.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "85",
+                "score": "1",
+                "grading": "1",
+                "evidence": "During the presentation of the head of the National Security Bureau on March 30, 2023, there have been retired generals participated in China in the name of academic conferences to get around the legal restrictions on March 24. ",
+                "evidence_urls": [
+                    "https:\/\/udn.com\/news\/story\/10930\/7066723"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "86",
+                "score": "4",
+                "grading": "0",
+                "evidence": "There have been multiple cases of retired and incubent militery personnels being recruited to spy for PRC. In Octber 2023, colonel Liu Sheng-shu was sentenced to 20 years for running a military spy ring for China, while the 5 other officers being sentenced to 6 months to 20 years. In November 2023, 10 people including active-duty and retired military personnel were indicted on suspicion of spying for China in Taoyuan. Meanwhile in Kaohsiung, three other pesonnels were indicted under the National Security Law.",
+                "evidence_urls": [
+                    "https:\/\/www.bbc.com\/news\/world-asia-67224725",
+                    "https:\/\/www.bloomberg.com\/news\/articles\/2023-11-28\/taiwan-indicted-military-personnel-suspected-of-spying-for-china",
+                    "https:\/\/www.cna.com.tw\/news\/asoc\/202311270235.aspx",
+                    "https:\/\/udn.com\/news\/story\/7321\/7567270"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "87",
+                "score": "4",
+                "grading": "0",
+                "evidence": "In June 2023, the Kaohsiung Retired Military Association celebrated the 99 anniversary of the Huang Pu Military Acadamy. They called on the public to go against the war and support the peace, which follows the PRC guildeline on decreasing the legitimacy of Taiwan's military preparation. Also, the commander in chief of the army stated that the combat power of the Taiwanese military is zero during his interview on the PRC state media.",
+                "evidence_urls": [
+                    "https:\/\/www.thehubnews.net\/archives\/238765",
+                    "https:\/\/tw.news.yahoo.com\/\u9000\u5c07\u6279-\u570b\u8ecd\u6230\u529b\u662f\u96f6-\u9ec3\u6f8e\u5b5d-\u81ea\u8cb6\u8214\u5171\u66f2\u7dda\u8fb1\u83ef-\u8b8a\u76f8\u4fae\u8fb1\u7fd2\u8fd1\u5e73-040228413.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Taiwan would not cooperate with PLA on military exchange exercises since PRC is a military hostile country to Taiwan.",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/article\/us-taiwan-defence-idUSKBN2BB16V",
+                    "https:\/\/www.bbc.com\/news\/world-asia-34729538"
+                ],
+                "note": "China has viewed Taiwan as its breakaway province since KMT lost the civil war and fled to the island in 1949. And it has ramped up military activities in recent months, seeking to assert its sovereignty. The BBC article gives an overall description of the conflict between China and Taiwan.",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Taiwan and China have signed the Cross-strait Joint Fight against Crime and Mutual Legal Assistance Agreement in 2009.",
+                "evidence_urls": [
+                    "https:\/\/law.moj.gov.tw\/LawClass\/LawAll.aspx?PCODE=Q0070013"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "90",
+                "score": "4",
+                "grading": "0",
+                "evidence": "The crimes on terrorism are in the Art. 4 of Cross-strait Joint Fight against Crime and Mutual Legal Assistance Agreement.",
+                "evidence_urls": [
+                    "https:\/\/law.moj.gov.tw\/LawClass\/LawAll.aspx?PCODE=Q0070013"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "grading": "0",
+                "evidence": "The pro-PRC Chinese Unification Promotion Party has a clear Bamboo Union background from the founder Chang An-le (White Wolf). They have records using violence against Hong Kong, Tibet, Uyghur-related protests, and threaten the people with different opinions. Although the gangsters are less involved in actual harrassments after 2020, Chang An-le is still active in politics and openly promote pro-PRC propoganda.",
+                "evidence_urls": [
+                    "https:\/\/tw.nextapple.com\/politics\/20231220\/69B85DAD1535B7A1A21FD49505623239",
+                    "https:\/\/www.breitbart.com\/politics\/2024\/02\/27\/blood-money-how-the-biden-family-bagged-5m-from-business-partner-of-white-wolf-chinese-criminal-gang-leader-who-helped-create-the-fentanyl-pipeline-decimating-ame\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "grading": "1",
+                "evidence": "According to the items of business that allow Chinese citizens to invest in on the website of Investment Commission, Ministry of Economic Affairs, security service is not one of them.",
+                "evidence_urls": [
+                    "https:\/\/www.moeaic.gov.tw\/businessPub.view?lang=ch&op_id_one=3&tab=3#horizontalTab"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "grading": "1",
+                "evidence": "Since there's a distinct gap in judicial independence and other legal development between Taiwan and PRC, the legal systems of the two countries are not compatible. Therefore, there is no law enforcement or judicial trainings from China.",
+                "evidence_urls": [
+                    "https:\/\/tpi.judicial.gov.tw\/tw\/dl-39882-5b70ce08b0ef480bbef6b734a9fcfd17.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "94",
+                "score": "1",
+                "grading": "1",
+                "evidence": "The gangs related with Chinese Unification Promotion Party have taken part in the violent protest against the Hong Kong activist Joshua Wong, and splashing red paint to the Hong Kong singer\/ activist Denise Ho. Also, the shooting to the Taiwanese influencer Holger Chen revealed to be done by pro-unification gangs after investigation. However, the gangs have been keeping a lower profile since 2020.",
+                "evidence_urls": [
+                    "https:\/\/news.ltn.com.tw\/news\/focus\/paper\/1139138",
+                    "https:\/\/www.businesstoday.com.tw\/article\/category\/80396\/post\/202011060018\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "grading": "0",
+                "evidence": "PRC has contantly utilizing state resources to conduct cyber attacks to Taiwan. According to the U.S.-based cybersecurity firm Trellix, there was an increase in attacks in May 2023 when the tension between Taiwan and PRC spiked. They also observed the malicious cyber activity from PRC rose significantly from 1,758 detections on January 11 to over 4,300 on January 12, 2024.",
+                "evidence_urls": [
+                    "https:\/\/www.trellix.com\/blogs\/research\/china-taiwan-tensions-spark-surge-in-cyberattacks-on-taiwan\/",
+                    "https:\/\/www.trellix.com\/blogs\/research\/cyberattack-on-democracy-escalating-cyber-threats-immediately-ahead-of-taiwan-2024-presidential-election\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "96",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There have been cases of members of Chinese diaspora being surveil and harassed by suspicious individuals from the word of mouth before 2020. However, there hasn't been any case reported by the media or heard in the community since the pandemic.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "grading": "0",
+                "evidence": "The Taiwanese government never detains citizens at the request of China.",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is regulation on extradition of criminals to China in Cross-strait Joint Fight against Crime and Mutual Legal Assistance Agreement. However, due to the gap in judicial development between China and Taiwan, the Taiwanese government doesn't extradite Taiwanese citizens to China. When our own citizens commit crimes abroad, the government would endeavor to bring them back to Taiwan for trials instead of sending them to China.",
+                "evidence_urls": [
+                    "https:\/\/law.moj.gov.tw\/LawClass\/LawAll.aspx?PCODE=Q0070013",
+                    "https:\/\/www.hk01.com\/\u53f0\u7063\u65b0\u805e\/339516\/\u9003\u72af\u689d\u4f8b-\u53f8\u6cd5\u4e92\u52a9\u5354\u8b70\u88ab\u6307\u9001\u4e2d-\u9678\u59d4\u6703-\u5df1\u65b9\u4eba\u6c11\u4e0d\u9063\u9001"
+                ],
+                "note": "However, due to the short distance between Taiwan and China, there have been many cases of illegal immigration from China. Many of these people chose to come to Taiwan under the \"anti-communist hero\"(\u53cd\u5171\u7fa9\u58eb) context, and are seeking for better economic condition or more freedoms than they had in China. However, if Mainland Affairs Council doesn't find them with facts of dissident actions in China or immediate danger from the Chinese government, they would be deported back to China. Also, since Taiwan doesn't have Refugee Act at the moment, the Chinese dissidents in Taiwan usually don't have a legal status, and would only be able to stay in Taiwan under the status of \"detention alternatives\"(\u6536\u5bb9\u66ff\u4ee3). They might be deported back to China if they're casuing extra risks to the government and\/or breaking the laws.\nhttps:\/\/www.bbc.com\/zhongwen\/trad\/chinese-news-39641355\nhttps:\/\/www.bbc.com\/zhongwen\/trad\/chinese-news-56997296\nhttps:\/\/www.rti.org.tw\/news\/view\/id\/2085967",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            },
+            {
+                "number": "99",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Before 2020, there were private properties or public locations with PRC-made CCTV systems installed due to the competitive prices of the products. The well-known case was the Hikvision systems in the underground passages in Taichung City. According to the investigation of National Information and Communication Security Taskforce from January to March 2021, many public sectors and their outsource suppliers use Chinese hardwares. The majority of the Chinese hardwares are the drones and video recording devices from Da-Jiang Innovations; internet and video recording devices from TP-Link; and video recording devices from Hikvision. In 2022, the Public Construction Commission of the Executive Yuan released the letter to further regulate public procurement to exclude PRC citizens, companies and products in the process. ",
+                "evidence_urls": [
+                    "https:\/\/www.cna.com.tw\/news\/firstnews\/201907180155.aspx ",
+                    "https:\/\/nicst.ey.gov.tw\/Page\/8770AD7511CB8DC9\/fd432cc0-8dab-4412-8d60-87fa3fd57105 ",
+                    "https:\/\/web.archive.org\/web\/20220816230442\/",
+                    "https:\/\/planpe.pcc.gov.tw\/prms\/explainLetter\/readPrmsExplainLetterContentDetail?_csrf=aed93f77-6077-4f5a-8c91-074d1cce1e76"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 1 anonymous expert."
+            }
+        ]
+    },
+    "exposure_rank": 33,
+    "pressure_rank": 6,
+    "alignment_rank": 53
+}

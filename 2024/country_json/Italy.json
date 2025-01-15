@@ -1,0 +1,1131 @@
+{
+    "name": "Italy",
+    "partner": "Expert Forum (EFOR)",
+    "year": "Jul 2024",
+    "population": 59.56,
+    "GDP": "38,373.17",
+    "freemap": 90,
+    "freemap_status": "Free",
+    "freedom_index": 46,
+    "date_prc": "6-Nov-70",
+    "takeaway": [
+        "As a large, longstanding member of the EU, Italy has been permanently exposed to courting and\/or pressure from Beijing. Mass media is one sector where the influence is felt: free content provided by PRC found its way onto some channels, while in other cases journalists were banned from events. In Academia, there are high profile cases of individuals, some also with political connections, who provide institutional support for the PRC.",
+        "Law Enforcement remains a vulnerable area, as the extradition treaty with PRC is still in force. Chinese groups of organized crime are active, including members of the Triads, especially in the Prato and Rome regions. Shadow PRC police stations may function in Italy to monitor and coerce members of the diaspora, though the embassy says these are support operations staffed with volunteers.",
+        "PRC-related companies continue to be active in critical infrastructure, for instance in sea ports and telecoms, but their expansion has stopped and influence is likely to diminish as a results of measures taken at the EU level.",
+        "Italy left the Belt and Road Initative in 2023; before that, it was the only G7 country taking part in the Initiative. There has been a visible cooling of bilateral relations between Rome and Beijing lately, and signs of rapprochement with Taiwan."
+    ],
+    "description-1": "In 2023, Italy had a GDP per capita of US$38,373 and a total population of 59.56 million people.",
+    "description-2": "Italy established diplomatic relations with the People's Republic of China in 1970. Italy was ranked 46th in Reporters Without Borders' 2024 World Press Freedom Index, and rated 'Free' in Freedom House's 2024 Global Freedom Index, with a score of 90\/100.",
+    "original": "104\/388",
+    "ranking": "72",
+    "overall": "26.8%",
+    "exposure": "25%",
+    "pressure": "30%",
+    "alignment": "27%",
+    "answer": {
+        "Media": [
+            {
+                "number": "01",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There are multiple instances of pro-China media outlets operating in Italy, but they are all relatively small and insignificant in size. Therefore, this indicator deserves a 'Few' rating. In general, Italy scores highly in media and internet freedom, which likely reduces the impact of these outlets. Thus, this indicator deserves an 'Insignificant' rating.",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022",
+                    "https:\/\/theprint.in\/world\/breakup-of-italian-chinese-media-over-beijings-propaganda-raises-eyebrows\/1104141\/",
+                    "https:\/\/www.iai.it\/en\/news\/chinese-media-italy"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "02",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There are Cino-Italian owned publications or radio stations which seem to operate directly under the instructions of the Chinese Government. Therefore this Indactor deserves a \"Few\" rating. Italy is a country with high levels of media and internet freedom, with high levels of media resilience and media education. Therefore, this Indicator deserves an \"Insignificant\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022",
+                    "https:\/\/theprint.in\/world\/breakup-of-italian-chinese-media-over-beijings-propaganda-raises-eyebrows\/1104141\/",
+                    "https:\/\/www.iai.it\/en\/news\/chinese-media-italy"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "03",
+                "score": "0",
+                "grading": "1",
+                "evidence": "Nothing of the sort was found. Therefore the No rating. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "04",
+                "score": "0",
+                "grading": "1",
+                "evidence": "Nothing of the sort was found. Therefore the No rating. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "05",
+                "score": "1",
+                "grading": "1",
+                "evidence": "The\u00a0People\u2019s Daily\u00a0has an Italian version known as Quotidiano del Popolo Online, which was launched on September 1, 2021.\u00a0Cina in Italia,\u00a0a magazine in Chinese and Italian published by Chinese state news agency China News Service (CNS), is sold in newsstands and has been distributed widely in hotels, planes, and the Italian parliament.\u00a0Xinhua had offices in Rome and Milan as of 2021. There is some state-media activity in the local language, therefore this indicator deserves a \"Few\" and \"Insignificant\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022",
+                    "https:\/\/theprint.in\/world\/breakup-of-italian-chinese-media-over-beijings-propaganda-raises-eyebrows\/1104141\/",
+                    "https:\/\/www.iai.it\/en\/news\/chinese-media-italy"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "06",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There are certainly local media outlets that are owned by PRC or co-owned by Italian and PRC citizens or corporations, but they are minor in the overall media setting. Therefore, this Indicator deserves a \"Few\" and an \"Insignificant\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022",
+                    "https:\/\/theprint.in\/world\/breakup-of-italian-chinese-media-over-beijings-propaganda-raises-eyebrows\/1104141\/",
+                    "https:\/\/www.iai.it\/en\/news\/chinese-media-italy"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "07",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There are many instances when Italian media outlets used content provided by the PRC state-funded media, such as cooperations between Il Sole 24 Ore and Economic Daily, Mediaset and the CMG, etc, though these instances seem to have greatly reduced in quantity since 2021. Therefore, this Indicator deserves a \"Few\" and an \"Insignificant\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022#footnote51_ecq04lq"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "08",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no recent iteration of anything of the sort. \n",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022#footnote51_ecq04lq"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "09",
+                "score": "4",
+                "grading": "0",
+                "evidence": "There were a few cases of journalists reporting some sort of pressure, including in 2022, when the Foreign Correspondents\u2019 Club of China noted that Chinese authorities had refused to renew press credentials for at least one Italian journalist. Harassment was generally mild and quickly dissipated when journalists reacted publically. Therefore, the indicator deserves a \"Yes\" response. ",
+                "evidence_urls": [
+                    "https:\/\/www.ilfoglio.it\/esteri\/2019\/10\/24\/news\/huawei-tramples-its-employees-freedom-of-speech-a-confidential-document-reveals-282639\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "10",
+                "score": "2",
+                "grading": "1",
+                "evidence": "There are more than a few cases of journalists and media organizations that refer to China using words of friendship, though there is a general backlash against treating Chinese influence uncritically everywhere, therefore this indicator deserves the \"More than a few, insignificant\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "11",
+                "score": "2",
+                "grading": "1",
+                "evidence": "There have been some well-documented cases of media personalities and political elites who deny human rights abuses in the PRC, though they were generally immediately rebuked by the rest of the media. Also, it seems cases of such behavior have greatly reduced since 2021. Therefore, the Indicator deserves a \"More than a few\" and \"Insignificant\" rating. ",
+                "evidence_urls": [
+                    "http:\/\/www.xinhuanet.com\/english\/2021-07\/16\/c_1310063728.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            }
+        ],
+        "Foreign Policy": [
+            {
+                "number": "12",
+                "score": "4",
+                "grading": "0",
+                "evidence": "There is a bilateral friendship group with the PRC in the Italian Government that is attested by the Parliament's documentation. Therefore, this Indicator deserves a \"Yes\" response. ",
+                "evidence_urls": [
+                    "https:\/\/www.camera.it\/application\/xmanager\/projects\/leg18\/attachments\/upload_file_europaestero\/upload_files\/000\/000\/466\/UIP_SEZ_BIL_AMICIZIA_01_AGOSTO_2022.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "13",
+                "score": "0",
+                "grading": "1",
+                "evidence": "Apart from some botched operations during COVID, which were heavily criticized, no cases of the such were reported. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "14",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No reported cases. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "15",
+                "score": "0",
+                "grading": "0",
+                "evidence": "No reported cases. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "16",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Always difficult to prove absence, but the media does not report of anything of this type. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "17",
+                "score": "4",
+                "grading": "0",
+                "evidence": "A document outlining the Strengthening the Comprehensive Strategic Partnership was signed in March 2019 between the two states, even though Italy subsequently quit the Belt and Road Initiative and lessened relations with the PRC. While the name does exist, it is unclear to what extent this denomination has been of a heavy influence in Italy's foreign policy. Therefore, the indicator deserves a Yes rating. ",
+                "evidence_urls": [
+                    "https:\/\/www.mef.gov.it\/en\/inevidenza\/Joint-declaration-Italy-China-00001\/",
+                    "https:\/\/journals.sagepub.com\/doi\/10.1177\/13691481221127571"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "18",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Quite the opposite seems to be the case. Though Italy doesn't outright support Taiwan independence, there seem to be relatively strong and improving relations between the current Italian leadership and the Taiwanese government. ",
+                "evidence_urls": [
+                    "https:\/\/globaltaiwan.org\/2022\/11\/new-italian-government-signals-a-closer-relationship-with-taiwan\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "19",
+                "score": "0",
+                "grading": "2",
+                "evidence": "My country has rejected the PRC",
+                "evidence_urls": [
+                    "https:\/\/www.rappler.com\/nation\/114816-italy-support-ph-south-china-sea-row\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "20",
+                "score": "0",
+                "grading": "2",
+                "evidence": "My country has denounced the PRC",
+                "evidence_urls": [
+                    "https:\/\/www.osservatoriosette.com\/blog2\/post\/141961\/lo-xinjiang-e-il-genocidio-degli-uiguri-visti-dal-parlamento-italiano#!"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "21",
+                "score": "2",
+                "grading": "2",
+                "evidence": "My country has remained silent",
+                "evidence_urls": [
+                    "https:\/\/www.osservatoriosette.com\/blog2\/post\/141961\/lo-xinjiang-e-il-genocidio-degli-uiguri-visti-dal-parlamento-italiano#!"
+                ],
+                "note": "It could go either way, there is seemingly a rift between the Italian Parliament and the Italian executive. ",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "22",
+                "score": "2",
+                "grading": "2",
+                "evidence": "My country has remained silent",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/article\/us-china-italy-idUSKBN25L1LR",
+                    "https:\/\/thediplomat.com\/2020\/07\/which-countries-support-the-new-hong-kong-national-security-law\/"
+                ],
+                "note": "They are not among the signatories of the official reprieve against the National Security Law, but Italian officials have repeatedly expressed themselves critically about the National Security Law in Hong Kong. ",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            }
+        ],
+        "Academia": [
+            {
+                "number": "23",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Italian universities seem to have long engaged in some form of partnership with PRC-connected entities, especially Huawei. Even though these partnerships exist, they are increasingly scrutinized by Italian media and Italian civil society, including the university's own student bodies. ",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2144.pdf",
+                    "https:\/\/www.rainews.it\/archivio-rainews\/articoli\/Universita-e-start-up-per-Huawei-l-Italia-continua-ad-avere-un-ruolo-di-primo-piano-89a44804-8aa7-4473-8622-020f113b5aa0.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "24",
+                "score": "3",
+                "grading": "1",
+                "evidence": "There are many Confucius Institutes\/Classrooms that are functional and available in Italian universities, though they have been under intense scrutiny from civil society and the media. Therefore, the indicator warrants a \"Few and significant\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2144.pdf",
+                    "https:\/\/decode39.com\/4547\/confucius-institute-italy\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "25",
+                "score": "4",
+                "grading": "0",
+                "evidence": "There seems to be an important K12 interest in the study of Chinese Mandarin, but it is unclear to what extent this formal education is being delivered through professors and educational materials provided by the PRC. Therefore, this indicator deserves a \"Yes\" response. \nK12 education includes high schools, where most of the Chinese as a foreign language education is taking place. ",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2144.pdf",
+                    "https:\/\/www.istitutoconfucio.unimi.it\/aule-confucio\/poli-didattici\/",
+                    "https:\/\/www.corriere.it\/scuola\/studiare-e-lavorare-all-estero\/notizie\/boom-cinese-gli-studenti-italiani-null-5fba1e1a-a533-11e7-ac7b-c4dea2ad0535.shtml"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "26",
+                "score": "2",
+                "grading": "1",
+                "evidence": "There seem to be a few research centers in Italy which are affiliated or belong to PRC networks\/associations, though it is highly unlikely that their activity is directly controlled by PRC political interests. Therefore, this indicator deserves an \"Insignificant\" rating. ",
+                "evidence_urls": [
+                    "http:\/\/www.ucmsr.com\/meminfo\/71",
+                    "https:\/\/www.jstor.org\/stable\/pdf\/resrep32152.15.pdf",
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2144_it.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "27",
+                "score": "2",
+                "grading": "1",
+                "evidence": "There are quite a few think-tanks and academic research centers which have received grants from the PRC or PRC-connected entities, including Huawei. The Ministry of Education in Italy also lists grant opportunities for similar activities. In the end, it is unclear that these opportunities are used in a significant way for direct PRC-related propaganda. ",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2144.pdf",
+                    "https:\/\/fazieditore.it\/wp-content\/uploads\/2021\/03\/hamilton-domani.pdf",
+                    "https:\/\/www.miuristruzione.it\/4439-tirocini-in-cina-con-mise-huawei-e-miur-ecco-i-dettagli\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "28",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There is no direct indication of such participation, but considering the breadth of Sino-Italian academic cooperation, it is likely there are cases of experts who participate in such programs, though their number or significance is likely low. Therefore, this indicator deserves a \"Few\" and \"Insignificant\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2144_it.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "29",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Relevant news articles about such events seem to be from before 2020, but it is likely that such events have continued, especially under the patronage of Huawei. That said, such events have also been under increasing scrutiny from civil society and Italian media. ",
+                "evidence_urls": [
+                    "https:\/\/www.ingenio-web.it\/articoli\/huawei-offre-il-tirocinio-in-cina-per-10-laureandi-italiani-come-partecipare\/",
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2144_it.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "30",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There have been accusations in this direction, but they have generally been resisted well by the academic staff and students and brought to public debate. Greater fears exist about informal pressure or self-censorship of staff and student organizations. Therefore, this indicator deserves a \"Few\" and \"Insignificant\" rating. \nTo the best of my understanding, the CSSUI (https:\/\/www.cssui.org\/) is one of the venues that has been used to share content that could be considered harassing or censoring on issues of human rights abuses in the PRC. ",
+                "evidence_urls": [
+                    "https:\/\/www.asianews.it\/notizie-it\/Politecnico-di-Milano,-docente-cinese-a-studente-di-Taipei:-Taiwan-%C3%A8-Cina-55458.html",
+                    "https:\/\/www.cssui.org\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "31",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There are limited accounts of some form of pressure exerted on scholars or academics, but overall any incidents of this sort were minor and quickly criticized heavily, forcing any pressure to dissipate immediately. \nThe IAI report speaks of cooperation between academic institutions and businesses that were construed by the authors as a means of informal pressure on universities and departments to not produce or endorse positions critical of the PRC. It does not speak of any overt incident or circumstance, though. ",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2144.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "32",
+                "score": "4",
+                "grading": "0",
+                "evidence": "There are strong indications that there are secondary schools where Chinese language, culture and geography are studied with professors paid for directly by Confucius Institutes or PRC affiliated agencies. Therefore, this Indicator deserves a \"Yes\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2144_it.pdf",
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2144.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "33",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No indication of something of the type actually having happened. If there is something of the type happening, it is extremely limited in scope. ",
+                "evidence_urls": [
+                    "https:\/\/cinainitalia.com\/2023\/09\/21\/seminario-sui-diritti-umani-cina-europa-2023\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            }
+        ],
+        "Domestic Politics": [
+            {
+                "number": "34",
+                "score": "2",
+                "grading": "1",
+                "evidence": "There is an important pattern of political leaders especially signing agreements with the PRC government and agencies. Therefore, this indicator deserves a \"More than a few\" rating. Concurrently, most of these political leaders are at most secondary leaders in their own political organizations, with little influence. Further, starting with 2022, there seems to be a fair consensus among political parties (especially right-wing parties) regarding prudence in Italy's relationship with the PRC. Therefore, this indicator deserves an \"Insignificant\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/sinopsis.cz\/wp-content\/uploads\/2021\/11\/it0.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "35",
+                "score": "2",
+                "grading": "1",
+                "evidence": "While this happens, since Italian cities participating tend to be richer and more developed, it hardly seems to form a significant influence over local domestic politics. ",
+                "evidence_urls": [
+                    "https:\/\/cinainitalia.com\/2020\/06\/25\/cina-italia-guiyang-e-vicenza-saranno-gemellate\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "36",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There is an important pattern of political figures having taken multiple trips to the PRC (especially in the Tibet and Xianjing areas) paid by PRC-affiliated individuals and entities. Therefore, this indicator deserves a \"More than a few\" rating. Still, these political figures are largely unimportant in the broader political environment. Starting 2022 there seems to be a wider agreement among parties to resist PRC influence. Therefore, this indicator deserves an \"Insignificant\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/sinopsis.cz\/wp-content\/uploads\/2021\/11\/it0.pdf",
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "37",
+                "score": "2",
+                "grading": "1",
+                "evidence": "It does seem to happen, though also seems to be relatively insignificant overall. \nThe Brookings report outlines a history of visits and meetings between PRC and Italian politicians and government employees that have taken place in recent years. The report also shows that while these meetings did take place, the positions taken by Italian leaders have been contained and not overly positive toward their counterparts. The SINOPSIS report features only information and analysis of Italian local\/non-national politicians and government employees interacting with the PRC, how these interactions have fared and how they could evolve in the future. ",
+                "evidence_urls": [
+                    "https:\/\/www.brookings.edu\/wp-content\/uploads\/2020\/05\/FP_20200519_playing_with_fire.pdf",
+                    "https:\/\/sinopsis.cz\/wp-content\/uploads\/2021\/11\/it0.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "38",
+                "score": "0",
+                "grading": "1",
+                "evidence": "I couldn't find any evidence of this. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "39",
+                "score": "2",
+                "grading": "1",
+                "evidence": "There are some reports of Italian political leaders who have received some sort of donations from PRC-affiliated sources, though they are somewhat contentious. Therefore, this indicator deserves a \"More than a few\" rating. On the other hand, Italian campaign funding rules are somewhat strong and resilient, therefore systematic funding of Italian political leaders by PRC-affiliated sources is unlikely. Therefore, this indicator deserves the \"Insignificant\" rating. \n",
+                "evidence_urls": [
+                    "https:\/\/www.liberoquotidiano.it\/news\/politica\/29518428\/cina-parlamentari-ordini-dragone-dossier-nomi.html",
+                    "https:\/\/www.affaritaliani.it\/politica\/renzi-i-soldi-cinesi-dalla-matteo-pr-quei-bonifici-ripetitivi-da-8-33-779028.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "40",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Italy seems to be registering some activity of the China Soong Ching Ling Foundation (an affiliate of the UFWD), including a major donation of masks during the COVID-19 pandemic and some disparate fundraising activities. Therefore this indicator deserves a \"Few\" rating. On the other hand, these activities were generally heavily criticized in the media and have come under significant scrutiny, especially in recent years. Therefore, this indicator deserves an \"Insignificant\" rating. \n",
+                "evidence_urls": [
+                    "https:\/\/sinopsis.cz\/wp-content\/uploads\/2021\/11\/it0.pdf",
+                    "https:\/\/foreignpolicy.com\/2022\/09\/27\/italy-china-russia-right\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "41",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No evidence of this. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "42",
+                "score": "2",
+                "grading": "1",
+                "evidence": "There are numerous cases of Italian political leaders who have publically expressed positive views of the PRC government or have repeated PRC narratives. Therefore, this indicator deserves a \"More than a few\" rating. On the other hand, since 2022 there seems to be growing reluctance from more important political figures to echo these narratives. Therefore, the indicator deserves an \"Insignificant\" rating. \n",
+                "evidence_urls": [
+                    "https:\/\/sinopsis.cz\/wp-content\/uploads\/2021\/11\/it0.pdf",
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022",
+                    "https:\/\/foreignpolicy.com\/2022\/09\/27\/italy-china-russia-right\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "43",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There are cases of former political leaders, MPs or ambassadors who seem to have been employed in PRC-affiliated entities during their activity or in retirement from public office. Therefore, this indicator deserves a \"Few\" rating. This situation seems to be somewhat limited in scope and importance of the leaders. Therefore, this indicator deserves an \"Insignificant\" rating. \n",
+                "evidence_urls": [
+                    "https:\/\/sinopsis.cz\/wp-content\/uploads\/2021\/11\/it0.pdf ",
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "44",
+                "score": "0",
+                "grading": "1",
+                "evidence": "No evidence of this. \n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            }
+        ],
+        "Economy": [
+            {
+                "number": "45",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the indicator phenomenon. ",
+                "evidence_urls": [
+                    "https:\/\/oec.world\/en\/profile\/country\/ita\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "46",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Less than 10% of Italian debt is owed to non-EU member countries\/entities. \n",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2118_it.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "47",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the indicator phenomenon. ",
+                "evidence_urls": [
+                    "https:\/\/www.research.unicredit.eu\/DocsKey\/fxfistrategy_docs_2019_170284.ashx?EXT=pdf&KEY=KZGTuQCn4lsvclJnUgseVEGHysWJl2NsEwG0xblWxFK9BVQAB4eryA==&T=1"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "48",
+                "score": "4",
+                "grading": "0",
+                "evidence": "PRC control is especially significant in Italian ports, with a substantial share of PRC companies in ports in Liguria and other areas. That said, the European Commission has recently increased its focus on potential critical infrastructure threats brought by PRC ownership, which has significantly reduced the PRC's scope for growth in the future. Therefore, this indicator deserves a \"Yes\" response, though risks related to this item are likely mitigated. \n",
+                "evidence_urls": [
+                    "https:\/\/www.europarl.europa.eu\/RegData\/etudes\/ATAG\/2023\/739367\/EPRS_ATA(2023)739367_EN.pdf",
+                    "https:\/\/www.intelligenceonline.com\/international-dealmaking\/2022\/03\/23\/palermo-resisting-beijing-s-grip-on-italian-ports,109762612-art",
+                    "https:\/\/thepeoplesmap.net\/peoples-map-of-global-china\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "49",
+                "score": "4",
+                "grading": "0",
+                "evidence": "Italy is a member, therefore this Indicator deserves a \"Yes\" response. As a mitigating factor, it is unclear to what extent Italy uses the AIIB's services or is in any way influenced by this membership. ",
+                "evidence_urls": [
+                    "https:\/\/www.aiib.org\/en\/about-aiib\/governance\/members-of-bank\/index.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "50",
+                "score": "0",
+                "grading": "0",
+                "evidence": "The meaning of major businesses is debatable, but there seems to be no mention of companies of note that are members in these Commercial associations, even less so now that Italy is withdrawing from the Belt and Road initiative. ",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2140.pdf",
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2118.pdf",
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2118.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "51",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Italy and Italian financial institutions do not use this service. \n",
+                "evidence_urls": [
+                    "https:\/\/www.cips.com.cn\/en\/participants\/participants_announcement\/index.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "52",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the indicator phenomenon and I'm not sure this indicator is applicable to Italy. \n",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022",
+                    "https:\/\/sinopsis.cz\/wp-content\/uploads\/2021\/11\/it0.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "53",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the indicator phenomenon and I'm not sure this indicator is applicable to Italy. \n",
+                "evidence_urls": [
+                    "https:\/\/policy.trade.ec.europa.eu\/eu-trade-relationships-country-and-region\/countries-and-regions\/china_en"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "54",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the indicator phenomenon and I'm not sure this indicator is applicable to Italy. ",
+                "evidence_urls": [
+                    "https:\/\/www.agenziacoesione.gov.it\/zes-zone-economiche-speciali\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "55",
+                "score": "0",
+                "grading": "0",
+                "evidence": "No. \n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            }
+        ],
+        "Technology": [
+            {
+                "number": "56",
+                "score": "4",
+                "grading": "0",
+                "evidence": "China Mobile has working capacity on the Italian telecom market, among many many other service providers. Therefore, this indicator deserves a \"Yes\" response. ",
+                "evidence_urls": [
+                    "https:\/\/www.mvnonews.com\/2021\/03\/04\/china-mobile-cmlink-debutta-in-italia\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "57",
+                "score": "0",
+                "grading": "1",
+                "evidence": "The government has repeatedly blocked any such initiative and will likely continue to do so. ",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2152.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "58",
+                "score": "1",
+                "grading": "1",
+                "evidence": "While there are a few internet service providers who seem to be sourcing their equipment from PRC entreprises, the government is pressuring them to renew their agreements and source their equipment from somewhere else, especially due to US and EU pressure. ",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2152.pdf",
+                    "https:\/\/www.ansa.it\/innovazione_5g\/notizie\/tecnologia\/2021\/10\/06\/internet-provideroperatori-nazionali-sono-asset-strategico_79b84c2c-1f05-4cef-bbac-bb390b63c60e.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "59",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Italy had an embarassing case of a PRC-affiliated company buying an Italian military equipment provider without the government's intervention. The Draghi government used the EU regulation of Golden Powers to retroactively refuse to certify the take-over. Both Italian civil society and EU partners seem to be sensitive to such a possibility, therefore we need to mark this Indicator as \"No\". ",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2152.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "60",
+                "score": "0",
+                "grading": "1",
+                "evidence": "Apart from not observing any information regarding such a phenomenon, Italy is also a member of the EU, which is governed by extremely strict privacy standards, which would make it unlikely for such services to be provided by companies not based in the EU. Further, Italy seems to not be extremely advanced in biometric data collection. ",
+                "evidence_urls": [
+                    "https:\/\/innovazione.tiscali.it\/news\/articoli\/raccolta-dei-dati-biometrici-per-i-cinesi-ormai-e-un-incubo-va-meglio-in-italia\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "61",
+                "score": "1",
+                "grading": "1",
+                "evidence": "Italy is investing extensively in \"smart cities\" through the PNRR EU-funding scheme. There are some allegations that Huawei may be implicated in some of these investments, but all of these date from before 2021, when the government seems to have taken a clearer and more decided position to sideline Huawai in such endeavors. Therefore, this indicator deserves a \"Few\" and \"Insignificant\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/www.snewsonline.com\/smart-city-nel-pnrr-10-miliardi-28-comuni-italiani-ha-almeno-un-progetto\/",
+                    "https:\/\/www.ipresslive.it\/comunicates\/26432\/smart-city-for-intelligent-life-accordo-tra-huawei-e-lassociazione-italia-startup"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "62",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "63",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There are cases of PRC-connected companies and agencies that invest in technology start-ups in Italy, therefore the indicator deserves a \"Few\" rating. On the other hand, there is a clear EU policy to offer precedence to EU investors for promising tech start-ups, which Italian companies seem to take advantage of. Therefore, the indicator deserves an \"Insignificant\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/www.wired.it\/economia\/start-up\/2021\/09\/17\/startup-cina-finanziamenti-europa-mappa\/",
+                    "https:\/\/www.wired.it\/article\/startup-fondo-unicorni-europa\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "64",
+                "score": "1",
+                "grading": "1",
+                "evidence": "While there are some companies that have announced, at various moments in time, MOUs to cooperate with PRC-connected entities on technological development, no such announcements have occurred in recent years, especially since the Italian government and the European Commission have started investigating PRC involvement in such issues in member states. Therefore, the indicator deserves a \"Few\" and \"Insignificant\" rating. ",
+                "evidence_urls": [
+                    "http:\/\/www.lucidamente.com\/49203-perche-laccordo-huawei-unibo-sullia-desta-molte-perplessita\/",
+                    "https:\/\/www.iai.it\/en\/pubblicazioni\/china-italy-risk-assessment-and-preventive-solutions",
+                    "https:\/\/www.corriere.it\/economia\/consumi\/22_febbraio_28\/huawei-pay-italia-accordo-intesa-bancomat-pagamenti-contactless-b6cc876a-987c-11ec-899b-30de360aaa79.shtml"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "65",
+                "score": "0",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "66",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Nothing of the sort, Italy is a EU member country and uses the Galileo satellite navigation system. ",
+                "evidence_urls": [
+                    "https:\/\/ec.europa.eu\/defence-industry-space\/eu-space-policy\/galileo\/galileo-system_en"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            }
+        ],
+        "Society": [
+            {
+                "number": "67",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There are such organizations, but their influence is small and they are generally heavily scrutinized by the media and civil society. Therefore, this indicator deserves a \"Few\" and \"Insignificant\" rating. \nThe SINOPSIS report outlines the existence and activity of groups and organizations tied to the PRC (and frequently take apologetic positions regarding Taiwan, Hong Kong, Tibet, etc). The report very clearly explains that while these organizations exist and are active in Italy, their clout and influence is limited. ",
+                "evidence_urls": [
+                    "https:\/\/sinopsis.cz\/wp-content\/uploads\/2021\/11\/it0.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "68",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Membership is not mentioned on the official UWCA website. ",
+                "evidence_urls": [
+                    "http:\/\/www.uwca.net\/member.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "69",
+                "score": "0",
+                "grading": "0",
+                "evidence": "No Italian trade union has spoken of any sort of engagement or connection with PRC--related entities in the last 10 years, while the larger Italian trade unions have been somewhat critical of the PRC at times. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "70",
+                "score": "2",
+                "grading": "1",
+                "evidence": "Many Chinese diaspora community events seem to be funded or chaired by PRC or UFWD-affiliated personnel, though it is unclear at this point how significant these interactions are, especially in an environment with clear diversity of media. In recent years, diplomatic activity in connection to diaspora events seems to have faltered slightly, therefore this indicator deserves the \"More than a few\" and the \"Insignificant\" ratings. \nThe SINOPSIS report names some of the organizations that are funded by the UFWD and their affiliate activities in Italy, especially in chapter 1.5. ",
+                "evidence_urls": [
+                    "https:\/\/sinopsis.cz\/wp-content\/uploads\/2021\/11\/it0.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "71",
+                "score": "skip",
+                "evidence": "Though some engagement does seem to exist, these connections are definitely not publicized, therefore it would be impossible to say for sure. I would prefer to skip this question. ",
+                "evidence_urls": [
+                    "https:\/\/sinopsis.cz\/wp-content\/uploads\/2021\/11\/it0.pdf",
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "72",
+                "score": "4",
+                "grading": "0",
+                "evidence": "",
+                "evidence_urls": [
+                    "https:\/\/global.chinadaily.com.cn\/a\/202310\/18\/WS652fff2ca31090682a5e9592.html"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "73",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no indication this phenomenon is taking place. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "74",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Tik-tok seems to be number 5 in the Italian ranking of favourite social media platforms, with around 3.4% of users saying it is their favourite. On the other hand, Tik-Tok is not top 5 in terms of social media that is most used. Therefore, this indicator deserves a \"No\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/www.franzrusso.it\/condividere-comunicare\/social-media-italia-2022\/",
+                    "https:\/\/blogmeter.it\/scaricaitalianiesocialmedia22\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "75",
+                "score": "0",
+                "grading": "1",
+                "evidence": "Never heard of anything of the sort. ",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "76",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.\n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "77",
+                "score": "0",
+                "grading": "0",
+                "evidence": "Public opinion regarding the PRC is mostly negative and seems to be on a negative trend. Therefore, the indicator deserves the \"No\" rating. ",
+                "evidence_urls": [
+                    "https:\/\/freedomhouse.org\/country\/italy\/beijings-global-media-influence\/2022"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            }
+        ],
+        "Military": [
+            {
+                "number": "78",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no indication of such a phenomenon and due to Italy's NATO membership, it is likely impossible. ",
+                "evidence_urls": [
+                    "https:\/\/www.esercito.difesa.it\/equipaggiamenti\/Armamento-leggero-e-supporto-di-fuoco\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "79",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.\n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "80",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no indication of such cooperation and it is highly unlikely something like this would be accepted by the current government in Italy. Further, it would more likely be rescidended, similar to the Golden Powers case. Therefore, the indicator deserves a \"No\" rating.\n",
+                "evidence_urls": [
+                    "https:\/\/first.art-er.it\/_aster_\/viewNews\/46950\/italia-cina-online-il-piano-d-azione-per-il-2025"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "81",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.\n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "82",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no indication of such a phenomenon and due to Italy's NATO membership, it is likely impossible. \n",
+                "evidence_urls": [
+                    "https:\/\/www.nato.int\/cps\/en\/natohq\/nato_countries.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "83",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.\n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "84",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no indication of such a phenomenon and due to Italy's NATO membership, it is likely impossible. \n",
+                "evidence_urls": [
+                    "https:\/\/www.nato.int\/cps\/en\/natohq\/nato_countries.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "85",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.\n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "86",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.\n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "87",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.\n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "88",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no indication of such a phenomenon and due to Italy's NATO membership, it is likely impossible. \n",
+                "evidence_urls": [
+                    "https:\/\/www.nato.int\/cps\/en\/natohq\/nato_countries.htm"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            }
+        ],
+        "Law Enforcement": [
+            {
+                "number": "89",
+                "score": "4",
+                "grading": "0",
+                "evidence": "The website of the Italian Justice system confirms that Italy maintains an extradition treaty and ancillary arrangements with the PRC, therefore the indicator deserves a \"Yes\" rating. \n",
+                "evidence_urls": [
+                    "https:\/\/www.giustizia.it\/giustizia\/it\/mg_1_3.page?tabait=y&tab=a&aia=AIA1199503&detail=y"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "90",
+                "score": "skip",
+                "evidence": "While there seems to be some form of signed agreement between the Italian Ministry of Internal Affairs and its PRC correspondent, investigative journalists describe how Italian police investigations of organized crime in Italian provinces with large PRC population are conducted in cooperation with American authorities, not PRC institutions. It is likely in this circumstance that potential signed cooperation agreements are ignored or not functional. \n",
+                "evidence_urls": [
+                    "https:\/\/www.interno.gov.it\/it\/notizie\/italia-cina-piu-collaborazione-nel-contrasto-criminalita-transnazionale",
+                    "https:\/\/www.propublica.org\/article\/how-beijing-chinese-mafia-europe-protect-interests",
+                    "https:\/\/www.agi.it\/cronaca\/news\/2023-05-30\/ndrangheta-cina-riciclaggio-droga-soldi-21611989\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "91",
+                "score": "4",
+                "grading": "0",
+                "evidence": "There are many indications that PRC-connected organized crime is active in Italy, especially in the Prato and Rome regions. Therefore, this indicator deserves a \"Yes\" response. \n",
+                "evidence_urls": [
+                    "https:\/\/www.propublica.org\/article\/how-beijing-chinese-mafia-europe-protect-interests",
+                    "https:\/\/thediplomat.com\/2023\/02\/chinas-transnational-repression-and-modern-slavery-in-italy\/",
+                    "https:\/\/www.agi.it\/cronaca\/news\/2023-05-30\/ndrangheta-cina-riciclaggio-droga-soldi-21611989\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "92",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no observation of the Indicator phenomenon.\n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "93",
+                "score": "0",
+                "grading": "1",
+                "evidence": "There is no indication of such events ever occurring and it is highly unlikely given the relatively high capacity and institutional independence of the Italian government. \n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "94",
+                "score": "1",
+                "grading": "1",
+                "evidence": "There is a significant presence of Triad activity in Italy, some of it has been reported to manifest with repression, but this is almost exclusively restricted to the immigrant Chinese population. \n",
+                "evidence_urls": [
+                    "https:\/\/www.occrp.org\/en\/investigations\/murder-drugs-and-extortion-in-tuscanys-chinese-underworld",
+                    "https:\/\/thediplomat.com\/2023\/02\/chinas-transnational-repression-and-modern-slavery-in-italy\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "95",
+                "score": "4",
+                "grading": "0",
+                "evidence": "More than anything else, there are allegations, especially coming from US institutions, regarding threats or cyberattacks coming from PRC-affiliated sources. Therefore, the indicator deserves a \"Few\" and \"Insignificant\" rating. \n",
+                "evidence_urls": [
+                    "https:\/\/www.iai.it\/sites\/default\/files\/iaip2152.pdf"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "96",
+                "score": "4",
+                "grading": "0",
+                "evidence": "There are some reports of up to 11 Shadow\/Unofficial PRC police stations in Italy. The Italian government has started to decouple from joint police patrols and has issued signals that such unofficial police stations may be treated as against the law, to which the PRC embassy has responded that these police stations are manned by Chinese speaking volunteers and are completely independent from PRC institutions. \n",
+                "evidence_urls": [
+                    "https:\/\/www.politico.eu\/article\/italy-hosts-most-illegal-chinese-police-stations-worldwide-report\/",
+                    "https:\/\/www.reuters.com\/world\/italy-stops-joint-police-patrols-with-china-interior-minister-2022-12-19"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "97",
+                "score": "0",
+                "grading": "0",
+                "evidence": "While some isolated cases have been reported in the past, it is unlikely that anything of the kind would still occur post 2020 in Italy. \n",
+                "evidence_urls": [
+                    "https:\/\/www.reuters.com\/article\/us-china-italy-xinjiang-idUSKBN1AD16Z\/"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "98",
+                "score": "0",
+                "grading": "0",
+                "evidence": "There is no observation of the Indicator phenomenon.\n",
+                "evidence_urls": [],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            },
+            {
+                "number": "99",
+                "score": "4",
+                "grading": "0",
+                "evidence": "While there seem to be some cases of deplayed video or internet surveillance sourced from the PRC, it is unclear to what extent these services were continued even after the Draghi government decision to discontinue cooperation with Huawei or closely monitor it. Therefore, the indicator deserves a \"Yes\" rating, though it is followed by a relatively low confidence rating. \n",
+                "evidence_urls": [
+                    "https:\/\/www.milanofinanza.it\/news\/tecnologie-huawei-per-l-ecosistema-alert-alla-polizia-su-attivita-illegali-202111231314046829"
+                ],
+                "note": "",
+                "answerer": "Answered by 1 anonymous expert, and has been reviewed by another 2 anonymous experts."
+            }
+        ]
+    },
+    "exposure_rank": 77,
+    "pressure_rank": 20,
+    "alignment_rank": 64
+}
