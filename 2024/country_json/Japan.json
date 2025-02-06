@@ -4,6 +4,10 @@
     "year": "Jun 2024",
     "population": 124.67,
     "GDP": "33,834.39",
+    "additional_partner": [
+        "Ryohei Suzuki",
+        "Yuki Moritani"
+    ],
     "freemap": 96,
     "freemap_status": "Free",
     "freedom_index": 70,
