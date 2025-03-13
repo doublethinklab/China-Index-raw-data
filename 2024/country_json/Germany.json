@@ -17,7 +17,7 @@
     "description-1": "In 2023, Germany had a GDP per capita of US$52,746 and a total population of 84.40 million people.",
     "description-2": "Germany established full diplomatic relations with the People's Republic of China in 1972. Germany was ranked 10th in Reporters Without Borders\u2018 2024 World Press Freedom Index, and rated Free in Freedom House\u2018s 2024 Global Freedom Index, with a score of 93\/100.",
     "original": "188\/396",
-    "ranking": "20",
+    "ranking": "22",
     "overall": "47.5%",
     "exposure": "52%",
     "pressure": "75%",
@@ -1098,7 +1098,7 @@
             }
         ]
     },
-    "exposure_rank": 18,
+    "exposure_rank": 20,
     "pressure_rank": 3,
-    "alignment_rank": 68
+    "alignment_rank": 71
 }
