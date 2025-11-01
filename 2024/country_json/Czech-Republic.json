@@ -8,10 +8,10 @@
     "freemap": 94,
     "freemap_status": "Free",
     "freedom_index": 17,
-    "date_prc": "6-Oct-49",
+    "date_prc": "6-Oct-93",
     "takeaway": [],
-    "description-1": "In 2023, Czech-Republic had a GDP per capita of US$30,427 and a total population of 10.83 million people.",
-    "description-2": "Czech-Republic established full diplomatic relations with the People's Republic of China in 1949. Czech-Republic was ranked 17th in Reporters Without Borders\u2018 2024 World Press Freedom Index, and rated Free in Freedom House\u2018s 2024 Global Freedom Index, with a score of 94\/100.",
+    "description-1": "In 2023, Czech Republic had a GDP per capita of US$30,427 and a total population of 10.83 million people.",
+    "description-2": "Czech Republic established full diplomatic relations with the People's Republic of China in 1993. Czech Republic was ranked 17th in Reporters Without Borders\u2018 2024 World Press Freedom Index, and rated Free in Freedom House\u2018s 2024 Global Freedom Index, with a score of 94\/100.",
     "original": "86\/396",
     "ranking": "83",
     "overall": "21.7%",
@@ -292,7 +292,7 @@
                 "number": "24",
                 "score": "1",
                 "grading": "1",
-                "evidence": "As the Confucius Institute in Palace University (Olomouc) was closed in 2023, the Confucius institute at Vysok\u00e1 kola finan\u010dn\u00ed a spr\u00e1vn\u00ed (Praha) remains the only one in the Czech Republic. There are two Confucius Classrooms, one in Vysok\u00e1 kola technick\u00e1 a ekonomick\u00e1 (\u010cesk\u00e9 Bud\u011bjovice), and Technick\u00e1 univerzita (Ostrava).",
+                "evidence": "As the Confucius Institute at the Palack\u00fd University (Olomouc) was closed in 2023, the Confucius Institute at the Vysok\u00e1 \u0161kola finan\u010dn\u00ed a spr\u00e1vn\u00ed (Prague) remains the only one in the Czech Republic. There are two Confucius Classrooms, one at Vysok\u00e1 \u0161kola technick\u00e1 a ekonomick\u00e1 (\u010cesk\u00e9 Bud\u011bjovice) and one at Technick\u00e1 univerzita (Ostrava).",
                 "evidence_urls": [
                     "https:\/\/www.konfucius-vsfs.cz\/",
                     "https:\/\/www.irozhlas.cz\/zpravy-domov\/univerzita-palackeho-cina-konec-spoluprace-smlouva-konfuciuv-institut-bezpecnost_2301031332_kac",
@@ -324,7 +324,7 @@
                 "number": "27",
                 "score": "0",
                 "grading": "1",
-                "evidence": "Milo\u0161 Balab\u00e1n, Czech Social Democratic Party (a former government party) security expert and formerly of Charles University's Centre for Security Policy and university's Czech-Chinese centre, received funds for his China-related lectures from the PRC embassy. He did so without notifying the university as he received the funds through his private company which shared its name with the Centre for Security Policy. The center is closed since 2019.",
+                "evidence": "Milo\u0161 Balab\u00e1n, a security expert for the Czech Social Democratic Party (a former ruling party) and previously affiliated with the Center for Security Policy at Charles University and the university\u2019s Czech-Chinese Center, received funding from the Chinese Embassy for his China-related lectures. He accepted the funds through his private company, which shared its name with the Center for Security Policy, without informing the university. The center itself has been closed since 2019.",
                 "evidence_urls": [
                     "https:\/\/sinopsis.cz\/wp-content\/uploads\/2019\/11\/ep.pdf"
                 ],
@@ -378,7 +378,7 @@
                 "number": "32",
                 "score": "0",
                 "grading": "0",
-                "evidence": "Milo\u0161 Balab\u00e1n, Czech Social Democratic Party (a former government party) security expert and formerly of Charles University's Centre for Security Policy and university's Czech-Chinese centre, received funds for his China-related lectures from the PRC embassy. He did so without notifying the university as he received the funds through his private company which shared its name with the Centre for Security Policy. The Centre was running several classes. The center is closed since 2019.",
+                "evidence": "Milo\u0161 Balab\u00e1n, a security expert for the Czech Social Democratic Party (a former ruling party) and previously affiliated with the Center for Security Policy at Charles University and the university\u2019s Czech-Chinese Center, received funding from the Chinese Embassy for his China-related lectures. He accepted the funds through his private company, which shared its name with the Center for Security Policy, without informing the university. The center itself has been closed since 2019.",
                 "evidence_urls": [
                     "https:\/\/sinopsis.cz\/wp-content\/uploads\/2019\/11\/ep.pdf"
                 ],
@@ -640,7 +640,7 @@
                 "number": "57",
                 "score": "4",
                 "grading": "1",
-                "evidence": "All the telecoms operating use the Huawei components in their cellular networks, Vodafone uses them even in the core network.",
+                "evidence": "All telecom operators use Huawei components in their mobile networks, and Vodafone even uses them in its core network.",
                 "evidence_urls": [
                     "https:\/\/www.irozhlas.cz\/veda-technologie\/technologie\/huawei-mobilni-operator-nukib-zakon_2310040744_ako"
                 ],
@@ -651,7 +651,7 @@
                 "number": "58",
                 "score": "4",
                 "grading": "1",
-                "evidence": "According to its own words, Huawei is cooperating with all the major internet providers in the Czech Republic. While the major providers are reluctantly moving toward getting rid of Huawei components, smaller providers are still dependent on Huawei technologies.",
+                "evidence": "According to Huawei, the company works with all major internet providers in the Czech Republic. While larger providers have been gradually phasing out Huawei components, smaller providers remain dependent on the company\u2019s technologies.",
                 "evidence_urls": [
                     "https:\/\/www.5gvcesku.cz\/cs\/pribeh-huawei.html",
                     "https:\/\/www.e15.cz\/byznys\/technologie-a-media\/ceske-firmy-se-dobrovolne-zbavuji-huawei-a-cinskych-technologii-obavaji-se-mozneho-zakazu-1397999",
@@ -1033,7 +1033,7 @@
                 "number": "96",
                 "score": "4",
                 "grading": "0",
-                "evidence": "There were two police stations in Prague, one connected to the Qingtian authorities and one connected to Xiamen authorities. However, any major case of direct policing is known.",
+                "evidence": "There were two police stations in Prague, one connected to the Qingtian authorities and one connected to Xiamen authorities. However, no major cases of direct policing are known.\n\n",
                 "evidence_urls": [
                     "https:\/\/sinopsis.cz\/en\/beijing-sets-up-police-stations-in-the-czech-republic\/"
                 ],
