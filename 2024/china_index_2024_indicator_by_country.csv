@@ -77,7 +77,7 @@
 01,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 01,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 01,1,,Malaysia,4,"East & Southeast Asia",Exposure
-01,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+01,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 01,1,,Argentina,0,"South America",Exposure
 01,1,,Uruguay,0,"South America",Exposure
 01,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -178,7 +178,7 @@
 02,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 02,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 02,1,,Malaysia,1,"East & Southeast Asia",Exposure
-02,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+02,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 02,1,,Argentina,3,"South America",Exposure
 02,1,,Uruguay,3,"South America",Exposure
 02,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -279,7 +279,7 @@
 03,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 03,1,,"Democratic Republic of the Congo",2,"Sub-Saharan Africa",Exposure
 03,1,,Malaysia,3,"East & Southeast Asia",Exposure
-03,1,,"Timor Leste",3,"East & Southeast Asia",Exposure
+03,1,,Timor-Leste,3,"East & Southeast Asia",Exposure
 03,1,,Argentina,4,"South America",Exposure
 03,1,,Uruguay,1,"South America",Exposure
 03,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -380,7 +380,7 @@
 04,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 04,1,,"Democratic Republic of the Congo",2,"Sub-Saharan Africa",Exposure
 04,1,,Malaysia,1,"East & Southeast Asia",Exposure
-04,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+04,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 04,1,,Argentina,4,"South America",Exposure
 04,1,,Uruguay,4,"South America",Exposure
 04,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -481,7 +481,7 @@
 05,1,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 05,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 05,1,,Malaysia,3,"East & Southeast Asia",Exposure
-05,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+05,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 05,1,,Argentina,3,"South America",Exposure
 05,1,,Uruguay,1,"South America",Exposure
 05,1,,"El Salvador",3,"Central America & Caribbean",Exposure
@@ -582,7 +582,7 @@
 06,1,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 06,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 06,1,,Malaysia,3,"East & Southeast Asia",Exposure
-06,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+06,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 06,1,,Argentina,0,"South America",Exposure
 06,1,,Uruguay,0,"South America",Exposure
 06,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -683,7 +683,7 @@
 07,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 07,1,,"Democratic Republic of the Congo",3,"Sub-Saharan Africa",Exposure
 07,1,,Malaysia,4,"East & Southeast Asia",Exposure
-07,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+07,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 07,1,,Argentina,3,"South America",Exposure
 07,1,,Uruguay,0,"South America",Exposure
 07,1,,"El Salvador",1,"Central America & Caribbean",Exposure
@@ -784,7 +784,7 @@
 08,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 08,1,,"Democratic Republic of the Congo",NA,"Sub-Saharan Africa",Exposure
 08,1,,Malaysia,1,"East & Southeast Asia",Exposure
-08,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+08,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 08,1,,Argentina,2,"South America",Exposure
 08,1,,Uruguay,4,"South America",Exposure
 08,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -885,7 +885,7 @@
 09,0,,Zimbabwe,4,"Sub-Saharan Africa",Pressure
 09,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Pressure
 09,0,,Malaysia,4,"East & Southeast Asia",Pressure
-09,0,,"Timor Leste",0,"East & Southeast Asia",Pressure
+09,0,,Timor-Leste,0,"East & Southeast Asia",Pressure
 09,0,,Argentina,0,"South America",Pressure
 09,0,,Uruguay,0,"South America",Pressure
 09,0,,"El Salvador",0,"Central America & Caribbean",Pressure
@@ -986,7 +986,7 @@
 10,1,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 10,1,,"Democratic Republic of the Congo",3,"Sub-Saharan Africa",Alignment
 10,1,,Malaysia,4,"East & Southeast Asia",Alignment
-10,1,,"Timor Leste",4,"East & Southeast Asia",Alignment
+10,1,,Timor-Leste,4,"East & Southeast Asia",Alignment
 10,1,,Argentina,1,"South America",Alignment
 10,1,,Uruguay,0,"South America",Alignment
 10,1,,"El Salvador",1,"Central America & Caribbean",Alignment
@@ -1087,7 +1087,7 @@
 11,1,,Zimbabwe,2,"Sub-Saharan Africa",Alignment
 11,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 11,1,,Malaysia,1,"East & Southeast Asia",Alignment
-11,1,,"Timor Leste",0,"East & Southeast Asia",Alignment
+11,1,,Timor-Leste,0,"East & Southeast Asia",Alignment
 11,1,,Argentina,0,"South America",Alignment
 11,1,,Uruguay,0,"South America",Alignment
 11,1,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -1188,7 +1188,7 @@
 12,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 12,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 12,0,,Malaysia,4,"East & Southeast Asia",Exposure
-12,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+12,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 12,0,,Argentina,4,"South America",Exposure
 12,0,,Uruguay,4,"South America",Exposure
 12,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -1289,7 +1289,7 @@
 13,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 13,1,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 13,1,,Malaysia,4,"East & Southeast Asia",Exposure
-13,1,,"Timor Leste",4,"East & Southeast Asia",Exposure
+13,1,,Timor-Leste,4,"East & Southeast Asia",Exposure
 13,1,,Argentina,4,"South America",Exposure
 13,1,,Uruguay,1,"South America",Exposure
 13,1,,"El Salvador",4,"Central America & Caribbean",Exposure
@@ -1390,7 +1390,7 @@
 14,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 14,1,,"Democratic Republic of the Congo",NA,"Sub-Saharan Africa",Exposure
 14,1,,Malaysia,1,"East & Southeast Asia",Exposure
-14,1,,"Timor Leste",1,"East & Southeast Asia",Exposure
+14,1,,Timor-Leste,1,"East & Southeast Asia",Exposure
 14,1,,Argentina,1,"South America",Exposure
 14,1,,Uruguay,3,"South America",Exposure
 14,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -1491,7 +1491,7 @@
 15,0,,Zimbabwe,0,"Sub-Saharan Africa",Pressure
 15,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Pressure
 15,0,,Malaysia,0,"East & Southeast Asia",Pressure
-15,0,,"Timor Leste",0,"East & Southeast Asia",Pressure
+15,0,,Timor-Leste,0,"East & Southeast Asia",Pressure
 15,0,,Argentina,0,"South America",Pressure
 15,0,,Uruguay,0,"South America",Pressure
 15,0,,"El Salvador",0,"Central America & Caribbean",Pressure
@@ -1592,7 +1592,7 @@
 16,0,,Zimbabwe,4,"Sub-Saharan Africa",Pressure
 16,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Pressure
 16,0,,Malaysia,0,"East & Southeast Asia",Pressure
-16,0,,"Timor Leste",0,"East & Southeast Asia",Pressure
+16,0,,Timor-Leste,0,"East & Southeast Asia",Pressure
 16,0,,Argentina,4,"South America",Pressure
 16,0,,Uruguay,0,"South America",Pressure
 16,0,,"El Salvador",0,"Central America & Caribbean",Pressure
@@ -1693,7 +1693,7 @@
 17,0,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 17,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Alignment
 17,0,,Malaysia,4,"East & Southeast Asia",Alignment
-17,0,,"Timor Leste",4,"East & Southeast Asia",Alignment
+17,0,,Timor-Leste,4,"East & Southeast Asia",Alignment
 17,0,,Argentina,4,"South America",Alignment
 17,0,,Uruguay,4,"South America",Alignment
 17,0,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -1794,7 +1794,7 @@
 18,0,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 18,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Alignment
 18,0,,Malaysia,4,"East & Southeast Asia",Alignment
-18,0,,"Timor Leste",4,"East & Southeast Asia",Alignment
+18,0,,Timor-Leste,4,"East & Southeast Asia",Alignment
 18,0,,Argentina,4,"South America",Alignment
 18,0,,Uruguay,4,"South America",Alignment
 18,0,,"El Salvador",4,"Central America & Caribbean",Alignment
@@ -1895,7 +1895,7 @@
 19,1,,Zimbabwe,2,"Sub-Saharan Africa",Alignment
 19,1,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Alignment
 19,1,,Malaysia,0,"East & Southeast Asia",Alignment
-19,1,,"Timor Leste",2,"East & Southeast Asia",Alignment
+19,1,,Timor-Leste,2,"East & Southeast Asia",Alignment
 19,1,,Argentina,2,"South America",Alignment
 19,1,,Uruguay,2,"South America",Alignment
 19,1,,"El Salvador",2,"Central America & Caribbean",Alignment
@@ -1996,7 +1996,7 @@
 20,1,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 20,1,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Alignment
 20,1,,Malaysia,2,"East & Southeast Asia",Alignment
-20,1,,"Timor Leste",4,"East & Southeast Asia",Alignment
+20,1,,Timor-Leste,4,"East & Southeast Asia",Alignment
 20,1,,Argentina,2,"South America",Alignment
 20,1,,Uruguay,2,"South America",Alignment
 20,1,,"El Salvador",2,"Central America & Caribbean",Alignment
@@ -2097,7 +2097,7 @@
 21,1,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 21,1,,"Democratic Republic of the Congo",2,"Sub-Saharan Africa",Alignment
 21,1,,Malaysia,2,"East & Southeast Asia",Alignment
-21,1,,"Timor Leste",2,"East & Southeast Asia",Alignment
+21,1,,Timor-Leste,2,"East & Southeast Asia",Alignment
 21,1,,Argentina,2,"South America",Alignment
 21,1,,Uruguay,2,"South America",Alignment
 21,1,,"El Salvador",2,"Central America & Caribbean",Alignment
@@ -2198,7 +2198,7 @@
 22,1,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 22,1,,"Democratic Republic of the Congo",2,"Sub-Saharan Africa",Alignment
 22,1,,Malaysia,2,"East & Southeast Asia",Alignment
-22,1,,"Timor Leste",2,"East & Southeast Asia",Alignment
+22,1,,Timor-Leste,2,"East & Southeast Asia",Alignment
 22,1,,Argentina,2,"South America",Alignment
 22,1,,Uruguay,2,"South America",Alignment
 22,1,,"El Salvador",2,"Central America & Caribbean",Alignment
@@ -2299,7 +2299,7 @@
 23,1,,Zimbabwe,2,"Sub-Saharan Africa",Exposure
 23,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 23,1,,Malaysia,1,"East & Southeast Asia",Exposure
-23,1,,"Timor Leste",1,"East & Southeast Asia",Exposure
+23,1,,Timor-Leste,1,"East & Southeast Asia",Exposure
 23,1,,Argentina,4,"South America",Exposure
 23,1,,Uruguay,3,"South America",Exposure
 23,1,,"El Salvador",4,"Central America & Caribbean",Exposure
@@ -2400,7 +2400,7 @@
 24,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 24,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 24,1,,Malaysia,3,"East & Southeast Asia",Exposure
-24,1,,"Timor Leste",3,"East & Southeast Asia",Exposure
+24,1,,Timor-Leste,3,"East & Southeast Asia",Exposure
 24,1,,Argentina,3,"South America",Exposure
 24,1,,Uruguay,3,"South America",Exposure
 24,1,,"El Salvador",3,"Central America & Caribbean",Exposure
@@ -2501,7 +2501,7 @@
 25,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 25,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 25,0,,Malaysia,0,"East & Southeast Asia",Exposure
-25,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+25,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 25,0,,Argentina,4,"South America",Exposure
 25,0,,Uruguay,4,"South America",Exposure
 25,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -2602,7 +2602,7 @@
 26,1,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 26,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 26,1,,Malaysia,1,"East & Southeast Asia",Exposure
-26,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+26,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 26,1,,Argentina,1,"South America",Exposure
 26,1,,Uruguay,0,"South America",Exposure
 26,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -2703,7 +2703,7 @@
 27,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 27,1,,"Democratic Republic of the Congo",2,"Sub-Saharan Africa",Exposure
 27,1,,Malaysia,4,"East & Southeast Asia",Exposure
-27,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+27,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 27,1,,Argentina,4,"South America",Exposure
 27,1,,Uruguay,3,"South America",Exposure
 27,1,,"El Salvador",3,"Central America & Caribbean",Exposure
@@ -2804,7 +2804,7 @@
 28,1,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 28,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 28,1,,Malaysia,0,"East & Southeast Asia",Exposure
-28,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+28,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 28,1,,Argentina,2,"South America",Exposure
 28,1,,Uruguay,4,"South America",Exposure
 28,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -2905,7 +2905,7 @@
 29,1,,Zimbabwe,1,"Sub-Saharan Africa",Exposure
 29,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 29,1,,Malaysia,0,"East & Southeast Asia",Exposure
-29,1,,"Timor Leste",3,"East & Southeast Asia",Exposure
+29,1,,Timor-Leste,3,"East & Southeast Asia",Exposure
 29,1,,Argentina,4,"South America",Exposure
 29,1,,Uruguay,3,"South America",Exposure
 29,1,,"El Salvador",3,"Central America & Caribbean",Exposure
@@ -3006,7 +3006,7 @@
 30,1,,Zimbabwe,0,"Sub-Saharan Africa",Pressure
 30,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Pressure
 30,1,,Malaysia,0,"East & Southeast Asia",Pressure
-30,1,,"Timor Leste",0,"East & Southeast Asia",Pressure
+30,1,,Timor-Leste,0,"East & Southeast Asia",Pressure
 30,1,,Argentina,0,"South America",Pressure
 30,1,,Uruguay,0,"South America",Pressure
 30,1,,"El Salvador",0,"Central America & Caribbean",Pressure
@@ -3107,7 +3107,7 @@
 31,1,,Zimbabwe,0,"Sub-Saharan Africa",Pressure
 31,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Pressure
 31,1,,Malaysia,0,"East & Southeast Asia",Pressure
-31,1,,"Timor Leste",0,"East & Southeast Asia",Pressure
+31,1,,Timor-Leste,0,"East & Southeast Asia",Pressure
 31,1,,Argentina,0,"South America",Pressure
 31,1,,Uruguay,0,"South America",Pressure
 31,1,,"El Salvador",0,"Central America & Caribbean",Pressure
@@ -3208,7 +3208,7 @@
 32,0,,Zimbabwe,0,"Sub-Saharan Africa",Alignment
 32,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 32,0,,Malaysia,0,"East & Southeast Asia",Alignment
-32,0,,"Timor Leste",0,"East & Southeast Asia",Alignment
+32,0,,Timor-Leste,0,"East & Southeast Asia",Alignment
 32,0,,Argentina,0,"South America",Alignment
 32,0,,Uruguay,0,"South America",Alignment
 32,0,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -3309,7 +3309,7 @@
 33,1,,Zimbabwe,NA,"Sub-Saharan Africa",Alignment
 33,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 33,1,,Malaysia,0,"East & Southeast Asia",Alignment
-33,1,,"Timor Leste",0,"East & Southeast Asia",Alignment
+33,1,,Timor-Leste,0,"East & Southeast Asia",Alignment
 33,1,,Argentina,0,"South America",Alignment
 33,1,,Uruguay,0,"South America",Alignment
 33,1,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -3410,7 +3410,7 @@
 34,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 34,1,,"Democratic Republic of the Congo",NA,"Sub-Saharan Africa",Exposure
 34,1,,Malaysia,4,"East & Southeast Asia",Exposure
-34,1,,"Timor Leste",3,"East & Southeast Asia",Exposure
+34,1,,Timor-Leste,3,"East & Southeast Asia",Exposure
 34,1,,Argentina,4,"South America",Exposure
 34,1,,Uruguay,3,"South America",Exposure
 34,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -3511,7 +3511,7 @@
 35,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 35,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 35,1,,Malaysia,1,"East & Southeast Asia",Exposure
-35,1,,"Timor Leste",3,"East & Southeast Asia",Exposure
+35,1,,Timor-Leste,3,"East & Southeast Asia",Exposure
 35,1,,Argentina,4,"South America",Exposure
 35,1,,Uruguay,4,"South America",Exposure
 35,1,,"El Salvador",3,"Central America & Caribbean",Exposure
@@ -3612,7 +3612,7 @@
 36,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 36,1,,"Democratic Republic of the Congo",NA,"Sub-Saharan Africa",Exposure
 36,1,,Malaysia,0,"East & Southeast Asia",Exposure
-36,1,,"Timor Leste",1,"East & Southeast Asia",Exposure
+36,1,,Timor-Leste,1,"East & Southeast Asia",Exposure
 36,1,,Argentina,4,"South America",Exposure
 36,1,,Uruguay,0,"South America",Exposure
 36,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -3713,7 +3713,7 @@
 37,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 37,1,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 37,1,,Malaysia,3,"East & Southeast Asia",Exposure
-37,1,,"Timor Leste",3,"East & Southeast Asia",Exposure
+37,1,,Timor-Leste,3,"East & Southeast Asia",Exposure
 37,1,,Argentina,3,"South America",Exposure
 37,1,,Uruguay,1,"South America",Exposure
 37,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -3814,7 +3814,7 @@
 38,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 38,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 38,1,,Malaysia,0,"East & Southeast Asia",Exposure
-38,1,,"Timor Leste",1,"East & Southeast Asia",Exposure
+38,1,,Timor-Leste,1,"East & Southeast Asia",Exposure
 38,1,,Argentina,4,"South America",Exposure
 38,1,,Uruguay,0,"South America",Exposure
 38,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -3915,7 +3915,7 @@
 39,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 39,1,,"Democratic Republic of the Congo",NA,"Sub-Saharan Africa",Exposure
 39,1,,Malaysia,0,"East & Southeast Asia",Exposure
-39,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+39,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 39,1,,Argentina,4,"South America",Exposure
 39,1,,Uruguay,0,"South America",Exposure
 39,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -4016,7 +4016,7 @@
 40,1,,Zimbabwe,4,"Sub-Saharan Africa",Pressure
 40,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Pressure
 40,1,,Malaysia,4,"East & Southeast Asia",Pressure
-40,1,,"Timor Leste",0,"East & Southeast Asia",Pressure
+40,1,,Timor-Leste,0,"East & Southeast Asia",Pressure
 40,1,,Argentina,0,"South America",Pressure
 40,1,,Uruguay,0,"South America",Pressure
 40,1,,"El Salvador",0,"Central America & Caribbean",Pressure
@@ -4117,7 +4117,7 @@
 41,1,,Zimbabwe,3,"Sub-Saharan Africa",Pressure
 41,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Pressure
 41,1,,Malaysia,0,"East & Southeast Asia",Pressure
-41,1,,"Timor Leste",0,"East & Southeast Asia",Pressure
+41,1,,Timor-Leste,0,"East & Southeast Asia",Pressure
 41,1,,Argentina,0,"South America",Pressure
 41,1,,Uruguay,0,"South America",Pressure
 41,1,,"El Salvador",0,"Central America & Caribbean",Pressure
@@ -4218,7 +4218,7 @@
 42,1,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 42,1,,"Democratic Republic of the Congo",3,"Sub-Saharan Africa",Alignment
 42,1,,Malaysia,0,"East & Southeast Asia",Alignment
-42,1,,"Timor Leste",3,"East & Southeast Asia",Alignment
+42,1,,Timor-Leste,3,"East & Southeast Asia",Alignment
 42,1,,Argentina,NA,"South America",Alignment
 42,1,,Uruguay,0,"South America",Alignment
 42,1,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -4319,7 +4319,7 @@
 43,1,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 43,1,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Alignment
 43,1,,Malaysia,NA,"East & Southeast Asia",Alignment
-43,1,,"Timor Leste",NA,"East & Southeast Asia",Alignment
+43,1,,Timor-Leste,NA,"East & Southeast Asia",Alignment
 43,1,,Argentina,0,"South America",Alignment
 43,1,,Uruguay,0,"South America",Alignment
 43,1,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -4420,7 +4420,7 @@
 44,1,,Zimbabwe,NA,"Sub-Saharan Africa",Alignment
 44,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 44,1,,Malaysia,0,"East & Southeast Asia",Alignment
-44,1,,"Timor Leste",4,"East & Southeast Asia",Alignment
+44,1,,Timor-Leste,4,"East & Southeast Asia",Alignment
 44,1,,Argentina,NA,"South America",Alignment
 44,1,,Uruguay,0,"South America",Alignment
 44,1,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -4521,7 +4521,7 @@
 45,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 45,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 45,0,,Malaysia,4,"East & Southeast Asia",Exposure
-45,0,,"Timor Leste",4,"East & Southeast Asia",Exposure
+45,0,,Timor-Leste,4,"East & Southeast Asia",Exposure
 45,0,,Argentina,0,"South America",Exposure
 45,0,,Uruguay,4,"South America",Exposure
 45,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -4622,7 +4622,7 @@
 46,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 46,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 46,0,,Malaysia,0,"East & Southeast Asia",Exposure
-46,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+46,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 46,0,,Argentina,4,"South America",Exposure
 46,0,,Uruguay,0,"South America",Exposure
 46,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -4723,7 +4723,7 @@
 47,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 47,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 47,0,,Malaysia,4,"East & Southeast Asia",Exposure
-47,0,,"Timor Leste",4,"East & Southeast Asia",Exposure
+47,0,,Timor-Leste,4,"East & Southeast Asia",Exposure
 47,0,,Argentina,0,"South America",Exposure
 47,0,,Uruguay,0,"South America",Exposure
 47,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -4824,7 +4824,7 @@
 48,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 48,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 48,0,,Malaysia,4,"East & Southeast Asia",Exposure
-48,0,,"Timor Leste",4,"East & Southeast Asia",Exposure
+48,0,,Timor-Leste,4,"East & Southeast Asia",Exposure
 48,0,,Argentina,4,"South America",Exposure
 48,0,,Uruguay,0,"South America",Exposure
 48,0,,"El Salvador",4,"Central America & Caribbean",Exposure
@@ -4925,7 +4925,7 @@
 49,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 49,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 49,0,,Malaysia,4,"East & Southeast Asia",Exposure
-49,0,,"Timor Leste",4,"East & Southeast Asia",Exposure
+49,0,,Timor-Leste,4,"East & Southeast Asia",Exposure
 49,0,,Argentina,4,"South America",Exposure
 49,0,,Uruguay,4,"South America",Exposure
 49,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -5026,7 +5026,7 @@
 50,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 50,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 50,0,,Malaysia,0,"East & Southeast Asia",Exposure
-50,0,,"Timor Leste",4,"East & Southeast Asia",Exposure
+50,0,,Timor-Leste,4,"East & Southeast Asia",Exposure
 50,0,,Argentina,0,"South America",Exposure
 50,0,,Uruguay,0,"South America",Exposure
 50,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -5127,7 +5127,7 @@
 51,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 51,0,,"Democratic Republic of the Congo",NA,"Sub-Saharan Africa",Exposure
 51,0,,Malaysia,4,"East & Southeast Asia",Exposure
-51,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+51,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 51,0,,Argentina,0,"South America",Exposure
 51,0,,Uruguay,0,"South America",Exposure
 51,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -5228,7 +5228,7 @@
 52,0,,Zimbabwe,0,"Sub-Saharan Africa",Pressure
 52,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Pressure
 52,0,,Malaysia,0,"East & Southeast Asia",Pressure
-52,0,,"Timor Leste",0,"East & Southeast Asia",Pressure
+52,0,,Timor-Leste,0,"East & Southeast Asia",Pressure
 52,0,,Argentina,0,"South America",Pressure
 52,0,,Uruguay,0,"South America",Pressure
 52,0,,"El Salvador",0,"Central America & Caribbean",Pressure
@@ -5329,7 +5329,7 @@
 53,0,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 53,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 53,0,,Malaysia,4,"East & Southeast Asia",Alignment
-53,0,,"Timor Leste",0,"East & Southeast Asia",Alignment
+53,0,,Timor-Leste,0,"East & Southeast Asia",Alignment
 53,0,,Argentina,0,"South America",Alignment
 53,0,,Uruguay,0,"South America",Alignment
 53,0,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -5430,7 +5430,7 @@
 54,0,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 54,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 54,0,,Malaysia,4,"East & Southeast Asia",Alignment
-54,0,,"Timor Leste",0,"East & Southeast Asia",Alignment
+54,0,,Timor-Leste,0,"East & Southeast Asia",Alignment
 54,0,,Argentina,0,"South America",Alignment
 54,0,,Uruguay,0,"South America",Alignment
 54,0,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -5531,7 +5531,7 @@
 55,0,,Zimbabwe,0,"Sub-Saharan Africa",Alignment
 55,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 55,0,,Malaysia,0,"East & Southeast Asia",Alignment
-55,0,,"Timor Leste",0,"East & Southeast Asia",Alignment
+55,0,,Timor-Leste,0,"East & Southeast Asia",Alignment
 55,0,,Argentina,0,"South America",Alignment
 55,0,,Uruguay,0,"South America",Alignment
 55,0,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -5632,7 +5632,7 @@
 56,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 56,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 56,0,,Malaysia,4,"East & Southeast Asia",Exposure
-56,0,,"Timor Leste",4,"East & Southeast Asia",Exposure
+56,0,,Timor-Leste,4,"East & Southeast Asia",Exposure
 56,0,,Argentina,4,"South America",Exposure
 56,0,,Uruguay,0,"South America",Exposure
 56,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -5733,7 +5733,7 @@
 57,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 57,1,,"Democratic Republic of the Congo",3,"Sub-Saharan Africa",Exposure
 57,1,,Malaysia,3,"East & Southeast Asia",Exposure
-57,1,,"Timor Leste",2,"East & Southeast Asia",Exposure
+57,1,,Timor-Leste,2,"East & Southeast Asia",Exposure
 57,1,,Argentina,4,"South America",Exposure
 57,1,,Uruguay,4,"South America",Exposure
 57,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -5834,7 +5834,7 @@
 58,1,,Zimbabwe,2,"Sub-Saharan Africa",Exposure
 58,1,,"Democratic Republic of the Congo",3,"Sub-Saharan Africa",Exposure
 58,1,,Malaysia,3,"East & Southeast Asia",Exposure
-58,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+58,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 58,1,,Argentina,3,"South America",Exposure
 58,1,,Uruguay,4,"South America",Exposure
 58,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -5935,7 +5935,7 @@
 59,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 59,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 59,0,,Malaysia,4,"East & Southeast Asia",Exposure
-59,0,,"Timor Leste",4,"East & Southeast Asia",Exposure
+59,0,,Timor-Leste,4,"East & Southeast Asia",Exposure
 59,0,,Argentina,4,"South America",Exposure
 59,0,,Uruguay,4,"South America",Exposure
 59,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -6036,7 +6036,7 @@
 60,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 60,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 60,1,,Malaysia,3,"East & Southeast Asia",Exposure
-60,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+60,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 60,1,,Argentina,NA,"South America",Exposure
 60,1,,Uruguay,0,"South America",Exposure
 60,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -6137,7 +6137,7 @@
 61,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 61,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 61,1,,Malaysia,3,"East & Southeast Asia",Exposure
-61,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+61,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 61,1,,Argentina,0,"South America",Exposure
 61,1,,Uruguay,2,"South America",Exposure
 61,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -6238,7 +6238,7 @@
 62,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 62,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 62,0,,Malaysia,0,"East & Southeast Asia",Exposure
-62,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+62,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 62,0,,Argentina,0,"South America",Exposure
 62,0,,Uruguay,0,"South America",Exposure
 62,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -6339,7 +6339,7 @@
 63,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 63,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 63,1,,Malaysia,4,"East & Southeast Asia",Exposure
-63,1,,"Timor Leste",3,"East & Southeast Asia",Exposure
+63,1,,Timor-Leste,3,"East & Southeast Asia",Exposure
 63,1,,Argentina,0,"South America",Exposure
 63,1,,Uruguay,0,"South America",Exposure
 63,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -6440,7 +6440,7 @@
 64,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 64,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 64,1,,Malaysia,4,"East & Southeast Asia",Exposure
-64,1,,"Timor Leste",1,"East & Southeast Asia",Exposure
+64,1,,Timor-Leste,1,"East & Southeast Asia",Exposure
 64,1,,Argentina,3,"South America",Exposure
 64,1,,Uruguay,0,"South America",Exposure
 64,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -6541,7 +6541,7 @@
 65,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 65,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 65,0,,Malaysia,4,"East & Southeast Asia",Exposure
-65,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+65,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 65,0,,Argentina,4,"South America",Exposure
 65,0,,Uruguay,0,"South America",Exposure
 65,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -6642,7 +6642,7 @@
 66,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 66,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 66,0,,Malaysia,4,"East & Southeast Asia",Exposure
-66,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+66,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 66,0,,Argentina,4,"South America",Exposure
 66,0,,Uruguay,0,"South America",Exposure
 66,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -6743,7 +6743,7 @@
 67,1,,Zimbabwe,3,"Sub-Saharan Africa",Exposure
 67,1,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 67,1,,Malaysia,3,"East & Southeast Asia",Exposure
-67,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+67,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 67,1,,Argentina,0,"South America",Exposure
 67,1,,Uruguay,0,"South America",Exposure
 67,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -6844,7 +6844,7 @@
 68,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 68,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 68,0,,Malaysia,4,"East & Southeast Asia",Exposure
-68,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+68,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 68,0,,Argentina,0,"South America",Exposure
 68,0,,Uruguay,0,"South America",Exposure
 68,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -6945,7 +6945,7 @@
 69,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 69,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 69,0,,Malaysia,0,"East & Southeast Asia",Exposure
-69,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+69,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 69,0,,Argentina,4,"South America",Exposure
 69,0,,Uruguay,0,"South America",Exposure
 69,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -7046,7 +7046,7 @@
 70,1,,Zimbabwe,2,"Sub-Saharan Africa",Exposure
 70,1,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 70,1,,Malaysia,1,"East & Southeast Asia",Exposure
-70,1,,"Timor Leste",1,"East & Southeast Asia",Exposure
+70,1,,Timor-Leste,1,"East & Southeast Asia",Exposure
 70,1,,Argentina,4,"South America",Exposure
 70,1,,Uruguay,3,"South America",Exposure
 70,1,,"El Salvador",1,"Central America & Caribbean",Exposure
@@ -7147,7 +7147,7 @@
 71,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 71,1,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 71,1,,Malaysia,1,"East & Southeast Asia",Exposure
-71,1,,"Timor Leste",0,"East & Southeast Asia",Exposure
+71,1,,Timor-Leste,0,"East & Southeast Asia",Exposure
 71,1,,Argentina,1,"South America",Exposure
 71,1,,Uruguay,0,"South America",Exposure
 71,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -7248,7 +7248,7 @@
 72,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 72,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 72,0,,Malaysia,NA,"East & Southeast Asia",Exposure
-72,0,,"Timor Leste",4,"East & Southeast Asia",Exposure
+72,0,,Timor-Leste,4,"East & Southeast Asia",Exposure
 72,0,,Argentina,4,"South America",Exposure
 72,0,,Uruguay,0,"South America",Exposure
 72,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -7349,7 +7349,7 @@
 73,1,,Zimbabwe,2,"Sub-Saharan Africa",Exposure
 73,1,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 73,1,,Malaysia,4,"East & Southeast Asia",Exposure
-73,1,,"Timor Leste",3,"East & Southeast Asia",Exposure
+73,1,,Timor-Leste,3,"East & Southeast Asia",Exposure
 73,1,,Argentina,0,"South America",Exposure
 73,1,,Uruguay,0,"South America",Exposure
 73,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -7450,7 +7450,7 @@
 74,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 74,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 74,0,,Malaysia,4,"East & Southeast Asia",Exposure
-74,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+74,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 74,0,,Argentina,4,"South America",Exposure
 74,0,,Uruguay,0,"South America",Exposure
 74,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -7551,7 +7551,7 @@
 75,1,,Zimbabwe,3,"Sub-Saharan Africa",Alignment
 75,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 75,1,,Malaysia,4,"East & Southeast Asia",Alignment
-75,1,,"Timor Leste",2,"East & Southeast Asia",Alignment
+75,1,,Timor-Leste,2,"East & Southeast Asia",Alignment
 75,1,,Argentina,4,"South America",Alignment
 75,1,,Uruguay,3,"South America",Alignment
 75,1,,"El Salvador",3,"Central America & Caribbean",Alignment
@@ -7652,7 +7652,7 @@
 76,1,,Zimbabwe,0,"Sub-Saharan Africa",Alignment
 76,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 76,1,,Malaysia,0,"East & Southeast Asia",Alignment
-76,1,,"Timor Leste",0,"East & Southeast Asia",Alignment
+76,1,,Timor-Leste,0,"East & Southeast Asia",Alignment
 76,1,,Argentina,0,"South America",Alignment
 76,1,,Uruguay,0,"South America",Alignment
 76,1,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -7753,7 +7753,7 @@
 77,0,,Zimbabwe,0,"Sub-Saharan Africa",Alignment
 77,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 77,0,,Malaysia,0,"East & Southeast Asia",Alignment
-77,0,,"Timor Leste",0,"East & Southeast Asia",Alignment
+77,0,,Timor-Leste,0,"East & Southeast Asia",Alignment
 77,0,,Argentina,4,"South America",Alignment
 77,0,,Uruguay,0,"South America",Alignment
 77,0,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -7854,7 +7854,7 @@
 78,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 78,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 78,0,,Malaysia,4,"East & Southeast Asia",Exposure
-78,0,,"Timor Leste",4,"East & Southeast Asia",Exposure
+78,0,,Timor-Leste,4,"East & Southeast Asia",Exposure
 78,0,,Argentina,4,"South America",Exposure
 78,0,,Uruguay,0,"South America",Exposure
 78,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -7955,7 +7955,7 @@
 79,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 79,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 79,0,,Malaysia,4,"East & Southeast Asia",Exposure
-79,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+79,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 79,0,,Argentina,0,"South America",Exposure
 79,0,,Uruguay,0,"South America",Exposure
 79,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -8056,7 +8056,7 @@
 80,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 80,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 80,0,,Malaysia,4,"East & Southeast Asia",Exposure
-80,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+80,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 80,0,,Argentina,4,"South America",Exposure
 80,0,,Uruguay,4,"South America",Exposure
 80,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -8157,7 +8157,7 @@
 81,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 81,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 81,0,,Malaysia,0,"East & Southeast Asia",Exposure
-81,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+81,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 81,0,,Argentina,4,"South America",Exposure
 81,0,,Uruguay,0,"South America",Exposure
 81,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -8258,7 +8258,7 @@
 82,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 82,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 82,0,,Malaysia,0,"East & Southeast Asia",Exposure
-82,0,,"Timor Leste",4,"East & Southeast Asia",Exposure
+82,0,,Timor-Leste,4,"East & Southeast Asia",Exposure
 82,0,,Argentina,0,"South America",Exposure
 82,0,,Uruguay,0,"South America",Exposure
 82,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -8359,7 +8359,7 @@
 83,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 83,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 83,0,,Malaysia,0,"East & Southeast Asia",Exposure
-83,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+83,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 83,0,,Argentina,4,"South America",Exposure
 83,0,,Uruguay,0,"South America",Exposure
 83,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -8460,7 +8460,7 @@
 84,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 84,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 84,0,,Malaysia,4,"East & Southeast Asia",Exposure
-84,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+84,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 84,0,,Argentina,0,"South America",Exposure
 84,0,,Uruguay,0,"South America",Exposure
 84,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -8561,7 +8561,7 @@
 85,1,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 85,1,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Exposure
 85,1,,Malaysia,0,"East & Southeast Asia",Exposure
-85,1,,"Timor Leste",3,"East & Southeast Asia",Exposure
+85,1,,Timor-Leste,3,"East & Southeast Asia",Exposure
 85,1,,Argentina,4,"South America",Exposure
 85,1,,Uruguay,4,"South America",Exposure
 85,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -8662,7 +8662,7 @@
 86,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 86,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 86,0,,Malaysia,0,"East & Southeast Asia",Exposure
-86,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+86,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 86,0,,Argentina,0,"South America",Exposure
 86,0,,Uruguay,NA,"South America",Exposure
 86,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -8763,7 +8763,7 @@
 87,0,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 87,0,,"Democratic Republic of the Congo",NA,"Sub-Saharan Africa",Alignment
 87,0,,Malaysia,0,"East & Southeast Asia",Alignment
-87,0,,"Timor Leste",0,"East & Southeast Asia",Alignment
+87,0,,Timor-Leste,0,"East & Southeast Asia",Alignment
 87,0,,Argentina,0,"South America",Alignment
 87,0,,Uruguay,0,"South America",Alignment
 87,0,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -8864,7 +8864,7 @@
 88,0,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 88,0,,"Democratic Republic of the Congo",4,"Sub-Saharan Africa",Alignment
 88,0,,Malaysia,4,"East & Southeast Asia",Alignment
-88,0,,"Timor Leste",0,"East & Southeast Asia",Alignment
+88,0,,Timor-Leste,0,"East & Southeast Asia",Alignment
 88,0,,Argentina,0,"South America",Alignment
 88,0,,Uruguay,4,"South America",Alignment
 88,0,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -8965,7 +8965,7 @@
 89,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 89,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 89,0,,Malaysia,0,"East & Southeast Asia",Exposure
-89,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+89,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 89,0,,Argentina,4,"South America",Exposure
 89,0,,Uruguay,4,"South America",Exposure
 89,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -9066,7 +9066,7 @@
 90,0,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 90,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 90,0,,Malaysia,4,"East & Southeast Asia",Exposure
-90,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+90,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 90,0,,Argentina,4,"South America",Exposure
 90,0,,Uruguay,4,"South America",Exposure
 90,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -9167,7 +9167,7 @@
 91,0,,Zimbabwe,4,"Sub-Saharan Africa",Exposure
 91,0,,"Democratic Republic of the Congo",NA,"Sub-Saharan Africa",Exposure
 91,0,,Malaysia,4,"East & Southeast Asia",Exposure
-91,0,,"Timor Leste",0,"East & Southeast Asia",Exposure
+91,0,,Timor-Leste,0,"East & Southeast Asia",Exposure
 91,0,,Argentina,4,"South America",Exposure
 91,0,,Uruguay,0,"South America",Exposure
 91,0,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -9268,7 +9268,7 @@
 92,1,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 92,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 92,1,,Malaysia,0,"East & Southeast Asia",Exposure
-92,1,,"Timor Leste",1,"East & Southeast Asia",Exposure
+92,1,,Timor-Leste,1,"East & Southeast Asia",Exposure
 92,1,,Argentina,0,"South America",Exposure
 92,1,,Uruguay,0,"South America",Exposure
 92,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -9369,7 +9369,7 @@
 93,1,,Zimbabwe,0,"Sub-Saharan Africa",Exposure
 93,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Exposure
 93,1,,Malaysia,4,"East & Southeast Asia",Exposure
-93,1,,"Timor Leste",3,"East & Southeast Asia",Exposure
+93,1,,Timor-Leste,3,"East & Southeast Asia",Exposure
 93,1,,Argentina,0,"South America",Exposure
 93,1,,Uruguay,0,"South America",Exposure
 93,1,,"El Salvador",0,"Central America & Caribbean",Exposure
@@ -9470,7 +9470,7 @@
 94,1,,Zimbabwe,0,"Sub-Saharan Africa",Pressure
 94,1,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Pressure
 94,1,,Malaysia,1,"East & Southeast Asia",Pressure
-94,1,,"Timor Leste",0,"East & Southeast Asia",Pressure
+94,1,,Timor-Leste,0,"East & Southeast Asia",Pressure
 94,1,,Argentina,0,"South America",Pressure
 94,1,,Uruguay,0,"South America",Pressure
 94,1,,"El Salvador",0,"Central America & Caribbean",Pressure
@@ -9571,7 +9571,7 @@
 95,0,,Zimbabwe,0,"Sub-Saharan Africa",Pressure
 95,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Pressure
 95,0,,Malaysia,4,"East & Southeast Asia",Pressure
-95,0,,"Timor Leste",0,"East & Southeast Asia",Pressure
+95,0,,Timor-Leste,0,"East & Southeast Asia",Pressure
 95,0,,Argentina,0,"South America",Pressure
 95,0,,Uruguay,0,"South America",Pressure
 95,0,,"El Salvador",0,"Central America & Caribbean",Pressure
@@ -9672,7 +9672,7 @@
 96,0,,Zimbabwe,0,"Sub-Saharan Africa",Alignment
 96,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 96,0,,Malaysia,0,"East & Southeast Asia",Alignment
-96,0,,"Timor Leste",0,"East & Southeast Asia",Alignment
+96,0,,Timor-Leste,0,"East & Southeast Asia",Alignment
 96,0,,Argentina,4,"South America",Alignment
 96,0,,Uruguay,0,"South America",Alignment
 96,0,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -9773,7 +9773,7 @@
 97,0,,Zimbabwe,0,"Sub-Saharan Africa",Alignment
 97,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 97,0,,Malaysia,0,"East & Southeast Asia",Alignment
-97,0,,"Timor Leste",0,"East & Southeast Asia",Alignment
+97,0,,Timor-Leste,0,"East & Southeast Asia",Alignment
 97,0,,Argentina,0,"South America",Alignment
 97,0,,Uruguay,0,"South America",Alignment
 97,0,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -9874,7 +9874,7 @@
 98,0,,Zimbabwe,0,"Sub-Saharan Africa",Alignment
 98,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 98,0,,Malaysia,0,"East & Southeast Asia",Alignment
-98,0,,"Timor Leste",0,"East & Southeast Asia",Alignment
+98,0,,Timor-Leste,0,"East & Southeast Asia",Alignment
 98,0,,Argentina,0,"South America",Alignment
 98,0,,Uruguay,0,"South America",Alignment
 98,0,,"El Salvador",0,"Central America & Caribbean",Alignment
@@ -9975,7 +9975,7 @@
 99,0,,Zimbabwe,4,"Sub-Saharan Africa",Alignment
 99,0,,"Democratic Republic of the Congo",0,"Sub-Saharan Africa",Alignment
 99,0,,Malaysia,4,"East & Southeast Asia",Alignment
-99,0,,"Timor Leste",0,"East & Southeast Asia",Alignment
+99,0,,Timor-Leste,0,"East & Southeast Asia",Alignment
 99,0,,Argentina,0,"South America",Alignment
 99,0,,Uruguay,0,"South America",Alignment
 99,0,,"El Salvador",0,"Central America & Caribbean",Alignment
