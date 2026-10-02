@@ -112,5 +112,12 @@
 - Vietnam
 - Zimbabwe
 
+## License
 
+The China Index 2024 data in the `2024` folder is released under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). The full license text is in [`2024/LICENSE`](2024/LICENSE).
 
+You may share and adapt the data, including commercially, if you give credit and release what you build from it under the same license. Please credit:
+
+> Doublethink Lab. (2024). China Index 2024. China in the World (CITW) network. https://china-index.io/
+
+How to cite the Index and how to ask for a correction is set out in the [China Index methodology](https://methodology.china-index.io/2024/data-and-citation).
